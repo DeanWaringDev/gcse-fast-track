@@ -21,7 +21,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import coursesData from '@/data/courses.json';
+import coursesData from '@/public/data/courses.json';
 import MathsInfoModal from '@/components/MathsInfoModal';
 import ComputerScienceInfoModal from '@/components/ComputerScienceInfoModal';
 import EnrollButton from '@/components/EnrollButton';
