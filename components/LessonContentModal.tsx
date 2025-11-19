@@ -31,30 +31,24 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
   }, []);
 
   async function loadContent() {
-    // TODO: Load actual markdown content from lesson files
-    // For now, show placeholder
-    setContent(`
-# ${lesson.title}
-
-## Introduction
-This lesson will cover the fundamental concepts you need to master.
-
-## Key Concepts
-- Concept 1
-- Concept 2
-- Concept 3
-
-## Examples
-Example problems and solutions will go here.
-
-## Summary
-Review of key points covered in this lesson.
-    `);
+    try {
+      // Load markdown content from the instructions file
+      const response = await fetch(`/data/maths/instructions/${lesson.files?.instructions}`);
+      if (response.ok) {
+        const text = await response.text();
+        setContent(text);
+      } else {
+        setContent(`# ${lesson.title}\n\nContent is being prepared. Please check back soon!`);
+      }
+    } catch (error) {
+      console.error('Error loading lesson content:', error);
+      setContent(`# ${lesson.title}\n\nContent is being prepared. Please check back soon!`);
+    }
     setIsLoading(false);
   }
 
-  // Split content into slides (basic implementation)
-  const slides = content.split('\n\n').filter(s => s.trim());
+  // Split content by "---" separators (screen dividers) or by ## headings
+  const slides = content.split(/\n---\n|# Screen \d+:/g).filter(s => s.trim() && !s.startsWith('---\n'));
 
   const nextSlide = () => {
     if (currentSlide < slides.length - 1) {
@@ -114,9 +108,22 @@ Review of key points covered in this lesson.
         {/* Slide Content */}
         <div className="p-8 overflow-y-auto" style={{ maxHeight: 'calc(90vh - 200px)' }}>
           <div className="prose prose-lg max-w-none">
-            <pre className="whitespace-pre-wrap font-sans text-gray-700 leading-relaxed">
-              {slides[currentSlide]}
-            </pre>
+            <div 
+              className="markdown-content"
+              dangerouslySetInnerHTML={{ 
+                __html: slides[currentSlide]
+                  .replace(/^### (.*$)/gm, '<h3 class="text-xl font-bold text-gray-800 mt-4 mb-2">$1</h3>')
+                  .replace(/^## (.*$)/gm, '<h2 class="text-2xl font-bold text-gray-800 mt-6 mb-3">$1</h2>')
+                  .replace(/^# (.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-4">$1</h1>')
+                  .replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold text-gray-900">$1</strong>')
+                  .replace(/\*(.*?)\*/g, '<em class="italic">$1</em>')
+                  .replace(/```([\s\S]*?)```/g, '<pre class="bg-gray-100 p-4 rounded-lg my-4 font-mono text-sm overflow-x-auto">$1</pre>')
+                  .replace(/^- (.*$)/gm, '<li class="ml-4">$1</li>')
+                  .replace(/(<li.*<\/li>)/s, '<ul class="list-disc ml-6 my-3 space-y-1">$1</ul>')
+                  .replace(/\n\n/g, '</p><p class="my-3">')
+                  .replace(/^(?!<[h|p|u|l|pre])(.*$)/gm, '<p class="my-2">$1</p>')
+              }} 
+            />
           </div>
         </div>
 
