@@ -7,7 +7,7 @@
  * Shows immediate feedback after submission
  */
 
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 
 interface QuestionCardProps {
   question: {
@@ -34,6 +34,12 @@ export default function QuestionCard({
   const [isCorrect, setIsCorrect] = useState(false);
   const [correctAnswer, setCorrectAnswer] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Auto-focus input on mount and when moving to next question
+  useEffect(() => {
+    inputRef.current?.focus();
+  }, [question.id]);
 
   const handleSubmit = async () => {
     if (!userAnswer.trim() || isSubmitting) return;
@@ -104,6 +110,7 @@ export default function QuestionCard({
           Your Answer
         </label>
         <input
+          ref={inputRef}
           type="text"
           value={userAnswer}
           onChange={(e) => setUserAnswer(e.target.value)}
