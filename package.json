@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run generate-modal-data && next build",
+    "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "generate-modal-data": "node scripts/generate-course-modal-data.js"
+    "lint": "eslint"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
