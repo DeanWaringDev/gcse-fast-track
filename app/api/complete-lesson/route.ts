@@ -65,6 +65,8 @@ export async function POST(request: Request) {
         .update({
           lesson_completed: true,
           lesson_completed_at: new Date().toISOString(),
+          is_completed: true,
+          completed_at: new Date().toISOString(),
         })
         .eq('id', existing.id);
 
@@ -86,6 +88,8 @@ export async function POST(request: Request) {
           lesson_slug: lessonSlug,
           lesson_completed: true,
           lesson_completed_at: new Date().toISOString(),
+          is_completed: true,
+          completed_at: new Date().toISOString(),
         });
 
       if (insertError) {
