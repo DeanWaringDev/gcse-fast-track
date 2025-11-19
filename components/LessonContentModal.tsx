@@ -49,11 +49,14 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
     setIsLoading(false);
   }
 
-  // Split content by "---" separators and clean up
-  const slides = content
-    .split(/\n---\n/)
+  // Remove YAML frontmatter and split by screen headers
+  const cleanContent = content.replace(/^---[\s\S]*?---\n*/m, '');
+  
+  // Split by "# Screen X:" headers
+  const slides = cleanContent
+    .split(/(?=# Screen \d+:)/)
     .map(s => s.trim())
-    .filter(s => s && !s.startsWith('---') && !s.match(/^lessonId:|^lessonNumber:|^title:|^difficulty:|^duration:|^topics:|^totalScreens:/));
+    .filter(s => s.length > 0);
 
   const nextSlide = () => {
     if (currentSlide < slides.length - 1) {
@@ -111,10 +114,9 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
         </div>
 
         {/* Slide Content */}
-        <div className="p-8 overflow-y-auto" style={{ maxHeight: 'calc(90vh - 200px)' }}>
+        <div className="p-8 overflow-y-auto prose prose-lg max-w-none" style={{ maxHeight: 'calc(90vh - 200px)' }}>
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
-            className="prose prose-lg max-w-none"
             components={{
               h1: ({ children }) => (
                 <h1 className="text-3xl font-bold text-gray-900 mb-6 mt-0">{children}</h1>
