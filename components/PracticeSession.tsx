@@ -76,25 +76,38 @@ export default function PracticeSession({
       });
       setAnswers(answerMap);
 
+      // Flatten questions from sections
+      const allQuestions: Question[] = [];
+      questionsData.sections.forEach((section: any) => {
+        section.questions.forEach((q: any) => {
+          allQuestions.push({
+            id: q.id.toString(),
+            question: q.question,
+            sectionId: section.sectionId,
+            sectionTitle: section.sectionTitle,
+          });
+        });
+      });
+
       // Select questions based on mode
       let selectedQuestions: Question[] = [];
       
       if (practiceMode === 'practice') {
         // Practice: 10 random from first 30 questions
-        const firstThirty = questionsData.questions.slice(0, 30);
+        const firstThirty = allQuestions.slice(0, 30);
         selectedQuestions = getRandomQuestions(firstThirty, 10);
       } else if (practiceMode === 'timed') {
         // Timed: 15 random from first 30
-        const firstThirty = questionsData.questions.slice(0, 30);
+        const firstThirty = allQuestions.slice(0, 30);
         selectedQuestions = getRandomQuestions(firstThirty, 15);
       } else if (practiceMode === 'expert') {
         // Expert: 15 random from questions 150-300
-        const expertQuestions = questionsData.questions.slice(149, 300);
+        const expertQuestions = allQuestions.slice(149, 300);
         selectedQuestions = getRandomQuestions(expertQuestions, 15);
       } else if (practiceMode === 'weak_areas') {
         // Weak areas: Will need to fetch from question_attempts
         // For now, use random 10 from first 30
-        const firstThirty = questionsData.questions.slice(0, 30);
+        const firstThirty = allQuestions.slice(0, 30);
         selectedQuestions = getRandomQuestions(firstThirty, 10);
       }
 
