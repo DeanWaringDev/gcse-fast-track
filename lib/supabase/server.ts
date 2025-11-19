@@ -33,9 +33,6 @@ export async function createClient() {
       global: {
         headers: {},
       },
-      realtime: {
-        enabled: false,
-      },
       cookies: {
         get(name: string) {
           return cookieStore.get(name)?.value;
