@@ -7,7 +7,7 @@
  * Loads content from markdown files
  */
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
@@ -27,10 +27,18 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
   const [currentSlide, setCurrentSlide] = useState(0);
   const [content, setContent] = useState<string>('');
   const [isLoading, setIsLoading] = useState(true);
+  const contentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     loadContent();
   }, []);
+
+  // Scroll to top when slide changes
+  useEffect(() => {
+    if (contentRef.current) {
+      contentRef.current.scrollTop = 0;
+    }
+  }, [currentSlide]);
 
   async function loadContent() {
     try {
@@ -114,7 +122,7 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
         </div>
 
         {/* Slide Content */}
-        <div className="p-8 overflow-y-auto prose prose-lg max-w-none" style={{ maxHeight: 'calc(90vh - 200px)' }}>
+        <div ref={contentRef} className="p-8 overflow-y-auto prose prose-lg max-w-none" style={{ maxHeight: 'calc(90vh - 200px)' }}>
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{
