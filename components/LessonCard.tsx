@@ -22,6 +22,7 @@ interface LessonCardProps {
   };
   progress?: {
     is_completed: boolean;
+    lesson_completed: boolean;
     accuracy_score: number | null;
   } | null;
   isLocked: boolean;
@@ -30,6 +31,7 @@ interface LessonCardProps {
 
 export default function LessonCard({ lesson, progress, isLocked, courseSlug }: LessonCardProps) {
   const isCompleted = progress?.is_completed || false;
+  const lessonCompleted = progress?.lesson_completed || false;
   const accuracy = progress?.accuracy_score || null;
   const isContentReady = lesson.contentReady !== false; // Default to true if not specified
 
@@ -55,6 +57,17 @@ export default function LessonCard({ lesson, progress, isLocked, courseSlug }: L
 
   const content = (
     <div className={`rounded-lg p-4 transition-all relative ${getCardStyle()} ${!isLocked && isContentReady ? 'hover:shadow-lg cursor-pointer' : 'cursor-not-allowed'}`}>
+      {/* Green Tick for Completed Lessons */}
+      {lessonCompleted && (
+        <div className="absolute bottom-3 left-3 z-20">
+          <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center shadow-lg">
+            <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+            </svg>
+          </div>
+        </div>
+      )}
+
       {/* Coming Soon Overlay */}
       {!isContentReady && (
         <div className="absolute inset-0 bg-white/70 rounded-lg flex items-center justify-center z-10">

@@ -82,7 +82,7 @@ export default function MathsCoursePage() {
 
   // Calculate progress stats
   const totalLessons = lessonsData.totalLessons;
-  const completedLessons = lessonProgress?.filter(p => p.is_completed).length || 0;
+  const completedLessons = lessonProgress?.filter(p => p.is_completed || p.lesson_completed).length || 0;
   const completionPercent = Math.round((completedLessons / totalLessons) * 100);
 
   // Find strongest area (highest accuracy)

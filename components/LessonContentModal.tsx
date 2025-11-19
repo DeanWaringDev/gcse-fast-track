@@ -20,13 +20,17 @@ interface LessonContentModalProps {
       instructions?: string;
     };
   };
+  courseSlug: string;
+  lessonSlug: string;
   onClose: () => void;
+  onComplete?: () => void;
 }
 
-export default function LessonContentModal({ lesson, onClose }: LessonContentModalProps) {
+export default function LessonContentModal({ lesson, courseSlug, lessonSlug, onClose, onComplete }: LessonContentModalProps) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [content, setContent] = useState<string>('');
   const [isLoading, setIsLoading] = useState(true);
+  const [isCompleting, setIsCompleting] = useState(false);
   const contentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -75,6 +79,34 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
   const prevSlide = () => {
     if (currentSlide > 0) {
       setCurrentSlide(currentSlide - 1);
+    }
+  };
+
+  const completeLesson = async () => {
+    setIsCompleting(true);
+    try {
+      const response = await fetch('/api/complete-lesson', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          courseSlug,
+          lessonId: lesson.id,
+          lessonSlug,
+        }),
+      });
+
+      if (response.ok) {
+        onComplete?.();
+        onClose();
+      } else {
+        console.error('Failed to complete lesson');
+        alert('Failed to mark lesson as complete. Please try again.');
+      }
+    } catch (error) {
+      console.error('Error completing lesson:', error);
+      alert('Failed to mark lesson as complete. Please try again.');
+    } finally {
+      setIsCompleting(false);
     }
   };
 
@@ -203,20 +235,40 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
               </span>
             </div>
 
-            <button
-              onClick={nextSlide}
-              disabled={currentSlide === slides.length - 1}
-              className={`flex items-center gap-2 px-4 py-2 rounded-lg font-semibold transition-colors ${
-                currentSlide === slides.length - 1
-                  ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                  : 'bg-blue-600 text-white hover:bg-blue-700'
-              }`}
-            >
-              Next
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
-            </button>
+            {currentSlide === slides.length - 1 ? (
+              <button
+                onClick={completeLesson}
+                disabled={isCompleting}
+                className="flex items-center gap-2 px-6 py-2 rounded-lg font-semibold transition-colors bg-green-600 text-white hover:bg-green-700 disabled:bg-gray-400"
+              >
+                {isCompleting ? (
+                  <>
+                    <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    Completing...
+                  </>
+                ) : (
+                  <>
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Complete Lesson
+                  </>
+                )}
+              </button>
+            ) : (
+              <button
+                onClick={nextSlide}
+                className="flex items-center gap-2 px-4 py-2 rounded-lg font-semibold transition-colors bg-blue-600 text-white hover:bg-blue-700"
+              >
+                Next
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </button>
+            )}
           </div>
 
           <div className="mt-4 text-center text-sm text-gray-500">

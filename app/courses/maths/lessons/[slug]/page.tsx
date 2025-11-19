@@ -18,6 +18,8 @@ interface LessonProgress {
   lesson_id: number;
   lesson_slug: string;
   is_completed: boolean;
+  lesson_completed: boolean;
+  lesson_completed_at: string | null;
   accuracy_score: number | null;
   time_spent_minutes: number;
   attempts: number;
@@ -109,6 +111,22 @@ export default function LessonPage() {
     setIsLoading(false);
   }
 
+  async function refreshProgress() {
+    const supabase = createClient();
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user || !lesson) return;
+
+    const { data: progressData } = await supabase
+      .from('lesson_progress')
+      .select('*')
+      .eq('user_id', user.id)
+      .eq('course_slug', 'maths')
+      .eq('lesson_id', lesson.id)
+      .single();
+
+    setLessonProgress(progressData);
+  }
+
   if (isLoading) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -174,7 +192,16 @@ export default function LessonPage() {
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {/* Lesson Content */}
-          <div className="bg-white rounded-xl shadow-lg p-6 border-2 border-blue-200">
+          <div className="bg-white rounded-xl shadow-lg p-6 border-2 border-blue-200 relative">
+            {lessonProgress?.lesson_completed && (
+              <div className="absolute top-4 right-4">
+                <div className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center">
+                  <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                  </svg>
+                </div>
+              </div>
+            )}
             <div className="flex items-center gap-3 mb-3">
               <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center">
                 <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -198,7 +225,7 @@ export default function LessonPage() {
                   : 'bg-gray-200 text-gray-400 cursor-not-allowed'
               }`}
             >
-              {hasContentReady ? 'Start Lesson' : 'Coming Soon'}
+              {!hasContentReady ? 'Coming Soon' : lessonProgress?.lesson_completed ? 'Review Lesson' : 'Start Lesson'}
             </button>
           </div>
 
@@ -352,7 +379,10 @@ export default function LessonPage() {
       {showContentModal && hasContentReady && (
         <LessonContentModal
           lesson={lesson}
+          courseSlug="maths"
+          lessonSlug={slug}
           onClose={() => setShowContentModal(false)}
+          onComplete={refreshProgress}
         />
       )}
     </div>
