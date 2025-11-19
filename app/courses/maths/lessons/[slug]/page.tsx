@@ -10,7 +10,7 @@
 import { useEffect, useState } from 'react';
 import { useRouter, useParams } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
-import lessonsData from '@/data/maths/lessons.json';
+import lessonsData from '@/public/data/maths/lessons.json';
 import LessonDashboard from '@/components/LessonDashboard';
 import LessonContentModal from '@/components/LessonContentModal';
 import PracticeSession from '@/components/PracticeSession';

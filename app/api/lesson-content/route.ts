@@ -21,7 +21,7 @@ export async function GET(request: NextRequest) {
       ? 'maths'
       : 'computerscience';
 
-    const filePath = join(process.cwd(), 'data', courseFolder, 'instructions', file);
+    const filePath = join(process.cwd(), 'public', 'data', courseFolder, 'instructions', file);
     const content = await readFile(filePath, 'utf-8');
 
     return NextResponse.json({ content });
