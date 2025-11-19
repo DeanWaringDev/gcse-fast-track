@@ -3,8 +3,25 @@
 /**
  * Question Card Component
  * 
- * Displays a single question with answer input
- * Shows immediate feedback after submission
+ * Interactive question display with answer input and immediate feedback.
+ * Features keyboard navigation with auto-focus for seamless user experience.
+ * 
+ * Features:
+ * - Single question display with answer input field
+ * - Submit answer with Enter key
+ * - Immediate visual feedback (green=correct, red=incorrect)
+ * - Auto-focus on input field when question changes
+ * - Auto-focus on Next button after submission for keyboard navigation
+ * - Loading states during submission
+ * - Progress indicator showing current question number
+ * 
+ * Keyboard Navigation:
+ * 1. User types answer → presses Enter to submit
+ * 2. Answer is submitted → Next button auto-focuses
+ * 3. User presses Enter again → moves to next question
+ * 4. Next question loads → input field auto-focuses
+ * 
+ * @component
  */
 
 import { useState, useRef, useEffect } from 'react';

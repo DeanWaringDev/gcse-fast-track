@@ -102,12 +102,43 @@ export default function LessonPage() {
       .eq('lesson_id', lesson.id)
       .single();
 
+    // Get practice session count instead of question count
+    const { count: sessionCount } = await supabase
+      .from('practice_sessions')
+      .select('*', { count: 'exact', head: true })
+      .eq('user_id', user.id)
+      .eq('course_slug', 'maths')
+      .eq('lesson_id', lesson.id);
+
+    // Update progress with session count
+    if (progressData) {
+      progressData.attempts = sessionCount || 0;
+    }
+    
     setLessonProgress(progressData);
 
-    // Get question attempts for weak areas
-    // TODO: This will need a question_attempts table
-    // For now, we'll use empty array
-    setQuestionAttempts([]);
+    // Get unique question attempts (most recent attempt per question)
+    const { data: attemptsData } = await supabase
+      .from('question_attempts')
+      .select('question_id, is_correct')
+      .eq('user_id', user.id)
+      .eq('course_slug', 'maths')
+      .eq('lesson_id', lesson.id)
+      .order('attempted_at', { ascending: false });
+
+    // Get unique questions (most recent attempt for each)
+    const uniqueAttempts = new Map();
+    attemptsData?.forEach(attempt => {
+      if (!uniqueAttempts.has(attempt.question_id)) {
+        uniqueAttempts.set(attempt.question_id, {
+          question_id: attempt.question_id,
+          is_correct: attempt.is_correct,
+          attempt_count: 1,
+        });
+      }
+    });
+    
+    setQuestionAttempts(Array.from(uniqueAttempts.values()));
 
     setIsLoading(false);
   }

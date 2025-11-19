@@ -3,8 +3,31 @@
 /**
  * Practice Session Component
  * 
- * Manages practice question flow
- * Loads random questions, tracks progress, shows results
+ * Full-screen modal managing practice question sessions with progress tracking.
+ * Handles question loading, answer submission, session timing, and results display.
+ * 
+ * Practice Modes:
+ * - practice: 10 random questions from first 30 (foundation level)
+ * - timed: 15 random questions from first 30 (timed challenge)
+ * - expert: 15 random questions from #150-300 (advanced level)
+ * - weak_areas: 10 questions from previously incorrect answers
+ * 
+ * Session Flow:
+ * 1. Load questions and answers from JSON files
+ * 2. Create practice session record in database (tracks as 1 session)
+ * 3. Present questions one at a time with QuestionCard component
+ * 4. Track correct answers count throughout session
+ * 5. Submit each answer to question_attempts table
+ * 6. Complete session record with final stats when finished
+ * 7. Update lesson progress with new accuracy data
+ * 8. Trigger refresh callback to update dashboard
+ * 
+ * Database Integration:
+ * - practice_sessions: Records session start/completion (one record per practice run)
+ * - question_attempts: Records each individual answer
+ * - lesson_progress: Updated with aggregated statistics
+ * 
+ * @component
  */
 
 import { useState, useEffect } from 'react';
@@ -54,10 +77,19 @@ export default function PracticeSession({
   const [isLoading, setIsLoading] = useState(true);
   const [results, setResults] = useState<{ correct: number; total: number } | null>(null);
   const [sessionStartTime] = useState(Date.now());
+  const [sessionId, setSessionId] = useState<string | null>(null);
+  const [questionsCorrect, setQuestionsCorrect] = useState(0);
 
   useEffect(() => {
     loadQuestions();
   }, []);
+
+  useEffect(() => {
+    // Start practice session when questions are loaded
+    if (questions.length > 0 && !sessionId) {
+      startPracticeSession();
+    }
+  }, [questions]);
 
   async function loadQuestions() {
     try {
@@ -126,6 +158,43 @@ export default function PracticeSession({
     }
   }
 
+  /**
+   * Creates a practice session record in the database
+   * Tracks this practice run as a single session
+   */
+  async function startPracticeSession() {
+    try {
+      const response = await fetch('/api/start-practice-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          courseSlug,
+          lessonId,
+          practiceMode,
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`Failed to start session: ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      setSessionId(data.sessionId);
+    } catch (error) {
+      console.error('Error starting practice session:', error);
+      // Continue without session tracking if API fails
+      // User can still practice questions
+    }
+  }
+
+  /**
+   * Selects random questions from a pool
+   * Uses Fisher-Yates shuffle algorithm
+   * 
+   * @param pool - Array of questions to select from
+   * @param count - Number of questions to select
+   * @returns Array of randomly selected questions
+   */
   function getRandomQuestions(pool: Question[], count: number): Question[] {
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     return shuffled.slice(0, Math.min(count, pool.length));
@@ -163,6 +232,12 @@ export default function PracticeSession({
     }
 
     const result = await response.json();
+    
+    // Track correct answers for session
+    if (result.isCorrect) {
+      setQuestionsCorrect(prev => prev + 1);
+    }
+    
     return {
       isCorrect: result.isCorrect,
       correctAnswer: result.correctAnswer,
@@ -179,6 +254,25 @@ export default function PracticeSession({
   }
 
   async function showResults() {
+    // Complete practice session
+    if (sessionId) {
+      try {
+        const durationSeconds = Math.floor((Date.now() - sessionStartTime) / 1000);
+        await fetch('/api/complete-practice-session', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            sessionId,
+            questionsAttempted: questions.length,
+            questionsCorrect,
+            durationSeconds,
+          }),
+        });
+      } catch (error) {
+        console.error('Error completing practice session:', error);
+      }
+    }
+
     // Update lesson progress with new accuracy
     try {
       const response = await fetch('/api/update-progress', {

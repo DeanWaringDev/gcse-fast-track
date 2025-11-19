@@ -1,3 +1,26 @@
+/**
+ * Enrollments Table Migration
+ * 
+ * Creates the enrollments table for tracking user course enrollments.
+ * Manages subscription tiers (free/premium) and payment tracking.
+ * 
+ * Table: enrollments
+ * Purpose: Track which courses users are enrolled in and their subscription level
+ * 
+ * Free Tier: Access to first 25 lessons per course
+ * Premium Tier: Full access to all 100 lessons
+ * 
+ * Features:
+ * - Unique constraint on user_id + course_slug (one enrollment per course)
+ * - Automatic updated_at timestamp via trigger
+ * - Row Level Security (RLS) enabled
+ * - Payment tracking for Stripe integration
+ * - Progress tracking (lessons completed, last accessed)
+ * 
+ * @migration
+ * @version 20250118
+ */
+
 -- Enrollments table
 -- Tracks user course enrollments and subscription status
 

@@ -1,3 +1,20 @@
+/**
+ * Complete Lesson API Route
+ * 
+ * Marks a lesson's content as completed after user views all slides.
+ * Updates lesson_completed and lesson_completed_at fields in lesson_progress table.
+ * Creates progress record if it doesn't exist.
+ * 
+ * @route POST /api/complete-lesson
+ * @access Protected - Requires authentication
+ * 
+ * @body {string} courseSlug - Course identifier
+ * @body {number} lessonId - Lesson ID number
+ * @body {string} lessonSlug - Lesson slug
+ * 
+ * @returns {Object} { success: boolean }
+ */
+
 import { createClient } from '@/lib/supabase/server';
 import { NextResponse } from 'next/server';
 

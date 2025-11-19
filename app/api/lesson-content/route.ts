@@ -1,3 +1,18 @@
+/**
+ * Lesson Content API Route
+ * 
+ * Serves markdown lesson content files from the file system.
+ * Validates file paths to prevent directory traversal attacks.
+ * 
+ * @route GET /api/lesson-content?file={filename}
+ * @access Public
+ * 
+ * @query {string} file - Lesson markdown filename (must end with _lesson.md)
+ * 
+ * @returns {Object} { content: string } - Markdown content
+ * @returns {Object} { error: string } - Error message if file not found
+ */
+
 import { NextRequest, NextResponse } from 'next/server';
 import { readFile } from 'fs/promises';
 import { join } from 'path';

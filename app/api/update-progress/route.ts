@@ -1,3 +1,20 @@
+/**
+ * Update Progress API Route
+ * 
+ * Updates lesson progress statistics after a practice session.
+ * Fetches aggregated stats from lesson_accuracy_stats view and updates lesson_progress table.
+ * Creates progress record if it doesn't exist.
+ * 
+ * @route POST /api/update-progress
+ * @access Protected - Requires authentication
+ * 
+ * @body {string} courseSlug - Course identifier
+ * @body {number} lessonId - Lesson ID number
+ * @body {string} lessonSlug - Lesson slug
+ * 
+ * @returns {Object} { success: boolean, stats: { accuracy, totalAttempts, correctAnswers, uniqueQuestions } }
+ */
+
 import { createClient } from '@/lib/supabase/server';
 import { NextResponse } from 'next/server';
 

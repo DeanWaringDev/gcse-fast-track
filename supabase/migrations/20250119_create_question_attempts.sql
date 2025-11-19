@@ -1,3 +1,33 @@
+/**
+ * Question Attempts Table Migration
+ * 
+ * Creates the question_attempts table for tracking every individual question answer.
+ * Used for accuracy calculations, progress tracking, and weak area identification.
+ * 
+ * Table: question_attempts
+ * Purpose: Record every question attempt for detailed analytics
+ * 
+ * Key Features:
+ * - Records EVERY attempt (no unique constraint - users can retry questions)
+ * - Tracks timing data for each question
+ * - Stores user answer and correct answer for review
+ * - Practice mode context (practice, timed, expert, weak_areas)
+ * 
+ * Related Views:
+ * - lesson_accuracy_stats: Aggregated accuracy per lesson
+ * - course_accuracy_stats: Aggregated accuracy per course
+ * - weak_questions: Questions answered incorrectly (for weak areas practice)
+ * 
+ * Usage:
+ * - Calculate lesson accuracy from most recent attempt per question
+ * - Identify questions user struggles with
+ * - Track improvement over time
+ * - Generate weak areas practice sets
+ * 
+ * @migration
+ * @version 20250119
+ */
+
 -- Question Attempts table
 -- Tracks individual question answers for accuracy calculations and weak area identification
 

@@ -1,3 +1,30 @@
+/**
+ * Lesson Progress Table Migration
+ * 
+ * Creates the lesson_progress table for tracking individual lesson performance.
+ * Stores aggregated statistics for each user's progress through lessons.
+ * 
+ * Table: lesson_progress
+ * Purpose: Track overall lesson mastery and progress metrics
+ * 
+ * Key Fields:
+ * - is_completed: Overall lesson mastery (not just content viewed)
+ * - lesson_completed: Content viewing completion (separate from mastery)
+ * - accuracy_score: Calculated from question_attempts aggregation
+ * - attempts: Number of practice sessions (from practice_sessions count)
+ * - time_spent_minutes: Total time across all sessions
+ * - confidence_level: User self-reported confidence (0-10)
+ * 
+ * Features:
+ * - Unique constraint on user_id + course_slug + lesson_id
+ * - Automatic updated_at timestamp via trigger
+ * - Row Level Security (RLS) enabled
+ * - Indexes for performance optimization
+ * 
+ * @migration
+ * @version 20250118
+ */
+
 -- Lesson Progress table
 -- Tracks individual lesson completion and performance
 

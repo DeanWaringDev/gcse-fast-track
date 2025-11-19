@@ -1,7 +1,28 @@
 /**
  * Lesson Dashboard Component
  * 
- * Displays lesson statistics and progress at the top of lesson page
+ * Displays comprehensive lesson statistics and progress metrics.
+ * Shows real-time accuracy, question progress, time tracking, and session counts.
+ * 
+ * Metrics Displayed:
+ * - Average Accuracy: Calculated from unique question attempts (most recent attempt per question)
+ * - Questions Attempted: Count of unique questions answered (out of 50 max per lesson)
+ * - Time Spent: Total time across all practice sessions
+ * - Practice Attempts: Number of practice sessions completed (not individual questions)
+ * 
+ * Data Sources:
+ * - questionAttempts: Array of unique question attempts from question_attempts table
+ * - progress.attempts: Count of practice sessions from practice_sessions table
+ * - progress.time_spent_minutes: Aggregated time from all sessions
+ * 
+ * Visual Features:
+ * - Color-coded accuracy (green ≥80%, yellow ≥60%, red <60%)
+ * - Progress bars for accuracy and confidence
+ * - Completion badge when lesson is mastered
+ * - Topic tags showing lesson content
+ * - Confidence level emoji indicators
+ * 
+ * @component
  */
 
 interface LessonDashboardProps {
@@ -29,16 +50,17 @@ interface LessonDashboardProps {
 }
 
 export default function LessonDashboard({ lesson, progress, questionAttempts }: LessonDashboardProps) {
-  const totalQuestions = 30; // Standard question bank size
+  const totalQuestions = 50; // Maximum questions we'll store per lesson
   const attemptedQuestions = questionAttempts.length;
   const correctQuestions = questionAttempts.filter(q => q.is_correct).length;
   const questionAccuracy = attemptedQuestions > 0 
     ? Math.round((correctQuestions / attemptedQuestions) * 100) 
     : 0;
 
-  const averageAccuracy = progress?.accuracy_score || questionAccuracy || 0;
+  // Use accuracy from actual question attempts, not progress table
+  const averageAccuracy = questionAccuracy || 0;
   const isCompleted = progress?.is_completed || false;
-  const attempts = progress?.attempts || 0;
+  const attempts = progress?.attempts || 0; // This will be number of practice sessions
   const timeSpent = progress?.time_spent_minutes || 0;
   const confidence = progress?.confidence_level || 0;
 

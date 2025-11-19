@@ -1,3 +1,25 @@
+/**
+ * Submit Answer API Route
+ * 
+ * Records a user's answer to a practice question in the question_attempts table.
+ * Performs case-insensitive comparison and tracks timing data.
+ * 
+ * @route POST /api/submit-answer
+ * @access Protected - Requires authentication
+ * 
+ * @body {string} courseSlug - Course identifier (e.g., 'maths')
+ * @body {number} lessonId - Lesson ID number
+ * @body {string} lessonSlug - Lesson slug
+ * @body {string} questionId - Question identifier
+ * @body {string} sectionId - Section identifier (optional)
+ * @body {string} userAnswer - User's submitted answer
+ * @body {string} correctAnswer - Correct answer for comparison
+ * @body {string} practiceMode - Practice mode (practice, timed, expert, weak_areas)
+ * @body {number} timeTakenSeconds - Time spent on question (optional)
+ * 
+ * @returns {Object} { success: boolean, isCorrect: boolean, correctAnswer: string }
+ */
+
 import { createClient } from '@/lib/supabase/server';
 import { NextResponse } from 'next/server';
 
@@ -5,12 +27,12 @@ export async function POST(request: Request) {
   try {
     const supabase = await createClient();
     
-    // Check authentication
+    // Verify user authentication
     const { data: { user }, error: authError } = await supabase.auth.getUser();
     
     if (authError || !user) {
       return NextResponse.json(
-        { error: 'Unauthorized' },
+        { error: 'Unauthorized - Please login to submit answers' },
         { status: 401 }
       );
     }
@@ -29,8 +51,16 @@ export async function POST(request: Request) {
 
     // Validate required fields
     if (!courseSlug || !lessonId || !lessonSlug || !questionId || userAnswer === undefined || !correctAnswer) {
+      const missingFields = [];
+      if (!courseSlug) missingFields.push('courseSlug');
+      if (!lessonId) missingFields.push('lessonId');
+      if (!lessonSlug) missingFields.push('lessonSlug');
+      if (!questionId) missingFields.push('questionId');
+      if (userAnswer === undefined) missingFields.push('userAnswer');
+      if (!correctAnswer) missingFields.push('correctAnswer');
+      
       return NextResponse.json(
-        { error: 'Missing required fields' },
+        { error: `Missing required fields: ${missingFields.join(', ')}` },
         { status: 400 }
       );
     }
