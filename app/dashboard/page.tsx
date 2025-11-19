@@ -6,6 +6,8 @@
  * Comprehensive learning dashboard featuring:
  * - Personalized welcome with user stats
  * - Real-time grade predictions based on performance
+ * - Target grade setting with Foundation/Higher tier options
+ * - Paper tier recommendations based on performance
  * - Study streak tracking and gamification
  * - Course progress overview with visual indicators
  * - Weak areas identification and recommendations
@@ -20,8 +22,12 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import Link from 'next/link';
+import SetTargetGradeModal from '@/components/SetTargetGradeModal';
+import { formatGradeWithTier, getGradeDescription } from '@/lib/gradePrediction';
+import { hasTwoTiers } from '@/lib/courseConfig';
 
 interface EnrollmentData {
+  id: string;
   course_slug: string;
   course_name: string;
   enrolled_at: string;
@@ -31,7 +37,13 @@ interface EnrollmentData {
   overall_accuracy: number;
   time_spent_minutes: number;
   study_streak_days: number;
-  predicted_grade: string;
+  target_paper: 'foundation' | 'higher' | 'none';
+  target_grade: number;
+  predicted_grade: number | null;
+  recommended_paper?: 'foundation' | 'higher';
+  paper_change_reason?: string;
+  confidence?: 'low' | 'medium' | 'high';
+  on_track?: boolean;
   next_lesson_slug: string | null;
   next_lesson_title: string | null;
   weakest_category: string | null;
@@ -49,6 +61,8 @@ export default function Dashboard() {
   const [totalLessonsCompleted, setTotalLessonsCompleted] = useState(0);
   const [currentStreak, setCurrentStreak] = useState(0);
   const [achievements, setAchievements] = useState<string[]>([]);
+  const [showTargetModal, setShowTargetModal] = useState(false);
+  const [selectedCourse, setSelectedCourse] = useState<EnrollmentData | null>(null);
 
   useEffect(() => {
     loadDashboard();
@@ -154,7 +168,14 @@ export default function Dashboard() {
 
       totalCompleted += completedLessons;
 
+      // Determine default paper tier
+      let defaultPaper: 'foundation' | 'higher' | 'none' = 'none';
+      if (hasTwoTiers(enrollment.course_slug)) {
+        defaultPaper = 'foundation';
+      }
+
       enrichedEnrollments.push({
+        id: enrollment.id,
         course_slug: enrollment.course_slug,
         course_name: courseNames[enrollment.course_slug] || enrollment.course_slug,
         enrolled_at: enrollment.enrolled_at,
@@ -164,7 +185,9 @@ export default function Dashboard() {
         overall_accuracy: overallAccuracy,
         time_spent_minutes: timeSpent,
         study_streak_days: 0, // Will be set globally
-        predicted_grade: predictedGrade,
+        target_paper: enrollment.target_paper || defaultPaper,
+        target_grade: enrollment.target_grade || 4,
+        predicted_grade: null, // Will be loaded from predictions API
         next_lesson_slug: nextLesson?.lesson_slug || null,
         next_lesson_title: null, // Would need to fetch from lessons.json
         weakest_category: null,
@@ -191,6 +214,37 @@ export default function Dashboard() {
       setCurrentStreak(0);
     }
 
+    // Fetch grade predictions from API
+    try {
+      const predictionsResponse = await fetch('/api/grade-predictions');
+      if (predictionsResponse.ok) {
+        const { predictions } = await predictionsResponse.json();
+        
+        // Update enrollments with predictions
+        const updatedEnrollments = enrichedEnrollments.map(enrollment => {
+          const prediction = predictions.find(
+            (p: any) => p.courseSlug === enrollment.course_slug
+          );
+          
+          if (prediction) {
+            return {
+              ...enrollment,
+              predicted_grade: prediction.predictedGrade,
+              recommended_paper: prediction.recommendedPaper,
+              paper_change_reason: prediction.paperChangeReason,
+              confidence: prediction.confidence,
+              on_track: prediction.onTrack
+            };
+          }
+          return enrollment;
+        });
+        
+        setEnrollments(updatedEnrollments);
+      }
+    } catch (error) {
+      console.error('Error fetching predictions:', error);
+    }
+
     // Calculate achievements based on actual data
     const userAchievements = [];
     if (totalCompleted >= 1) userAchievements.push('First Steps');
@@ -205,6 +259,32 @@ export default function Dashboard() {
 
     setAchievements(userAchievements);
     setIsLoading(false);
+  }
+
+  async function handleSaveTargetGrade(
+    paper: 'foundation' | 'higher' | 'none',
+    grade: number
+  ) {
+    if (!selectedCourse) return;
+
+    const supabase = createClient();
+    
+    // Update enrollment in database
+    const { error } = await supabase
+      .from('enrollments')
+      .update({
+        target_paper: paper,
+        target_grade: grade
+      })
+      .eq('id', selectedCourse.id);
+
+    if (error) {
+      console.error('Error updating target grade:', error);
+      throw error;
+    }
+
+    // Reload dashboard to refresh predictions
+    await loadDashboard();
   }
 
   if (isLoading) {
@@ -378,20 +458,70 @@ export default function Dashboard() {
                     style={{ background: `linear-gradient(135deg, ${enrollment.color} 0%, ${enrollment.color}dd 100%)` }}
                   >
                     <div className="flex items-start justify-between">
-                      <div>
+                      <div className="flex-1">
                         <div className="text-4xl mb-2">{enrollment.icon}</div>
                         <h3 className="text-2xl font-bold mb-1">{enrollment.course_name}</h3>
-                        <p className="text-white/80">
+                        <p className="text-white/80 text-sm mb-2">
                           {enrollment.subscription_tier === 'premium' ? '⭐ Premium Access' : '🆓 Free Access'}
                         </p>
+                        {/* Target Grade */}
+                        <button
+                          onClick={() => {
+                            setSelectedCourse(enrollment);
+                            setShowTargetModal(true);
+                          }}
+                          className="text-sm bg-white/20 hover:bg-white/30 backdrop-blur-sm px-3 py-1 rounded-lg transition-all"
+                        >
+                          🎯 Target: Grade {enrollment.target_grade}
+                          {hasTwoTiers(enrollment.course_slug) && ` (${enrollment.target_paper === 'foundation' ? 'Foundation' : 'Higher'})`}
+                        </button>
                       </div>
                       <div className="bg-white/20 backdrop-blur-sm rounded-xl px-4 py-2 text-center">
                         <div className="text-3xl font-bold">
-                          {enrollment.predicted_grade || '?'}
+                          {enrollment.predicted_grade !== null ? enrollment.predicted_grade : '?'}
                         </div>
                         <div className="text-xs text-white/80">Predicted</div>
+                        {enrollment.confidence && (
+                          <div className="text-xs text-white/60 mt-1">
+                            {enrollment.confidence === 'high' ? '✓✓✓' : enrollment.confidence === 'medium' ? '✓✓' : '✓'}
+                          </div>
+                        )}
                       </div>
                     </div>
+                    
+                    {/* Paper Recommendation Alert */}
+                    {enrollment.recommended_paper && 
+                     enrollment.recommended_paper !== enrollment.target_paper && 
+                     enrollment.paper_change_reason && (
+                      <div className="mt-4 bg-yellow-400/20 backdrop-blur-sm border border-yellow-300/30 rounded-lg p-3">
+                        <div className="flex items-start gap-2">
+                          <span className="text-xl">💡</span>
+                          <div className="flex-1">
+                            <div className="font-semibold text-sm">Recommendation</div>
+                            <div className="text-xs text-white/90 mt-1">
+                              {enrollment.paper_change_reason}
+                            </div>
+                            <button
+                              onClick={() => {
+                                setSelectedCourse(enrollment);
+                                setShowTargetModal(true);
+                              }}
+                              className="text-xs font-semibold mt-2 underline hover:no-underline"
+                            >
+                              Update Target →
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    )}
+                    
+                    {/* On Track Indicator */}
+                    {enrollment.on_track !== undefined && (
+                      <div className={`mt-3 text-sm flex items-center gap-2 ${enrollment.on_track ? 'text-green-200' : 'text-yellow-200'}`}>
+                        <span>{enrollment.on_track ? '✓' : '⚠️'}</span>
+                        <span>{enrollment.on_track ? 'On track for target grade' : 'Need more practice to reach target'}</span>
+                      </div>
+                    )}
                   </div>
 
                   {/* Course Stats */}
@@ -488,6 +618,22 @@ export default function Dashboard() {
           </Link>
         </div>
       </div>
+
+      {/* Target Grade Modal */}
+      {selectedCourse && (
+        <SetTargetGradeModal
+          isOpen={showTargetModal}
+          onClose={() => {
+            setShowTargetModal(false);
+            setSelectedCourse(null);
+          }}
+          courseSlug={selectedCourse.course_slug}
+          courseName={selectedCourse.course_name}
+          currentPaper={selectedCourse.target_paper}
+          currentGrade={selectedCourse.target_grade}
+          onSave={handleSaveTargetGrade}
+        />
+      )}
     </div>
   );
 }
