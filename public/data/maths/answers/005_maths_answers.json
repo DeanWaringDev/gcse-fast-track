@@ -1,0 +1,2109 @@
+{
+  "lessonId": 5,
+  "lessonNumber": "005",
+  "lessonTitle": "Finding Percentages",
+  "totalQuestions": 300,
+  "note": "All answers are based on the lesson content about finding percentages, conversions, and calculations.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "What does 'percent' mean?",
+      "answer": "Per hundred / out of 100",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 2,
+      "question": "What is the symbol for percentage?",
+      "answer": "%",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 3,
+      "question": "What is 100%?",
+      "answer": "The whole / all of it",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 4,
+      "question": "What is 50%?",
+      "answer": "Half",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 5,
+      "question": "What is 25%?",
+      "answer": "A quarter / one quarter",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 6,
+      "question": "What is 10%?",
+      "answer": "One tenth",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 7,
+      "question": "What is 1%?",
+      "answer": "One hundredth",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 8,
+      "question": "Is 75% more or less than half?",
+      "answer": "More than half",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 9,
+      "question": "Is 30% more or less than half?",
+      "answer": "Less than half",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 10,
+      "question": "Which is bigger: 60% or 70%?",
+      "answer": "70%",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics"
+    },
+    {
+      "id": 11,
+      "question": "Convert 1/2 to a percentage",
+      "answer": "50%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 12,
+      "question": "Convert 1/4 to a percentage",
+      "answer": "25%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 13,
+      "question": "Convert 3/4 to a percentage",
+      "answer": "75%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 14,
+      "question": "Convert 1/5 to a percentage",
+      "answer": "20%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 15,
+      "question": "Convert 2/5 to a percentage",
+      "answer": "40%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 16,
+      "question": "Convert 3/5 to a percentage",
+      "answer": "60%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 17,
+      "question": "Convert 4/5 to a percentage",
+      "answer": "80%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 18,
+      "question": "Convert 1/10 to a percentage",
+      "answer": "10%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 19,
+      "question": "Convert 3/10 to a percentage",
+      "answer": "30%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 20,
+      "question": "Convert 7/10 to a percentage",
+      "answer": "70%",
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages"
+    },
+    {
+      "id": 21,
+      "question": "Convert 0.5 to a percentage",
+      "answer": "50%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 22,
+      "question": "Convert 0.25 to a percentage",
+      "answer": "25%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 23,
+      "question": "Convert 0.75 to a percentage",
+      "answer": "75%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 24,
+      "question": "Convert 0.1 to a percentage",
+      "answer": "10%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 25,
+      "question": "Convert 0.2 to a percentage",
+      "answer": "20%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 26,
+      "question": "Convert 0.3 to a percentage",
+      "answer": "30%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 27,
+      "question": "Convert 0.6 to a percentage",
+      "answer": "60%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 28,
+      "question": "Convert 0.9 to a percentage",
+      "answer": "90%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 29,
+      "question": "Convert 0.45 to a percentage",
+      "answer": "45%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 30,
+      "question": "Convert 0.83 to a percentage",
+      "answer": "83%",
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages"
+    },
+    {
+      "id": 31,
+      "question": "Convert 50% to a decimal",
+      "answer": "0.5",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 32,
+      "question": "Convert 25% to a decimal",
+      "answer": "0.25",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 33,
+      "question": "Convert 75% to a decimal",
+      "answer": "0.75",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 34,
+      "question": "Convert 10% to a decimal",
+      "answer": "0.1",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 35,
+      "question": "Convert 20% to a decimal",
+      "answer": "0.2",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 36,
+      "question": "Convert 30% to a decimal",
+      "answer": "0.3",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 37,
+      "question": "Convert 60% to a decimal",
+      "answer": "0.6",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 38,
+      "question": "Convert 90% to a decimal",
+      "answer": "0.9",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 39,
+      "question": "Convert 5% to a decimal",
+      "answer": "0.05",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 40,
+      "question": "Convert 85% to a decimal",
+      "answer": "0.85",
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals"
+    },
+    {
+      "id": 41,
+      "question": "Convert 50% to a fraction (simplest form)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 42,
+      "question": "Convert 25% to a fraction (simplest form)",
+      "answer": "1/4",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 43,
+      "question": "Convert 75% to a fraction (simplest form)",
+      "answer": "3/4",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 44,
+      "question": "Convert 20% to a fraction (simplest form)",
+      "answer": "1/5",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 45,
+      "question": "Convert 40% to a fraction (simplest form)",
+      "answer": "2/5",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 46,
+      "question": "Convert 60% to a fraction (simplest form)",
+      "answer": "3/5",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 47,
+      "question": "Convert 80% to a fraction (simplest form)",
+      "answer": "4/5",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 48,
+      "question": "Convert 10% to a fraction (simplest form)",
+      "answer": "1/10",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 49,
+      "question": "Convert 30% to a fraction (simplest form)",
+      "answer": "3/10",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 50,
+      "question": "Convert 70% to a fraction (simplest form)",
+      "answer": "7/10",
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions"
+    },
+    {
+      "id": 51,
+      "question": "Find 10% of 50",
+      "answer": "5",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 52,
+      "question": "Find 10% of 80",
+      "answer": "8",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 53,
+      "question": "Find 10% of 120",
+      "answer": "12",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 54,
+      "question": "Find 10% of 200",
+      "answer": "20",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 55,
+      "question": "Find 10% of 350",
+      "answer": "35",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 56,
+      "question": "Find 10% of 70",
+      "answer": "7",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 57,
+      "question": "Find 10% of 450",
+      "answer": "45",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 58,
+      "question": "Find 10% of 600",
+      "answer": "60",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 59,
+      "question": "Find 10% of 35",
+      "answer": "3.5",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 60,
+      "question": "Find 10% of 1000",
+      "answer": "100",
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers"
+    },
+    {
+      "id": 61,
+      "question": "Find 1% of 100",
+      "answer": "1",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 62,
+      "question": "Find 1% of 200",
+      "answer": "2",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 63,
+      "question": "Find 1% of 500",
+      "answer": "5",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 64,
+      "question": "Find 1% of 1000",
+      "answer": "10",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 65,
+      "question": "Find 1% of 350",
+      "answer": "3.5",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 66,
+      "question": "Find 1% of 800",
+      "answer": "8",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 67,
+      "question": "Find 1% of 1200",
+      "answer": "12",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 68,
+      "question": "Find 1% of 2500",
+      "answer": "25",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 69,
+      "question": "Find 1% of 450",
+      "answer": "4.5",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 70,
+      "question": "Find 1% of 3000",
+      "answer": "30",
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers"
+    },
+    {
+      "id": 71,
+      "question": "Find 50% of 80 (half)",
+      "answer": "40",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 72,
+      "question": "Find 50% of 120",
+      "answer": "60",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 73,
+      "question": "Find 25% of 80 (quarter)",
+      "answer": "20",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 74,
+      "question": "Find 25% of 100",
+      "answer": "25",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 75,
+      "question": "Find 75% of 80 (3 quarters)",
+      "answer": "60",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 76,
+      "question": "Find 75% of 100",
+      "answer": "75",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 77,
+      "question": "Find 20% of 100 (one fifth)",
+      "answer": "20",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 78,
+      "question": "Find 20% of 50",
+      "answer": "10",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 79,
+      "question": "Find 50% of 200",
+      "answer": "100",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 80,
+      "question": "Find 25% of 200",
+      "answer": "50",
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions"
+    },
+    {
+      "id": 81,
+      "question": "Find 30% of 100 (10% \u00d7 3)",
+      "answer": "30",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 82,
+      "question": "Find 30% of 200",
+      "answer": "60",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 83,
+      "question": "Find 40% of 100",
+      "answer": "40",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 84,
+      "question": "Find 40% of 150",
+      "answer": "60",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 85,
+      "question": "Find 60% of 100",
+      "answer": "60",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 86,
+      "question": "Find 60% of 50",
+      "answer": "30",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 87,
+      "question": "Find 70% of 100",
+      "answer": "70",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 88,
+      "question": "Find 70% of 200",
+      "answer": "140",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 89,
+      "question": "Find 80% of 100",
+      "answer": "80",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 90,
+      "question": "Find 90% of 100",
+      "answer": "90",
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1"
+    },
+    {
+      "id": 91,
+      "question": "Find 5% of 80 (half of 10%)",
+      "answer": "4",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 92,
+      "question": "Find 5% of 200",
+      "answer": "10",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 93,
+      "question": "Find 15% of 100 (10% + 5%)",
+      "answer": "15",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 94,
+      "question": "Find 15% of 200",
+      "answer": "30",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 95,
+      "question": "Find 35% of 100",
+      "answer": "35",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 96,
+      "question": "Find 35% of 200",
+      "answer": "70",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 97,
+      "question": "Find 45% of 100",
+      "answer": "45",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 98,
+      "question": "Find 45% of 200",
+      "answer": "90",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 99,
+      "question": "Find 55% of 100",
+      "answer": "55",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 100,
+      "question": "Find 65% of 100",
+      "answer": "65",
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2"
+    },
+    {
+      "id": 101,
+      "question": "Find 30% of 200 (0.3 \u00d7 200)",
+      "answer": "60",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 102,
+      "question": "Find 40% of 150 (0.4 \u00d7 150)",
+      "answer": "60",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 103,
+      "question": "Find 25% of 80 (0.25 \u00d7 80)",
+      "answer": "20",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 104,
+      "question": "Find 50% of 140 (0.5 \u00d7 140)",
+      "answer": "70",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 105,
+      "question": "Find 75% of 120 (0.75 \u00d7 120)",
+      "answer": "90",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 106,
+      "question": "Find 20% of 250 (0.2 \u00d7 250)",
+      "answer": "50",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 107,
+      "question": "Find 60% of 80 (0.6 \u00d7 80)",
+      "answer": "48",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 108,
+      "question": "Find 10% of 350 (0.1 \u00d7 350)",
+      "answer": "35",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 109,
+      "question": "Find 80% of 50 (0.8 \u00d7 50)",
+      "answer": "40",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 110,
+      "question": "Find 90% of 200 (0.9 \u00d7 200)",
+      "answer": "180",
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)"
+    },
+    {
+      "id": 111,
+      "question": "Find 15% of 80 (0.15 \u00d7 80)",
+      "answer": "12",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 112,
+      "question": "Find 35% of 200 (0.35 \u00d7 200)",
+      "answer": "70",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 113,
+      "question": "Find 45% of 120 (0.45 \u00d7 120)",
+      "answer": "54",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 114,
+      "question": "Find 65% of 140 (0.65 \u00d7 140)",
+      "answer": "91",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 115,
+      "question": "Find 85% of 200 (0.85 \u00d7 200)",
+      "answer": "170",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 116,
+      "question": "Find 12% of 250 (0.12 \u00d7 250)",
+      "answer": "30",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 117,
+      "question": "Find 18% of 300 (0.18 \u00d7 300)",
+      "answer": "54",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 118,
+      "question": "Find 24% of 150 (0.24 \u00d7 150)",
+      "answer": "36",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 119,
+      "question": "Find 36% of 200 (0.36 \u00d7 200)",
+      "answer": "72",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 120,
+      "question": "Find 48% of 125 (0.48 \u00d7 125)",
+      "answer": "60",
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)"
+    },
+    {
+      "id": 121,
+      "question": "Find 30% of 50",
+      "answer": "15",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 122,
+      "question": "Find 25% of 60",
+      "answer": "15",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 123,
+      "question": "Find 40% of 75",
+      "answer": "30",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 124,
+      "question": "Find 15% of 180",
+      "answer": "27",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 125,
+      "question": "Find 60% of 90",
+      "answer": "54",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 126,
+      "question": "Find 5% of 240",
+      "answer": "12",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 127,
+      "question": "Find 35% of 160",
+      "answer": "56",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 128,
+      "question": "Find 55% of 120",
+      "answer": "66",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 129,
+      "question": "Find 8% of 250",
+      "answer": "20",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 130,
+      "question": "Find 72% of 50",
+      "answer": "36",
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice"
+    },
+    {
+      "id": 131,
+      "question": "What % is 20 out of 100?",
+      "answer": "20%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 132,
+      "question": "What % is 30 out of 100?",
+      "answer": "30%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 133,
+      "question": "What % is 25 out of 50?",
+      "answer": "50%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 134,
+      "question": "What % is 15 out of 60?",
+      "answer": "25%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 135,
+      "question": "What % is 30 out of 60?",
+      "answer": "50%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 136,
+      "question": "What % is 40 out of 80?",
+      "answer": "50%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 137,
+      "question": "What % is 18 out of 90?",
+      "answer": "20%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 138,
+      "question": "What % is 45 out of 90?",
+      "answer": "50%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 139,
+      "question": "What % is 20 out of 50?",
+      "answer": "40%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 140,
+      "question": "What % is 35 out of 70?",
+      "answer": "50%",
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another"
+    },
+    {
+      "id": 141,
+      "question": "Score: 40/50. What percentage?",
+      "answer": "80%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 142,
+      "question": "Score: 30/40. What percentage?",
+      "answer": "75%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 143,
+      "question": "Score: 45/60. What percentage?",
+      "answer": "75%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 144,
+      "question": "Score: 27/30. What percentage?",
+      "answer": "90%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 145,
+      "question": "Score: 18/20. What percentage?",
+      "answer": "90%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 146,
+      "question": "Score: 36/40. What percentage?",
+      "answer": "90%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 147,
+      "question": "Score: 48/60. What percentage?",
+      "answer": "80%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 148,
+      "question": "Score: 21/30. What percentage?",
+      "answer": "70%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 149,
+      "question": "Score: 35/50. What percentage?",
+      "answer": "70%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 150,
+      "question": "Score: 42/50. What percentage?",
+      "answer": "84%",
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores"
+    },
+    {
+      "id": 151,
+      "question": "Find 10% of \u00a350",
+      "answer": "\u00a35",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 152,
+      "question": "Find 20% of \u00a380",
+      "answer": "\u00a316",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 153,
+      "question": "Find 25% of \u00a360",
+      "answer": "\u00a315",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 154,
+      "question": "Find 30% of \u00a3100",
+      "answer": "\u00a330",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 155,
+      "question": "Find 40% of \u00a375",
+      "answer": "\u00a330",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 156,
+      "question": "Find 50% of \u00a390",
+      "answer": "\u00a345",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 157,
+      "question": "Find 15% of \u00a3200",
+      "answer": "\u00a330",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 158,
+      "question": "Find 35% of \u00a3120",
+      "answer": "\u00a342",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 159,
+      "question": "Find 60% of \u00a3150",
+      "answer": "\u00a390",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 160,
+      "question": "Find 75% of \u00a380",
+      "answer": "\u00a360",
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)"
+    },
+    {
+      "id": 161,
+      "question": "20% discount on \u00a360. How much discount?",
+      "answer": "\u00a312",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 162,
+      "question": "30% off \u00a3100. How much off?",
+      "answer": "\u00a330",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 163,
+      "question": "25% discount on \u00a380. How much discount?",
+      "answer": "\u00a320",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 164,
+      "question": "50% off \u00a3150. How much off?",
+      "answer": "\u00a375",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 165,
+      "question": "10% discount on \u00a3200. How much discount?",
+      "answer": "\u00a320",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 166,
+      "question": "40% off \u00a3120. How much off?",
+      "answer": "\u00a348",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 167,
+      "question": "15% discount on \u00a3180. How much discount?",
+      "answer": "\u00a327",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 168,
+      "question": "60% off \u00a350. How much off?",
+      "answer": "\u00a330",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 169,
+      "question": "35% discount on \u00a3140. How much discount?",
+      "answer": "\u00a349",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 170,
+      "question": "5% off \u00a3240. How much off?",
+      "answer": "\u00a312",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)"
+    },
+    {
+      "id": 171,
+      "question": "15% tip on \u00a340 meal. How much tip?",
+      "answer": "\u00a36",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 172,
+      "question": "10% service charge on \u00a360 bill. How much?",
+      "answer": "\u00a36",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 173,
+      "question": "20% tip on \u00a350 meal. How much tip?",
+      "answer": "\u00a310",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 174,
+      "question": "12% service on \u00a380 bill. How much?",
+      "answer": "\u00a39.60",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 175,
+      "question": "15% tip on \u00a370 meal. How much tip?",
+      "answer": "\u00a310.50",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 176,
+      "question": "18% service on \u00a3100 bill. How much?",
+      "answer": "\u00a318",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 177,
+      "question": "10% tip on \u00a385 meal. How much tip?",
+      "answer": "\u00a38.50",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 178,
+      "question": "20% service on \u00a375 bill. How much?",
+      "answer": "\u00a315",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 179,
+      "question": "15% tip on \u00a3120 meal. How much tip?",
+      "answer": "\u00a318",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 180,
+      "question": "25% service on \u00a360 bill. How much?",
+      "answer": "\u00a315",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges"
+    },
+    {
+      "id": 181,
+      "question": "20% VAT on \u00a3100. How much VAT?",
+      "answer": "\u00a320",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 182,
+      "question": "20% VAT on \u00a350. How much VAT?",
+      "answer": "\u00a310",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 183,
+      "question": "20% VAT on \u00a3200. How much VAT?",
+      "answer": "\u00a340",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 184,
+      "question": "20% VAT on \u00a3150. How much VAT?",
+      "answer": "\u00a330",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 185,
+      "question": "20% VAT on \u00a375. How much VAT?",
+      "answer": "\u00a315",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 186,
+      "question": "20% VAT on \u00a3300. How much VAT?",
+      "answer": "\u00a360",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 187,
+      "question": "20% VAT on \u00a345. How much VAT?",
+      "answer": "\u00a39",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 188,
+      "question": "20% VAT on \u00a3125. How much VAT?",
+      "answer": "\u00a325",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 189,
+      "question": "20% VAT on \u00a3250. How much VAT?",
+      "answer": "\u00a350",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 190,
+      "question": "20% VAT on \u00a3180. How much VAT?",
+      "answer": "\u00a336",
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax"
+    },
+    {
+      "id": 191,
+      "question": "5% interest on \u00a3200. How much interest?",
+      "answer": "\u00a310",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 192,
+      "question": "3% interest on \u00a3500. How much interest?",
+      "answer": "\u00a315",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 193,
+      "question": "4% interest on \u00a3300. How much interest?",
+      "answer": "\u00a312",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 194,
+      "question": "2% interest on \u00a31000. How much interest?",
+      "answer": "\u00a320",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 195,
+      "question": "6% interest on \u00a3150. How much interest?",
+      "answer": "\u00a39",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 196,
+      "question": "8% interest on \u00a3250. How much interest?",
+      "answer": "\u00a320",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 197,
+      "question": "10% interest on \u00a3400. How much interest?",
+      "answer": "\u00a340",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 198,
+      "question": "5% interest on \u00a3600. How much interest?",
+      "answer": "\u00a330",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 199,
+      "question": "3% interest on \u00a3800. How much interest?",
+      "answer": "\u00a324",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 200,
+      "question": "7% interest on \u00a3200. How much interest?",
+      "answer": "\u00a314",
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings"
+    },
+    {
+      "id": 201,
+      "question": "Find 17% of 300",
+      "answer": "51",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 202,
+      "question": "Find 23% of 400",
+      "answer": "92",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 203,
+      "question": "Find 37% of 200",
+      "answer": "74",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 204,
+      "question": "Find 43% of 250",
+      "answer": "107.5",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 205,
+      "question": "Find 56% of 150",
+      "answer": "84",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 206,
+      "question": "Find 67% of 180",
+      "answer": "120.6",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 207,
+      "question": "Find 74% of 220",
+      "answer": "162.8",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 208,
+      "question": "Find 81% of 300",
+      "answer": "243",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 209,
+      "question": "Find 93% of 160",
+      "answer": "148.8",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 210,
+      "question": "Find 88% of 125",
+      "answer": "110",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1"
+    },
+    {
+      "id": 211,
+      "question": "Find 2.5% of 200",
+      "answer": "5",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 212,
+      "question": "Find 7.5% of 400",
+      "answer": "30",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 213,
+      "question": "Find 12.5% of 80",
+      "answer": "10",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 214,
+      "question": "Find 22.5% of 160",
+      "answer": "36",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 215,
+      "question": "Find 37.5% of 120",
+      "answer": "45",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 216,
+      "question": "Find 62.5% of 200",
+      "answer": "125",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 217,
+      "question": "Find 87.5% of 240",
+      "answer": "210",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 218,
+      "question": "Find 3% of 350",
+      "answer": "10.5",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 219,
+      "question": "Find 6% of 450",
+      "answer": "27",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 220,
+      "question": "Find 9% of 280",
+      "answer": "25.2",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2"
+    },
+    {
+      "id": 221,
+      "question": "\u00a380 jacket, 25% off. Final price?",
+      "answer": "\u00a360",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 222,
+      "question": "\u00a3120 shoes, 30% discount. Final price?",
+      "answer": "\u00a384",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 223,
+      "question": "\u00a350 meal + 15% tip. Total paid?",
+      "answer": "\u00a357.50",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 224,
+      "question": "\u00a3200 item + 20% VAT. Total cost?",
+      "answer": "\u00a3240",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 225,
+      "question": "\u00a3150 saved, 5% interest. Total after 1 year?",
+      "answer": "\u00a3157.50",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 226,
+      "question": "\u00a390 dress, 40% off. Final price?",
+      "answer": "\u00a354",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 227,
+      "question": "\u00a375 meal + 20% tip. Total paid?",
+      "answer": "\u00a390",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 228,
+      "question": "\u00a3180 computer + 20% VAT. Total cost?",
+      "answer": "\u00a3216",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 229,
+      "question": "\u00a3400 saved, 3% interest. Total after 1 year?",
+      "answer": "\u00a3412",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 230,
+      "question": "\u00a3100 item, 35% discount. Final price?",
+      "answer": "\u00a365",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1"
+    },
+    {
+      "id": 231,
+      "question": "Item \u00a360 + 20% VAT, then 10% discount on total. Final price?",
+      "answer": "\u00a364.80",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 232,
+      "question": "Test: 42/60. What % did you get?",
+      "answer": "70%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 233,
+      "question": "Class: 75% of 40 students passed. How many passed?",
+      "answer": "30 students",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 234,
+      "question": "45% of students (200 total) are boys. How many boys?",
+      "answer": "90 boys",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 235,
+      "question": "Shop: 30% of \u00a3500 sales is profit. How much profit?",
+      "answer": "\u00a3150",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 236,
+      "question": "Team won 65% of 80 matches. How many wins?",
+      "answer": "52 wins",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 237,
+      "question": "Book: 120 pages read (40% of total). Total pages?",
+      "answer": "300 pages",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 238,
+      "question": "Garden: 35% is lawn (280m\u00b2). Total garden size?",
+      "answer": "800m\u00b2",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 239,
+      "question": "80% of journey done (240 miles). Total journey?",
+      "answer": "300 miles",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 240,
+      "question": "Save 15% of \u00a3420 salary. How much saved?",
+      "answer": "\u00a363",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2"
+    },
+    {
+      "id": 241,
+      "question": "Which is bigger: 30% of 200 or 40% of 150?",
+      "answer": "Both equal (60)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 242,
+      "question": "Which is bigger: 25% of 80 or 20% of 100?",
+      "answer": "Both equal (20)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 243,
+      "question": "Which is bigger: 50% of 60 or 60% of 50?",
+      "answer": "Both equal (30)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 244,
+      "question": "Which is bigger: 10% of 400 or 20% of 200?",
+      "answer": "Both equal (40)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 245,
+      "question": "Which is bigger: 75% of 100 or 50% of 150?",
+      "answer": "Both equal (75)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 246,
+      "question": "Which is bigger: 15% of 200 or 30% of 100?",
+      "answer": "Both equal (30)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 247,
+      "question": "Which is bigger: 60% of 50 or 40% of 75?",
+      "answer": "Both equal (30)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 248,
+      "question": "Which is bigger: 20% of 250 or 25% of 200?",
+      "answer": "Both equal (50)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 249,
+      "question": "Which is bigger: 80% of 50 or 40% of 100?",
+      "answer": "Both equal (40)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 250,
+      "question": "Which is bigger: 35% of 200 or 70% of 100?",
+      "answer": "Both equal (70)",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages"
+    },
+    {
+      "id": 251,
+      "question": "Quick! 10% of 80",
+      "answer": "8",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 252,
+      "question": "Quick! 50% of 140",
+      "answer": "70",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 253,
+      "question": "Quick! 25% of 200",
+      "answer": "50",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 254,
+      "question": "Quick! 1% of 300",
+      "answer": "3",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 255,
+      "question": "Quick! 20% of 150",
+      "answer": "30",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 256,
+      "question": "Quick! 75% of 80",
+      "answer": "60",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 257,
+      "question": "Quick! 30% of 100",
+      "answer": "30",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 258,
+      "question": "Quick! 10% of 350",
+      "answer": "35",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 259,
+      "question": "Quick! 5% of 200",
+      "answer": "10",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 260,
+      "question": "Quick! 40% of 50",
+      "answer": "20",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 261,
+      "question": "0.7 as a percentage?",
+      "answer": "70%",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 262,
+      "question": "60% as a decimal?",
+      "answer": "0.6",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 263,
+      "question": "3/5 as a percentage?",
+      "answer": "60%",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 264,
+      "question": "40% as a fraction (simplest)?",
+      "answer": "2/5",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 265,
+      "question": "0.25 as a percentage?",
+      "answer": "25%",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 266,
+      "question": "80% as a decimal?",
+      "answer": "0.8",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 267,
+      "question": "1/4 as a percentage?",
+      "answer": "25%",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 268,
+      "question": "50% as a fraction (simplest)?",
+      "answer": "1/2",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 269,
+      "question": "0.9 as a percentage?",
+      "answer": "90%",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 270,
+      "question": "20% as a decimal?",
+      "answer": "0.2",
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions"
+    },
+    {
+      "id": 271,
+      "question": "Find 30% of 150",
+      "answer": "45",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 272,
+      "question": "Find 25% of 120",
+      "answer": "30",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 273,
+      "question": "Find 60% of 200",
+      "answer": "120",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 274,
+      "question": "Find 15% of 240",
+      "answer": "36",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 275,
+      "question": "Find 40% of 180",
+      "answer": "72",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 276,
+      "question": "Find 75% of 160",
+      "answer": "120",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 277,
+      "question": "Find 5% of 400",
+      "answer": "20",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 278,
+      "question": "Find 35% of 220",
+      "answer": "77",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 279,
+      "question": "Find 80% of 95",
+      "answer": "76",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 280,
+      "question": "Find 12% of 350",
+      "answer": "42",
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages"
+    },
+    {
+      "id": 281,
+      "question": "30% discount on \u00a390. How much off?",
+      "answer": "\u00a327",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 282,
+      "question": "15% tip on \u00a360. How much tip?",
+      "answer": "\u00a39",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 283,
+      "question": "20% VAT on \u00a3250. How much VAT?",
+      "answer": "\u00a350",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 284,
+      "question": "5% interest on \u00a3400. How much interest?",
+      "answer": "\u00a320",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 285,
+      "question": "Test: 36/60. What percentage?",
+      "answer": "60%",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 286,
+      "question": "25% of class (40 students) got A. How many?",
+      "answer": "10 students",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 287,
+      "question": "Shop made \u00a3180 profit (30% of sales). Total sales?",
+      "answer": "\u00a3600",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 288,
+      "question": "40% off \u00a3150 item. Final price?",
+      "answer": "\u00a390",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 289,
+      "question": "\u00a380 meal + 10% service. Total?",
+      "answer": "\u00a388",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 290,
+      "question": "\u00a3300 item + 20% VAT. Total?",
+      "answer": "\u00a3360",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 291,
+      "question": "What does percent mean?",
+      "answer": "Per hundred / out of 100",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 292,
+      "question": "To convert decimal to %, multiply by?",
+      "answer": "100",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 293,
+      "question": "To convert % to decimal, divide by?",
+      "answer": "100",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 294,
+      "question": "To find 10% quickly, divide by?",
+      "answer": "10",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 295,
+      "question": "To find 1% quickly, divide by?",
+      "answer": "100",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 296,
+      "question": "50% is the same as which fraction?",
+      "answer": "1/2",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 297,
+      "question": "Find 45% of 180",
+      "answer": "81",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 298,
+      "question": "Score 51/60. What percentage?",
+      "answer": "85%",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 299,
+      "question": "25% off \u00a380. Final price?",
+      "answer": "\u00a360",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 300,
+      "question": "What's the formula: percentage \u00d7 ?",
+      "answer": "Amount (as decimal \u00d7 amount)",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    }
+  ]
+}

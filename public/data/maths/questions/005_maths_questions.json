@@ -1,0 +1,518 @@
+{
+  "lessonId": 5,
+  "lessonNumber": "005",
+  "lessonTitle": "Finding Percentages",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Percentages - Basics",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 1, "question": "What does 'percent' mean?", "answer": "Per hundred / out of 100"},
+        {"id": 2, "question": "What is the symbol for percentage?", "answer": "%"},
+        {"id": 3, "question": "What is 100%?", "answer": "The whole / all of it"},
+        {"id": 4, "question": "What is 50%?", "answer": "Half"},
+        {"id": 5, "question": "What is 25%?", "answer": "A quarter / one quarter"},
+        {"id": 6, "question": "What is 10%?", "answer": "One tenth"},
+        {"id": 7, "question": "What is 1%?", "answer": "One hundredth"},
+        {"id": 8, "question": "Is 75% more or less than half?", "answer": "More than half"},
+        {"id": 9, "question": "Is 30% more or less than half?", "answer": "Less than half"},
+        {"id": 10, "question": "Which is bigger: 60% or 70%?", "answer": "70%"}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Converting Fractions to Percentages",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 11, "question": "Convert 1/2 to a percentage", "answer": "50%"},
+        {"id": 12, "question": "Convert 1/4 to a percentage", "answer": "25%"},
+        {"id": 13, "question": "Convert 3/4 to a percentage", "answer": "75%"},
+        {"id": 14, "question": "Convert 1/5 to a percentage", "answer": "20%"},
+        {"id": 15, "question": "Convert 2/5 to a percentage", "answer": "40%"},
+        {"id": 16, "question": "Convert 3/5 to a percentage", "answer": "60%"},
+        {"id": 17, "question": "Convert 4/5 to a percentage", "answer": "80%"},
+        {"id": 18, "question": "Convert 1/10 to a percentage", "answer": "10%"},
+        {"id": 19, "question": "Convert 3/10 to a percentage", "answer": "30%"},
+        {"id": 20, "question": "Convert 7/10 to a percentage", "answer": "70%"}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Converting Decimals to Percentages",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 21, "question": "Convert 0.5 to a percentage", "answer": "50%"},
+        {"id": 22, "question": "Convert 0.25 to a percentage", "answer": "25%"},
+        {"id": 23, "question": "Convert 0.75 to a percentage", "answer": "75%"},
+        {"id": 24, "question": "Convert 0.1 to a percentage", "answer": "10%"},
+        {"id": 25, "question": "Convert 0.2 to a percentage", "answer": "20%"},
+        {"id": 26, "question": "Convert 0.3 to a percentage", "answer": "30%"},
+        {"id": 27, "question": "Convert 0.6 to a percentage", "answer": "60%"},
+        {"id": 28, "question": "Convert 0.9 to a percentage", "answer": "90%"},
+        {"id": 29, "question": "Convert 0.45 to a percentage", "answer": "45%"},
+        {"id": 30, "question": "Convert 0.83 to a percentage", "answer": "83%"}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Converting Percentages to Decimals",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 31, "question": "Convert 50% to a decimal", "answer": "0.5"},
+        {"id": 32, "question": "Convert 25% to a decimal", "answer": "0.25"},
+        {"id": 33, "question": "Convert 75% to a decimal", "answer": "0.75"},
+        {"id": 34, "question": "Convert 10% to a decimal", "answer": "0.1"},
+        {"id": 35, "question": "Convert 20% to a decimal", "answer": "0.2"},
+        {"id": 36, "question": "Convert 30% to a decimal", "answer": "0.3"},
+        {"id": 37, "question": "Convert 60% to a decimal", "answer": "0.6"},
+        {"id": 38, "question": "Convert 90% to a decimal", "answer": "0.9"},
+        {"id": 39, "question": "Convert 5% to a decimal", "answer": "0.05"},
+        {"id": 40, "question": "Convert 85% to a decimal", "answer": "0.85"}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Converting Percentages to Fractions",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 41, "question": "Convert 50% to a fraction (simplest form)", "answer": "1/2"},
+        {"id": 42, "question": "Convert 25% to a fraction (simplest form)", "answer": "1/4"},
+        {"id": 43, "question": "Convert 75% to a fraction (simplest form)", "answer": "3/4"},
+        {"id": 44, "question": "Convert 20% to a fraction (simplest form)", "answer": "1/5"},
+        {"id": 45, "question": "Convert 40% to a fraction (simplest form)", "answer": "2/5"},
+        {"id": 46, "question": "Convert 60% to a fraction (simplest form)", "answer": "3/5"},
+        {"id": 47, "question": "Convert 80% to a fraction (simplest form)", "answer": "4/5"},
+        {"id": 48, "question": "Convert 10% to a fraction (simplest form)", "answer": "1/10"},
+        {"id": 49, "question": "Convert 30% to a fraction (simplest form)", "answer": "3/10"},
+        {"id": 50, "question": "Convert 70% to a fraction (simplest form)", "answer": "7/10"}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Finding 10% of Numbers",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 51, "question": "Find 10% of 50", "answer": "5"},
+        {"id": 52, "question": "Find 10% of 80", "answer": "8"},
+        {"id": 53, "question": "Find 10% of 120", "answer": "12"},
+        {"id": 54, "question": "Find 10% of 200", "answer": "20"},
+        {"id": 55, "question": "Find 10% of 350", "answer": "35"},
+        {"id": 56, "question": "Find 10% of 70", "answer": "7"},
+        {"id": 57, "question": "Find 10% of 450", "answer": "45"},
+        {"id": 58, "question": "Find 10% of 600", "answer": "60"},
+        {"id": 59, "question": "Find 10% of 35", "answer": "3.5"},
+        {"id": 60, "question": "Find 10% of 1000", "answer": "100"}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Finding 1% of Numbers",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 61, "question": "Find 1% of 100", "answer": "1"},
+        {"id": 62, "question": "Find 1% of 200", "answer": "2"},
+        {"id": 63, "question": "Find 1% of 500", "answer": "5"},
+        {"id": 64, "question": "Find 1% of 1000", "answer": "10"},
+        {"id": 65, "question": "Find 1% of 350", "answer": "3.5"},
+        {"id": 66, "question": "Find 1% of 800", "answer": "8"},
+        {"id": 67, "question": "Find 1% of 1200", "answer": "12"},
+        {"id": 68, "question": "Find 1% of 2500", "answer": "25"},
+        {"id": 69, "question": "Find 1% of 450", "answer": "4.5"},
+        {"id": 70, "question": "Find 1% of 3000", "answer": "30"}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Finding 50%, 25%, 20% - Using Fractions",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 71, "question": "Find 50% of 80 (half)", "answer": "40"},
+        {"id": 72, "question": "Find 50% of 120", "answer": "60"},
+        {"id": 73, "question": "Find 25% of 80 (quarter)", "answer": "20"},
+        {"id": 74, "question": "Find 25% of 100", "answer": "25"},
+        {"id": 75, "question": "Find 75% of 80 (3 quarters)", "answer": "60"},
+        {"id": 76, "question": "Find 75% of 100", "answer": "75"},
+        {"id": 77, "question": "Find 20% of 100 (one fifth)", "answer": "20"},
+        {"id": 78, "question": "Find 20% of 50", "answer": "10"},
+        {"id": 79, "question": "Find 50% of 200", "answer": "100"},
+        {"id": 80, "question": "Find 25% of 200", "answer": "50"}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Finding Percentages - Building Block Method 1",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 81, "question": "Find 30% of 100 (10% × 3)", "answer": "30"},
+        {"id": 82, "question": "Find 30% of 200", "answer": "60"},
+        {"id": 83, "question": "Find 40% of 100", "answer": "40"},
+        {"id": 84, "question": "Find 40% of 150", "answer": "60"},
+        {"id": 85, "question": "Find 60% of 100", "answer": "60"},
+        {"id": 86, "question": "Find 60% of 50", "answer": "30"},
+        {"id": 87, "question": "Find 70% of 100", "answer": "70"},
+        {"id": 88, "question": "Find 70% of 200", "answer": "140"},
+        {"id": 89, "question": "Find 80% of 100", "answer": "80"},
+        {"id": 90, "question": "Find 90% of 100", "answer": "90"}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Finding Percentages - Building Block Method 2",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 91, "question": "Find 5% of 80 (half of 10%)", "answer": "4"},
+        {"id": 92, "question": "Find 5% of 200", "answer": "10"},
+        {"id": 93, "question": "Find 15% of 100 (10% + 5%)", "answer": "15"},
+        {"id": 94, "question": "Find 15% of 200", "answer": "30"},
+        {"id": 95, "question": "Find 35% of 100", "answer": "35"},
+        {"id": 96, "question": "Find 35% of 200", "answer": "70"},
+        {"id": 97, "question": "Find 45% of 100", "answer": "45"},
+        {"id": 98, "question": "Find 45% of 200", "answer": "90"},
+        {"id": 99, "question": "Find 55% of 100", "answer": "55"},
+        {"id": 100, "question": "Find 65% of 100", "answer": "65"}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Finding Percentages - Formula Method (Easy)",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 101, "question": "Find 30% of 200 (0.3 × 200)", "answer": "60"},
+        {"id": 102, "question": "Find 40% of 150 (0.4 × 150)", "answer": "60"},
+        {"id": 103, "question": "Find 25% of 80 (0.25 × 80)", "answer": "20"},
+        {"id": 104, "question": "Find 50% of 140 (0.5 × 140)", "answer": "70"},
+        {"id": 105, "question": "Find 75% of 120 (0.75 × 120)", "answer": "90"},
+        {"id": 106, "question": "Find 20% of 250 (0.2 × 250)", "answer": "50"},
+        {"id": 107, "question": "Find 60% of 80 (0.6 × 80)", "answer": "48"},
+        {"id": 108, "question": "Find 10% of 350 (0.1 × 350)", "answer": "35"},
+        {"id": 109, "question": "Find 80% of 50 (0.8 × 50)", "answer": "40"},
+        {"id": 110, "question": "Find 90% of 200 (0.9 × 200)", "answer": "180"}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Finding Percentages - Formula Method (Harder)",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 111, "question": "Find 15% of 80 (0.15 × 80)", "answer": "12"},
+        {"id": 112, "question": "Find 35% of 200 (0.35 × 200)", "answer": "70"},
+        {"id": 113, "question": "Find 45% of 120 (0.45 × 120)", "answer": "54"},
+        {"id": 114, "question": "Find 65% of 140 (0.65 × 140)", "answer": "91"},
+        {"id": 115, "question": "Find 85% of 200 (0.85 × 200)", "answer": "170"},
+        {"id": 116, "question": "Find 12% of 250 (0.12 × 250)", "answer": "30"},
+        {"id": 117, "question": "Find 18% of 300 (0.18 × 300)", "answer": "54"},
+        {"id": 118, "question": "Find 24% of 150 (0.24 × 150)", "answer": "36"},
+        {"id": 119, "question": "Find 36% of 200 (0.36 × 200)", "answer": "72"},
+        {"id": 120, "question": "Find 48% of 125 (0.48 × 125)", "answer": "60"}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Finding Percentages - Mixed Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 121, "question": "Find 30% of 50", "answer": "15"},
+        {"id": 122, "question": "Find 25% of 60", "answer": "15"},
+        {"id": 123, "question": "Find 40% of 75", "answer": "30"},
+        {"id": 124, "question": "Find 15% of 180", "answer": "27"},
+        {"id": 125, "question": "Find 60% of 90", "answer": "54"},
+        {"id": 126, "question": "Find 5% of 240", "answer": "12"},
+        {"id": 127, "question": "Find 35% of 160", "answer": "56"},
+        {"id": 128, "question": "Find 55% of 120", "answer": "66"},
+        {"id": 129, "question": "Find 8% of 250", "answer": "20"},
+        {"id": 130, "question": "Find 72% of 50", "answer": "36"}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Finding What Percentage One Number Is of Another",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 131, "question": "What % is 20 out of 100?", "answer": "20%"},
+        {"id": 132, "question": "What % is 30 out of 100?", "answer": "30%"},
+        {"id": 133, "question": "What % is 25 out of 50?", "answer": "50%"},
+        {"id": 134, "question": "What % is 15 out of 60?", "answer": "25%"},
+        {"id": 135, "question": "What % is 30 out of 60?", "answer": "50%"},
+        {"id": 136, "question": "What % is 40 out of 80?", "answer": "50%"},
+        {"id": 137, "question": "What % is 18 out of 90?", "answer": "20%"},
+        {"id": 138, "question": "What % is 45 out of 90?", "answer": "50%"},
+        {"id": 139, "question": "What % is 20 out of 50?", "answer": "40%"},
+        {"id": 140, "question": "What % is 35 out of 70?", "answer": "50%"}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Finding Percentages - Test Scores",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 141, "question": "Score: 40/50. What percentage?", "answer": "80%"},
+        {"id": 142, "question": "Score: 30/40. What percentage?", "answer": "75%"},
+        {"id": 143, "question": "Score: 45/60. What percentage?", "answer": "75%"},
+        {"id": 144, "question": "Score: 27/30. What percentage?", "answer": "90%"},
+        {"id": 145, "question": "Score: 18/20. What percentage?", "answer": "90%"},
+        {"id": 146, "question": "Score: 36/40. What percentage?", "answer": "90%"},
+        {"id": 147, "question": "Score: 48/60. What percentage?", "answer": "80%"},
+        {"id": 148, "question": "Score: 21/30. What percentage?", "answer": "70%"},
+        {"id": 149, "question": "Score: 35/50. What percentage?", "answer": "70%"},
+        {"id": 150, "question": "Score: 42/50. What percentage?", "answer": "84%"}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 1)",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 151, "question": "Find 10% of £50", "answer": "£5"},
+        {"id": 152, "question": "Find 20% of £80", "answer": "£16"},
+        {"id": 153, "question": "Find 25% of £60", "answer": "£15"},
+        {"id": 154, "question": "Find 30% of £100", "answer": "£30"},
+        {"id": 155, "question": "Find 40% of £75", "answer": "£30"},
+        {"id": 156, "question": "Find 50% of £90", "answer": "£45"},
+        {"id": 157, "question": "Find 15% of £200", "answer": "£30"},
+        {"id": 158, "question": "Find 35% of £120", "answer": "£42"},
+        {"id": 159, "question": "Find 60% of £150", "answer": "£90"},
+        {"id": 160, "question": "Find 75% of £80", "answer": "£60"}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Shopping & Sales (Part 2)",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 161, "question": "20% discount on £60. How much discount?", "answer": "£12"},
+        {"id": 162, "question": "30% off £100. How much off?", "answer": "£30"},
+        {"id": 163, "question": "25% discount on £80. How much discount?", "answer": "£20"},
+        {"id": 164, "question": "50% off £150. How much off?", "answer": "£75"},
+        {"id": 165, "question": "10% discount on £200. How much discount?", "answer": "£20"},
+        {"id": 166, "question": "40% off £120. How much off?", "answer": "£48"},
+        {"id": 167, "question": "15% discount on £180. How much discount?", "answer": "£27"},
+        {"id": 168, "question": "60% off £50. How much off?", "answer": "£30"},
+        {"id": 169, "question": "35% discount on £140. How much discount?", "answer": "£49"},
+        {"id": 170, "question": "5% off £240. How much off?", "answer": "£12"}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Tips and Service Charges",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 171, "question": "15% tip on £40 meal. How much tip?", "answer": "£6"},
+        {"id": 172, "question": "10% service charge on £60 bill. How much?", "answer": "£6"},
+        {"id": 173, "question": "20% tip on £50 meal. How much tip?", "answer": "£10"},
+        {"id": 174, "question": "12% service on £80 bill. How much?", "answer": "£9.60"},
+        {"id": 175, "question": "15% tip on £70 meal. How much tip?", "answer": "£10.50"},
+        {"id": 176, "question": "18% service on £100 bill. How much?", "answer": "£18"},
+        {"id": 177, "question": "10% tip on £85 meal. How much tip?", "answer": "£8.50"},
+        {"id": 178, "question": "20% service on £75 bill. How much?", "answer": "£15"},
+        {"id": 179, "question": "15% tip on £120 meal. How much tip?", "answer": "£18"},
+        {"id": 180, "question": "25% service on £60 bill. How much?", "answer": "£15"}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Word Problems - VAT and Tax",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 181, "question": "20% VAT on £100. How much VAT?", "answer": "£20"},
+        {"id": 182, "question": "20% VAT on £50. How much VAT?", "answer": "£10"},
+        {"id": 183, "question": "20% VAT on £200. How much VAT?", "answer": "£40"},
+        {"id": 184, "question": "20% VAT on £150. How much VAT?", "answer": "£30"},
+        {"id": 185, "question": "20% VAT on £75. How much VAT?", "answer": "£15"},
+        {"id": 186, "question": "20% VAT on £300. How much VAT?", "answer": "£60"},
+        {"id": 187, "question": "20% VAT on £45. How much VAT?", "answer": "£9"},
+        {"id": 188, "question": "20% VAT on £125. How much VAT?", "answer": "£25"},
+        {"id": 189, "question": "20% VAT on £250. How much VAT?", "answer": "£50"},
+        {"id": 190, "question": "20% VAT on £180. How much VAT?", "answer": "£36"}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Word Problems - Interest and Savings",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 191, "question": "5% interest on £200. How much interest?", "answer": "£10"},
+        {"id": 192, "question": "3% interest on £500. How much interest?", "answer": "£15"},
+        {"id": 193, "question": "4% interest on £300. How much interest?", "answer": "£12"},
+        {"id": 194, "question": "2% interest on £1000. How much interest?", "answer": "£20"},
+        {"id": 195, "question": "6% interest on £150. How much interest?", "answer": "£9"},
+        {"id": 196, "question": "8% interest on £250. How much interest?", "answer": "£20"},
+        {"id": 197, "question": "10% interest on £400. How much interest?", "answer": "£40"},
+        {"id": 198, "question": "5% interest on £600. How much interest?", "answer": "£30"},
+        {"id": 199, "question": "3% interest on £800. How much interest?", "answer": "£24"},
+        {"id": 200, "question": "7% interest on £200. How much interest?", "answer": "£14"}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Percentages 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 201, "question": "Find 17% of 300", "answer": "51"},
+        {"id": 202, "question": "Find 23% of 400", "answer": "92"},
+        {"id": 203, "question": "Find 37% of 200", "answer": "74"},
+        {"id": 204, "question": "Find 43% of 250", "answer": "107.5"},
+        {"id": 205, "question": "Find 56% of 150", "answer": "84"},
+        {"id": 206, "question": "Find 67% of 180", "answer": "120.6"},
+        {"id": 207, "question": "Find 74% of 220", "answer": "162.8"},
+        {"id": 208, "question": "Find 81% of 300", "answer": "243"},
+        {"id": 209, "question": "Find 93% of 160", "answer": "148.8"},
+        {"id": 210, "question": "Find 88% of 125", "answer": "110"}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Percentages 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 211, "question": "Find 2.5% of 200", "answer": "5"},
+        {"id": 212, "question": "Find 7.5% of 400", "answer": "30"},
+        {"id": 213, "question": "Find 12.5% of 80", "answer": "10"},
+        {"id": 214, "question": "Find 22.5% of 160", "answer": "36"},
+        {"id": 215, "question": "Find 37.5% of 120", "answer": "45"},
+        {"id": 216, "question": "Find 62.5% of 200", "answer": "125"},
+        {"id": 217, "question": "Find 87.5% of 240", "answer": "210"},
+        {"id": 218, "question": "Find 3% of 350", "answer": "10.5"},
+        {"id": 219, "question": "Find 6% of 450", "answer": "27"},
+        {"id": 220, "question": "Find 9% of 280", "answer": "25.2"}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Multi-Step Problems 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 221, "question": "£80 jacket, 25% off. Final price?", "answer": "£60"},
+        {"id": 222, "question": "£120 shoes, 30% discount. Final price?", "answer": "£84"},
+        {"id": 223, "question": "£50 meal + 15% tip. Total paid?", "answer": "£57.50"},
+        {"id": 224, "question": "£200 item + 20% VAT. Total cost?", "answer": "£240"},
+        {"id": 225, "question": "£150 saved, 5% interest. Total after 1 year?", "answer": "£157.50"},
+        {"id": 226, "question": "£90 dress, 40% off. Final price?", "answer": "£54"},
+        {"id": 227, "question": "£75 meal + 20% tip. Total paid?", "answer": "£90"},
+        {"id": 228, "question": "£180 computer + 20% VAT. Total cost?", "answer": "£216"},
+        {"id": 229, "question": "£400 saved, 3% interest. Total after 1 year?", "answer": "£412"},
+        {"id": 230, "question": "£100 item, 35% discount. Final price?", "answer": "£65"}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Multi-Step Problems 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 231, "question": "Item £60 + 20% VAT, then 10% discount on total. Final price?", "answer": "£64.80"},
+        {"id": 232, "question": "Test: 42/60. What % did you get?", "answer": "70%"},
+        {"id": 233, "question": "Class: 75% of 40 students passed. How many passed?", "answer": "30 students"},
+        {"id": 234, "question": "45% of students (200 total) are boys. How many boys?", "answer": "90 boys"},
+        {"id": 235, "question": "Shop: 30% of £500 sales is profit. How much profit?", "answer": "£150"},
+        {"id": 236, "question": "Team won 65% of 80 matches. How many wins?", "answer": "52 wins"},
+        {"id": 237, "question": "Book: 120 pages read (40% of total). Total pages?", "answer": "300 pages"},
+        {"id": 238, "question": "Garden: 35% is lawn (280m²). Total garden size?", "answer": "800m²"},
+        {"id": 239, "question": "80% of journey done (240 miles). Total journey?", "answer": "300 miles"},
+        {"id": 240, "question": "Save 15% of £420 salary. How much saved?", "answer": "£63"}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Comparing Percentages",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 241, "question": "Which is bigger: 30% of 200 or 40% of 150?", "answer": "Both equal (60)"},
+        {"id": 242, "question": "Which is bigger: 25% of 80 or 20% of 100?", "answer": "Both equal (20)"},
+        {"id": 243, "question": "Which is bigger: 50% of 60 or 60% of 50?", "answer": "Both equal (30)"},
+        {"id": 244, "question": "Which is bigger: 10% of 400 or 20% of 200?", "answer": "Both equal (40)"},
+        {"id": 245, "question": "Which is bigger: 75% of 100 or 50% of 150?", "answer": "Both equal (75)"},
+        {"id": 246, "question": "Which is bigger: 15% of 200 or 30% of 100?", "answer": "Both equal (30)"},
+        {"id": 247, "question": "Which is bigger: 60% of 50 or 40% of 75?", "answer": "Both equal (30)"},
+        {"id": 248, "question": "Which is bigger: 20% of 250 or 25% of 200?", "answer": "Both equal (50)"},
+        {"id": 249, "question": "Which is bigger: 80% of 50 or 40% of 100?", "answer": "Both equal (40)"},
+        {"id": 250, "question": "Which is bigger: 35% of 200 or 70% of 100?", "answer": "Both equal (70)"}
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 251, "question": "Quick! 10% of 80", "answer": "8"},
+        {"id": 252, "question": "Quick! 50% of 140", "answer": "70"},
+        {"id": 253, "question": "Quick! 25% of 200", "answer": "50"},
+        {"id": 254, "question": "Quick! 1% of 300", "answer": "3"},
+        {"id": 255, "question": "Quick! 20% of 150", "answer": "30"},
+        {"id": 256, "question": "Quick! 75% of 80", "answer": "60"},
+        {"id": 257, "question": "Quick! 30% of 100", "answer": "30"},
+        {"id": 258, "question": "Quick! 10% of 350", "answer": "35"},
+        {"id": 259, "question": "Quick! 5% of 200", "answer": "10"},
+        {"id": 260, "question": "Quick! 40% of 50", "answer": "20"}
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Review - Conversions",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 261, "question": "0.7 as a percentage?", "answer": "70%"},
+        {"id": 262, "question": "60% as a decimal?", "answer": "0.6"},
+        {"id": 263, "question": "3/5 as a percentage?", "answer": "60%"},
+        {"id": 264, "question": "40% as a fraction (simplest)?", "answer": "2/5"},
+        {"id": 265, "question": "0.25 as a percentage?", "answer": "25%"},
+        {"id": 266, "question": "80% as a decimal?", "answer": "0.8"},
+        {"id": 267, "question": "1/4 as a percentage?", "answer": "25%"},
+        {"id": 268, "question": "50% as a fraction (simplest)?", "answer": "1/2"},
+        {"id": 269, "question": "0.9 as a percentage?", "answer": "90%"},
+        {"id": 270, "question": "20% as a decimal?", "answer": "0.2"}
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Review - Finding Percentages",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 271, "question": "Find 30% of 150", "answer": "45"},
+        {"id": 272, "question": "Find 25% of 120", "answer": "30"},
+        {"id": 273, "question": "Find 60% of 200", "answer": "120"},
+        {"id": 274, "question": "Find 15% of 240", "answer": "36"},
+        {"id": 275, "question": "Find 40% of 180", "answer": "72"},
+        {"id": 276, "question": "Find 75% of 160", "answer": "120"},
+        {"id": 277, "question": "Find 5% of 400", "answer": "20"},
+        {"id": 278, "question": "Find 35% of 220", "answer": "77"},
+        {"id": 279, "question": "Find 80% of 95", "answer": "76"},
+        {"id": 280, "question": "Find 12% of 350", "answer": "42"}
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 281, "question": "30% discount on £90. How much off?", "answer": "£27"},
+        {"id": 282, "question": "15% tip on £60. How much tip?", "answer": "£9"},
+        {"id": 283, "question": "20% VAT on £250. How much VAT?", "answer": "£50"},
+        {"id": 284, "question": "5% interest on £400. How much interest?", "answer": "£20"},
+        {"id": 285, "question": "Test: 36/60. What percentage?", "answer": "60%"},
+        {"id": 286, "question": "25% of class (40 students) got A. How many?", "answer": "10 students"},
+        {"id": 287, "question": "Shop made £180 profit (30% of sales). Total sales?", "answer": "£600"},
+        {"id": 288, "question": "40% off £150 item. Final price?", "answer": "£90"},
+        {"id": 289, "question": "£80 meal + 10% service. Total?", "answer": "£88"},
+        {"id": 290, "question": "£300 item + 20% VAT. Total?", "answer": "£360"}
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 291, "question": "What does percent mean?", "answer": "Per hundred / out of 100"},
+        {"id": 292, "question": "To convert decimal to %, multiply by?", "answer": "100"},
+        {"id": 293, "question": "To convert % to decimal, divide by?", "answer": "100"},
+        {"id": 294, "question": "To find 10% quickly, divide by?", "answer": "10"},
+        {"id": 295, "question": "To find 1% quickly, divide by?", "answer": "100"},
+        {"id": 296, "question": "50% is the same as which fraction?", "answer": "1/2"},
+        {"id": 297, "question": "Find 45% of 180", "answer": "81"},
+        {"id": 298, "question": "Score 51/60. What percentage?", "answer": "85%"},
+        {"id": 299, "question": "25% off £80. Final price?", "answer": "£60"},
+        {"id": 300, "question": "What's the formula: percentage × ?", "answer": "Amount (as decimal × amount)"}
+      ]
+    }
+  ]
+}

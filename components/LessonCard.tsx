@@ -56,7 +56,7 @@ export default function LessonCard({ lesson, progress, isLocked, courseSlug }: L
   };
 
   const content = (
-    <div className={`rounded-lg p-4 transition-all relative ${getCardStyle()} ${!isLocked && isContentReady ? 'hover:shadow-lg cursor-pointer' : 'cursor-not-allowed'}`}>
+    <div className={`rounded-lg p-4 transition-all relative h-full flex flex-col ${getCardStyle()} ${!isLocked && isContentReady ? 'hover:shadow-lg cursor-pointer' : 'cursor-not-allowed'}`}>
       {/* Green Tick for Completed Lessons */}
       {lessonCompleted && (
         <div className="absolute top-3 right-3 z-20">
@@ -144,7 +144,7 @@ export default function LessonCard({ lesson, progress, isLocked, courseSlug }: L
 
       {/* Accuracy Score */}
       {accuracy !== null && (
-        <div className="mt-3 pt-3 border-t border-gray-200">
+        <div className="mt-auto pt-3 border-t border-gray-200">
           <div className="flex items-center justify-between mb-1">
             <span className="text-xs font-semibold text-gray-700">Accuracy</span>
             <span className="text-xs font-bold text-blue-600">{accuracy}%</span>
@@ -162,12 +162,12 @@ export default function LessonCard({ lesson, progress, isLocked, courseSlug }: L
 
   // If locked or content not ready, return non-clickable div
   if (isLocked || !isContentReady) {
-    return content;
+    return <div className="h-full">{content}</div>;
   }
 
   // Otherwise, wrap in Link
   return (
-    <Link href={`/courses/${courseSlug}/lessons/${lesson.slug}`}>
+    <Link href={`/courses/${courseSlug}/lessons/${lesson.slug}`} className="h-full block">
       {content}
     </Link>
   );

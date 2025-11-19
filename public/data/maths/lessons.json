@@ -102,12 +102,12 @@
       "confidenceTarget": 8,
       "prerequisites": [1, 4],
       "topicsCovered": ["percentages", "fractions", "decimals", "conversions"],
-      "contentReady": false,
+      "contentReady": true,
       "files": {
-        "instructions": "005_Percentages.json",
-        "questions": "005_Percentages.json",
-        "worksheet": "005_Percentages.pdf",
-        "answers": "005_Percentages.pdf"
+        "instructions": "005_maths_lesson.md",
+        "questions": "005_maths_questions.json",
+        "worksheet": "005_maths.pdf",
+        "answers": "005_maths_answers.json"
       }
     },
     {
@@ -123,7 +123,13 @@
       "confidenceTarget": 7,
       "prerequisites": [5],
       "topicsCovered": ["percentage increase", "percentage decrease", "multipliers"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "006_maths_lesson.md",
+        "questions": "006_maths_questions.json",
+        "worksheet": "006_maths.pdf",
+        "answers": "006_maths_answers.json"
+      }
     },
     {
       "id": 7,

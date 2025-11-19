@@ -1,0 +1,518 @@
+{
+  "lessonId": 6,
+  "lessonNumber": "006",
+  "lessonTitle": "Percentages - Increase & Decrease",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 1, "question": "Does 'increase by 20%' make a number bigger or smaller?", "answer": "Bigger"},
+        {"id": 2, "question": "Does 'decrease by 30%' make a number bigger or smaller?", "answer": "Smaller"},
+        {"id": 3, "question": "If something increases, is it more or less than before?", "answer": "More"},
+        {"id": 4, "question": "If something decreases, is it more or less than before?", "answer": "Less"},
+        {"id": 5, "question": "Is a multiplier for increase bigger or smaller than 1?", "answer": "Bigger than 1"},
+        {"id": 6, "question": "Is a multiplier for decrease bigger or smaller than 1?", "answer": "Smaller than 1"},
+        {"id": 7, "question": "'50% OFF' means increase or decrease?", "answer": "Decrease"},
+        {"id": 8, "question": "'Salary up 5%' means increase or decrease?", "answer": "Increase"},
+        {"id": 9, "question": "'Price reduced by 20%' means increase or decrease?", "answer": "Decrease"},
+        {"id": 10, "question": "'Population grew 10%' means increase or decrease?", "answer": "Increase"}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 11, "question": "Multiplier for increase by 10%", "answer": "1.1"},
+        {"id": 12, "question": "Multiplier for increase by 20%", "answer": "1.2"},
+        {"id": 13, "question": "Multiplier for increase by 30%", "answer": "1.3"},
+        {"id": 14, "question": "Multiplier for increase by 25%", "answer": "1.25"},
+        {"id": 15, "question": "Multiplier for increase by 50%", "answer": "1.5"},
+        {"id": 16, "question": "Multiplier for increase by 5%", "answer": "1.05"},
+        {"id": 17, "question": "Multiplier for increase by 15%", "answer": "1.15"},
+        {"id": 18, "question": "Multiplier for increase by 40%", "answer": "1.4"},
+        {"id": 19, "question": "Multiplier for increase by 75%", "answer": "1.75"},
+        {"id": 20, "question": "Multiplier for increase by 8%", "answer": "1.08"}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 21, "question": "Multiplier for decrease by 10%", "answer": "0.9"},
+        {"id": 22, "question": "Multiplier for decrease by 20%", "answer": "0.8"},
+        {"id": 23, "question": "Multiplier for decrease by 30%", "answer": "0.7"},
+        {"id": 24, "question": "Multiplier for decrease by 25%", "answer": "0.75"},
+        {"id": 25, "question": "Multiplier for decrease by 50%", "answer": "0.5"},
+        {"id": 26, "question": "Multiplier for decrease by 5%", "answer": "0.95"},
+        {"id": 27, "question": "Multiplier for decrease by 15%", "answer": "0.85"},
+        {"id": 28, "question": "Multiplier for decrease by 40%", "answer": "0.6"},
+        {"id": 29, "question": "Multiplier for decrease by 75%", "answer": "0.25"},
+        {"id": 30, "question": "Multiplier for decrease by 8%", "answer": "0.92"}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 31, "question": "Increase £50 by 10% (find 10%, then add)", "answer": "£55"},
+        {"id": 32, "question": "Increase £80 by 20% (find 20%, then add)", "answer": "£96"},
+        {"id": 33, "question": "Increase £100 by 30% (find 30%, then add)", "answer": "£130"},
+        {"id": 34, "question": "Increase £60 by 25% (find 25%, then add)", "answer": "£75"},
+        {"id": 35, "question": "Increase £40 by 50% (find 50%, then add)", "answer": "£60"},
+        {"id": 36, "question": "Increase £200 by 10% (find 10%, then add)", "answer": "£220"},
+        {"id": 37, "question": "Increase £150 by 20% (find 20%, then add)", "answer": "£180"},
+        {"id": 38, "question": "Increase £120 by 5% (find 5%, then add)", "answer": "£126"},
+        {"id": 39, "question": "Increase £70 by 10% (find 10%, then add)", "answer": "£77"},
+        {"id": 40, "question": "Increase £90 by 10% (find 10%, then add)", "answer": "£99"}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 41, "question": "Decrease £50 by 10% (find 10%, then subtract)", "answer": "£45"},
+        {"id": 42, "question": "Decrease £80 by 20% (find 20%, then subtract)", "answer": "£64"},
+        {"id": 43, "question": "Decrease £100 by 30% (find 30%, then subtract)", "answer": "£70"},
+        {"id": 44, "question": "Decrease £60 by 25% (find 25%, then subtract)", "answer": "£45"},
+        {"id": 45, "question": "Decrease £40 by 50% (find 50%, then subtract)", "answer": "£20"},
+        {"id": 46, "question": "Decrease £200 by 10% (find 10%, then subtract)", "answer": "£180"},
+        {"id": 47, "question": "Decrease £150 by 20% (find 20%, then subtract)", "answer": "£120"},
+        {"id": 48, "question": "Decrease £120 by 5% (find 5%, then subtract)", "answer": "£114"},
+        {"id": 49, "question": "Decrease £70 by 10% (find 10%, then subtract)", "answer": "£63"},
+        {"id": 50, "question": "Decrease £90 by 10% (find 10%, then subtract)", "answer": "£81"}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 51, "question": "Increase £50 by 10% (× 1.1)", "answer": "£55"},
+        {"id": 52, "question": "Increase £80 by 20% (× 1.2)", "answer": "£96"},
+        {"id": 53, "question": "Increase £100 by 30% (× 1.3)", "answer": "£130"},
+        {"id": 54, "question": "Increase £60 by 25% (× 1.25)", "answer": "£75"},
+        {"id": 55, "question": "Increase £40 by 50% (× 1.5)", "answer": "£60"},
+        {"id": 56, "question": "Increase £200 by 15% (× 1.15)", "answer": "£230"},
+        {"id": 57, "question": "Increase £150 by 40% (× 1.4)", "answer": "£210"},
+        {"id": 58, "question": "Increase £120 by 5% (× 1.05)", "answer": "£126"},
+        {"id": 59, "question": "Increase £70 by 8% (× 1.08)", "answer": "£75.60"},
+        {"id": 60, "question": "Increase £90 by 12% (× 1.12)", "answer": "£100.80"}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 61, "question": "Decrease £50 by 10% (× 0.9)", "answer": "£45"},
+        {"id": 62, "question": "Decrease £80 by 20% (× 0.8)", "answer": "£64"},
+        {"id": 63, "question": "Decrease £100 by 30% (× 0.7)", "answer": "£70"},
+        {"id": 64, "question": "Decrease £60 by 25% (× 0.75)", "answer": "£45"},
+        {"id": 65, "question": "Decrease £40 by 50% (× 0.5)", "answer": "£20"},
+        {"id": 66, "question": "Decrease £200 by 15% (× 0.85)", "answer": "£170"},
+        {"id": 67, "question": "Decrease £150 by 40% (× 0.6)", "answer": "£90"},
+        {"id": 68, "question": "Decrease £120 by 5% (× 0.95)", "answer": "£114"},
+        {"id": 69, "question": "Decrease £70 by 8% (× 0.92)", "answer": "£64.40"},
+        {"id": 70, "question": "Decrease £90 by 12% (× 0.88)", "answer": "£79.20"}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 71, "question": "Increase 200 by 35%", "answer": "270"},
+        {"id": 72, "question": "Decrease 150 by 45%", "answer": "82.5"},
+        {"id": 73, "question": "Increase 180 by 22%", "answer": "219.6"},
+        {"id": 74, "question": "Decrease 240 by 18%", "answer": "196.8"},
+        {"id": 75, "question": "Increase 320 by 12.5%", "answer": "360"},
+        {"id": 76, "question": "Decrease 280 by 37.5%", "answer": "175"},
+        {"id": 77, "question": "Increase 450 by 6%", "answer": "477"},
+        {"id": 78, "question": "Decrease 360 by 55%", "answer": "162"},
+        {"id": 79, "question": "Increase 125 by 16%", "answer": "145"},
+        {"id": 80, "question": "Decrease 175 by 24%", "answer": "133"}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 81, "question": "Salary £20,000, increased 5%. New salary?", "answer": "£21,000"},
+        {"id": 82, "question": "Wage £18,000, increased 8%. New wage?", "answer": "£19,440"},
+        {"id": 83, "question": "Salary £25,000, increased 3%. New salary?", "answer": "£25,750"},
+        {"id": 84, "question": "Wage £22,000, increased 10%. New wage?", "answer": "£24,200"},
+        {"id": 85, "question": "Salary £30,000, increased 4%. New salary?", "answer": "£31,200"},
+        {"id": 86, "question": "Wage £16,000, increased 6%. New wage?", "answer": "£16,960"},
+        {"id": 87, "question": "Salary £35,000, increased 7%. New salary?", "answer": "£37,450"},
+        {"id": 88, "question": "Wage £28,000, increased 2.5%. New wage?", "answer": "£28,700"},
+        {"id": 89, "question": "Salary £40,000, increased 9%. New salary?", "answer": "£43,600"},
+        {"id": 90, "question": "Wage £32,000, increased 12%. New wage?", "answer": "£35,840"}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 91, "question": "£90 jacket, 30% off. Sale price?", "answer": "£63"},
+        {"id": 92, "question": "£75 shoes, 20% off. Sale price?", "answer": "£60"},
+        {"id": 93, "question": "£120 coat, 40% off. Sale price?", "answer": "£72"},
+        {"id": 94, "question": "£60 dress, 25% off. Sale price?", "answer": "£45"},
+        {"id": 95, "question": "£150 trainers, 35% off. Sale price?", "answer": "£97.50"},
+        {"id": 96, "question": "£80 jeans, 15% off. Sale price?", "answer": "£68"},
+        {"id": 97, "question": "£200 suit, 45% off. Sale price?", "answer": "£110"},
+        {"id": 98, "question": "£45 shirt, 10% off. Sale price?", "answer": "£40.50"},
+        {"id": 99, "question": "£180 handbag, 50% off. Sale price?", "answer": "£90"},
+        {"id": 100, "question": "£95 boots, 22% off. Sale price?", "answer": "£74.10"}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 101, "question": "Petrol £1.40/L, up 10%. New price?", "answer": "£1.54"},
+        {"id": 102, "question": "Bread £1.20, up 8%. New price?", "answer": "£1.30 (approx)"},
+        {"id": 103, "question": "Milk £0.90, up 12%. New price?", "answer": "£1.01 (approx)"},
+        {"id": 104, "question": "Train ticket £50, up 5%. New price?", "answer": "£52.50"},
+        {"id": 105, "question": "Rent £800/month, up 3%. New rent?", "answer": "£824"},
+        {"id": 106, "question": "Gas bill £120, up 15%. New bill?", "answer": "£138"},
+        {"id": 107, "question": "Water bill £35, up 6%. New bill?", "answer": "£37.10"},
+        {"id": 108, "question": "Phone bill £25, up 9%. New bill?", "answer": "£27.25"},
+        {"id": 109, "question": "Insurance £400, up 18%. New premium?", "answer": "£472"},
+        {"id": 110, "question": "Gym membership £30, up 7%. New cost?", "answer": "£32.10"}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 111, "question": "Item £100 + 20% VAT. Total?", "answer": "£120"},
+        {"id": 112, "question": "Item £50 + 20% VAT. Total?", "answer": "£60"},
+        {"id": 113, "question": "Item £200 + 20% VAT. Total?", "answer": "£240"},
+        {"id": 114, "question": "Item £75 + 20% VAT. Total?", "answer": "£90"},
+        {"id": 115, "question": "Item £150 + 20% VAT. Total?", "answer": "£180"},
+        {"id": 116, "question": "Item £45 + 20% VAT. Total?", "answer": "£54"},
+        {"id": 117, "question": "Item £300 + 20% VAT. Total?", "answer": "£360"},
+        {"id": 118, "question": "Item £125 + 20% VAT. Total?", "answer": "£150"},
+        {"id": 119, "question": "Item £80 + 20% VAT. Total?", "answer": "£96"},
+        {"id": 120, "question": "Item £250 + 20% VAT. Total?", "answer": "£300"}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 121, "question": "Meal £40 + 10% service. Total?", "answer": "£44"},
+        {"id": 122, "question": "Meal £60 + 12% service. Total?", "answer": "£67.20"},
+        {"id": 123, "question": "Meal £75 + 15% service. Total?", "answer": "£86.25"},
+        {"id": 124, "question": "Meal £50 + 18% service. Total?", "answer": "£59"},
+        {"id": 125, "question": "Meal £80 + 10% service. Total?", "answer": "£88"},
+        {"id": 126, "question": "Meal £45 + 12.5% service. Total?", "answer": "£50.63 (approx)"},
+        {"id": 127, "question": "Meal £90 + 15% service. Total?", "answer": "£103.50"},
+        {"id": 128, "question": "Meal £65 + 20% service. Total?", "answer": "£78"},
+        {"id": 129, "question": "Meal £120 + 10% service. Total?", "answer": "£132"},
+        {"id": 130, "question": "Meal £55 + 15% service. Total?", "answer": "£63.25"}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 131, "question": "Car £18,000, depreciated 15%. New value?", "answer": "£15,300"},
+        {"id": 132, "question": "Laptop £800, depreciated 20%. New value?", "answer": "£640"},
+        {"id": 133, "question": "Phone £600, depreciated 30%. New value?", "answer": "£420"},
+        {"id": 134, "question": "Car £25,000, depreciated 12%. New value?", "answer": "£22,000"},
+        {"id": 135, "question": "Computer £1200, depreciated 25%. New value?", "answer": "£900"},
+        {"id": 136, "question": "Motorcycle £8000, depreciated 18%. New value?", "answer": "£6,560"},
+        {"id": 137, "question": "Van £15,000, depreciated 22%. New value?", "answer": "£11,700"},
+        {"id": 138, "question": "Tablet £400, depreciated 35%. New value?", "answer": "£260"},
+        {"id": 139, "question": "Camera £500, depreciated 40%. New value?", "answer": "£300"},
+        {"id": 140, "question": "Watch £1500, depreciated 10%. New value?", "answer": "£1,350"}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Population Changes",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 141, "question": "Town 40,000, grew 8%. New population?", "answer": "43,200"},
+        {"id": 142, "question": "Village 5,000, decreased 5%. New population?", "answer": "4,750"},
+        {"id": 143, "question": "City 250,000, grew 3%. New population?", "answer": "257,500"},
+        {"id": 144, "question": "District 80,000, decreased 2%. New population?", "answer": "78,400"},
+        {"id": 145, "question": "Region 150,000, grew 12%. New population?", "answer": "168,000"},
+        {"id": 146, "question": "Area 60,000, decreased 7%. New population?", "answer": "55,800"},
+        {"id": 147, "question": "Borough 120,000, grew 4.5%. New population?", "answer": "125,400"},
+        {"id": 148, "question": "Parish 8,000, decreased 10%. New population?", "answer": "7,200"},
+        {"id": 149, "question": "County 500,000, grew 1.5%. New population?", "answer": "507,500"},
+        {"id": 150, "question": "Ward 25,000, decreased 6%. New population?", "answer": "23,500"}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 151, "question": "£100, up 10%, then up 10% again. Final?", "answer": "£121"},
+        {"id": 152, "question": "£200, up 20%, then up 20% again. Final?", "answer": "£288"},
+        {"id": 153, "question": "£50, up 5%, then up 5% again. Final?", "answer": "£55.13 (approx)"},
+        {"id": 154, "question": "£150, up 15%, then up 10%. Final?", "answer": "£189.75"},
+        {"id": 155, "question": "£80, up 25%, then up 20%. Final?", "answer": "£120"},
+        {"id": 156, "question": "£300, up 8%, then up 12%. Final?", "answer": "£362.88"},
+        {"id": 157, "question": "£120, up 30%, then up 15%. Final?", "answer": "£179.40"},
+        {"id": 158, "question": "£250, up 6%, then up 4%. Final?", "answer": "£275.60"},
+        {"id": 159, "question": "£400, up 12%, then up 8%. Final?", "answer": "£483.84"},
+        {"id": 160, "question": "£180, up 18%, then up 22%. Final?", "answer": "£259.63 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 161, "question": "£100, down 10%, then down 10% again. Final?", "answer": "£81"},
+        {"id": 162, "question": "£200, down 20%, then down 20% again. Final?", "answer": "£128"},
+        {"id": 163, "question": "£50, down 5%, then down 5% again. Final?", "answer": "£45.13 (approx)"},
+        {"id": 164, "question": "£150, down 15%, then down 10%. Final?", "answer": "£114.75"},
+        {"id": 165, "question": "£80, down 25%, then down 20%. Final?", "answer": "£48"},
+        {"id": 166, "question": "£300, down 8%, then down 12%. Final?", "answer": "£242.88"},
+        {"id": 167, "question": "£120, down 30%, then down 15%. Final?", "answer": "£71.40"},
+        {"id": 168, "question": "£250, down 6%, then down 4%. Final?", "answer": "£225.60"},
+        {"id": 169, "question": "£400, down 12%, then down 8%. Final?", "answer": "£323.84"},
+        {"id": 170, "question": "£180, down 18%, then down 22%. Final?", "answer": "£115.27 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 171, "question": "£100, up 20%, then down 20%. Final?", "answer": "£96"},
+        {"id": 172, "question": "£80, up 25%, then down 25%. Final?", "answer": "£75"},
+        {"id": 173, "question": "£200, up 10%, then down 10%. Final?", "answer": "£198"},
+        {"id": 174, "question": "£150, up 30%, then down 15%. Final?", "answer": "£165.75"},
+        {"id": 175, "question": "£120, up 15%, then down 20%. Final?", "answer": "£110.40"},
+        {"id": 176, "question": "£90, up 40%, then down 30%. Final?", "answer": "£88.20"},
+        {"id": 177, "question": "£250, up 12%, then down 8%. Final?", "answer": "£257.60"},
+        {"id": 178, "question": "£180, up 18%, then down 12%. Final?", "answer": "£187.06 (approx)"},
+        {"id": 179, "question": "£300, up 5%, then down 5%. Final?", "answer": "£299.25"},
+        {"id": 180, "question": "£160, up 22%, then down 18%. Final?", "answer": "£160.02 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 181, "question": "£100, down 20%, then up 20%. Final?", "answer": "£96"},
+        {"id": 182, "question": "£80, down 25%, then up 25%. Final?", "answer": "£75"},
+        {"id": 183, "question": "£200, down 10%, then up 10%. Final?", "answer": "£198"},
+        {"id": 184, "question": "£150, down 15%, then up 30%. Final?", "answer": "£165.75"},
+        {"id": 185, "question": "£120, down 20%, then up 15%. Final?", "answer": "£110.40"},
+        {"id": 186, "question": "£90, down 30%, then up 40%. Final?", "answer": "£88.20"},
+        {"id": 187, "question": "£250, down 8%, then up 12%. Final?", "answer": "£257.60"},
+        {"id": 188, "question": "£180, down 12%, then up 18%. Final?", "answer": "£187.06 (approx)"},
+        {"id": 189, "question": "£300, down 5%, then up 5%. Final?", "answer": "£299.25"},
+        {"id": 190, "question": "£160, down 18%, then up 22%. Final?", "answer": "£160.02 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 191, "question": "£100, up 10%, up 10%, up 10%. Final?", "answer": "£133.10"},
+        {"id": 192, "question": "£200, down 10%, down 10%, down 10%. Final?", "answer": "£145.80"},
+        {"id": 193, "question": "£50, up 20%, down 10%, up 5%. Final?", "answer": "£56.70"},
+        {"id": 194, "question": "£150, up 15%, up 10%, down 5%. Final?", "answer": "£180.11 (approx)"},
+        {"id": 195, "question": "£80, down 20%, up 25%, up 10%. Final?", "answer": "£88"},
+        {"id": 196, "question": "£300, up 8%, down 5%, up 12%. Final?", "answer": "£344.74 (approx)"},
+        {"id": 197, "question": "£120, up 5%, up 5%, up 5%, up 5%. Final?", "answer": "£145.77 (approx)"},
+        {"id": 198, "question": "£250, down 6%, down 6%, down 6%. Final?", "answer": "£207.45 (approx)"},
+        {"id": 199, "question": "£180, up 20%, down 15%, up 10%. Final?", "answer": "£201.96"},
+        {"id": 200, "question": "£400, down 12%, up 18%, down 8%. Final?", "answer": "£381.37 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 201, "question": "House £200k, up 15% Yr1, down 10% Yr2. Value?", "answer": "£207,000"},
+        {"id": 202, "question": "Salary £30k, up 8%, then 20% tax. Take-home?", "answer": "£25,920"},
+        {"id": 203, "question": "Item £150 ex VAT, add 20% VAT, then 10% discount. Final?", "answer": "£162"},
+        {"id": 204, "question": "Investment £5000, up 6% per year for 2 years. Final?", "answer": "£5,618"},
+        {"id": 205, "question": "Car £20k, down 20% Yr1, down 15% Yr2. Value?", "answer": "£13,600"},
+        {"id": 206, "question": "Meal £68 + 10% service, split between 4. Each pays?", "answer": "£18.70"},
+        {"id": 207, "question": "Coat £120, Black Friday 40% off, then extra 10% off. Final?", "answer": "£64.80"},
+        {"id": 208, "question": "Population 50k, up 3% Yr1, up 2% Yr2. New population?", "answer": "52,530"},
+        {"id": 209, "question": "£400 saved, earns 4% interest for 3 years. Total?", "answer": "£449.95 (approx)"},
+        {"id": 210, "question": "Phone £600, down 30% Yr1, down 20% Yr2. Value?", "answer": "£336"}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2",
+      "difficulty": "Very Hard",
+      "questions": [
+        {"id": 211, "question": "Share £100, up 10%, down 5%, up 8%, down 3%. Final?", "answer": "£110.11 (approx)"},
+        {"id": 212, "question": "Business revenue £500k, up 12%, down 8%, up 15%. Final?", "answer": "£595,960"},
+        {"id": 213, "question": "Asset £250k, down 20%, up 25%, down 10%. Final?", "answer": "£225,000"},
+        {"id": 214, "question": "Pension £80k, up 5% each year for 4 years. Final?", "answer": "£97,240 (approx)"},
+        {"id": 215, "question": "Stock £50, up 15%, up 20%, down 25%. Final?", "answer": "£51.75"},
+        {"id": 216, "question": "Property £180k, up 8%, down 6%, up 10%, down 4%. Final?", "answer": "£196,359 (approx)"},
+        {"id": 217, "question": "Fund £10k, up 7% each year for 5 years. Final?", "answer": "£14,026 (approx)"},
+        {"id": 218, "question": "Value £350k, down 18%, up 22%, down 9%. Final?", "answer": "£316,778 (approx)"},
+        {"id": 219, "question": "Capital £25k, up 6%, down 4%, up 6%, down 4%. Final?", "answer": "£25,996 (approx)"},
+        {"id": 220, "question": "Investment £15k, up 9%, down 7%, up 11%, down 5%. Final?", "answer": "£16,338 (approx)"}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values",
+      "difficulty": "Very Hard",
+      "questions": [
+        {"id": 221, "question": "After 10% increase, value is £110. Original?", "answer": "£100"},
+        {"id": 222, "question": "After 20% discount, price is £80. Original?", "answer": "£100"},
+        {"id": 223, "question": "After 25% increase, amount is £125. Original?", "answer": "£100"},
+        {"id": 224, "question": "After 30% off, sale price is £70. Original?", "answer": "£100"},
+        {"id": 225, "question": "After 15% increase, value is £115. Original?", "answer": "£100"},
+        {"id": 226, "question": "After 40% discount, price is £60. Original?", "answer": "£100"},
+        {"id": 227, "question": "After 5% increase, amount is £105. Original?", "answer": "£100"},
+        {"id": 228, "question": "After 50% off, sale price is £50. Original?", "answer": "£100"},
+        {"id": 229, "question": "After 8% increase, value is £108. Original?", "answer": "£100"},
+        {"id": 230, "question": "After 35% discount, price is £65. Original?", "answer": "£100"}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 231, "question": "Buy £50, sell £60. Profit as %?", "answer": "20%"},
+        {"id": 232, "question": "Buy £80, sell £100. Profit as %?", "answer": "25%"},
+        {"id": 233, "question": "Buy £100, sell £80. Loss as %?", "answer": "20%"},
+        {"id": 234, "question": "Buy £200, sell £180. Loss as %?", "answer": "10%"},
+        {"id": 235, "question": "Buy £40, sell £50. Profit as %?", "answer": "25%"},
+        {"id": 236, "question": "Buy £150, sell £120. Loss as %?", "answer": "20%"},
+        {"id": 237, "question": "Buy £60, sell £75. Profit as %?", "answer": "25%"},
+        {"id": 238, "question": "Buy £90, sell £81. Loss as %?", "answer": "10%"},
+        {"id": 239, "question": "Buy £120, sell £150. Profit as %?", "answer": "25%"},
+        {"id": 240, "question": "Buy £250, sell £200. Loss as %?", "answer": "20%"}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 241, "question": "Quick! Multiplier for +15%", "answer": "1.15"},
+        {"id": 242, "question": "Quick! Multiplier for -15%", "answer": "0.85"},
+        {"id": 243, "question": "Quick! Multiplier for +30%", "answer": "1.3"},
+        {"id": 244, "question": "Quick! Multiplier for -30%", "answer": "0.7"},
+        {"id": 245, "question": "Quick! Multiplier for +25%", "answer": "1.25"},
+        {"id": 246, "question": "Quick! Multiplier for -25%", "answer": "0.75"},
+        {"id": 247, "question": "Quick! Multiplier for +50%", "answer": "1.5"},
+        {"id": 248, "question": "Quick! Multiplier for -50%", "answer": "0.5"},
+        {"id": 249, "question": "Quick! Multiplier for +8%", "answer": "1.08"},
+        {"id": 250, "question": "Quick! Multiplier for -12%", "answer": "0.88"}
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 251, "question": "Quick! £50 + 20%", "answer": "£60"},
+        {"id": 252, "question": "Quick! £80 - 25%", "answer": "£60"},
+        {"id": 253, "question": "Quick! £100 + 10%", "answer": "£110"},
+        {"id": 254, "question": "Quick! £40 - 50%", "answer": "£20"},
+        {"id": 255, "question": "Quick! £200 + 15%", "answer": "£230"},
+        {"id": 256, "question": "Quick! £120 - 30%", "answer": "£84"},
+        {"id": 257, "question": "Quick! £60 + 25%", "answer": "£75"},
+        {"id": 258, "question": "Quick! £90 - 10%", "answer": "£81"},
+        {"id": 259, "question": "Quick! £150 + 40%", "answer": "£210"},
+        {"id": 260, "question": "Quick! £70 - 20%", "answer": "£56"}
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 261, "question": "Increase £200 by 12%", "answer": "£224"},
+        {"id": 262, "question": "Decrease £180 by 18%", "answer": "£147.60"},
+        {"id": 263, "question": "Salary £28k up 6%. New salary?", "answer": "£29,680"},
+        {"id": 264, "question": "Sale: £95 jacket, 35% off. Price?", "answer": "£61.75"},
+        {"id": 265, "question": "£150 item + 20% VAT. Total?", "answer": "£180"},
+        {"id": 266, "question": "Meal £55 + 12% service. Total?", "answer": "£61.60"},
+        {"id": 267, "question": "Car £16k, down 20%. Value?", "answer": "£12,800"},
+        {"id": 268, "question": "Population 35k, up 7%. New?", "answer": "37,450"},
+        {"id": 269, "question": "Multiplier for increase 22%?", "answer": "1.22"},
+        {"id": 270, "question": "Multiplier for decrease 38%?", "answer": "0.62"}
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 271, "question": "£120, up 15%, then down 10%. Final?", "answer": "£124.20"},
+        {"id": 272, "question": "£100, down 20%, then up 20%. Final?", "answer": "£96"},
+        {"id": 273, "question": "Increase £350 by 9%", "answer": "£381.50"},
+        {"id": 274, "question": "Decrease £240 by 45%", "answer": "£132"},
+        {"id": 275, "question": "£80 item + 20% VAT, then 15% discount. Final?", "answer": "£81.60"},
+        {"id": 276, "question": "House £250k, up 12%, down 8%. Final?", "answer": "£257,600"},
+        {"id": 277, "question": "Investment £2000, up 5% per year for 2 years. Final?", "answer": "£2,205"},
+        {"id": 278, "question": "Phone £500, down 30%, down 20% again. Final?", "answer": "£280"},
+        {"id": 279, "question": "Wage £24k, up 4%, then up 3%. Final?", "answer": "£25,699 (approx)"},
+        {"id": 280, "question": "Item £60, up 20%, down 25%. Final?", "answer": "£54"}
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 281, "question": "Trainers £85, sale 40% off. Price?", "answer": "£51"},
+        {"id": 282, "question": "Salary £32k, 5% rise. New salary?", "answer": "£33,600"},
+        {"id": 283, "question": "Meal £72 + 15% tip. Total?", "answer": "£82.80"},
+        {"id": 284, "question": "Item £180 + 20% VAT. Total?", "answer": "£216"},
+        {"id": 285, "question": "Car £22k, down 18%. Value?", "answer": "£18,040"},
+        {"id": 286, "question": "Town 48k, up 9%. New population?", "answer": "52,320"},
+        {"id": 287, "question": "House £175k, up 14%. New value?", "answer": "£199,500"},
+        {"id": 288, "question": "Laptop £900, down 22%. Price?", "answer": "£702"},
+        {"id": 289, "question": "Rent £650, up 3.5%. New rent?", "answer": "£672.75"},
+        {"id": 290, "question": "Dress £110, sale 35% off. Price?", "answer": "£71.50"}
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 291, "question": "Multiplier for increase always starts with?", "answer": "1"},
+        {"id": 292, "question": "Multiplier for decrease always starts with?", "answer": "0"},
+        {"id": 293, "question": "To find multiplier for +17%, do?", "answer": "100% + 17% = 117% = 1.17"},
+        {"id": 294, "question": "To find multiplier for -23%, do?", "answer": "100% - 23% = 77% = 0.77"},
+        {"id": 295, "question": "Is multiplier method faster than add/subtract?", "answer": "Yes"},
+        {"id": 296, "question": "Two 10% increases equal what % total?", "answer": "21%"},
+        {"id": 297, "question": "£100 up 20%, down 20%. Back to £100?", "answer": "No (£96)"},
+        {"id": 298, "question": "Increase £140 by 35%", "answer": "£189"},
+        {"id": 299, "question": "Decrease £225 by 28%", "answer": "£162"},
+        {"id": 300, "question": "What's better for speed: multipliers or steps?", "answer": "Multipliers"}
+      ]
+    }
+  ]
+}

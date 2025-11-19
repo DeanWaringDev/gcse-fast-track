@@ -1,0 +1,2109 @@
+{
+  "lessonId": 6,
+  "lessonNumber": "006",
+  "lessonTitle": "Percentages - Increase & Decrease",
+  "totalQuestions": 300,
+  "note": "All answers are based on the lesson content about percentage increase, decrease, and multipliers.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "Does 'increase by 20%' make a number bigger or smaller?",
+      "answer": "Bigger",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 2,
+      "question": "Does 'decrease by 30%' make a number bigger or smaller?",
+      "answer": "Smaller",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 3,
+      "question": "If something increases, is it more or less than before?",
+      "answer": "More",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 4,
+      "question": "If something decreases, is it more or less than before?",
+      "answer": "Less",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 5,
+      "question": "Is a multiplier for increase bigger or smaller than 1?",
+      "answer": "Bigger than 1",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 6,
+      "question": "Is a multiplier for decrease bigger or smaller than 1?",
+      "answer": "Smaller than 1",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 7,
+      "question": "'50% OFF' means increase or decrease?",
+      "answer": "Decrease",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 8,
+      "question": "'Salary up 5%' means increase or decrease?",
+      "answer": "Increase",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 9,
+      "question": "'Price reduced by 20%' means increase or decrease?",
+      "answer": "Decrease",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 10,
+      "question": "'Population grew 10%' means increase or decrease?",
+      "answer": "Increase",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Increase vs Decrease"
+    },
+    {
+      "id": 11,
+      "question": "Multiplier for increase by 10%",
+      "answer": "1.1",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 12,
+      "question": "Multiplier for increase by 20%",
+      "answer": "1.2",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 13,
+      "question": "Multiplier for increase by 30%",
+      "answer": "1.3",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 14,
+      "question": "Multiplier for increase by 25%",
+      "answer": "1.25",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 15,
+      "question": "Multiplier for increase by 50%",
+      "answer": "1.5",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 16,
+      "question": "Multiplier for increase by 5%",
+      "answer": "1.05",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 17,
+      "question": "Multiplier for increase by 15%",
+      "answer": "1.15",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 18,
+      "question": "Multiplier for increase by 40%",
+      "answer": "1.4",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 19,
+      "question": "Multiplier for increase by 75%",
+      "answer": "1.75",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 20,
+      "question": "Multiplier for increase by 8%",
+      "answer": "1.08",
+      "sectionId": 2,
+      "sectionTitle": "Finding Multipliers - Increases"
+    },
+    {
+      "id": 21,
+      "question": "Multiplier for decrease by 10%",
+      "answer": "0.9",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 22,
+      "question": "Multiplier for decrease by 20%",
+      "answer": "0.8",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 23,
+      "question": "Multiplier for decrease by 30%",
+      "answer": "0.7",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 24,
+      "question": "Multiplier for decrease by 25%",
+      "answer": "0.75",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 25,
+      "question": "Multiplier for decrease by 50%",
+      "answer": "0.5",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 26,
+      "question": "Multiplier for decrease by 5%",
+      "answer": "0.95",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 27,
+      "question": "Multiplier for decrease by 15%",
+      "answer": "0.85",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 28,
+      "question": "Multiplier for decrease by 40%",
+      "answer": "0.6",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 29,
+      "question": "Multiplier for decrease by 75%",
+      "answer": "0.25",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 30,
+      "question": "Multiplier for decrease by 8%",
+      "answer": "0.92",
+      "sectionId": 3,
+      "sectionTitle": "Finding Multipliers - Decreases"
+    },
+    {
+      "id": 31,
+      "question": "Increase \u00a350 by 10% (find 10%, then add)",
+      "answer": "\u00a355",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 32,
+      "question": "Increase \u00a380 by 20% (find 20%, then add)",
+      "answer": "\u00a396",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 33,
+      "question": "Increase \u00a3100 by 30% (find 30%, then add)",
+      "answer": "\u00a3130",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 34,
+      "question": "Increase \u00a360 by 25% (find 25%, then add)",
+      "answer": "\u00a375",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 35,
+      "question": "Increase \u00a340 by 50% (find 50%, then add)",
+      "answer": "\u00a360",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 36,
+      "question": "Increase \u00a3200 by 10% (find 10%, then add)",
+      "answer": "\u00a3220",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 37,
+      "question": "Increase \u00a3150 by 20% (find 20%, then add)",
+      "answer": "\u00a3180",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 38,
+      "question": "Increase \u00a3120 by 5% (find 5%, then add)",
+      "answer": "\u00a3126",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 39,
+      "question": "Increase \u00a370 by 10% (find 10%, then add)",
+      "answer": "\u00a377",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 40,
+      "question": "Increase \u00a390 by 10% (find 10%, then add)",
+      "answer": "\u00a399",
+      "sectionId": 4,
+      "sectionTitle": "Simple Increases - Add-On Method"
+    },
+    {
+      "id": 41,
+      "question": "Decrease \u00a350 by 10% (find 10%, then subtract)",
+      "answer": "\u00a345",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 42,
+      "question": "Decrease \u00a380 by 20% (find 20%, then subtract)",
+      "answer": "\u00a364",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 43,
+      "question": "Decrease \u00a3100 by 30% (find 30%, then subtract)",
+      "answer": "\u00a370",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 44,
+      "question": "Decrease \u00a360 by 25% (find 25%, then subtract)",
+      "answer": "\u00a345",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 45,
+      "question": "Decrease \u00a340 by 50% (find 50%, then subtract)",
+      "answer": "\u00a320",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 46,
+      "question": "Decrease \u00a3200 by 10% (find 10%, then subtract)",
+      "answer": "\u00a3180",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 47,
+      "question": "Decrease \u00a3150 by 20% (find 20%, then subtract)",
+      "answer": "\u00a3120",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 48,
+      "question": "Decrease \u00a3120 by 5% (find 5%, then subtract)",
+      "answer": "\u00a3114",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 49,
+      "question": "Decrease \u00a370 by 10% (find 10%, then subtract)",
+      "answer": "\u00a363",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 50,
+      "question": "Decrease \u00a390 by 10% (find 10%, then subtract)",
+      "answer": "\u00a381",
+      "sectionId": 5,
+      "sectionTitle": "Simple Decreases - Subtract Method"
+    },
+    {
+      "id": 51,
+      "question": "Increase \u00a350 by 10% (\u00d7 1.1)",
+      "answer": "\u00a355",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 52,
+      "question": "Increase \u00a380 by 20% (\u00d7 1.2)",
+      "answer": "\u00a396",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 53,
+      "question": "Increase \u00a3100 by 30% (\u00d7 1.3)",
+      "answer": "\u00a3130",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 54,
+      "question": "Increase \u00a360 by 25% (\u00d7 1.25)",
+      "answer": "\u00a375",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 55,
+      "question": "Increase \u00a340 by 50% (\u00d7 1.5)",
+      "answer": "\u00a360",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 56,
+      "question": "Increase \u00a3200 by 15% (\u00d7 1.15)",
+      "answer": "\u00a3230",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 57,
+      "question": "Increase \u00a3150 by 40% (\u00d7 1.4)",
+      "answer": "\u00a3210",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 58,
+      "question": "Increase \u00a3120 by 5% (\u00d7 1.05)",
+      "answer": "\u00a3126",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 59,
+      "question": "Increase \u00a370 by 8% (\u00d7 1.08)",
+      "answer": "\u00a375.60",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 60,
+      "question": "Increase \u00a390 by 12% (\u00d7 1.12)",
+      "answer": "\u00a3100.80",
+      "sectionId": 6,
+      "sectionTitle": "Using Multipliers - Increases"
+    },
+    {
+      "id": 61,
+      "question": "Decrease \u00a350 by 10% (\u00d7 0.9)",
+      "answer": "\u00a345",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 62,
+      "question": "Decrease \u00a380 by 20% (\u00d7 0.8)",
+      "answer": "\u00a364",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 63,
+      "question": "Decrease \u00a3100 by 30% (\u00d7 0.7)",
+      "answer": "\u00a370",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 64,
+      "question": "Decrease \u00a360 by 25% (\u00d7 0.75)",
+      "answer": "\u00a345",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 65,
+      "question": "Decrease \u00a340 by 50% (\u00d7 0.5)",
+      "answer": "\u00a320",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 66,
+      "question": "Decrease \u00a3200 by 15% (\u00d7 0.85)",
+      "answer": "\u00a3170",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 67,
+      "question": "Decrease \u00a3150 by 40% (\u00d7 0.6)",
+      "answer": "\u00a390",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 68,
+      "question": "Decrease \u00a3120 by 5% (\u00d7 0.95)",
+      "answer": "\u00a3114",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 69,
+      "question": "Decrease \u00a370 by 8% (\u00d7 0.92)",
+      "answer": "\u00a364.40",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 70,
+      "question": "Decrease \u00a390 by 12% (\u00d7 0.88)",
+      "answer": "\u00a379.20",
+      "sectionId": 7,
+      "sectionTitle": "Using Multipliers - Decreases"
+    },
+    {
+      "id": 71,
+      "question": "Increase 200 by 35%",
+      "answer": "270",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 72,
+      "question": "Decrease 150 by 45%",
+      "answer": "82.5",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 73,
+      "question": "Increase 180 by 22%",
+      "answer": "219.6",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 74,
+      "question": "Decrease 240 by 18%",
+      "answer": "196.8",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 75,
+      "question": "Increase 320 by 12.5%",
+      "answer": "360",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 76,
+      "question": "Decrease 280 by 37.5%",
+      "answer": "175",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 77,
+      "question": "Increase 450 by 6%",
+      "answer": "477",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 78,
+      "question": "Decrease 360 by 55%",
+      "answer": "162",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 79,
+      "question": "Increase 125 by 16%",
+      "answer": "145",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 80,
+      "question": "Decrease 175 by 24%",
+      "answer": "133",
+      "sectionId": 8,
+      "sectionTitle": "Mixed Increases and Decreases"
+    },
+    {
+      "id": 81,
+      "question": "Salary \u00a320,000, increased 5%. New salary?",
+      "answer": "\u00a321,000",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 82,
+      "question": "Wage \u00a318,000, increased 8%. New wage?",
+      "answer": "\u00a319,440",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 83,
+      "question": "Salary \u00a325,000, increased 3%. New salary?",
+      "answer": "\u00a325,750",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 84,
+      "question": "Wage \u00a322,000, increased 10%. New wage?",
+      "answer": "\u00a324,200",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 85,
+      "question": "Salary \u00a330,000, increased 4%. New salary?",
+      "answer": "\u00a331,200",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 86,
+      "question": "Wage \u00a316,000, increased 6%. New wage?",
+      "answer": "\u00a316,960",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 87,
+      "question": "Salary \u00a335,000, increased 7%. New salary?",
+      "answer": "\u00a337,450",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 88,
+      "question": "Wage \u00a328,000, increased 2.5%. New wage?",
+      "answer": "\u00a328,700",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 89,
+      "question": "Salary \u00a340,000, increased 9%. New salary?",
+      "answer": "\u00a343,600",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 90,
+      "question": "Wage \u00a332,000, increased 12%. New wage?",
+      "answer": "\u00a335,840",
+      "sectionId": 9,
+      "sectionTitle": "Salary and Wage Increases"
+    },
+    {
+      "id": 91,
+      "question": "\u00a390 jacket, 30% off. Sale price?",
+      "answer": "\u00a363",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 92,
+      "question": "\u00a375 shoes, 20% off. Sale price?",
+      "answer": "\u00a360",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 93,
+      "question": "\u00a3120 coat, 40% off. Sale price?",
+      "answer": "\u00a372",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 94,
+      "question": "\u00a360 dress, 25% off. Sale price?",
+      "answer": "\u00a345",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 95,
+      "question": "\u00a3150 trainers, 35% off. Sale price?",
+      "answer": "\u00a397.50",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 96,
+      "question": "\u00a380 jeans, 15% off. Sale price?",
+      "answer": "\u00a368",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 97,
+      "question": "\u00a3200 suit, 45% off. Sale price?",
+      "answer": "\u00a3110",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 98,
+      "question": "\u00a345 shirt, 10% off. Sale price?",
+      "answer": "\u00a340.50",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 99,
+      "question": "\u00a3180 handbag, 50% off. Sale price?",
+      "answer": "\u00a390",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 100,
+      "question": "\u00a395 boots, 22% off. Sale price?",
+      "answer": "\u00a374.10",
+      "sectionId": 10,
+      "sectionTitle": "Shopping Sales - Discounts"
+    },
+    {
+      "id": 101,
+      "question": "Petrol \u00a31.40/L, up 10%. New price?",
+      "answer": "\u00a31.54",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 102,
+      "question": "Bread \u00a31.20, up 8%. New price?",
+      "answer": "\u00a31.30 (approx)",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 103,
+      "question": "Milk \u00a30.90, up 12%. New price?",
+      "answer": "\u00a31.01 (approx)",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 104,
+      "question": "Train ticket \u00a350, up 5%. New price?",
+      "answer": "\u00a352.50",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 105,
+      "question": "Rent \u00a3800/month, up 3%. New rent?",
+      "answer": "\u00a3824",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 106,
+      "question": "Gas bill \u00a3120, up 15%. New bill?",
+      "answer": "\u00a3138",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 107,
+      "question": "Water bill \u00a335, up 6%. New bill?",
+      "answer": "\u00a337.10",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 108,
+      "question": "Phone bill \u00a325, up 9%. New bill?",
+      "answer": "\u00a327.25",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 109,
+      "question": "Insurance \u00a3400, up 18%. New premium?",
+      "answer": "\u00a3472",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 110,
+      "question": "Gym membership \u00a330, up 7%. New cost?",
+      "answer": "\u00a332.10",
+      "sectionId": 11,
+      "sectionTitle": "Price Increases - Inflation"
+    },
+    {
+      "id": 111,
+      "question": "Item \u00a3100 + 20% VAT. Total?",
+      "answer": "\u00a3120",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 112,
+      "question": "Item \u00a350 + 20% VAT. Total?",
+      "answer": "\u00a360",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 113,
+      "question": "Item \u00a3200 + 20% VAT. Total?",
+      "answer": "\u00a3240",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 114,
+      "question": "Item \u00a375 + 20% VAT. Total?",
+      "answer": "\u00a390",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 115,
+      "question": "Item \u00a3150 + 20% VAT. Total?",
+      "answer": "\u00a3180",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 116,
+      "question": "Item \u00a345 + 20% VAT. Total?",
+      "answer": "\u00a354",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 117,
+      "question": "Item \u00a3300 + 20% VAT. Total?",
+      "answer": "\u00a3360",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 118,
+      "question": "Item \u00a3125 + 20% VAT. Total?",
+      "answer": "\u00a3150",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 119,
+      "question": "Item \u00a380 + 20% VAT. Total?",
+      "answer": "\u00a396",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 120,
+      "question": "Item \u00a3250 + 20% VAT. Total?",
+      "answer": "\u00a3300",
+      "sectionId": 12,
+      "sectionTitle": "VAT and Tax Calculations"
+    },
+    {
+      "id": 121,
+      "question": "Meal \u00a340 + 10% service. Total?",
+      "answer": "\u00a344",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 122,
+      "question": "Meal \u00a360 + 12% service. Total?",
+      "answer": "\u00a367.20",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 123,
+      "question": "Meal \u00a375 + 15% service. Total?",
+      "answer": "\u00a386.25",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 124,
+      "question": "Meal \u00a350 + 18% service. Total?",
+      "answer": "\u00a359",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 125,
+      "question": "Meal \u00a380 + 10% service. Total?",
+      "answer": "\u00a388",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 126,
+      "question": "Meal \u00a345 + 12.5% service. Total?",
+      "answer": "\u00a350.63 (approx)",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 127,
+      "question": "Meal \u00a390 + 15% service. Total?",
+      "answer": "\u00a3103.50",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 128,
+      "question": "Meal \u00a365 + 20% service. Total?",
+      "answer": "\u00a378",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 129,
+      "question": "Meal \u00a3120 + 10% service. Total?",
+      "answer": "\u00a3132",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 130,
+      "question": "Meal \u00a355 + 15% service. Total?",
+      "answer": "\u00a363.25",
+      "sectionId": 13,
+      "sectionTitle": "Restaurant Bills - Service Charge"
+    },
+    {
+      "id": 131,
+      "question": "Car \u00a318,000, depreciated 15%. New value?",
+      "answer": "\u00a315,300",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 132,
+      "question": "Laptop \u00a3800, depreciated 20%. New value?",
+      "answer": "\u00a3640",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 133,
+      "question": "Phone \u00a3600, depreciated 30%. New value?",
+      "answer": "\u00a3420",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 134,
+      "question": "Car \u00a325,000, depreciated 12%. New value?",
+      "answer": "\u00a322,000",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 135,
+      "question": "Computer \u00a31200, depreciated 25%. New value?",
+      "answer": "\u00a3900",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 136,
+      "question": "Motorcycle \u00a38000, depreciated 18%. New value?",
+      "answer": "\u00a36,560",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 137,
+      "question": "Van \u00a315,000, depreciated 22%. New value?",
+      "answer": "\u00a311,700",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 138,
+      "question": "Tablet \u00a3400, depreciated 35%. New value?",
+      "answer": "\u00a3260",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 139,
+      "question": "Camera \u00a3500, depreciated 40%. New value?",
+      "answer": "\u00a3300",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 140,
+      "question": "Watch \u00a31500, depreciated 10%. New value?",
+      "answer": "\u00a31,350",
+      "sectionId": 14,
+      "sectionTitle": "Depreciation - Value Loss"
+    },
+    {
+      "id": 141,
+      "question": "Town 40,000, grew 8%. New population?",
+      "answer": "43,200",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 142,
+      "question": "Village 5,000, decreased 5%. New population?",
+      "answer": "4,750",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 143,
+      "question": "City 250,000, grew 3%. New population?",
+      "answer": "257,500",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 144,
+      "question": "District 80,000, decreased 2%. New population?",
+      "answer": "78,400",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 145,
+      "question": "Region 150,000, grew 12%. New population?",
+      "answer": "168,000",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 146,
+      "question": "Area 60,000, decreased 7%. New population?",
+      "answer": "55,800",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 147,
+      "question": "Borough 120,000, grew 4.5%. New population?",
+      "answer": "125,400",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 148,
+      "question": "Parish 8,000, decreased 10%. New population?",
+      "answer": "7,200",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 149,
+      "question": "County 500,000, grew 1.5%. New population?",
+      "answer": "507,500",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 150,
+      "question": "Ward 25,000, decreased 6%. New population?",
+      "answer": "23,500",
+      "sectionId": 15,
+      "sectionTitle": "Population Changes"
+    },
+    {
+      "id": 151,
+      "question": "\u00a3100, up 10%, then up 10% again. Final?",
+      "answer": "\u00a3121",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 152,
+      "question": "\u00a3200, up 20%, then up 20% again. Final?",
+      "answer": "\u00a3288",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 153,
+      "question": "\u00a350, up 5%, then up 5% again. Final?",
+      "answer": "\u00a355.13 (approx)",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 154,
+      "question": "\u00a3150, up 15%, then up 10%. Final?",
+      "answer": "\u00a3189.75",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 155,
+      "question": "\u00a380, up 25%, then up 20%. Final?",
+      "answer": "\u00a3120",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 156,
+      "question": "\u00a3300, up 8%, then up 12%. Final?",
+      "answer": "\u00a3362.88",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 157,
+      "question": "\u00a3120, up 30%, then up 15%. Final?",
+      "answer": "\u00a3179.40",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 158,
+      "question": "\u00a3250, up 6%, then up 4%. Final?",
+      "answer": "\u00a3275.60",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 159,
+      "question": "\u00a3400, up 12%, then up 8%. Final?",
+      "answer": "\u00a3483.84",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 160,
+      "question": "\u00a3180, up 18%, then up 22%. Final?",
+      "answer": "\u00a3259.63 (approx)",
+      "sectionId": 16,
+      "sectionTitle": "Two Changes - Both Increases"
+    },
+    {
+      "id": 161,
+      "question": "\u00a3100, down 10%, then down 10% again. Final?",
+      "answer": "\u00a381",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 162,
+      "question": "\u00a3200, down 20%, then down 20% again. Final?",
+      "answer": "\u00a3128",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 163,
+      "question": "\u00a350, down 5%, then down 5% again. Final?",
+      "answer": "\u00a345.13 (approx)",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 164,
+      "question": "\u00a3150, down 15%, then down 10%. Final?",
+      "answer": "\u00a3114.75",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 165,
+      "question": "\u00a380, down 25%, then down 20%. Final?",
+      "answer": "\u00a348",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 166,
+      "question": "\u00a3300, down 8%, then down 12%. Final?",
+      "answer": "\u00a3242.88",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 167,
+      "question": "\u00a3120, down 30%, then down 15%. Final?",
+      "answer": "\u00a371.40",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 168,
+      "question": "\u00a3250, down 6%, then down 4%. Final?",
+      "answer": "\u00a3225.60",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 169,
+      "question": "\u00a3400, down 12%, then down 8%. Final?",
+      "answer": "\u00a3323.84",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 170,
+      "question": "\u00a3180, down 18%, then down 22%. Final?",
+      "answer": "\u00a3115.27 (approx)",
+      "sectionId": 17,
+      "sectionTitle": "Two Changes - Both Decreases"
+    },
+    {
+      "id": 171,
+      "question": "\u00a3100, up 20%, then down 20%. Final?",
+      "answer": "\u00a396",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 172,
+      "question": "\u00a380, up 25%, then down 25%. Final?",
+      "answer": "\u00a375",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 173,
+      "question": "\u00a3200, up 10%, then down 10%. Final?",
+      "answer": "\u00a3198",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 174,
+      "question": "\u00a3150, up 30%, then down 15%. Final?",
+      "answer": "\u00a3165.75",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 175,
+      "question": "\u00a3120, up 15%, then down 20%. Final?",
+      "answer": "\u00a3110.40",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 176,
+      "question": "\u00a390, up 40%, then down 30%. Final?",
+      "answer": "\u00a388.20",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 177,
+      "question": "\u00a3250, up 12%, then down 8%. Final?",
+      "answer": "\u00a3257.60",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 178,
+      "question": "\u00a3180, up 18%, then down 12%. Final?",
+      "answer": "\u00a3187.06 (approx)",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 179,
+      "question": "\u00a3300, up 5%, then down 5%. Final?",
+      "answer": "\u00a3299.25",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 180,
+      "question": "\u00a3160, up 22%, then down 18%. Final?",
+      "answer": "\u00a3160.02 (approx)",
+      "sectionId": 18,
+      "sectionTitle": "Two Changes - Increase Then Decrease"
+    },
+    {
+      "id": 181,
+      "question": "\u00a3100, down 20%, then up 20%. Final?",
+      "answer": "\u00a396",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 182,
+      "question": "\u00a380, down 25%, then up 25%. Final?",
+      "answer": "\u00a375",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 183,
+      "question": "\u00a3200, down 10%, then up 10%. Final?",
+      "answer": "\u00a3198",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 184,
+      "question": "\u00a3150, down 15%, then up 30%. Final?",
+      "answer": "\u00a3165.75",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 185,
+      "question": "\u00a3120, down 20%, then up 15%. Final?",
+      "answer": "\u00a3110.40",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 186,
+      "question": "\u00a390, down 30%, then up 40%. Final?",
+      "answer": "\u00a388.20",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 187,
+      "question": "\u00a3250, down 8%, then up 12%. Final?",
+      "answer": "\u00a3257.60",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 188,
+      "question": "\u00a3180, down 12%, then up 18%. Final?",
+      "answer": "\u00a3187.06 (approx)",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 189,
+      "question": "\u00a3300, down 5%, then up 5%. Final?",
+      "answer": "\u00a3299.25",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 190,
+      "question": "\u00a3160, down 18%, then up 22%. Final?",
+      "answer": "\u00a3160.02 (approx)",
+      "sectionId": 19,
+      "sectionTitle": "Two Changes - Decrease Then Increase"
+    },
+    {
+      "id": 191,
+      "question": "\u00a3100, up 10%, up 10%, up 10%. Final?",
+      "answer": "\u00a3133.10",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 192,
+      "question": "\u00a3200, down 10%, down 10%, down 10%. Final?",
+      "answer": "\u00a3145.80",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 193,
+      "question": "\u00a350, up 20%, down 10%, up 5%. Final?",
+      "answer": "\u00a356.70",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 194,
+      "question": "\u00a3150, up 15%, up 10%, down 5%. Final?",
+      "answer": "\u00a3180.11 (approx)",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 195,
+      "question": "\u00a380, down 20%, up 25%, up 10%. Final?",
+      "answer": "\u00a388",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 196,
+      "question": "\u00a3300, up 8%, down 5%, up 12%. Final?",
+      "answer": "\u00a3344.74 (approx)",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 197,
+      "question": "\u00a3120, up 5%, up 5%, up 5%, up 5%. Final?",
+      "answer": "\u00a3145.77 (approx)",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 198,
+      "question": "\u00a3250, down 6%, down 6%, down 6%. Final?",
+      "answer": "\u00a3207.45 (approx)",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 199,
+      "question": "\u00a3180, up 20%, down 15%, up 10%. Final?",
+      "answer": "\u00a3201.96",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 200,
+      "question": "\u00a3400, down 12%, up 18%, down 8%. Final?",
+      "answer": "\u00a3381.37 (approx)",
+      "sectionId": 20,
+      "sectionTitle": "Three or More Changes"
+    },
+    {
+      "id": 201,
+      "question": "House \u00a3200k, up 15% Yr1, down 10% Yr2. Value?",
+      "answer": "\u00a3207,000",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 202,
+      "question": "Salary \u00a330k, up 8%, then 20% tax. Take-home?",
+      "answer": "\u00a325,920",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 203,
+      "question": "Item \u00a3150 ex VAT, add 20% VAT, then 10% discount. Final?",
+      "answer": "\u00a3162",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 204,
+      "question": "Investment \u00a35000, up 6% per year for 2 years. Final?",
+      "answer": "\u00a35,618",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 205,
+      "question": "Car \u00a320k, down 20% Yr1, down 15% Yr2. Value?",
+      "answer": "\u00a313,600",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 206,
+      "question": "Meal \u00a368 + 10% service, split between 4. Each pays?",
+      "answer": "\u00a318.70",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 207,
+      "question": "Coat \u00a3120, Black Friday 40% off, then extra 10% off. Final?",
+      "answer": "\u00a364.80",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 208,
+      "question": "Population 50k, up 3% Yr1, up 2% Yr2. New population?",
+      "answer": "52,530",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 209,
+      "question": "\u00a3400 saved, earns 4% interest for 3 years. Total?",
+      "answer": "\u00a3449.95 (approx)",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 210,
+      "question": "Phone \u00a3600, down 30% Yr1, down 20% Yr2. Value?",
+      "answer": "\u00a3336",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Complex Real-World 1"
+    },
+    {
+      "id": 211,
+      "question": "Share \u00a3100, up 10%, down 5%, up 8%, down 3%. Final?",
+      "answer": "\u00a3110.11 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 212,
+      "question": "Business revenue \u00a3500k, up 12%, down 8%, up 15%. Final?",
+      "answer": "\u00a3595,960",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 213,
+      "question": "Asset \u00a3250k, down 20%, up 25%, down 10%. Final?",
+      "answer": "\u00a3225,000",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 214,
+      "question": "Pension \u00a380k, up 5% each year for 4 years. Final?",
+      "answer": "\u00a397,240 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 215,
+      "question": "Stock \u00a350, up 15%, up 20%, down 25%. Final?",
+      "answer": "\u00a351.75",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 216,
+      "question": "Property \u00a3180k, up 8%, down 6%, up 10%, down 4%. Final?",
+      "answer": "\u00a3196,359 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 217,
+      "question": "Fund \u00a310k, up 7% each year for 5 years. Final?",
+      "answer": "\u00a314,026 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 218,
+      "question": "Value \u00a3350k, down 18%, up 22%, down 9%. Final?",
+      "answer": "\u00a3316,778 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 219,
+      "question": "Capital \u00a325k, up 6%, down 4%, up 6%, down 4%. Final?",
+      "answer": "\u00a325,996 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 220,
+      "question": "Investment \u00a315k, up 9%, down 7%, up 11%, down 5%. Final?",
+      "answer": "\u00a316,338 (approx)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Complex Real-World 2"
+    },
+    {
+      "id": 221,
+      "question": "After 10% increase, value is \u00a3110. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 222,
+      "question": "After 20% discount, price is \u00a380. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 223,
+      "question": "After 25% increase, amount is \u00a3125. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 224,
+      "question": "After 30% off, sale price is \u00a370. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 225,
+      "question": "After 15% increase, value is \u00a3115. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 226,
+      "question": "After 40% discount, price is \u00a360. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 227,
+      "question": "After 5% increase, amount is \u00a3105. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 228,
+      "question": "After 50% off, sale price is \u00a350. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 229,
+      "question": "After 8% increase, value is \u00a3108. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 230,
+      "question": "After 35% discount, price is \u00a365. Original?",
+      "answer": "\u00a3100",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Finding Original Values"
+    },
+    {
+      "id": 231,
+      "question": "Buy \u00a350, sell \u00a360. Profit as %?",
+      "answer": "20%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 232,
+      "question": "Buy \u00a380, sell \u00a3100. Profit as %?",
+      "answer": "25%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 233,
+      "question": "Buy \u00a3100, sell \u00a380. Loss as %?",
+      "answer": "20%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 234,
+      "question": "Buy \u00a3200, sell \u00a3180. Loss as %?",
+      "answer": "10%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 235,
+      "question": "Buy \u00a340, sell \u00a350. Profit as %?",
+      "answer": "25%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 236,
+      "question": "Buy \u00a3150, sell \u00a3120. Loss as %?",
+      "answer": "20%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 237,
+      "question": "Buy \u00a360, sell \u00a375. Profit as %?",
+      "answer": "25%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 238,
+      "question": "Buy \u00a390, sell \u00a381. Loss as %?",
+      "answer": "10%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 239,
+      "question": "Buy \u00a3120, sell \u00a3150. Profit as %?",
+      "answer": "25%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 240,
+      "question": "Buy \u00a3250, sell \u00a3200. Loss as %?",
+      "answer": "20%",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Percentage Profit and Loss"
+    },
+    {
+      "id": 241,
+      "question": "Quick! Multiplier for +15%",
+      "answer": "1.15",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 242,
+      "question": "Quick! Multiplier for -15%",
+      "answer": "0.85",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 243,
+      "question": "Quick! Multiplier for +30%",
+      "answer": "1.3",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 244,
+      "question": "Quick! Multiplier for -30%",
+      "answer": "0.7",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 245,
+      "question": "Quick! Multiplier for +25%",
+      "answer": "1.25",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 246,
+      "question": "Quick! Multiplier for -25%",
+      "answer": "0.75",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 247,
+      "question": "Quick! Multiplier for +50%",
+      "answer": "1.5",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 248,
+      "question": "Quick! Multiplier for -50%",
+      "answer": "0.5",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 249,
+      "question": "Quick! Multiplier for +8%",
+      "answer": "1.08",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 250,
+      "question": "Quick! Multiplier for -12%",
+      "answer": "0.88",
+      "sectionId": 25,
+      "sectionTitle": "Speed Challenge - Quick Multipliers"
+    },
+    {
+      "id": 251,
+      "question": "Quick! \u00a350 + 20%",
+      "answer": "\u00a360",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 252,
+      "question": "Quick! \u00a380 - 25%",
+      "answer": "\u00a360",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 253,
+      "question": "Quick! \u00a3100 + 10%",
+      "answer": "\u00a3110",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 254,
+      "question": "Quick! \u00a340 - 50%",
+      "answer": "\u00a320",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 255,
+      "question": "Quick! \u00a3200 + 15%",
+      "answer": "\u00a3230",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 256,
+      "question": "Quick! \u00a3120 - 30%",
+      "answer": "\u00a384",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 257,
+      "question": "Quick! \u00a360 + 25%",
+      "answer": "\u00a375",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 258,
+      "question": "Quick! \u00a390 - 10%",
+      "answer": "\u00a381",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 259,
+      "question": "Quick! \u00a3150 + 40%",
+      "answer": "\u00a3210",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 260,
+      "question": "Quick! \u00a370 - 20%",
+      "answer": "\u00a356",
+      "sectionId": 26,
+      "sectionTitle": "Speed Challenge - Quick Calculations"
+    },
+    {
+      "id": 261,
+      "question": "Increase \u00a3200 by 12%",
+      "answer": "\u00a3224",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 262,
+      "question": "Decrease \u00a3180 by 18%",
+      "answer": "\u00a3147.60",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 263,
+      "question": "Salary \u00a328k up 6%. New salary?",
+      "answer": "\u00a329,680",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 264,
+      "question": "Sale: \u00a395 jacket, 35% off. Price?",
+      "answer": "\u00a361.75",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 265,
+      "question": "\u00a3150 item + 20% VAT. Total?",
+      "answer": "\u00a3180",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 266,
+      "question": "Meal \u00a355 + 12% service. Total?",
+      "answer": "\u00a361.60",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 267,
+      "question": "Car \u00a316k, down 20%. Value?",
+      "answer": "\u00a312,800",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 268,
+      "question": "Population 35k, up 7%. New?",
+      "answer": "37,450",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 269,
+      "question": "Multiplier for increase 22%?",
+      "answer": "1.22",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 270,
+      "question": "Multiplier for decrease 38%?",
+      "answer": "0.62",
+      "sectionId": 27,
+      "sectionTitle": "Review - Mixed Calculations 1"
+    },
+    {
+      "id": 271,
+      "question": "\u00a3120, up 15%, then down 10%. Final?",
+      "answer": "\u00a3124.20",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 272,
+      "question": "\u00a3100, down 20%, then up 20%. Final?",
+      "answer": "\u00a396",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 273,
+      "question": "Increase \u00a3350 by 9%",
+      "answer": "\u00a3381.50",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 274,
+      "question": "Decrease \u00a3240 by 45%",
+      "answer": "\u00a3132",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 275,
+      "question": "\u00a380 item + 20% VAT, then 15% discount. Final?",
+      "answer": "\u00a381.60",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 276,
+      "question": "House \u00a3250k, up 12%, down 8%. Final?",
+      "answer": "\u00a3257,600",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 277,
+      "question": "Investment \u00a32000, up 5% per year for 2 years. Final?",
+      "answer": "\u00a32,205",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 278,
+      "question": "Phone \u00a3500, down 30%, down 20% again. Final?",
+      "answer": "\u00a3280",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 279,
+      "question": "Wage \u00a324k, up 4%, then up 3%. Final?",
+      "answer": "\u00a325,699 (approx)",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 280,
+      "question": "Item \u00a360, up 20%, down 25%. Final?",
+      "answer": "\u00a354",
+      "sectionId": 28,
+      "sectionTitle": "Review - Mixed Calculations 2"
+    },
+    {
+      "id": 281,
+      "question": "Trainers \u00a385, sale 40% off. Price?",
+      "answer": "\u00a351",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 282,
+      "question": "Salary \u00a332k, 5% rise. New salary?",
+      "answer": "\u00a333,600",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 283,
+      "question": "Meal \u00a372 + 15% tip. Total?",
+      "answer": "\u00a382.80",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 284,
+      "question": "Item \u00a3180 + 20% VAT. Total?",
+      "answer": "\u00a3216",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 285,
+      "question": "Car \u00a322k, down 18%. Value?",
+      "answer": "\u00a318,040",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 286,
+      "question": "Town 48k, up 9%. New population?",
+      "answer": "52,320",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 287,
+      "question": "House \u00a3175k, up 14%. New value?",
+      "answer": "\u00a3199,500",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 288,
+      "question": "Laptop \u00a3900, down 22%. Price?",
+      "answer": "\u00a3702",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 289,
+      "question": "Rent \u00a3650, up 3.5%. New rent?",
+      "answer": "\u00a3672.75",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 290,
+      "question": "Dress \u00a3110, sale 35% off. Price?",
+      "answer": "\u00a371.50",
+      "sectionId": 29,
+      "sectionTitle": "Review - Word Problems"
+    },
+    {
+      "id": 291,
+      "question": "Multiplier for increase always starts with?",
+      "answer": "1",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 292,
+      "question": "Multiplier for decrease always starts with?",
+      "answer": "0",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 293,
+      "question": "To find multiplier for +17%, do?",
+      "answer": "100% + 17% = 117% = 1.17",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 294,
+      "question": "To find multiplier for -23%, do?",
+      "answer": "100% - 23% = 77% = 0.77",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 295,
+      "question": "Is multiplier method faster than add/subtract?",
+      "answer": "Yes",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 296,
+      "question": "Two 10% increases equal what % total?",
+      "answer": "21%",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 297,
+      "question": "\u00a3100 up 20%, down 20%. Back to \u00a3100?",
+      "answer": "No (\u00a396)",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 298,
+      "question": "Increase \u00a3140 by 35%",
+      "answer": "\u00a3189",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 299,
+      "question": "Decrease \u00a3225 by 28%",
+      "answer": "\u00a3162",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    },
+    {
+      "id": 300,
+      "question": "What's better for speed: multipliers or steps?",
+      "answer": "Multipliers",
+      "sectionId": 30,
+      "sectionTitle": "Final Mastery Check"
+    }
+  ]
+}
