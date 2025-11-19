@@ -388,12 +388,14 @@ export default function LessonPage() {
       )}
 
       {/* Practice Session */}
-      {activeMode && lesson && (
+      {activeMode && lesson && lesson.files && (
         <PracticeSession
           courseSlug="maths"
           lessonId={lesson.id}
           lessonSlug={slug}
           lessonTitle={lesson.title}
+          questionsFile={lesson.files.questions || ''}
+          answersFile={lesson.files.answers || ''}
           practiceMode={activeMode as 'practice' | 'timed' | 'expert' | 'weak_areas'}
           onComplete={() => {
             setActiveMode(null);

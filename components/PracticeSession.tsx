@@ -30,6 +30,8 @@ interface PracticeSessionProps {
   lessonId: number;
   lessonSlug: string;
   lessonTitle: string;
+  questionsFile: string;
+  answersFile: string;
   practiceMode: 'practice' | 'timed' | 'expert' | 'weak_areas';
   onComplete: () => void;
   onClose: () => void;
@@ -40,6 +42,8 @@ export default function PracticeSession({
   lessonId,
   lessonSlug,
   lessonTitle,
+  questionsFile,
+  answersFile,
   practiceMode,
   onComplete,
   onClose
@@ -58,11 +62,11 @@ export default function PracticeSession({
   async function loadQuestions() {
     try {
       // Load questions JSON
-      const questionsResponse = await fetch(`/data/${courseSlug}/questions/${lessonSlug}_questions.json`);
+      const questionsResponse = await fetch(`/data/${courseSlug}/questions/${questionsFile}`);
       const questionsData = await questionsResponse.json();
 
       // Load answers JSON
-      const answersResponse = await fetch(`/data/${courseSlug}/answers/${lessonSlug}_answers.json`);
+      const answersResponse = await fetch(`/data/${courseSlug}/answers/${answersFile}`);
       const answersData = await answersResponse.json();
 
       // Create answer lookup map
