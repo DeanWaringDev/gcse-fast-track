@@ -38,7 +38,11 @@ CREATE POLICY "Users can update their own study activity"
 -- Function to automatically update study activity
 -- Called after completing practice sessions
 CREATE OR REPLACE FUNCTION update_study_activity()
-RETURNS TRIGGER AS $$
+RETURNS TRIGGER
+LANGUAGE plpgsql
+SECURITY DEFINER
+SET search_path = public
+AS $$
 BEGIN
   -- Only process completed sessions
   IF NEW.completed_at IS NOT NULL AND OLD.completed_at IS NULL THEN
@@ -67,7 +71,7 @@ BEGIN
   
   RETURN NEW;
 END;
-$$ LANGUAGE plpgsql;
+$$;
 
 -- Trigger to auto-update study activity
 CREATE TRIGGER trigger_update_study_activity
