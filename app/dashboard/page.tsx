@@ -231,14 +231,14 @@ export default function Dashboard() {
     );
   }
 
-  const displayName = profile?.display_name || profile?.full_name || user?.email?.split('@')[0] || 'Student';
+  const displayName = profile?.display_name || profile?.full_name || 'Student';
   const timeOfDay = new Date().getHours() < 12 ? 'Morning' : new Date().getHours() < 18 ? 'Afternoon' : 'Evening';
 
   // No enrollments state
   if (enrollments.length === 0) {
     return (
       <div className="min-h-screen bg-linear-to-br from-indigo-50 via-white to-purple-50">
-        <div className="container mx-auto px-4 py-12">
+        <div className="max-w-7xl mx-auto px-4 py-12">
           {/* Welcome Header */}
           <div className="bg-white rounded-2xl shadow-xl p-8 mb-8">
             <h1 className="text-4xl font-bold text-gray-800 mb-2">
@@ -272,7 +272,7 @@ export default function Dashboard() {
 
   return (
     <div className="min-h-screen bg-linear-to-br from-indigo-50 via-white to-purple-50">
-      <div className="container mx-auto px-4 py-8">
+      <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Welcome Header */}
         <div className="bg-linear-to-r from-indigo-600 to-purple-600 rounded-2xl shadow-2xl p-8 mb-8 text-white">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between">
