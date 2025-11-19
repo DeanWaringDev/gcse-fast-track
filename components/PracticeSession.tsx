@@ -251,6 +251,8 @@ export default function PracticeSession({
    */
   async function startPracticeSession() {
     try {
+      console.log('Starting practice session:', { courseSlug, lessonId, practiceMode });
+      
       const response = await fetch('/api/start-practice-session', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -262,10 +264,13 @@ export default function PracticeSession({
       });
 
       if (!response.ok) {
+        const errorText = await response.text();
+        console.error('Failed to start session:', errorText);
         throw new Error(`Failed to start session: ${response.statusText}`);
       }
 
       const data = await response.json();
+      console.log('Practice session started successfully:', data.sessionId);
       setSessionId(data.sessionId);
     } catch (error) {
       console.error('Error starting practice session:', error);
@@ -351,7 +356,14 @@ export default function PracticeSession({
     if (sessionId) {
       try {
         const durationSeconds = Math.floor((Date.now() - sessionStartTime) / 1000);
-        await fetch('/api/complete-practice-session', {
+        console.log('Completing practice session:', {
+          sessionId,
+          questionsAttempted: questions.length,
+          questionsCorrect,
+          durationSeconds
+        });
+        
+        const response = await fetch('/api/complete-practice-session', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -361,9 +373,17 @@ export default function PracticeSession({
             durationSeconds,
           }),
         });
+        
+        if (!response.ok) {
+          console.error('Failed to complete session:', await response.text());
+        } else {
+          console.log('Practice session completed successfully');
+        }
       } catch (error) {
         console.error('Error completing practice session:', error);
       }
+    } else {
+      console.warn('No sessionId - practice session was not started properly');
     }
 
     // Update lesson progress with new accuracy
