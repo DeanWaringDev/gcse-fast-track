@@ -47,8 +47,11 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
     setIsLoading(false);
   }
 
-  // Split content by "---" separators (screen dividers) or by ## headings
-  const slides = content.split(/\n---\n|# Screen \d+:/g).filter(s => s.trim() && !s.startsWith('---\n'));
+  // Split content by "---" separators and clean up
+  const slides = content
+    .split(/\n---\n/)
+    .map(s => s.trim())
+    .filter(s => s && !s.startsWith('---') && !s.match(/^lessonId:|^lessonNumber:|^title:|^difficulty:|^duration:|^topics:|^totalScreens:/));
 
   const nextSlide = () => {
     if (currentSlide < slides.length - 1) {
@@ -109,19 +112,21 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
         <div className="p-8 overflow-y-auto" style={{ maxHeight: 'calc(90vh - 200px)' }}>
           <div className="prose prose-lg max-w-none">
             <div 
-              className="markdown-content"
+              className="markdown-content text-gray-700 leading-relaxed"
               dangerouslySetInnerHTML={{ 
                 __html: slides[currentSlide]
-                  .replace(/^### (.*$)/gm, '<h3 class="text-xl font-bold text-gray-800 mt-4 mb-2">$1</h3>')
-                  .replace(/^## (.*$)/gm, '<h2 class="text-2xl font-bold text-gray-800 mt-6 mb-3">$1</h2>')
-                  .replace(/^# (.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-4">$1</h1>')
-                  .replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold text-gray-900">$1</strong>')
-                  .replace(/\*(.*?)\*/g, '<em class="italic">$1</em>')
-                  .replace(/```([\s\S]*?)```/g, '<pre class="bg-gray-100 p-4 rounded-lg my-4 font-mono text-sm overflow-x-auto">$1</pre>')
-                  .replace(/^- (.*$)/gm, '<li class="ml-4">$1</li>')
-                  .replace(/(<li.*<\/li>)/s, '<ul class="list-disc ml-6 my-3 space-y-1">$1</ul>')
-                  .replace(/\n\n/g, '</p><p class="my-3">')
-                  .replace(/^(?!<[h|p|u|l|pre])(.*$)/gm, '<p class="my-2">$1</p>')
+                  .replace(/^# Screen \d+: (.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-6">$1</h1>')
+                  .replace(/^### (.*$)/gm, '<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">$1</h3>')
+                  .replace(/^## (.*$)/gm, '<h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">$1</h2>')
+                  .replace(/^# (?!Screen)(.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-6">$1</h1>')
+                  .replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold text-blue-700">$1</strong>')
+                  .replace(/\*(.*?)\*/g, '<em class="italic text-gray-600">$1</em>')
+                  .replace(/```([\s\S]*?)```/g, '<div class="bg-blue-50 border-2 border-blue-200 rounded-lg p-3 my-4 font-mono text-base text-gray-800 text-center font-semibold">$1</div>')
+                  .replace(/^- (.*$)/gm, '<li class="ml-4 my-1.5">$1</li>')
+                  .replace(/(<li.*?<\/li>\s*)+/gs, '<ul class="list-disc ml-6 my-4 space-y-1.5 text-gray-700">$&</ul>')
+                  .replace(/\n\n+/g, '</p><p class="my-4 text-gray-700">')
+                  .replace(/^(?!<[h|p|u|l|d])(.*$)/gm, '<p class="my-3 text-gray-700">$1</p>')
+                  .replace(/<p class="my-3 text-gray-700"><\/p>/g, '')
               }} 
             />
           </div>
