@@ -59,7 +59,7 @@ export default function LessonCard({ lesson, progress, isLocked, courseSlug }: L
     <div className={`rounded-lg p-4 transition-all relative ${getCardStyle()} ${!isLocked && isContentReady ? 'hover:shadow-lg cursor-pointer' : 'cursor-not-allowed'}`}>
       {/* Green Tick for Completed Lessons */}
       {lessonCompleted && (
-        <div className="absolute bottom-3 left-3 z-20">
+        <div className="absolute top-3 right-3 z-20">
           <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center shadow-lg">
             <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
