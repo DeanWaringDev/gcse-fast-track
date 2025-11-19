@@ -35,11 +35,19 @@ export default function QuestionCard({
   const [correctAnswer, setCorrectAnswer] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
+  const nextButtonRef = useRef<HTMLButtonElement>(null);
 
   // Auto-focus input on mount and when moving to next question
   useEffect(() => {
     inputRef.current?.focus();
   }, [question.id]);
+
+  // Auto-focus next button after submission
+  useEffect(() => {
+    if (isSubmitted) {
+      nextButtonRef.current?.focus();
+    }
+  }, [isSubmitted]);
 
   const handleSubmit = async () => {
     if (!userAnswer.trim() || isSubmitting) return;
@@ -168,6 +176,7 @@ export default function QuestionCard({
           </button>
         ) : (
           <button
+            ref={nextButtonRef}
             onClick={handleNext}
             className="flex-1 py-3 px-6 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
           >
