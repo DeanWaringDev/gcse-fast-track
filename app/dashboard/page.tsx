@@ -74,11 +74,18 @@ export default function Dashboard() {
     setUser(authUser);
 
     // Load user profile
-    const { data: profileData } = await supabase
+    const { data: profileData, error: profileError } = await supabase
       .from('user_profiles')
       .select('*')
       .eq('user_id', authUser.id)
       .single();
+
+    if (profileError) {
+      console.log('Profile fetch error:', profileError);
+    }
+
+    console.log('Profile data:', profileData);
+    console.log('Auth user metadata:', authUser.user_metadata);
 
     setProfile(profileData);
 
@@ -231,7 +238,15 @@ export default function Dashboard() {
     );
   }
 
-  const displayName = profile?.display_name || profile?.full_name || 'Student';
+  // Try multiple sources for display name
+  const displayName = profile?.display_name 
+    || profile?.full_name 
+    || user?.user_metadata?.display_name 
+    || user?.user_metadata?.full_name
+    || user?.email?.split('@')[0] 
+    || 'Student';
+  
+  console.log('Display name:', displayName, 'Profile:', profile, 'User metadata:', user?.user_metadata);
   const timeOfDay = new Date().getHours() < 12 ? 'Morning' : new Date().getHours() < 18 ? 'Afternoon' : 'Evening';
 
   // No enrollments state
