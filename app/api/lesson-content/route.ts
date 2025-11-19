@@ -1,0 +1,32 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+
+export async function GET(request: NextRequest) {
+  try {
+    const searchParams = request.nextUrl.searchParams;
+    const file = searchParams.get('file');
+
+    if (!file) {
+      return NextResponse.json({ error: 'File parameter required' }, { status: 400 });
+    }
+
+    // Security: Only allow reading from instructions directory
+    if (!file.includes('_lesson.md')) {
+      return NextResponse.json({ error: 'Invalid file' }, { status: 400 });
+    }
+
+    // Determine course folder from filename
+    const courseFolder = file.startsWith('001_maths') || file.startsWith('002_maths') || file.startsWith('003_maths')
+      ? 'maths'
+      : 'computerscience';
+
+    const filePath = join(process.cwd(), 'data', courseFolder, 'instructions', file);
+    const content = await readFile(filePath, 'utf-8');
+
+    return NextResponse.json({ content });
+  } catch (error) {
+    console.error('Error reading lesson content:', error);
+    return NextResponse.json({ error: 'Content not found' }, { status: 404 });
+  }
+}

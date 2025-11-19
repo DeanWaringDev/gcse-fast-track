@@ -32,11 +32,11 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
 
   async function loadContent() {
     try {
-      // Load markdown content from the instructions file
-      const response = await fetch(`/data/maths/instructions/${lesson.files?.instructions}`);
+      // Load markdown content via API route
+      const response = await fetch(`/api/lesson-content?file=${lesson.files?.instructions}`);
       if (response.ok) {
-        const text = await response.text();
-        setContent(text);
+        const data = await response.json();
+        setContent(data.content);
       } else {
         setContent(`# ${lesson.title}\n\nContent is being prepared. Please check back soon!`);
       }
