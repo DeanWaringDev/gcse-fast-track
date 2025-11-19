@@ -18,7 +18,7 @@
     {
       "id": 2,
       "course_name": "Computer Science",
-      "slug": "computer-science",
+      "slug": "computerscience",
       "description": "Learn programming, algorithms, data structures, and computer systems for GCSE Computer Science.",
       "short_description": "Programming & theory",
       "icon": "💻",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "course_name": "English Language",
-      "slug": "english-language",
+      "slug": "englishlanguage",
       "description": "Develop reading comprehension, writing techniques, and language analysis skills.",
       "short_description": "Reading & writing skills",
       "icon": "📝",

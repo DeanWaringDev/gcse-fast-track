@@ -54,7 +54,7 @@ export default function LessonPage() {
 
   useEffect(() => {
     if (!lesson) {
-      router.push('/courses/computer-science');
+      router.push('/courses/computerscience');
       return;
     }
     checkAccess();
@@ -69,7 +69,7 @@ export default function LessonPage() {
     const { data: { user }, error: authError } = await supabase.auth.getUser();
     
     if (authError || !user) {
-      router.push(`/login?redirect=/courses/computer-science/lessons/${slug}`);
+      router.push(`/login?redirect=/courses/computerscience/lessons/${slug}`);
       return;
     }
 
@@ -92,7 +92,7 @@ export default function LessonPage() {
     // Check if lesson is accessible (free or premium)
     const isPremium = enrollmentData.subscription_tier === 'premium';
     if (!lesson.isFree && !isPremium) {
-      router.push('/courses/computer-science?error=premium-required');
+      router.push('/courses/computerscience?error=premium-required');
       return;
     }
 
@@ -228,7 +228,7 @@ export default function LessonPage() {
       <div className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <button
-            onClick={() => router.push('/courses/computer-science')}
+            onClick={() => router.push('/courses/computerscience')}
             className="flex items-center gap-2 text-indigo-100 hover:text-white mb-4 transition-colors"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

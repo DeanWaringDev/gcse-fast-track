@@ -27,11 +27,12 @@ export function createClient() {
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
     {
+      global: {
+        headers: {},
+      },
       realtime: {
-        params: {
-          eventsPerSecond: 0
-        }
-      }
+        timeout: 0,
+      },
     }
   );
 }

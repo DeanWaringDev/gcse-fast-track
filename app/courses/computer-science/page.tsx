@@ -28,7 +28,7 @@ export default function ComputerSciencePage() {
   const [isLoading, setIsLoading] = useState(true);
   const [enrollment, setEnrollment] = useState<any>(null);
   const [lessonProgress, setLessonProgress] = useState<LessonProgress[]>([]);
-  const courseSlug = 'computer-science';
+  const courseSlug = 'computerscience';
 
   useEffect(() => {
     async function checkAccess() {
@@ -37,7 +37,7 @@ export default function ComputerSciencePage() {
       // Check authentication
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) {
-        router.push('/login?redirect=/courses/computer-science');
+        router.push('/login?redirect=/courses/computerscience');
         return;
       }
 
