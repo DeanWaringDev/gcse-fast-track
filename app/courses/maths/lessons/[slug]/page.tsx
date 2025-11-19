@@ -307,10 +307,17 @@ export default function LessonPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
                 </svg>
               </div>
-              <div>
+              <div className="flex-1">
                 <h3 className="font-bold text-lg text-gray-800">Practice Questions</h3>
                 <p className="text-sm text-gray-500">10 questions</p>
               </div>
+              {lessonProgress?.practice_perfect && (
+                <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
+                  <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                </div>
+              )}
             </div>
             <p className="text-gray-600 text-sm mb-4">
               Random selection from 30 practice questions to test your understanding
@@ -336,10 +343,17 @@ export default function LessonPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
-              <div>
+              <div className="flex-1">
                 <h3 className="font-bold text-lg text-gray-800">Timed Challenge</h3>
                 <p className="text-sm text-gray-500">15 questions • 15 mins</p>
               </div>
+              {lessonProgress?.timed_perfect && (
+                <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
+                  <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                </div>
+              )}
             </div>
             <p className="text-gray-600 text-sm mb-4">
               Race against the clock! Build speed and accuracy under pressure
@@ -365,10 +379,17 @@ export default function LessonPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
-              <div>
+              <div className="flex-1">
                 <h3 className="font-bold text-lg text-gray-800">Expert Mode</h3>
                 <p className="text-sm text-gray-500">15 questions</p>
               </div>
+              {lessonProgress?.expert_perfect && (
+                <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
+                  <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                </div>
+              )}
             </div>
             <p className="text-gray-600 text-sm mb-4">
               Advanced questions (150-300) for students aiming for top grades

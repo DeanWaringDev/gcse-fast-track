@@ -32,7 +32,7 @@ export async function POST(request: Request) {
       );
     }
 
-    const { sessionId, questionsAttempted, questionsCorrect, durationSeconds } = await request.json();
+    const { sessionId, questionsAttempted, questionsCorrect, durationSeconds, courseSlug, lessonId, practiceMode } = await request.json();
 
     if (!sessionId || questionsAttempted === undefined || questionsCorrect === undefined || durationSeconds === undefined) {
       return NextResponse.json(
@@ -64,6 +64,29 @@ export async function POST(request: Request) {
         { error: 'Failed to update practice session' },
         { status: 500 }
       );
+    }
+
+    // If 100% accuracy achieved, update lesson_progress perfection flags
+    if (accuracyPercentage === 100 && courseSlug && lessonId && practiceMode) {
+      const perfectField = 
+        practiceMode === 'practice' ? 'practice_perfect' :
+        practiceMode === 'timed' ? 'timed_perfect' :
+        practiceMode === 'expert' ? 'expert_perfect' :
+        null;
+
+      if (perfectField) {
+        const { error: progressError } = await supabase
+          .from('lesson_progress')
+          .update({ [perfectField]: true })
+          .eq('user_id', user.id)
+          .eq('course_slug', courseSlug)
+          .eq('lesson_id', lessonId);
+
+        if (progressError) {
+          console.error('Error updating perfection flag:', progressError);
+          // Don't fail the request if this update fails
+        }
+      }
     }
 
     return NextResponse.json({ success: true });

@@ -390,6 +390,9 @@ export default function PracticeSession({
             questionsAttempted: questions.length,
             questionsCorrect,
             durationSeconds,
+            courseSlug,
+            lessonId,
+            practiceMode,
           }),
         });
         
