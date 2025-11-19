@@ -127,6 +127,11 @@ function recommendPaperTier(
 ): { paper: 'foundation' | 'higher'; reason?: string } {
   const { targetPaper, targetGrade, averageAccuracy } = data;
 
+  // If no tiers, return foundation as default (won't be used)
+  if (targetPaper === 'none') {
+    return { paper: 'foundation' };
+  }
+
   // Early stage: base on target grade
   if (progress < 15) {
     if (targetGrade >= 6) {
