@@ -1,0 +1,2109 @@
+{
+  "lessonId": 4,
+  "lessonNumber": "004",
+  "lessonTitle": "Decimals - Basic Operations",
+  "totalQuestions": 300,
+  "note": "All answers are based on the lesson content about decimal place value, addition, subtraction, and multiplication.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "What does the decimal point separate?",
+      "answer": "12.5",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 2,
+      "question": "In 3.7, what is the place value of 7?",
+      "answer": "0.7",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 3,
+      "question": "In 12.34, what is the place value of 3?",
+      "answer": "12.5",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 4,
+      "question": "In 12.34, what is the place value of 4?",
+      "answer": "12.5",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 5,
+      "question": "What is 0.5 as a fraction?",
+      "answer": "0.5",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 6,
+      "question": "What is 0.25 as a fraction?",
+      "answer": "0.25",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 7,
+      "question": "Which is larger: 0.7 or 0.07?",
+      "answer": "0.7",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 8,
+      "question": "Does adding a zero after a decimal change its value? (e.g. 0.5 = 0.50)",
+      "answer": "No",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 9,
+      "question": "Which is the smallest: 0.4, 0.04, 0.444?",
+      "answer": "0.04",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 10,
+      "question": "In 56.789, what digit is in the hundredths place?",
+      "answer": "8",
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value"
+    },
+    {
+      "id": 11,
+      "question": "How do you say 3.7?",
+      "answer": "Three point seven",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 12,
+      "question": "How do you say 12.45?",
+      "answer": "Twelve point four five",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 13,
+      "question": "Which is bigger: 0.8 or 0.75?",
+      "answer": "0.8",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 14,
+      "question": "Put in order (smallest first): 0.3, 0.03, 0.33",
+      "answer": "0.03, 0.3, 0.33",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 15,
+      "question": "Which is smaller: 1.2 or 1.19?",
+      "answer": "1.19",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 16,
+      "question": "Is 0.50 equal to 0.5?",
+      "answer": "Yes",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 17,
+      "question": "Which is largest: 2.7, 2.07, 2.77?",
+      "answer": "2.77",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 18,
+      "question": "What is 0.3 in words?",
+      "answer": "Three tenths",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 19,
+      "question": "What is 0.25 in words?",
+      "answer": "Twenty-five hundredths",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 20,
+      "question": "Which is bigger: 0.6 or 0.59?",
+      "answer": "0.6",
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals"
+    },
+    {
+      "id": 21,
+      "question": "3.2 + 1.5 = ?",
+      "answer": "4.7",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 22,
+      "question": "5.4 + 2.3 = ?",
+      "answer": "7.7",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 23,
+      "question": "1.1 + 2.6 = ?",
+      "answer": "3.7",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 24,
+      "question": "4.5 + 3.2 = ?",
+      "answer": "7.7",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 25,
+      "question": "2.8 + 1.1 = ?",
+      "answer": "3.9",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 26,
+      "question": "6.3 + 2.4 = ?",
+      "answer": "8.7",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 27,
+      "question": "0.5 + 0.3 = ?",
+      "answer": "0.8",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 28,
+      "question": "1.2 + 3.7 = ?",
+      "answer": "4.9",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 29,
+      "question": "7.1 + 1.8 = ?",
+      "answer": "8.9",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 30,
+      "question": "0.4 + 0.5 = ?",
+      "answer": "0.9",
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places"
+    },
+    {
+      "id": 31,
+      "question": "5.8 + 3.6 = ?",
+      "answer": "9.4",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 32,
+      "question": "4.7 + 2.8 = ?",
+      "answer": "7.5",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 33,
+      "question": "6.9 + 1.5 = ?",
+      "answer": "8.4",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 34,
+      "question": "3.6 + 4.9 = ?",
+      "answer": "8.5",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 35,
+      "question": "7.8 + 2.7 = ?",
+      "answer": "10.5",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 36,
+      "question": "5.5 + 6.8 = ?",
+      "answer": "12.3",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 37,
+      "question": "9.4 + 3.9 = ?",
+      "answer": "13.3",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 38,
+      "question": "8.7 + 4.6 = ?",
+      "answer": "13.3",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 39,
+      "question": "2.9 + 7.8 = ?",
+      "answer": "10.7",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 40,
+      "question": "6.6 + 5.7 = ?",
+      "answer": "12.3",
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying"
+    },
+    {
+      "id": 41,
+      "question": "4.7 + 2.35 = ?",
+      "answer": "7.05",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 42,
+      "question": "3.2 + 1.45 = ?",
+      "answer": "4.65",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 43,
+      "question": "5.8 + 0.62 = ?",
+      "answer": "6.42",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 44,
+      "question": "2.5 + 3.125 = ?",
+      "answer": "5.625",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 45,
+      "question": "7.3 + 1.08 = ?",
+      "answer": "8.38",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 46,
+      "question": "0.6 + 0.45 = ?",
+      "answer": "1.05",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 47,
+      "question": "9.1 + 2.345 = ?",
+      "answer": "11.445",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 48,
+      "question": "4.25 + 3.6 = ?",
+      "answer": "7.85",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 49,
+      "question": "1.75 + 2.5 = ?",
+      "answer": "4.25",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 50,
+      "question": "6.4 + 0.375 = ?",
+      "answer": "6.775",
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places"
+    },
+    {
+      "id": 51,
+      "question": "2.3 + 1.5 + 0.8 = ?",
+      "answer": "4.6",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 52,
+      "question": "1.2 + 3.4 + 2.1 = ?",
+      "answer": "6.7",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 53,
+      "question": "0.5 + 0.3 + 0.9 = ?",
+      "answer": "1.7",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 54,
+      "question": "4.2 + 1.5 + 3.1 = ?",
+      "answer": "8.8",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 55,
+      "question": "2.7 + 0.8 + 1.6 = ?",
+      "answer": "5.1",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 56,
+      "question": "1.25 + 2.5 + 0.75 = ?",
+      "answer": "4.5",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 57,
+      "question": "3.6 + 1.2 + 2.8 = ?",
+      "answer": "7.6",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 58,
+      "question": "0.4 + 0.7 + 0.5 = ?",
+      "answer": "1.6",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 59,
+      "question": "5.5 + 2.3 + 1.7 = ?",
+      "answer": "9.5",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 60,
+      "question": "1.8 + 2.4 + 3.9 = ?",
+      "answer": "8.1",
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals"
+    },
+    {
+      "id": 61,
+      "question": "5.8 - 2.3 = ?",
+      "answer": "3.5",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 62,
+      "question": "7.6 - 3.2 = ?",
+      "answer": "4.4",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 63,
+      "question": "9.7 - 4.5 = ?",
+      "answer": "5.2",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 64,
+      "question": "6.4 - 1.2 = ?",
+      "answer": "5.2",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 65,
+      "question": "8.9 - 3.6 = ?",
+      "answer": "5.3",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 66,
+      "question": "4.7 - 2.1 = ?",
+      "answer": "2.6",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 67,
+      "question": "3.5 - 1.3 = ?",
+      "answer": "2.2",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 68,
+      "question": "7.8 - 5.4 = ?",
+      "answer": "2.4",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 69,
+      "question": "9.3 - 6.1 = ?",
+      "answer": "3.2",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 70,
+      "question": "5.6 - 2.4 = ?",
+      "answer": "3.2",
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places"
+    },
+    {
+      "id": 71,
+      "question": "5.2 - 1.7 = ?",
+      "answer": "3.5",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 72,
+      "question": "7.3 - 2.8 = ?",
+      "answer": "4.5",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 73,
+      "question": "6.1 - 3.6 = ?",
+      "answer": "2.5",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 74,
+      "question": "8.4 - 5.9 = ?",
+      "answer": "2.5",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 75,
+      "question": "4.2 - 1.8 = ?",
+      "answer": "2.4",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 76,
+      "question": "9.1 - 4.7 = ?",
+      "answer": "4.4",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 77,
+      "question": "3.3 - 1.9 = ?",
+      "answer": "1.4",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 78,
+      "question": "6.5 - 2.8 = ?",
+      "answer": "3.7",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 79,
+      "question": "7.2 - 3.6 = ?",
+      "answer": "3.6",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 80,
+      "question": "5.4 - 2.7 = ?",
+      "answer": "2.7",
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing"
+    },
+    {
+      "id": 81,
+      "question": "9.5 - 2.34 = ?",
+      "answer": "7.16",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 82,
+      "question": "5.7 - 1.45 = ?",
+      "answer": "4.25",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 83,
+      "question": "8.3 - 3.125 = ?",
+      "answer": "5.175",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 84,
+      "question": "6.8 - 2.56 = ?",
+      "answer": "4.24",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 85,
+      "question": "4.6 - 1.38 = ?",
+      "answer": "3.22",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 86,
+      "question": "7.4 - 0.625 = ?",
+      "answer": "6.775",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 87,
+      "question": "10.2 - 3.45 = ?",
+      "answer": "6.75",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 88,
+      "question": "3.9 - 1.234 = ?",
+      "answer": "2.666",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 89,
+      "question": "5.5 - 2.375 = ?",
+      "answer": "3.125",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 90,
+      "question": "8.6 - 4.78 = ?",
+      "answer": "3.82",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places"
+    },
+    {
+      "id": 91,
+      "question": "10 - 3.5 = ?",
+      "answer": "6.5",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 92,
+      "question": "5 - 1.2 = ?",
+      "answer": "3.8",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 93,
+      "question": "8 - 2.7 = ?",
+      "answer": "5.3",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 94,
+      "question": "12 - 4.8 = ?",
+      "answer": "7.2",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 95,
+      "question": "6 - 2.45 = ?",
+      "answer": "3.55",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 96,
+      "question": "15 - 7.35 = ?",
+      "answer": "7.65",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 97,
+      "question": "20 - 13.8 = ?",
+      "answer": "6.2",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 98,
+      "question": "7 - 3.125 = ?",
+      "answer": "3.875",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 99,
+      "question": "9 - 5.75 = ?",
+      "answer": "3.25",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 100,
+      "question": "11 - 6.6 = ?",
+      "answer": "4.4",
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers"
+    },
+    {
+      "id": 101,
+      "question": "3.2 \u00d7 4 = ?",
+      "answer": "12.8",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 102,
+      "question": "1.5 \u00d7 3 = ?",
+      "answer": "4.5",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 103,
+      "question": "2.4 \u00d7 5 = ?",
+      "answer": "12",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 104,
+      "question": "0.6 \u00d7 7 = ?",
+      "answer": "4.2",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 105,
+      "question": "1.8 \u00d7 6 = ?",
+      "answer": "10.8",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 106,
+      "question": "4.5 \u00d7 2 = ?",
+      "answer": "9",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 107,
+      "question": "0.9 \u00d7 8 = ?",
+      "answer": "7.2",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 108,
+      "question": "2.7 \u00d7 3 = ?",
+      "answer": "8.1",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 109,
+      "question": "1.2 \u00d7 9 = ?",
+      "answer": "10.8",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 110,
+      "question": "3.6 \u00d7 4 = ?",
+      "answer": "14.4",
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits"
+    },
+    {
+      "id": 111,
+      "question": "2.45 \u00d7 3 = ?",
+      "answer": "7.35",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 112,
+      "question": "1.25 \u00d7 4 = ?",
+      "answer": "5",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 113,
+      "question": "3.75 \u00d7 2 = ?",
+      "answer": "7.5",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 114,
+      "question": "0.85 \u00d7 6 = ?",
+      "answer": "5.1",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 115,
+      "question": "2.35 \u00d7 5 = ?",
+      "answer": "11.75",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 116,
+      "question": "1.65 \u00d7 7 = ?",
+      "answer": "11.55",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 117,
+      "question": "4.25 \u00d7 3 = ?",
+      "answer": "12.75",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 118,
+      "question": "0.95 \u00d7 8 = ?",
+      "answer": "7.6",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 119,
+      "question": "3.15 \u00d7 4 = ?",
+      "answer": "12.6",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 120,
+      "question": "2.55 \u00d7 6 = ?",
+      "answer": "15.3",
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places"
+    },
+    {
+      "id": 121,
+      "question": "3.5 \u00d7 10 = ?",
+      "answer": "35",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 122,
+      "question": "0.7 \u00d7 10 = ?",
+      "answer": "7",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 123,
+      "question": "12.4 \u00d7 10 = ?",
+      "answer": "124",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 124,
+      "question": "0.09 \u00d7 10 = ?",
+      "answer": "0.9",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 125,
+      "question": "5.23 \u00d7 10 = ?",
+      "answer": "52.3",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 126,
+      "question": "0.6 \u00d7 10 = ?",
+      "answer": "6",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 127,
+      "question": "8.15 \u00d7 10 = ?",
+      "answer": "81.5",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 128,
+      "question": "0.04 \u00d7 10 = ?",
+      "answer": "0.4",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 129,
+      "question": "145.8 \u00d7 10 = ?",
+      "answer": "1458",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 130,
+      "question": "2.5 \u00d7 10 = ?",
+      "answer": "25",
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10"
+    },
+    {
+      "id": 131,
+      "question": "3.4 \u00d7 100 = ?",
+      "answer": "340",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 132,
+      "question": "0.7 \u00d7 100 = ?",
+      "answer": "70",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 133,
+      "question": "5.23 \u00d7 100 = ?",
+      "answer": "523",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 134,
+      "question": "0.06 \u00d7 100 = ?",
+      "answer": "6",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 135,
+      "question": "1.5 \u00d7 100 = ?",
+      "answer": "150",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 136,
+      "question": "0.125 \u00d7 100 = ?",
+      "answer": "12.5",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 137,
+      "question": "8.7 \u00d7 100 = ?",
+      "answer": "870",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 138,
+      "question": "0.03 \u00d7 100 = ?",
+      "answer": "3",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 139,
+      "question": "12.45 \u00d7 100 = ?",
+      "answer": "1245",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 140,
+      "question": "2.5 \u00d7 100 = ?",
+      "answer": "250",
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100"
+    },
+    {
+      "id": 141,
+      "question": "3.4 \u00d7 1000 = ?",
+      "answer": "3400",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 142,
+      "question": "0.7 \u00d7 1000 = ?",
+      "answer": "700",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 143,
+      "question": "5.23 \u00d7 1000 = ?",
+      "answer": "5230",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 144,
+      "question": "0.06 \u00d7 1000 = ?",
+      "answer": "60",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 145,
+      "question": "2.5 \u00d7 1000 = ?",
+      "answer": "2500",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 146,
+      "question": "0.125 \u00d7 1000 = ?",
+      "answer": "125",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 147,
+      "question": "8.7 \u00d7 1000 = ?",
+      "answer": "8700",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 148,
+      "question": "0.04 \u00d7 1000 = ?",
+      "answer": "40",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 149,
+      "question": "1.234 \u00d7 1000 = ?",
+      "answer": "1234",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 150,
+      "question": "0.5 \u00d7 1000 = ?",
+      "answer": "500",
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000"
+    },
+    {
+      "id": 151,
+      "question": "4.5 \u00d7 10 = ?",
+      "answer": "45",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 152,
+      "question": "0.8 \u00d7 100 = ?",
+      "answer": "80",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 153,
+      "question": "1.2 \u00d7 1000 = ?",
+      "answer": "1200",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 154,
+      "question": "2.6 \u00d7 5 = ?",
+      "answer": "13",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 155,
+      "question": "0.75 \u00d7 100 = ?",
+      "answer": "75",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 156,
+      "question": "3.25 \u00d7 4 = ?",
+      "answer": "13",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 157,
+      "question": "0.09 \u00d7 1000 = ?",
+      "answer": "90",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 158,
+      "question": "1.8 \u00d7 7 = ?",
+      "answer": "12.6",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 159,
+      "question": "6.5 \u00d7 10 = ?",
+      "answer": "65",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 160,
+      "question": "0.45 \u00d7 8 = ?",
+      "answer": "3.6",
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice"
+    },
+    {
+      "id": 161,
+      "question": "Apples cost \u00a31.25 each. How much for 6 apples?",
+      "answer": "\u00a37.50",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 162,
+      "question": "You have \u00a310 and spend \u00a33.45. How much change?",
+      "answer": "\u00a36.55",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 163,
+      "question": "Bread is \u00a31.20 and milk is \u00a30.85. Total cost?",
+      "answer": "\u00a32.05",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 164,
+      "question": "Books cost \u00a34.50 each. How much for 3 books?",
+      "answer": "\u00a313.50",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 165,
+      "question": "You have \u00a320. After spending \u00a312.75, how much left?",
+      "answer": "\u00a37.25",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 166,
+      "question": "Pencils are \u00a30.35 each. Cost of 4 pencils?",
+      "answer": "\u00a31.40",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 167,
+      "question": "Cinema ticket is \u00a38.50. Cost for 2 tickets?",
+      "answer": "\u00a317.00",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 168,
+      "question": "You buy items for \u00a33.25, \u00a31.80, and \u00a35.50. Total?",
+      "answer": "\u00a310.55",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 169,
+      "question": "Chocolate bar is \u00a31.35. You pay with \u00a35. Change?",
+      "answer": "\u00a33.65",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 170,
+      "question": "Drinks cost \u00a31.25 each. Cost for 5 drinks?",
+      "answer": "\u00a36.25",
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money"
+    },
+    {
+      "id": 171,
+      "question": "A plank is 2.5m long. What's the length of 4 planks?",
+      "answer": "10m",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 172,
+      "question": "You walk 1.8km then 2.3km. Total distance?",
+      "answer": "4.1km",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 173,
+      "question": "A rope is 5.6m. You cut off 2.8m. How much left?",
+      "answer": "2.8m",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 174,
+      "question": "Each step is 0.7m. Distance after 10 steps?",
+      "answer": "7m",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 175,
+      "question": "You buy 0.5kg sugar and 1.25kg flour. Total weight?",
+      "answer": "1.75kg",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 176,
+      "question": "A journey is 12.5km. You've gone 8.3km. How far left?",
+      "answer": "4.2km",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 177,
+      "question": "Water bottles hold 0.75L. Total in 8 bottles?",
+      "answer": "6L",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 178,
+      "question": "You pour out 2.35L from 5L. How much remains?",
+      "answer": "2.65L",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 179,
+      "question": "Each tile is 0.25m wide. Width of 12 tiles?",
+      "answer": "3m",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 180,
+      "question": "You run 3.6km and walk 1.8km. Total distance?",
+      "answer": "5.4km",
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements"
+    },
+    {
+      "id": 181,
+      "question": "4.8 + 3.7 = ?",
+      "answer": "8.5",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 182,
+      "question": "9.2 - 4.6 = ?",
+      "answer": "4.6",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 183,
+      "question": "2.35 + 1.8 = ?",
+      "answer": "4.15",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 184,
+      "question": "7.5 - 2.75 = ?",
+      "answer": "4.75",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 185,
+      "question": "0.6 + 0.85 + 0.3 = ?",
+      "answer": "1.75",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 186,
+      "question": "10 - 6.45 = ?",
+      "answer": "3.55",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 187,
+      "question": "5.25 + 3.8 = ?",
+      "answer": "9.05",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 188,
+      "question": "8.3 - 5.75 = ?",
+      "answer": "2.55",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 189,
+      "question": "1.5 + 2.35 + 0.75 = ?",
+      "answer": "4.6",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 190,
+      "question": "12 - 7.8 = ?",
+      "answer": "4.2",
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction"
+    },
+    {
+      "id": 191,
+      "question": "2.8 \u00d7 5 = ?",
+      "answer": "14",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 192,
+      "question": "3.5 \u00d7 10 = ?",
+      "answer": "35",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 193,
+      "question": "1.25 \u00d7 100 = ?",
+      "answer": "125",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 194,
+      "question": "0.8 \u00d7 1000 = ?",
+      "answer": "800",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 195,
+      "question": "4.6 \u00d7 3 = ?",
+      "answer": "13.8",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 196,
+      "question": "0.95 \u00d7 4 = ?",
+      "answer": "3.8",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 197,
+      "question": "2.5 \u00d7 10 = ?",
+      "answer": "25",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 198,
+      "question": "0.06 \u00d7 100 = ?",
+      "answer": "6",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 199,
+      "question": "1.75 \u00d7 6 = ?",
+      "answer": "10.5",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 200,
+      "question": "0.4 \u00d7 1000 = ?",
+      "answer": "400",
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication"
+    },
+    {
+      "id": 201,
+      "question": "3.5 + 2.8 - 1.6 = ?",
+      "answer": "4.7",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 202,
+      "question": "2.4 \u00d7 5 + 3.2 = ?",
+      "answer": "15.2",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 203,
+      "question": "10 - 3.5 \u00d7 2 = ?",
+      "answer": "3",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 204,
+      "question": "4.8 + 1.5 \u00d7 3 = ?",
+      "answer": "9.3",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 205,
+      "question": "(2.5 + 1.5) \u00d7 2 = ?",
+      "answer": "8",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 206,
+      "question": "12.5 - 3.2 + 1.8 = ?",
+      "answer": "11.1",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 207,
+      "question": "0.6 \u00d7 10 - 2.5 = ?",
+      "answer": "3.5",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 208,
+      "question": "5.4 + 2.7 \u00d7 2 = ?",
+      "answer": "10.8",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 209,
+      "question": "(8 - 3.5) \u00d7 2 = ?",
+      "answer": "9",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 210,
+      "question": "3.6 \u00d7 5 - 7.2 = ?",
+      "answer": "10.8",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1"
+    },
+    {
+      "id": 211,
+      "question": "1.5 \u00d7 100 \u00f7 10 = ?",
+      "answer": "15",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 212,
+      "question": "4.2 + 3.8 - 2.5 + 1.7 = ?",
+      "answer": "7.2",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 213,
+      "question": "0.8 \u00d7 10 + 0.5 \u00d7 10 = ?",
+      "answer": "13",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 214,
+      "question": "15 - (3.5 + 2.8) = ?",
+      "answer": "8.7",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 215,
+      "question": "2.5 \u00d7 4 + 1.5 \u00d7 2 = ?",
+      "answer": "13",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 216,
+      "question": "(4.5 - 1.8) \u00d7 3 = ?",
+      "answer": "8.1",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 217,
+      "question": "6.4 + 2.3 - 1.9 + 0.8 = ?",
+      "answer": "7.6",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 218,
+      "question": "0.5 \u00d7 1000 - 350 = ?",
+      "answer": "150",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 219,
+      "question": "(10 - 6.5) \u00d7 4 = ?",
+      "answer": "14",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 220,
+      "question": "3.2 \u00d7 5 + 2.8 \u00d7 3 = ?",
+      "answer": "24.4",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2"
+    },
+    {
+      "id": 221,
+      "question": "You buy 3 items at \u00a32.45 each and 2 at \u00a33.80. Total cost?",
+      "answer": "\u00a314.95",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 222,
+      "question": "A 5m rope cut into pieces 0.75m each. How many pieces?",
+      "answer": "6 pieces (with 0.5m left)",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 223,
+      "question": "You walk 1.5km, run 2.8km, then walk 0.9km. Total distance?",
+      "answer": "5.2km",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 224,
+      "question": "Juice costs \u00a31.35. You buy 4 bottles. Pay with \u00a310. Change?",
+      "answer": "\u00a34.60",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 225,
+      "question": "A recipe needs 0.75kg flour. For 6 batches, how much flour?",
+      "answer": "4.5kg",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 226,
+      "question": "Bus journey: 3.7km, 2.5km, 4.8km. Total distance?",
+      "answer": "11km",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 227,
+      "question": "Start with \u00a320. Buy items for \u00a35.75, \u00a33.45, \u00a36.20. Money left?",
+      "answer": "\u00a34.60",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 228,
+      "question": "Ribbon: 8m. Cut into 0.25m pieces. How many pieces?",
+      "answer": "32 pieces",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 229,
+      "question": "Train travels 25.5km then 18.8km. Total distance?",
+      "answer": "44.3km",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 230,
+      "question": "3 books at \u00a34.50 and 2 pens at \u00a31.25. Total cost?",
+      "answer": "\u00a316.00",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1"
+    },
+    {
+      "id": 231,
+      "question": "You have \u00a350. Spend \u00a318.75 then \u00a322.50. How much left?",
+      "answer": "\u00a38.75",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 232,
+      "question": "Fabric: 12m. Use 3.5m, 2.8m, 4.2m. How much remains?",
+      "answer": "1.5m",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 233,
+      "question": "Petrol: \u00a31.45/litre. Cost of 30 litres?",
+      "answer": "\u00a343.50",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 234,
+      "question": "You cycle 4.5km to school daily. Distance in 5 days?",
+      "answer": "22.5km",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 235,
+      "question": "Recipe serves 4, needs 1.5L water. For 12 people, how much water?",
+      "answer": "4.5L",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 236,
+      "question": "Oranges: \u00a30.45 each. Bananas: \u00a30.30 each. 5 oranges + 8 bananas?",
+      "answer": "\u00a34.65",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 237,
+      "question": "Tank holds 50L. Has 32.5L. How much more to fill?",
+      "answer": "17.5L",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 238,
+      "question": "Monthly pass: \u00a345.50. Weekly pass: \u00a312.75. Save how much with monthly?",
+      "answer": "\u00a35.50",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 239,
+      "question": "Room length: 4.5m. Width: 3.2m. Perimeter?",
+      "answer": "15.4m",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 240,
+      "question": "Medicine: 2.5ml, 3 times daily, for 10 days. Total ml?",
+      "answer": "75ml",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2"
+    },
+    {
+      "id": 241,
+      "question": "Estimate 3.8 + 5.2 (round to nearest whole number first)",
+      "answer": "9",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 242,
+      "question": "Estimate 19.7 - 8.3 (round to nearest whole number first)",
+      "answer": "12",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 243,
+      "question": "Estimate 4.8 \u00d7 3 (round to nearest whole number first)",
+      "answer": "15",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 244,
+      "question": "Is 7.2 + 8.9 closer to 15, 16, or 17?",
+      "answer": "16",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 245,
+      "question": "Estimate 12.5 \u00d7 10 mentally",
+      "answer": "125",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 246,
+      "question": "Is 3.7 \u00d7 4 closer to 12, 15, or 16?",
+      "answer": "15",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 247,
+      "question": "Estimate 9.8 + 4.2 + 3.9 (round first)",
+      "answer": "18",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 248,
+      "question": "Is 15 - 6.7 closer to 8 or 9?",
+      "answer": "8",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 249,
+      "question": "Estimate 0.75 \u00d7 100 mentally",
+      "answer": "75",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 250,
+      "question": "Is 5.9 \u00d7 6 closer to 30, 36, or 42?",
+      "answer": "36",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding"
+    },
+    {
+      "id": 251,
+      "question": "Quick! 4.5 + 3.8 = ?",
+      "answer": "8.3",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 252,
+      "question": "Quick! 7.2 - 3.6 = ?",
+      "answer": "3.6",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 253,
+      "question": "Quick! 2.5 \u00d7 4 = ?",
+      "answer": "10",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 254,
+      "question": "Quick! 0.6 \u00d7 10 = ?",
+      "answer": "6",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 255,
+      "question": "Quick! 3.5 \u00d7 100 = ?",
+      "answer": "350",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 256,
+      "question": "Quick! 10 - 4.5 = ?",
+      "answer": "5.5",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 257,
+      "question": "Quick! 1.8 \u00d7 5 = ?",
+      "answer": "9",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 258,
+      "question": "Quick! 6.4 + 2.8 = ?",
+      "answer": "9.2",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 259,
+      "question": "Quick! 0.25 \u00d7 1000 = ?",
+      "answer": "250",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 260,
+      "question": "Quick! 8 - 3.25 = ?",
+      "answer": "4.75",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations"
+    },
+    {
+      "id": 261,
+      "question": "Which is bigger: 0.8 or 0.75?",
+      "answer": "0.8",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 262,
+      "question": "5.6 + 2.9 = ?",
+      "answer": "8.5",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 263,
+      "question": "9.3 - 4.8 = ?",
+      "answer": "4.5",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 264,
+      "question": "3.5 \u00d7 6 = ?",
+      "answer": "21",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 265,
+      "question": "2.4 \u00d7 10 = ?",
+      "answer": "24",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 266,
+      "question": "0.8 \u00d7 100 = ?",
+      "answer": "80",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 267,
+      "question": "1.5 \u00d7 1000 = ?",
+      "answer": "1500",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 268,
+      "question": "10 - 6.35 = ?",
+      "answer": "3.65",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 269,
+      "question": "4.25 + 3.8 = ?",
+      "answer": "8.05",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 270,
+      "question": "In 12.34, which digit is in the tenths place?",
+      "answer": "3",
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 271,
+      "question": "When adding decimals, you must line up the:",
+      "answer": "Decimal points",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 272,
+      "question": "7.5 - 2.75 + 1.5 = ?",
+      "answer": "6.25",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 273,
+      "question": "2.8 \u00d7 5 + 1.2 = ?",
+      "answer": "15.2",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 274,
+      "question": "Is 0.5 equal to 0.50?",
+      "answer": "Yes",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 275,
+      "question": "Order from smallest: 0.6, 0.06, 0.66",
+      "answer": "0.06, 0.6, 0.66",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 276,
+      "question": "\u00a38.50 \u00d7 4 = ?",
+      "answer": "\u00a334.00",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 277,
+      "question": "12.5 \u00f7 10 = ? (move decimal left)",
+      "answer": "1.25",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 278,
+      "question": "3.6 \u00d7 100 = ?",
+      "answer": "360",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 279,
+      "question": "What's the place value of 7 in 45.67?",
+      "answer": "Hundredths",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 280,
+      "question": "5.25 + 2.8 - 1.5 = ?",
+      "answer": "6.55",
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 281,
+      "question": "0.75 + 0.25 = ?",
+      "answer": "1",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 282,
+      "question": "8 - 3.45 = ?",
+      "answer": "4.55",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 283,
+      "question": "1.8 \u00d7 7 = ?",
+      "answer": "12.6",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 284,
+      "question": "0.5 \u00d7 1000 = ?",
+      "answer": "500",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 285,
+      "question": "Which is smallest: 1.2, 1.02, 1.22?",
+      "answer": "1.02",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 286,
+      "question": "4.5 + 3.75 = ?",
+      "answer": "8.25",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 287,
+      "question": "9.6 - 5.8 = ?",
+      "answer": "3.8",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 288,
+      "question": "2.5 \u00d7 8 = ?",
+      "answer": "20",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 289,
+      "question": "3.25 \u00d7 10 = ?",
+      "answer": "32.5",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 290,
+      "question": "You buy items for \u00a34.50 and \u00a33.75. Total?",
+      "answer": "\u00a38.25",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3"
+    },
+    {
+      "id": 291,
+      "question": "How many tenths in 2.3?",
+      "answer": "23 tenths",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 292,
+      "question": "6.7 + 2.8 + 1.5 = ?",
+      "answer": "11",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 293,
+      "question": "15 - 8.75 = ?",
+      "answer": "6.25",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 294,
+      "question": "4.5 \u00d7 6 = ?",
+      "answer": "27",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 295,
+      "question": "0.9 \u00d7 100 = ?",
+      "answer": "90",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 296,
+      "question": "When multiplying by 10, move decimal point:",
+      "answer": "1 place right",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 297,
+      "question": "3.75 + 2.5 - 1.25 = ?",
+      "answer": "5",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 298,
+      "question": "Which is bigger: 0.9 or 0.89?",
+      "answer": "0.9",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 299,
+      "question": "2.25 \u00d7 4 = ?",
+      "answer": "9",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    },
+    {
+      "id": 300,
+      "question": "What's the most important rule for adding/subtracting decimals?",
+      "answer": "Line up decimal points",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check"
+    }
+  ]
+}

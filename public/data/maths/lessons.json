@@ -81,7 +81,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["decimals", "place value", "addition", "subtraction", "multiplication"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "004_maths_lesson.md",
+        "questions": "004_maths_questions.json",
+        "worksheet": "004_maths.pdf",
+        "answers": "004_maths_answers.json"
+      }
     },
     {
       "id": 5,

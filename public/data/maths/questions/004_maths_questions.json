@@ -1,0 +1,518 @@
+{
+  "lessonId": 4,
+  "lessonNumber": "004",
+  "lessonTitle": "Decimals - Basic Operations",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Decimals - Place Value",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 1, "question": "What does the decimal point separate?", "answer": "12.5", "options": ["The whole number from the fraction part", "Big numbers from small numbers", "Positive from negative", "Nothing"]},
+        {"id": 2, "question": "In 3.7, what is the place value of 7?", "answer": "0.7", "options": ["Tenths", "Units", "Hundredths", "Tens"]},
+        {"id": 3, "question": "In 12.34, what is the place value of 3?", "answer": "12.5", "options": ["Tenths", "Units", "Hundredths", "Tens"]},
+        {"id": 4, "question": "In 12.34, what is the place value of 4?", "answer": "12.5", "options": ["Hundredths", "Tenths", "Units", "Thousandths"]},
+        {"id": 5, "question": "What is 0.5 as a fraction?", "answer": "0.5", "options": ["5/10 or 1/2", "5/100", "1/5", "5/1"]},
+        {"id": 6, "question": "What is 0.25 as a fraction?", "answer": "0.25", "options": ["25/100 or 1/4", "2/5", "1/25", "25/10"]},
+        {"id": 7, "question": "Which is larger: 0.7 or 0.07?", "answer": "0.7", "options": ["0.7", "0.07", "They're equal", "Can't tell"]},
+        {"id": 8, "question": "Does adding a zero after a decimal change its value? (e.g. 0.5 = 0.50)", "answer": "No", "options": ["No", "Yes", "Sometimes", "Only for whole numbers"]},
+        {"id": 9, "question": "Which is the smallest: 0.4, 0.04, 0.444?", "answer": "0.04", "options": ["0.04", "0.4", "0.444", "They're equal"]},
+        {"id": 10, "question": "In 56.789, what digit is in the hundredths place?", "answer": "8", "options": ["8", "7", "9", "6"]}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Reading and Comparing Decimals",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 11, "question": "How do you say 3.7?", "answer": "Three point seven", "options": ["Three point seven", "Three point seventy", "Thirty-seven", "Three and seven"]},
+        {"id": 12, "question": "How do you say 12.45?", "answer": "Twelve point four five", "options": ["Twelve point four five", "Twelve point forty-five", "Twelve and forty-five", "One thousand two hundred forty-five"]},
+        {"id": 13, "question": "Which is bigger: 0.8 or 0.75?", "answer": "0.8", "options": ["0.8", "0.75", "Equal", "Can't tell"]},
+        {"id": 14, "question": "Put in order (smallest first): 0.3, 0.03, 0.33", "answer": "0.03, 0.3, 0.33", "options": ["0.03, 0.3, 0.33", "0.3, 0.03, 0.33", "0.33, 0.3, 0.03", "0.03, 0.33, 0.3"]},
+        {"id": 15, "question": "Which is smaller: 1.2 or 1.19?", "answer": "1.19", "options": ["1.19", "1.2", "Equal", "Can't tell"]},
+        {"id": 16, "question": "Is 0.50 equal to 0.5?", "answer": "Yes", "options": ["Yes", "No", "Sometimes", "Only in money"]},
+        {"id": 17, "question": "Which is largest: 2.7, 2.07, 2.77?", "answer": "2.77", "options": ["2.77", "2.7", "2.07", "Equal"]},
+        {"id": 18, "question": "What is 0.3 in words?", "answer": "Three tenths", "options": ["Three tenths", "Thirty", "Three hundredths", "Point three"]},
+        {"id": 19, "question": "What is 0.25 in words?", "answer": "Twenty-five hundredths", "options": ["Twenty-five hundredths", "Two point five", "Twenty-five", "Two and five"]},
+        {"id": 20, "question": "Which is bigger: 0.6 or 0.59?", "answer": "0.6", "options": ["0.6", "0.59", "Equal", "Can't tell"]}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Adding Decimals - Same Decimal Places",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 21, "question": "3.2 + 1.5 = ?", "answer": "4.7", "options": ["4.7", "4.8", "3.7", "5.7"]},
+        {"id": 22, "question": "5.4 + 2.3 = ?", "answer": "7.7", "options": ["7.7", "7.8", "8.7", "7.1"]},
+        {"id": 23, "question": "1.1 + 2.6 = ?", "answer": "3.7", "options": ["3.7", "3.8", "4.7", "2.7"]},
+        {"id": 24, "question": "4.5 + 3.2 = ?", "answer": "7.7", "options": ["7.7", "7.8", "8.7", "6.7"]},
+        {"id": 25, "question": "2.8 + 1.1 = ?", "answer": "3.9", "options": ["3.9", "4.9", "3.8", "2.9"]},
+        {"id": 26, "question": "6.3 + 2.4 = ?", "answer": "8.7", "options": ["8.7", "8.8", "9.7", "7.7"]},
+        {"id": 27, "question": "0.5 + 0.3 = ?", "answer": "0.8", "options": ["0.8", "0.9", "1.8", "0.7"]},
+        {"id": 28, "question": "1.2 + 3.7 = ?", "answer": "4.9", "options": ["4.9", "5.9", "4.8", "3.9"]},
+        {"id": 29, "question": "7.1 + 1.8 = ?", "answer": "8.9", "options": ["8.9", "9.9", "8.8", "7.9"]},
+        {"id": 30, "question": "0.4 + 0.5 = ?", "answer": "0.9", "options": ["0.9", "1.0", "0.8", "1.9"]}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Adding Decimals - With Carrying",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 31, "question": "5.8 + 3.6 = ?", "answer": "9.4", "options": ["9.4", "8.4", "9.14", "8.14"]},
+        {"id": 32, "question": "4.7 + 2.8 = ?", "answer": "7.5", "options": ["7.5", "6.5", "7.15", "6.15"]},
+        {"id": 33, "question": "6.9 + 1.5 = ?", "answer": "8.4", "options": ["8.4", "7.4", "8.14", "7.14"]},
+        {"id": 34, "question": "3.6 + 4.9 = ?", "answer": "8.5", "options": ["8.5", "7.5", "8.15", "7.15"]},
+        {"id": 35, "question": "7.8 + 2.7 = ?", "answer": "10.5", "options": ["10.5", "9.5", "10.15", "9.15"]},
+        {"id": 36, "question": "5.5 + 6.8 = ?", "answer": "12.3", "options": ["12.3", "11.3", "12.13", "11.13"]},
+        {"id": 37, "question": "9.4 + 3.9 = ?", "answer": "13.3", "options": ["13.3", "12.3", "13.13", "12.13"]},
+        {"id": 38, "question": "8.7 + 4.6 = ?", "answer": "13.3", "options": ["13.3", "12.3", "13.13", "12.13"]},
+        {"id": 39, "question": "2.9 + 7.8 = ?", "answer": "10.7", "options": ["10.7", "9.7", "10.17", "9.17"]},
+        {"id": 40, "question": "6.6 + 5.7 = ?", "answer": "12.3", "options": ["12.3", "11.3", "12.13", "11.13"]}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Adding Decimals - Different Decimal Places",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 41, "question": "4.7 + 2.35 = ?", "answer": "7.05", "options": ["7.05", "7.5", "6.05", "7.85"]},
+        {"id": 42, "question": "3.2 + 1.45 = ?", "answer": "4.65", "options": ["4.65", "4.75", "3.65", "4.55"]},
+        {"id": 43, "question": "5.8 + 0.62 = ?", "answer": "6.42", "options": ["6.42", "6.52", "5.42", "6.32"]},
+        {"id": 44, "question": "2.5 + 3.125 = ?", "answer": "5.625", "options": ["5.625", "5.725", "4.625", "5.525"]},
+        {"id": 45, "question": "7.3 + 1.08 = ?", "answer": "8.38", "options": ["8.38", "8.48", "7.38", "8.28"]},
+        {"id": 46, "question": "0.6 + 0.45 = ?", "answer": "1.05", "options": ["1.05", "1.15", "0.95", "1.45"]},
+        {"id": 47, "question": "9.1 + 2.345 = ?", "answer": "11.445", "options": ["11.445", "11.545", "10.445", "11.345"]},
+        {"id": 48, "question": "4.25 + 3.6 = ?", "answer": "7.85", "options": ["7.85", "7.95", "6.85", "7.75"]},
+        {"id": 49, "question": "1.75 + 2.5 = ?", "answer": "4.25", "options": ["4.25", "4.35", "3.25", "4.15"]},
+        {"id": 50, "question": "6.4 + 0.375 = ?", "answer": "6.775", "options": ["6.775", "6.875", "5.775", "6.675"]}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Adding Three or More Decimals",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 51, "question": "2.3 + 1.5 + 0.8 = ?", "answer": "4.6", "options": ["4.6", "4.7", "3.6", "5.6"]},
+        {"id": 52, "question": "1.2 + 3.4 + 2.1 = ?", "answer": "6.7", "options": ["6.7", "6.8", "5.7", "7.7"]},
+        {"id": 53, "question": "0.5 + 0.3 + 0.9 = ?", "answer": "1.7", "options": ["1.7", "1.8", "0.7", "2.7"]},
+        {"id": 54, "question": "4.2 + 1.5 + 3.1 = ?", "answer": "8.8", "options": ["8.8", "8.9", "7.8", "9.8"]},
+        {"id": 55, "question": "2.7 + 0.8 + 1.6 = ?", "answer": "5.1", "options": ["5.1", "5.2", "4.1", "6.1"]},
+        {"id": 56, "question": "1.25 + 2.5 + 0.75 = ?", "answer": "4.5", "options": ["4.5", "4.6", "3.5", "5.5"]},
+        {"id": 57, "question": "3.6 + 1.2 + 2.8 = ?", "answer": "7.6", "options": ["7.6", "7.7", "6.6", "8.6"]},
+        {"id": 58, "question": "0.4 + 0.7 + 0.5 = ?", "answer": "1.6", "options": ["1.6", "1.7", "0.6", "2.6"]},
+        {"id": 59, "question": "5.5 + 2.3 + 1.7 = ?", "answer": "9.5", "options": ["9.5", "9.6", "8.5", "10.5"]},
+        {"id": 60, "question": "1.8 + 2.4 + 3.9 = ?", "answer": "8.1", "options": ["8.1", "8.2", "7.1", "9.1"]}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Subtracting Decimals - Same Decimal Places",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 61, "question": "5.8 - 2.3 = ?", "answer": "3.5", "options": ["3.5", "3.6", "2.5", "4.5"]},
+        {"id": 62, "question": "7.6 - 3.2 = ?", "answer": "4.4", "options": ["4.4", "4.5", "3.4", "5.4"]},
+        {"id": 63, "question": "9.7 - 4.5 = ?", "answer": "5.2", "options": ["5.2", "5.3", "4.2", "6.2"]},
+        {"id": 64, "question": "6.4 - 1.2 = ?", "answer": "5.2", "options": ["5.2", "5.3", "4.2", "6.2"]},
+        {"id": 65, "question": "8.9 - 3.6 = ?", "answer": "5.3", "options": ["5.3", "5.4", "4.3", "6.3"]},
+        {"id": 66, "question": "4.7 - 2.1 = ?", "answer": "2.6", "options": ["2.6", "2.7", "1.6", "3.6"]},
+        {"id": 67, "question": "3.5 - 1.3 = ?", "answer": "2.2", "options": ["2.2", "2.3", "1.2", "3.2"]},
+        {"id": 68, "question": "7.8 - 5.4 = ?", "answer": "2.4", "options": ["2.4", "2.5", "1.4", "3.4"]},
+        {"id": 69, "question": "9.3 - 6.1 = ?", "answer": "3.2", "options": ["3.2", "3.3", "2.2", "4.2"]},
+        {"id": 70, "question": "5.6 - 2.4 = ?", "answer": "3.2", "options": ["3.2", "3.3", "2.2", "4.2"]}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Subtracting Decimals - With Borrowing",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 71, "question": "5.2 - 1.7 = ?", "answer": "3.5", "options": ["3.5", "3.6", "4.5", "2.5"]},
+        {"id": 72, "question": "7.3 - 2.8 = ?", "answer": "4.5", "options": ["4.5", "4.6", "5.5", "3.5"]},
+        {"id": 73, "question": "6.1 - 3.6 = ?", "answer": "2.5", "options": ["2.5", "2.6", "3.5", "1.5"]},
+        {"id": 74, "question": "8.4 - 5.9 = ?", "answer": "2.5", "options": ["2.5", "2.6", "3.5", "1.5"]},
+        {"id": 75, "question": "4.2 - 1.8 = ?", "answer": "2.4", "options": ["2.4", "2.5", "3.4", "1.4"]},
+        {"id": 76, "question": "9.1 - 4.7 = ?", "answer": "4.4", "options": ["4.4", "4.5", "5.4", "3.4"]},
+        {"id": 77, "question": "3.3 - 1.9 = ?", "answer": "1.4", "options": ["1.4", "1.5", "2.4", "0.4"]},
+        {"id": 78, "question": "6.5 - 2.8 = ?", "answer": "3.7", "options": ["3.7", "3.8", "4.7", "2.7"]},
+        {"id": 79, "question": "7.2 - 3.6 = ?", "answer": "3.6", "options": ["3.6", "3.7", "4.6", "2.6"]},
+        {"id": 80, "question": "5.4 - 2.7 = ?", "answer": "2.7", "options": ["2.7", "2.8", "3.7", "1.7"]}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Decimals - Different Decimal Places",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 81, "question": "9.5 - 2.34 = ?", "answer": "7.16", "options": ["7.16", "7.26", "6.16", "7.06"]},
+        {"id": 82, "question": "5.7 - 1.45 = ?", "answer": "4.25", "options": ["4.25", "4.35", "3.25", "4.15"]},
+        {"id": 83, "question": "8.3 - 3.125 = ?", "answer": "5.175", "options": ["5.175", "5.275", "4.175", "5.075"]},
+        {"id": 84, "question": "6.8 - 2.56 = ?", "answer": "4.24", "options": ["4.24", "4.34", "3.24", "4.14"]},
+        {"id": 85, "question": "4.6 - 1.38 = ?", "answer": "3.22", "options": ["3.22", "3.32", "2.22", "3.12"]},
+        {"id": 86, "question": "7.4 - 0.625 = ?", "answer": "6.775", "options": ["6.775", "6.875", "5.775", "6.675"]},
+        {"id": 87, "question": "10.2 - 3.45 = ?", "answer": "6.75", "options": ["6.75", "6.85", "5.75", "6.65"]},
+        {"id": 88, "question": "3.9 - 1.234 = ?", "answer": "2.666", "options": ["2.666", "2.766", "1.666", "2.566"]},
+        {"id": 89, "question": "5.5 - 2.375 = ?", "answer": "3.125", "options": ["3.125", "3.225", "2.125", "3.025"]},
+        {"id": 90, "question": "8.6 - 4.78 = ?", "answer": "3.82", "options": ["3.82", "3.92", "2.82", "3.72"]}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Subtracting from Whole Numbers",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 91, "question": "10 - 3.5 = ?", "answer": "6.5", "options": ["6.5", "6.6", "7.5", "5.5"]},
+        {"id": 92, "question": "5 - 1.2 = ?", "answer": "3.8", "options": ["3.8", "3.9", "4.8", "2.8"]},
+        {"id": 93, "question": "8 - 2.7 = ?", "answer": "5.3", "options": ["5.3", "5.4", "6.3", "4.3"]},
+        {"id": 94, "question": "12 - 4.8 = ?", "answer": "7.2", "options": ["7.2", "7.3", "8.2", "6.2"]},
+        {"id": 95, "question": "6 - 2.45 = ?", "answer": "3.55", "options": ["3.55", "3.65", "4.55", "2.55"]},
+        {"id": 96, "question": "15 - 7.35 = ?", "answer": "7.65", "options": ["7.65", "7.75", "8.65", "6.65"]},
+        {"id": 97, "question": "20 - 13.8 = ?", "answer": "6.2", "options": ["6.2", "6.3", "7.2", "5.2"]},
+        {"id": 98, "question": "7 - 3.125 = ?", "answer": "3.875", "options": ["3.875", "3.975", "4.875", "2.875"]},
+        {"id": 99, "question": "9 - 5.75 = ?", "answer": "3.25", "options": ["3.25", "3.35", "4.25", "2.25"]},
+        {"id": 100, "question": "11 - 6.6 = ?", "answer": "4.4", "options": ["4.4", "4.5", "5.4", "3.4"]}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Multiplying Decimals by Single Digits",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 101, "question": "3.2 × 4 = ?", "answer": "12.8", "options": ["12.8", "13.8", "11.8", "128"]},
+        {"id": 102, "question": "1.5 × 3 = ?", "answer": "4.5", "options": ["4.5", "4.6", "3.5", "45"]},
+        {"id": 103, "question": "2.4 × 5 = ?", "answer": "12", "options": ["12", "12.0", "10", "120"]},
+        {"id": 104, "question": "0.6 × 7 = ?", "answer": "4.2", "options": ["4.2", "4.3", "3.2", "42"]},
+        {"id": 105, "question": "1.8 × 6 = ?", "answer": "10.8", "options": ["10.8", "11.8", "9.8", "108"]},
+        {"id": 106, "question": "4.5 × 2 = ?", "answer": "9", "options": ["9", "9.0", "8", "90"]},
+        {"id": 107, "question": "0.9 × 8 = ?", "answer": "7.2", "options": ["7.2", "7.3", "6.2", "72"]},
+        {"id": 108, "question": "2.7 × 3 = ?", "answer": "8.1", "options": ["8.1", "8.2", "7.1", "81"]},
+        {"id": 109, "question": "1.2 × 9 = ?", "answer": "10.8", "options": ["10.8", "11.8", "9.8", "108"]},
+        {"id": 110, "question": "3.6 × 4 = ?", "answer": "14.4", "options": ["14.4", "15.4", "13.4", "144"]}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Multiplying Decimals - Two Decimal Places",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 111, "question": "2.45 × 3 = ?", "answer": "7.35", "options": ["7.35", "7.45", "6.35", "735"]},
+        {"id": 112, "question": "1.25 × 4 = ?", "answer": "5", "options": ["5", "5.0", "5.00", "50"]},
+        {"id": 113, "question": "3.75 × 2 = ?", "answer": "7.5", "options": ["7.5", "7.50", "7.6", "75"]},
+        {"id": 114, "question": "0.85 × 6 = ?", "answer": "5.1", "options": ["5.1", "5.10", "5.2", "51"]},
+        {"id": 115, "question": "2.35 × 5 = ?", "answer": "11.75", "options": ["11.75", "12.75", "10.75", "1175"]},
+        {"id": 116, "question": "1.65 × 7 = ?", "answer": "11.55", "options": ["11.55", "12.55", "10.55", "1155"]},
+        {"id": 117, "question": "4.25 × 3 = ?", "answer": "12.75", "options": ["12.75", "13.75", "11.75", "1275"]},
+        {"id": 118, "question": "0.95 × 8 = ?", "answer": "7.6", "options": ["7.6", "7.60", "7.7", "76"]},
+        {"id": 119, "question": "3.15 × 4 = ?", "answer": "12.6", "options": ["12.6", "12.60", "13.6", "126"]},
+        {"id": 120, "question": "2.55 × 6 = ?", "answer": "15.3", "options": ["15.3", "15.30", "16.3", "153"]}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Multiplying by 10",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 121, "question": "3.5 × 10 = ?", "answer": "35", "options": ["35", "3.50", "350", "0.35"]},
+        {"id": 122, "question": "0.7 × 10 = ?", "answer": "7", "options": ["7", "0.70", "70", "0.07"]},
+        {"id": 123, "question": "12.4 × 10 = ?", "answer": "124", "options": ["124", "12.40", "1240", "1.24"]},
+        {"id": 124, "question": "0.09 × 10 = ?", "answer": "0.9", "options": ["0.9", "0.090", "9", "0.009"]},
+        {"id": 125, "question": "5.23 × 10 = ?", "answer": "52.3", "options": ["52.3", "5.230", "523", "0.523"]},
+        {"id": 126, "question": "0.6 × 10 = ?", "answer": "6", "options": ["6", "0.60", "60", "0.06"]},
+        {"id": 127, "question": "8.15 × 10 = ?", "answer": "81.5", "options": ["81.5", "8.150", "815", "0.815"]},
+        {"id": 128, "question": "0.04 × 10 = ?", "answer": "0.4", "options": ["0.4", "0.040", "4", "0.004"]},
+        {"id": 129, "question": "145.8 × 10 = ?", "answer": "1458", "options": ["1458", "145.80", "14580", "14.58"]},
+        {"id": 130, "question": "2.5 × 10 = ?", "answer": "25", "options": ["25", "2.50", "250", "0.25"]}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Multiplying by 100",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 131, "question": "3.4 × 100 = ?", "answer": "340", "options": ["340", "34", "3400", "3.4"]},
+        {"id": 132, "question": "0.7 × 100 = ?", "answer": "70", "options": ["70", "7", "700", "0.7"]},
+        {"id": 133, "question": "5.23 × 100 = ?", "answer": "523", "options": ["523", "52.3", "5230", "5.23"]},
+        {"id": 134, "question": "0.06 × 100 = ?", "answer": "6", "options": ["6", "0.6", "60", "0.06"]},
+        {"id": 135, "question": "1.5 × 100 = ?", "answer": "150", "options": ["150", "15", "1500", "1.5"]},
+        {"id": 136, "question": "0.125 × 100 = ?", "answer": "12.5", "options": ["12.5", "1.25", "125", "0.125"]},
+        {"id": 137, "question": "8.7 × 100 = ?", "answer": "870", "options": ["870", "87", "8700", "8.7"]},
+        {"id": 138, "question": "0.03 × 100 = ?", "answer": "3", "options": ["3", "0.3", "30", "0.03"]},
+        {"id": 139, "question": "12.45 × 100 = ?", "answer": "1245", "options": ["1245", "124.5", "12450", "12.45"]},
+        {"id": 140, "question": "2.5 × 100 = ?", "answer": "250", "options": ["250", "25", "2500", "2.5"]}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Multiplying by 1000",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 141, "question": "3.4 × 1000 = ?", "answer": "3400", "options": ["3400", "340", "34000", "34"]},
+        {"id": 142, "question": "0.7 × 1000 = ?", "answer": "700", "options": ["700", "70", "7000", "7"]},
+        {"id": 143, "question": "5.23 × 1000 = ?", "answer": "5230", "options": ["5230", "523", "52300", "52.3"]},
+        {"id": 144, "question": "0.06 × 1000 = ?", "answer": "60", "options": ["60", "6", "600", "0.6"]},
+        {"id": 145, "question": "2.5 × 1000 = ?", "answer": "2500", "options": ["2500", "250", "25000", "25"]},
+        {"id": 146, "question": "0.125 × 1000 = ?", "answer": "125", "options": ["125", "12.5", "1250", "1.25"]},
+        {"id": 147, "question": "8.7 × 1000 = ?", "answer": "8700", "options": ["8700", "870", "87000", "87"]},
+        {"id": 148, "question": "0.04 × 1000 = ?", "answer": "40", "options": ["40", "4", "400", "0.4"]},
+        {"id": 149, "question": "1.234 × 1000 = ?", "answer": "1234", "options": ["1234", "123.4", "12340", "12.34"]},
+        {"id": 150, "question": "0.5 × 1000 = ?", "answer": "500", "options": ["500", "50", "5000", "5"]}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Mixed Multiplication Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 151, "question": "4.5 × 10 = ?", "answer": "45", "options": ["45", "450", "4.5", "0.45"]},
+        {"id": 152, "question": "0.8 × 100 = ?", "answer": "80", "options": ["80", "8", "800", "0.8"]},
+        {"id": 153, "question": "1.2 × 1000 = ?", "answer": "1200", "options": ["1200", "120", "12000", "12"]},
+        {"id": 154, "question": "2.6 × 5 = ?", "answer": "13", "options": ["13", "13.0", "12", "130"]},
+        {"id": 155, "question": "0.75 × 100 = ?", "answer": "75", "options": ["75", "7.5", "750", "0.75"]},
+        {"id": 156, "question": "3.25 × 4 = ?", "answer": "13", "options": ["13", "13.0", "13.00", "130"]},
+        {"id": 157, "question": "0.09 × 1000 = ?", "answer": "90", "options": ["90", "9", "900", "0.9"]},
+        {"id": 158, "question": "1.8 × 7 = ?", "answer": "12.6", "options": ["12.6", "12.60", "13.6", "126"]},
+        {"id": 159, "question": "6.5 × 10 = ?", "answer": "65", "options": ["65", "650", "6.5", "0.65"]},
+        {"id": 160, "question": "0.45 × 8 = ?", "answer": "3.6", "options": ["3.6", "3.60", "4.6", "36"]}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Word Problems - Money",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 161, "question": "Apples cost £1.25 each. How much for 6 apples?", "answer": "£7.50", "options": ["£7.50", "£7.30", "£8.50", "£6.50"]},
+        {"id": 162, "question": "You have £10 and spend £3.45. How much change?", "answer": "£6.55", "options": ["£6.55", "£6.65", "£7.55", "£5.55"]},
+        {"id": 163, "question": "Bread is £1.20 and milk is £0.85. Total cost?", "answer": "£2.05", "options": ["£2.05", "£2.15", "£1.95", "£2.00"]},
+        {"id": 164, "question": "Books cost £4.50 each. How much for 3 books?", "answer": "£13.50", "options": ["£13.50", "£14.50", "£12.50", "£13.00"]},
+        {"id": 165, "question": "You have £20. After spending £12.75, how much left?", "answer": "£7.25", "options": ["£7.25", "£7.35", "£8.25", "£6.25"]},
+        {"id": 166, "question": "Pencils are £0.35 each. Cost of 4 pencils?", "answer": "£1.40", "options": ["£1.40", "£1.50", "£1.30", "£1.45"]},
+        {"id": 167, "question": "Cinema ticket is £8.50. Cost for 2 tickets?", "answer": "£17.00", "options": ["£17.00", "£17.50", "£16.00", "£18.00"]},
+        {"id": 168, "question": "You buy items for £3.25, £1.80, and £5.50. Total?", "answer": "£10.55", "options": ["£10.55", "£10.65", "£9.55", "£11.55"]},
+        {"id": 169, "question": "Chocolate bar is £1.35. You pay with £5. Change?", "answer": "£3.65", "options": ["£3.65", "£3.75", "£2.65", "£4.65"]},
+        {"id": 170, "question": "Drinks cost £1.25 each. Cost for 5 drinks?", "answer": "£6.25", "options": ["£6.25", "£6.50", "£5.25", "£7.25"]}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Word Problems - Measurements",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 171, "question": "A plank is 2.5m long. What's the length of 4 planks?", "answer": "10m", "options": ["10m", "10.0m", "9m", "100m"]},
+        {"id": 172, "question": "You walk 1.8km then 2.3km. Total distance?", "answer": "4.1km", "options": ["4.1km", "4.2km", "3.1km", "5.1km"]},
+        {"id": 173, "question": "A rope is 5.6m. You cut off 2.8m. How much left?", "answer": "2.8m", "options": ["2.8m", "2.9m", "3.8m", "1.8m"]},
+        {"id": 174, "question": "Each step is 0.7m. Distance after 10 steps?", "answer": "7m", "options": ["7m", "7.0m", "6m", "70m"]},
+        {"id": 175, "question": "You buy 0.5kg sugar and 1.25kg flour. Total weight?", "answer": "1.75kg", "options": ["1.75kg", "1.85kg", "1.65kg", "2.75kg"]},
+        {"id": 176, "question": "A journey is 12.5km. You've gone 8.3km. How far left?", "answer": "4.2km", "options": ["4.2km", "4.3km", "5.2km", "3.2km"]},
+        {"id": 177, "question": "Water bottles hold 0.75L. Total in 8 bottles?", "answer": "6L", "options": ["6L", "6.0L", "5L", "60L"]},
+        {"id": 178, "question": "You pour out 2.35L from 5L. How much remains?", "answer": "2.65L", "options": ["2.65L", "2.75L", "1.65L", "3.65L"]},
+        {"id": 179, "question": "Each tile is 0.25m wide. Width of 12 tiles?", "answer": "3m", "options": ["3m", "3.0m", "2m", "30m"]},
+        {"id": 180, "question": "You run 3.6km and walk 1.8km. Total distance?", "answer": "5.4km", "options": ["5.4km", "5.5km", "4.4km", "6.4km"]}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Review - Addition & Subtraction",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 181, "question": "4.8 + 3.7 = ?", "answer": "8.5", "options": ["8.5", "8.6", "7.5", "9.5"]},
+        {"id": 182, "question": "9.2 - 4.6 = ?", "answer": "4.6", "options": ["4.6", "4.7", "5.6", "3.6"]},
+        {"id": 183, "question": "2.35 + 1.8 = ?", "answer": "4.15", "options": ["4.15", "4.25", "3.15", "4.05"]},
+        {"id": 184, "question": "7.5 - 2.75 = ?", "answer": "4.75", "options": ["4.75", "4.85", "5.75", "3.75"]},
+        {"id": 185, "question": "0.6 + 0.85 + 0.3 = ?", "answer": "1.75", "options": ["1.75", "1.85", "1.65", "2.75"]},
+        {"id": 186, "question": "10 - 6.45 = ?", "answer": "3.55", "options": ["3.55", "3.65", "4.55", "2.55"]},
+        {"id": 187, "question": "5.25 + 3.8 = ?", "answer": "9.05", "options": ["9.05", "9.15", "8.05", "9.00"]},
+        {"id": 188, "question": "8.3 - 5.75 = ?", "answer": "2.55", "options": ["2.55", "2.65", "3.55", "1.55"]},
+        {"id": 189, "question": "1.5 + 2.35 + 0.75 = ?", "answer": "4.6", "options": ["4.6", "4.7", "3.6", "5.6"]},
+        {"id": 190, "question": "12 - 7.8 = ?", "answer": "4.2", "options": ["4.2", "4.3", "5.2", "3.2"]}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Review - Multiplication",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 191, "question": "2.8 × 5 = ?", "answer": "14", "options": ["14", "14.0", "13", "140"]},
+        {"id": 192, "question": "3.5 × 10 = ?", "answer": "35", "options": ["35", "350", "3.5", "0.35"]},
+        {"id": 193, "question": "1.25 × 100 = ?", "answer": "125", "options": ["125", "12.5", "1250", "1.25"]},
+        {"id": 194, "question": "0.8 × 1000 = ?", "answer": "800", "options": ["800", "80", "8000", "8"]},
+        {"id": 195, "question": "4.6 × 3 = ?", "answer": "13.8", "options": ["13.8", "14.8", "12.8", "138"]},
+        {"id": 196, "question": "0.95 × 4 = ?", "answer": "3.8", "options": ["3.8", "3.80", "4.8", "38"]},
+        {"id": 197, "question": "2.5 × 10 = ?", "answer": "25", "options": ["25", "250", "2.5", "0.25"]},
+        {"id": 198, "question": "0.06 × 100 = ?", "answer": "6", "options": ["6", "0.6", "60", "0.06"]},
+        {"id": 199, "question": "1.75 × 6 = ?", "answer": "10.5", "options": ["10.5", "10.50", "11.5", "105"]},
+        {"id": 200, "question": "0.4 × 1000 = ?", "answer": "400", "options": ["400", "40", "4000", "4"]}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Mixed Operations 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 201, "question": "3.5 + 2.8 - 1.6 = ?", "answer": "4.7", "options": ["4.7", "4.8", "3.7", "5.7"]},
+        {"id": 202, "question": "2.4 × 5 + 3.2 = ?", "answer": "15.2", "options": ["15.2", "16.2", "14.2", "152"]},
+        {"id": 203, "question": "10 - 3.5 × 2 = ?", "answer": "3", "options": ["3", "3.0", "2", "30"]},
+        {"id": 204, "question": "4.8 + 1.5 × 3 = ?", "answer": "9.3", "options": ["9.3", "10.3", "8.3", "93"]},
+        {"id": 205, "question": "(2.5 + 1.5) × 2 = ?", "answer": "8", "options": ["8", "8.0", "7", "80"]},
+        {"id": 206, "question": "12.5 - 3.2 + 1.8 = ?", "answer": "11.1", "options": ["11.1", "11.2", "10.1", "12.1"]},
+        {"id": 207, "question": "0.6 × 10 - 2.5 = ?", "answer": "3.5", "options": ["3.5", "3.6", "4.5", "35"]},
+        {"id": 208, "question": "5.4 + 2.7 × 2 = ?", "answer": "10.8", "options": ["10.8", "11.8", "9.8", "108"]},
+        {"id": 209, "question": "(8 - 3.5) × 2 = ?", "answer": "9", "options": ["9", "9.0", "8", "90"]},
+        {"id": 210, "question": "3.6 × 5 - 7.2 = ?", "answer": "10.8", "options": ["10.8", "11.8", "9.8", "108"]}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Mixed Operations 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 211, "question": "1.5 × 100 ÷ 10 = ?", "answer": "15", "options": ["15", "150", "1.5", "1500"]},
+        {"id": 212, "question": "4.2 + 3.8 - 2.5 + 1.7 = ?", "answer": "7.2", "options": ["7.2", "7.3", "6.2", "8.2"]},
+        {"id": 213, "question": "0.8 × 10 + 0.5 × 10 = ?", "answer": "13", "options": ["13", "13.0", "12", "130"]},
+        {"id": 214, "question": "15 - (3.5 + 2.8) = ?", "answer": "8.7", "options": ["8.7", "8.8", "9.7", "7.7"]},
+        {"id": 215, "question": "2.5 × 4 + 1.5 × 2 = ?", "answer": "13", "options": ["13", "13.0", "12", "130"]},
+        {"id": 216, "question": "(4.5 - 1.8) × 3 = ?", "answer": "8.1", "options": ["8.1", "8.2", "7.1", "81"]},
+        {"id": 217, "question": "6.4 + 2.3 - 1.9 + 0.8 = ?", "answer": "7.6", "options": ["7.6", "7.7", "6.6", "8.6"]},
+        {"id": 218, "question": "0.5 × 1000 - 350 = ?", "answer": "150", "options": ["150", "160", "140", "1500"]},
+        {"id": 219, "question": "(10 - 6.5) × 4 = ?", "answer": "14", "options": ["14", "14.0", "13", "140"]},
+        {"id": 220, "question": "3.2 × 5 + 2.8 × 3 = ?", "answer": "24.4", "options": ["24.4", "25.4", "23.4", "244"]}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Complex Word Problems 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 221, "question": "You buy 3 items at £2.45 each and 2 at £3.80. Total cost?", "answer": "£14.95", "options": ["£14.95", "£15.95", "£13.95", "£14.85"]},
+        {"id": 222, "question": "A 5m rope cut into pieces 0.75m each. How many pieces?", "answer": "6 pieces (with 0.5m left)", "options": ["6 pieces", "7 pieces", "5 pieces", "8 pieces"]},
+        {"id": 223, "question": "You walk 1.5km, run 2.8km, then walk 0.9km. Total distance?", "answer": "5.2km", "options": ["5.2km", "5.3km", "4.2km", "6.2km"]},
+        {"id": 224, "question": "Juice costs £1.35. You buy 4 bottles. Pay with £10. Change?", "answer": "£4.60", "options": ["£4.60", "£4.70", "£3.60", "£5.60"]},
+        {"id": 225, "question": "A recipe needs 0.75kg flour. For 6 batches, how much flour?", "answer": "4.5kg", "options": ["4.5kg", "5.5kg", "3.5kg", "4.0kg"]},
+        {"id": 226, "question": "Bus journey: 3.7km, 2.5km, 4.8km. Total distance?", "answer": "11km", "options": ["11km", "11.0km", "10km", "12km"]},
+        {"id": 227, "question": "Start with £20. Buy items for £5.75, £3.45, £6.20. Money left?", "answer": "£4.60", "options": ["£4.60", "£4.70", "£3.60", "£5.60"]},
+        {"id": 228, "question": "Ribbon: 8m. Cut into 0.25m pieces. How many pieces?", "answer": "32 pieces", "options": ["32 pieces", "30 pieces", "34 pieces", "28 pieces"]},
+        {"id": 229, "question": "Train travels 25.5km then 18.8km. Total distance?", "answer": "44.3km", "options": ["44.3km", "44.4km", "43.3km", "45.3km"]},
+        {"id": 230, "question": "3 books at £4.50 and 2 pens at £1.25. Total cost?", "answer": "£16.00", "options": ["£16.00", "£17.00", "£15.00", "£16.50"]}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Complex Word Problems 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 231, "question": "You have £50. Spend £18.75 then £22.50. How much left?", "answer": "£8.75", "options": ["£8.75", "£8.85", "£7.75", "£9.75"]},
+        {"id": 232, "question": "Fabric: 12m. Use 3.5m, 2.8m, 4.2m. How much remains?", "answer": "1.5m", "options": ["1.5m", "1.6m", "2.5m", "0.5m"]},
+        {"id": 233, "question": "Petrol: £1.45/litre. Cost of 30 litres?", "answer": "£43.50", "options": ["£43.50", "£44.50", "£42.50", "£43.00"]},
+        {"id": 234, "question": "You cycle 4.5km to school daily. Distance in 5 days?", "answer": "22.5km", "options": ["22.5km", "23.5km", "21.5km", "22.0km"]},
+        {"id": 235, "question": "Recipe serves 4, needs 1.5L water. For 12 people, how much water?", "answer": "4.5L", "options": ["4.5L", "5.5L", "3.5L", "4.0L"]},
+        {"id": 236, "question": "Oranges: £0.45 each. Bananas: £0.30 each. 5 oranges + 8 bananas?", "answer": "£4.65", "options": ["£4.65", "£4.75", "£3.65", "£5.65"]},
+        {"id": 237, "question": "Tank holds 50L. Has 32.5L. How much more to fill?", "answer": "17.5L", "options": ["17.5L", "18.5L", "16.5L", "17.0L"]},
+        {"id": 238, "question": "Monthly pass: £45.50. Weekly pass: £12.75. Save how much with monthly?", "answer": "£5.50", "options": ["£5.50", "£5.60", "£4.50", "£6.50"]},
+        {"id": 239, "question": "Room length: 4.5m. Width: 3.2m. Perimeter?", "answer": "15.4m", "options": ["15.4m", "15.5m", "14.4m", "16.4m"]},
+        {"id": 240, "question": "Medicine: 2.5ml, 3 times daily, for 10 days. Total ml?", "answer": "75ml", "options": ["75ml", "80ml", "70ml", "7.5ml"]}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Estimation & Rounding",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 241, "question": "Estimate 3.8 + 5.2 (round to nearest whole number first)", "answer": "9", "options": ["9", "10", "8", "4 + 5 = 9"]},
+        {"id": 242, "question": "Estimate 19.7 - 8.3 (round to nearest whole number first)", "answer": "12", "options": ["12", "11", "13", "20 - 8 = 12"]},
+        {"id": 243, "question": "Estimate 4.8 × 3 (round to nearest whole number first)", "answer": "15", "options": ["15", "14", "16", "5 × 3 = 15"]},
+        {"id": 244, "question": "Is 7.2 + 8.9 closer to 15, 16, or 17?", "answer": "16", "options": ["16", "15", "17", "7 + 9 = 16"]},
+        {"id": 245, "question": "Estimate 12.5 × 10 mentally", "answer": "125", "options": ["125", "130", "120", "Move decimal right"]},
+        {"id": 246, "question": "Is 3.7 × 4 closer to 12, 15, or 16?", "answer": "15", "options": ["15", "12", "16", "4 × 4 = 16"]},
+        {"id": 247, "question": "Estimate 9.8 + 4.2 + 3.9 (round first)", "answer": "18", "options": ["18", "17", "19", "10 + 4 + 4 = 18"]},
+        {"id": 248, "question": "Is 15 - 6.7 closer to 8 or 9?", "answer": "8", "options": ["8", "9", "7", "15 - 7 = 8"]},
+        {"id": 249, "question": "Estimate 0.75 × 100 mentally", "answer": "75", "options": ["75", "80", "70", "Move decimal right 2"]},
+        {"id": 250, "question": "Is 5.9 × 6 closer to 30, 36, or 42?", "answer": "36", "options": ["36", "30", "42", "6 × 6 = 36"]}
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Speed Calculations",
+      "difficulty": "Very Hard",
+      "questions": [
+        {"id": 251, "question": "Quick! 4.5 + 3.8 = ?", "answer": "8.3", "options": ["8.3", "8.4", "7.3", "9.3"]},
+        {"id": 252, "question": "Quick! 7.2 - 3.6 = ?", "answer": "3.6", "options": ["3.6", "3.7", "4.6", "2.6"]},
+        {"id": 253, "question": "Quick! 2.5 × 4 = ?", "answer": "10", "options": ["10", "10.0", "9", "100"]},
+        {"id": 254, "question": "Quick! 0.6 × 10 = ?", "answer": "6", "options": ["6", "60", "0.6", "0.06"]},
+        {"id": 255, "question": "Quick! 3.5 × 100 = ?", "answer": "350", "options": ["350", "35", "3500", "3.5"]},
+        {"id": 256, "question": "Quick! 10 - 4.5 = ?", "answer": "5.5", "options": ["5.5", "5.6", "6.5", "4.5"]},
+        {"id": 257, "question": "Quick! 1.8 × 5 = ?", "answer": "9", "options": ["9", "9.0", "8", "90"]},
+        {"id": 258, "question": "Quick! 6.4 + 2.8 = ?", "answer": "9.2", "options": ["9.2", "9.3", "8.2", "10.2"]},
+        {"id": 259, "question": "Quick! 0.25 × 1000 = ?", "answer": "250", "options": ["250", "25", "2500", "2.5"]},
+        {"id": 260, "question": "Quick! 8 - 3.25 = ?", "answer": "4.75", "options": ["4.75", "4.85", "5.75", "3.75"]}
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Final Review - Comprehensive 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 261, "question": "Which is bigger: 0.8 or 0.75?", "answer": "0.8", "options": ["0.8", "0.75", "Equal", "Can't tell"]},
+        {"id": 262, "question": "5.6 + 2.9 = ?", "answer": "8.5", "options": ["8.5", "8.6", "7.5", "9.5"]},
+        {"id": 263, "question": "9.3 - 4.8 = ?", "answer": "4.5", "options": ["4.5", "4.6", "5.5", "3.5"]},
+        {"id": 264, "question": "3.5 × 6 = ?", "answer": "21", "options": ["21", "21.0", "20", "210"]},
+        {"id": 265, "question": "2.4 × 10 = ?", "answer": "24", "options": ["24", "240", "2.4", "0.24"]},
+        {"id": 266, "question": "0.8 × 100 = ?", "answer": "80", "options": ["80", "8", "800", "0.8"]},
+        {"id": 267, "question": "1.5 × 1000 = ?", "answer": "1500", "options": ["1500", "150", "15000", "15"]},
+        {"id": 268, "question": "10 - 6.35 = ?", "answer": "3.65", "options": ["3.65", "3.75", "4.65", "2.65"]},
+        {"id": 269, "question": "4.25 + 3.8 = ?", "answer": "8.05", "options": ["8.05", "8.15", "7.05", "8.00"]},
+        {"id": 270, "question": "In 12.34, which digit is in the tenths place?", "answer": "3", "options": ["3", "4", "2", "1"]}
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Final Review - Comprehensive 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 271, "question": "When adding decimals, you must line up the:", "answer": "Decimal points", "options": ["Decimal points", "Right side", "Left side", "Numbers randomly"]},
+        {"id": 272, "question": "7.5 - 2.75 + 1.5 = ?", "answer": "6.25", "options": ["6.25", "6.35", "5.25", "7.25"]},
+        {"id": 273, "question": "2.8 × 5 + 1.2 = ?", "answer": "15.2", "options": ["15.2", "16.2", "14.2", "152"]},
+        {"id": 274, "question": "Is 0.5 equal to 0.50?", "answer": "Yes", "options": ["Yes", "No", "Sometimes", "Only in money"]},
+        {"id": 275, "question": "Order from smallest: 0.6, 0.06, 0.66", "answer": "0.06, 0.6, 0.66", "options": ["0.06, 0.6, 0.66", "0.6, 0.06, 0.66", "0.66, 0.6, 0.06", "0.06, 0.66, 0.6"]},
+        {"id": 276, "question": "£8.50 × 4 = ?", "answer": "£34.00", "options": ["£34.00", "£35.00", "£33.00", "£340.00"]},
+        {"id": 277, "question": "12.5 ÷ 10 = ? (move decimal left)", "answer": "1.25", "options": ["1.25", "125", "0.125", "12.5"]},
+        {"id": 278, "question": "3.6 × 100 = ?", "answer": "360", "options": ["360", "36", "3600", "3.6"]},
+        {"id": 279, "question": "What's the place value of 7 in 45.67?", "answer": "Hundredths", "options": ["Hundredths", "Tenths", "Units", "Tens"]},
+        {"id": 280, "question": "5.25 + 2.8 - 1.5 = ?", "answer": "6.55", "options": ["6.55", "6.65", "5.55", "7.55"]}
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 3",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 281, "question": "0.75 + 0.25 = ?", "answer": "1", "options": ["1", "1.0", "0.5", "10"]},
+        {"id": 282, "question": "8 - 3.45 = ?", "answer": "4.55", "options": ["4.55", "4.65", "5.55", "3.55"]},
+        {"id": 283, "question": "1.8 × 7 = ?", "answer": "12.6", "options": ["12.6", "12.60", "13.6", "126"]},
+        {"id": 284, "question": "0.5 × 1000 = ?", "answer": "500", "options": ["500", "50", "5000", "5"]},
+        {"id": 285, "question": "Which is smallest: 1.2, 1.02, 1.22?", "answer": "1.02", "options": ["1.02", "1.2", "1.22", "Equal"]},
+        {"id": 286, "question": "4.5 + 3.75 = ?", "answer": "8.25", "options": ["8.25", "8.35", "7.25", "8.15"]},
+        {"id": 287, "question": "9.6 - 5.8 = ?", "answer": "3.8", "options": ["3.8", "3.9", "4.8", "2.8"]},
+        {"id": 288, "question": "2.5 × 8 = ?", "answer": "20", "options": ["20", "20.0", "19", "200"]},
+        {"id": 289, "question": "3.25 × 10 = ?", "answer": "32.5", "options": ["32.5", "325", "3.25", "0.325"]},
+        {"id": 290, "question": "You buy items for £4.50 and £3.75. Total?", "answer": "£8.25", "options": ["£8.25", "£8.35", "£7.25", "£8.15"]}
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Mastery Check",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 291, "question": "How many tenths in 2.3?", "answer": "23 tenths", "options": ["23 tenths", "2.3 tenths", "3 tenths", "230 tenths"]},
+        {"id": 292, "question": "6.7 + 2.8 + 1.5 = ?", "answer": "11", "options": ["11", "11.0", "10", "12"]},
+        {"id": 293, "question": "15 - 8.75 = ?", "answer": "6.25", "options": ["6.25", "6.35", "7.25", "5.25"]},
+        {"id": 294, "question": "4.5 × 6 = ?", "answer": "27", "options": ["27", "27.0", "26", "270"]},
+        {"id": 295, "question": "0.9 × 100 = ?", "answer": "90", "options": ["90", "9", "900", "0.9"]},
+        {"id": 296, "question": "When multiplying by 10, move decimal point:", "answer": "1 place right", "options": ["1 place right", "1 place left", "2 places right", "Don't move"]},
+        {"id": 297, "question": "3.75 + 2.5 - 1.25 = ?", "answer": "5", "options": ["5", "5.0", "5.00", "4"]},
+        {"id": 298, "question": "Which is bigger: 0.9 or 0.89?", "answer": "0.9", "options": ["0.9", "0.89", "Equal", "Can't tell"]},
+        {"id": 299, "question": "2.25 × 4 = ?", "answer": "9", "options": ["9", "9.0", "9.00", "90"]},
+        {"id": 300, "question": "What's the most important rule for adding/subtracting decimals?", "answer": "Line up decimal points", "options": ["Line up decimal points", "Line up right side", "Add zeros everywhere", "Work left to right"]}
+      ]
+    }
+  ]
+}

@@ -32,7 +32,7 @@ export async function GET(request: NextRequest) {
     }
 
     // Determine course folder from filename
-    const courseFolder = file.startsWith('001_maths') || file.startsWith('002_maths') || file.startsWith('003_maths')
+    const courseFolder = file.includes('_maths_')
       ? 'maths'
       : 'computerscience';
 
