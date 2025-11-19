@@ -13,6 +13,7 @@ import { createClient } from '@/lib/supabase/client';
 import lessonsData from '@/data/maths/lessons.json';
 import LessonDashboard from '@/components/LessonDashboard';
 import LessonContentModal from '@/components/LessonContentModal';
+import PracticeSession from '@/components/PracticeSession';
 
 interface LessonProgress {
   lesson_id: number;
@@ -383,6 +384,22 @@ export default function LessonPage() {
           lessonSlug={slug}
           onClose={() => setShowContentModal(false)}
           onComplete={refreshProgress}
+        />
+      )}
+
+      {/* Practice Session */}
+      {activeMode && lesson && (
+        <PracticeSession
+          courseSlug="maths"
+          lessonId={lesson.id}
+          lessonSlug={slug}
+          lessonTitle={lesson.title}
+          practiceMode={activeMode as 'practice' | 'timed' | 'expert' | 'weak_areas'}
+          onComplete={() => {
+            setActiveMode(null);
+            refreshProgress();
+          }}
+          onClose={() => setActiveMode(null)}
         />
       )}
     </div>
