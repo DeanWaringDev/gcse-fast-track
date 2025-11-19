@@ -21,12 +21,6 @@ import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import Link from 'next/link';
 
-interface UserProfile {
-  full_name: string;
-  display_name: string;
-  email: string;
-}
-
 interface EnrollmentData {
   course_slug: string;
   course_name: string;
@@ -50,7 +44,6 @@ export default function Dashboard() {
   const router = useRouter();
   const [isLoading, setIsLoading] = useState(true);
   const [user, setUser] = useState<any>(null);
-  const [profile, setProfile] = useState<UserProfile | null>(null);
   const [enrollments, setEnrollments] = useState<EnrollmentData[]>([]);
   const [totalStudyTime, setTotalStudyTime] = useState(0);
   const [totalLessonsCompleted, setTotalLessonsCompleted] = useState(0);
@@ -72,22 +65,6 @@ export default function Dashboard() {
     }
 
     setUser(authUser);
-
-    // Load user profile
-    const { data: profileData, error: profileError } = await supabase
-      .from('user_profiles')
-      .select('*')
-      .eq('user_id', authUser.id)
-      .single();
-
-    if (profileError) {
-      console.log('Profile fetch error:', profileError);
-    }
-
-    console.log('Profile data:', profileData);
-    console.log('Auth user metadata:', authUser.user_metadata);
-
-    setProfile(profileData);
 
     // Load enrollments with progress data
     const { data: enrollmentData } = await supabase
@@ -238,15 +215,11 @@ export default function Dashboard() {
     );
   }
 
-  // Try multiple sources for display name
-  const displayName = profile?.display_name 
-    || profile?.full_name 
-    || user?.user_metadata?.display_name 
+  // Get display name from user metadata (stored by Supabase Auth)
+  const displayName = user?.user_metadata?.display_name 
     || user?.user_metadata?.full_name
     || user?.email?.split('@')[0] 
     || 'Student';
-  
-  console.log('Display name:', displayName, 'Profile:', profile, 'User metadata:', user?.user_metadata);
   const timeOfDay = new Date().getHours() < 12 ? 'Morning' : new Date().getHours() < 18 ? 'Afternoon' : 'Evening';
 
   // No enrollments state
