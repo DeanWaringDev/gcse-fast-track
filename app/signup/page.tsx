@@ -110,10 +110,24 @@ export default function Signup() {
 
       setSuccess(true);
       
-      // Redirect to dashboard after short delay
-      setTimeout(() => {
-        router.push('/dashboard');
-        router.refresh();
+      // Check if user has any enrollments after short delay
+      setTimeout(async () => {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (user) {
+          const { data: enrollments } = await supabase
+            .from('enrollments')
+            .select('*')
+            .eq('user_id', user.id)
+            .eq('status', 'active');
+
+          // Redirect based on enrollment status
+          if (enrollments && enrollments.length > 0) {
+            router.push('/dashboard');
+          } else {
+            router.push('/');
+          }
+          router.refresh();
+        }
       }, 2000);
     } catch (error: any) {
       setError(error.message || 'Failed to create account. Please try again.');

@@ -62,9 +62,23 @@ export default function Login() {
 
       if (error) throw error;
 
-      // Redirect to dashboard on success
-      router.push('/dashboard');
-      router.refresh();
+      // Check if user has any enrollments
+      const { data: { user } } = await supabase.auth.getUser();
+      if (user) {
+        const { data: enrollments } = await supabase
+          .from('enrollments')
+          .select('*')
+          .eq('user_id', user.id)
+          .eq('status', 'active');
+
+        // Redirect based on enrollment status
+        if (enrollments && enrollments.length > 0) {
+          router.push('/dashboard');
+        } else {
+          router.push('/');
+        }
+        router.refresh();
+      }
     } catch (error: any) {
       setError(error.message || 'Failed to login. Please try again.');
     } finally {

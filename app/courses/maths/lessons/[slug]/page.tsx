@@ -102,13 +102,14 @@ export default function LessonPage() {
       .eq('lesson_id', lesson.id)
       .single();
 
-    // Get practice session count instead of question count
+    // Get practice session count (only completed sessions)
     const { count: sessionCount } = await supabase
       .from('practice_sessions')
       .select('*', { count: 'exact', head: true })
       .eq('user_id', user.id)
       .eq('course_slug', 'maths')
-      .eq('lesson_id', lesson.id);
+      .eq('lesson_id', lesson.id)
+      .not('completed_at', 'is', null);
 
     // Update progress with session count
     if (progressData) {
@@ -156,7 +157,44 @@ export default function LessonPage() {
       .eq('lesson_id', lesson.id)
       .single();
 
+    // Get updated session count (only completed sessions)
+    const { count: sessionCount } = await supabase
+      .from('practice_sessions')
+      .select('*', { count: 'exact', head: true })
+      .eq('user_id', user.id)
+      .eq('course_slug', 'maths')
+      .eq('lesson_id', lesson.id)
+      .not('completed_at', 'is', null);
+
+    // Update progress with session count
+    if (progressData) {
+      progressData.attempts = sessionCount || 0;
+    }
+
     setLessonProgress(progressData);
+
+    // Refresh question attempts to update Questions Attempted count
+    const { data: attemptsData } = await supabase
+      .from('question_attempts')
+      .select('question_id, is_correct')
+      .eq('user_id', user.id)
+      .eq('course_slug', 'maths')
+      .eq('lesson_id', lesson.id)
+      .order('attempted_at', { ascending: false });
+
+    // Get unique questions (most recent attempt for each)
+    const uniqueAttempts = new Map();
+    attemptsData?.forEach(attempt => {
+      if (!uniqueAttempts.has(attempt.question_id)) {
+        uniqueAttempts.set(attempt.question_id, {
+          question_id: attempt.question_id,
+          is_correct: attempt.is_correct,
+          attempt_count: 1,
+        });
+      }
+    });
+    
+    setQuestionAttempts(Array.from(uniqueAttempts.values()));
   }
 
   if (isLoading) {

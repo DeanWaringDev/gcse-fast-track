@@ -79,6 +79,11 @@ export default function PracticeSession({
   const [sessionStartTime] = useState(Date.now());
   const [sessionId, setSessionId] = useState<string | null>(null);
   const [questionsCorrect, setQuestionsCorrect] = useState(0);
+  const [timeRemaining, setTimeRemaining] = useState<number | null>(null); // seconds remaining for timed mode
+  const [showTimeAlert, setShowTimeAlert] = useState(false);
+  const [alertMessage, setAlertMessage] = useState('');
+  const [fiveMinuteAlertShown, setFiveMinuteAlertShown] = useState(false);
+  const [oneMinuteAlertShown, setOneMinuteAlertShown] = useState(false);
 
   useEffect(() => {
     loadQuestions();
@@ -90,6 +95,60 @@ export default function PracticeSession({
       startPracticeSession();
     }
   }, [questions]);
+
+  // Initialize timer for timed mode (15 minutes)
+  useEffect(() => {
+    if (practiceMode === 'timed' && questions.length > 0) {
+      setTimeRemaining(15 * 60); // 15 minutes in seconds
+    }
+  }, [practiceMode, questions]);
+
+  // Countdown timer effect
+  useEffect(() => {
+    if (timeRemaining === null || timeRemaining <= 0 || results !== null) {
+      return;
+    }
+
+    const interval = setInterval(() => {
+      setTimeRemaining((prev) => {
+        if (prev === null || prev <= 0) {
+          return 0;
+        }
+        
+        const newTime = prev - 1;
+        
+        // Show 5 minute alert
+        if (newTime === 5 * 60 && !fiveMinuteAlertShown) {
+          setAlertMessage('5 minutes remaining');
+          setShowTimeAlert(true);
+          setFiveMinuteAlertShown(true);
+          setTimeout(() => setShowTimeAlert(false), 3000);
+        }
+        
+        // Show 1 minute alert
+        if (newTime === 60 && !oneMinuteAlertShown) {
+          setAlertMessage('1 minute remaining');
+          setShowTimeAlert(true);
+          setOneMinuteAlertShown(true);
+          setTimeout(() => setShowTimeAlert(false), 3000);
+        }
+        
+        // Time's up - auto-complete session
+        if (newTime === 0) {
+          setAlertMessage('Time is up!');
+          setShowTimeAlert(true);
+          setTimeout(() => {
+            setShowTimeAlert(false);
+            showResults();
+          }, 2000);
+        }
+        
+        return newTime;
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, [timeRemaining, results, fiveMinuteAlertShown, oneMinuteAlertShown]);
 
   async function loadQuestions() {
     try {
@@ -131,22 +190,50 @@ export default function PracticeSession({
       let selectedQuestions: Question[] = [];
       
       if (practiceMode === 'practice') {
-        // Practice: 10 random from first 30 questions
-        const firstThirty = allQuestions.slice(0, 30);
-        selectedQuestions = getRandomQuestions(firstThirty, 10);
+        // Practice: 8 questions from first 30 (easier) + 2 from 31-60 (harder)
+        const easierPool = allQuestions.slice(0, 30);
+        const harderPool = allQuestions.slice(30, 60);
+        const easierQuestions = getRandomQuestions(easierPool, 8);
+        const harderQuestions = getRandomQuestions(harderPool, 2);
+        selectedQuestions = [...easierQuestions, ...harderQuestions];
+        // Shuffle so harder questions aren't always at the end
+        selectedQuestions = selectedQuestions.sort(() => Math.random() - 0.5);
       } else if (practiceMode === 'timed') {
-        // Timed: 15 random from first 30
-        const firstThirty = allQuestions.slice(0, 30);
-        selectedQuestions = getRandomQuestions(firstThirty, 15);
+        // Timed: 12 questions from first 30 (easier) + 3 from 31-60 (harder)
+        const easierPool = allQuestions.slice(0, 30);
+        const harderPool = allQuestions.slice(30, 60);
+        const easierQuestions = getRandomQuestions(easierPool, 12);
+        const harderQuestions = getRandomQuestions(harderPool, 3);
+        selectedQuestions = [...easierQuestions, ...harderQuestions];
+        // Shuffle so harder questions aren't always at the end
+        selectedQuestions = selectedQuestions.sort(() => Math.random() - 0.5);
       } else if (practiceMode === 'expert') {
         // Expert: 15 random from questions 150-300
         const expertQuestions = allQuestions.slice(149, 300);
         selectedQuestions = getRandomQuestions(expertQuestions, 15);
       } else if (practiceMode === 'weak_areas') {
-        // Weak areas: Will need to fetch from question_attempts
-        // For now, use random 10 from first 30
-        const firstThirty = allQuestions.slice(0, 30);
-        selectedQuestions = getRandomQuestions(firstThirty, 10);
+        // Weak areas: Fetch incorrect questions from database
+        const response = await fetch(`/api/weak-questions?courseSlug=${courseSlug}&lessonId=${lessonId}`);
+        
+        if (!response.ok) {
+          throw new Error('Failed to fetch weak questions');
+        }
+        
+        const weakQuestionIds = await response.json();
+        
+        // Filter allQuestions to only include weak questions
+        const weakQuestionPool = allQuestions.filter(q => 
+          weakQuestionIds.includes(q.id)
+        );
+        
+        if (weakQuestionPool.length === 0) {
+          alert('No weak areas found yet. Practice more questions first!');
+          onClose();
+          return;
+        }
+        
+        // Select up to 10 random weak questions
+        selectedQuestions = getRandomQuestions(weakQuestionPool, Math.min(10, weakQuestionPool.length));
       }
 
       setQuestions(selectedQuestions);
@@ -245,6 +332,12 @@ export default function PracticeSession({
   }
 
   function handleNext() {
+    // Check if time is up in timed mode
+    if (timeRemaining !== null && timeRemaining <= 0) {
+      showResults();
+      return;
+    }
+    
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
@@ -337,7 +430,23 @@ export default function PracticeSession({
           <div className="flex items-center justify-between">
             <div>
               <h2 className="text-2xl font-bold text-gray-800">{lessonTitle}</h2>
-              <p className="text-gray-600 capitalize">{practiceMode.replace('_', ' ')} Mode</p>
+              <div className="flex items-center gap-4">
+                <p className="text-gray-600 capitalize">{practiceMode.replace('_', ' ')} Mode</p>
+                {timeRemaining !== null && (
+                  <div className={`flex items-center gap-2 px-3 py-1 rounded-full ${
+                    timeRemaining <= 60 ? 'bg-red-100 text-red-700' : 
+                    timeRemaining <= 5 * 60 ? 'bg-yellow-100 text-yellow-700' : 
+                    'bg-blue-100 text-blue-700'
+                  }`}>
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <span className="font-semibold">
+                      {Math.floor(timeRemaining / 60)}:{(timeRemaining % 60).toString().padStart(2, '0')}
+                    </span>
+                  </div>
+                )}
+              </div>
             </div>
             <button
               onClick={onClose}
@@ -348,6 +457,17 @@ export default function PracticeSession({
               </svg>
             </button>
           </div>
+          
+          {/* Time Alert */}
+          {showTimeAlert && (
+            <div className={`mt-4 p-3 rounded-lg text-center font-semibold ${
+              alertMessage.includes('up') ? 'bg-red-100 text-red-700' :
+              alertMessage.includes('1 minute') ? 'bg-orange-100 text-orange-700' :
+              'bg-yellow-100 text-yellow-700'
+            }`}>
+              ⏰ {alertMessage}
+            </div>
+          )}
         </div>
 
         {/* Question Card */}
