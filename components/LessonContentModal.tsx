@@ -8,6 +8,8 @@
  */
 
 import { useState, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 interface LessonContentModalProps {
   lesson: {
@@ -110,26 +112,48 @@ export default function LessonContentModal({ lesson, onClose }: LessonContentMod
 
         {/* Slide Content */}
         <div className="p-8 overflow-y-auto" style={{ maxHeight: 'calc(90vh - 200px)' }}>
-          <div className="prose prose-lg max-w-none">
-            <div 
-              className="markdown-content text-gray-700 leading-relaxed"
-              dangerouslySetInnerHTML={{ 
-                __html: slides[currentSlide]
-                  .replace(/^# Screen \d+: (.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-6">$1</h1>')
-                  .replace(/^### (.*$)/gm, '<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">$1</h3>')
-                  .replace(/^## (.*$)/gm, '<h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">$1</h2>')
-                  .replace(/^# (?!Screen)(.*$)/gm, '<h1 class="text-3xl font-bold text-gray-900 mb-6">$1</h1>')
-                  .replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold text-blue-700">$1</strong>')
-                  .replace(/\*(.*?)\*/g, '<em class="italic text-gray-600">$1</em>')
-                  .replace(/```([\s\S]*?)```/g, '<div class="bg-blue-50 border-2 border-blue-200 rounded-lg p-3 my-4 font-mono text-base text-gray-800 text-center font-semibold">$1</div>')
-                  .replace(/^- (.*$)/gm, '<li class="ml-4 my-1.5">$1</li>')
-                  .replace(/(<li.*?<\/li>\s*)+/gs, '<ul class="list-disc ml-6 my-4 space-y-1.5 text-gray-700">$&</ul>')
-                  .replace(/\n\n+/g, '</p><p class="my-4 text-gray-700">')
-                  .replace(/^(?!<[h|p|u|l|d])(.*$)/gm, '<p class="my-3 text-gray-700">$1</p>')
-                  .replace(/<p class="my-3 text-gray-700"><\/p>/g, '')
-              }} 
-            />
-          </div>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            className="prose prose-lg max-w-none"
+            components={{
+              h1: ({ children }) => (
+                <h1 className="text-3xl font-bold text-gray-900 mb-6 mt-0">{children}</h1>
+              ),
+              h2: ({ children }) => (
+                <h2 className="text-2xl font-bold text-gray-800 mt-8 mb-4">{children}</h2>
+              ),
+              h3: ({ children }) => (
+                <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">{children}</h3>
+              ),
+              p: ({ children }) => (
+                <p className="text-gray-700 leading-relaxed my-4">{children}</p>
+              ),
+              ul: ({ children }) => (
+                <ul className="list-disc ml-6 my-4 space-y-2">{children}</ul>
+              ),
+              li: ({ children }) => (
+                <li className="text-gray-700">{children}</li>
+              ),
+              strong: ({ children }) => (
+                <strong className="font-bold text-blue-700">{children}</strong>
+              ),
+              em: ({ children }) => (
+                <em className="italic text-gray-600">{children}</em>
+              ),
+              code: ({ children }) => (
+                <code className="bg-blue-50 border-2 border-blue-200 rounded px-2 py-1 text-sm font-mono text-gray-800">
+                  {children}
+                </code>
+              ),
+              pre: ({ children }) => (
+                <pre className="bg-blue-50 border-2 border-blue-200 rounded-lg p-4 my-4 overflow-x-auto">
+                  {children}
+                </pre>
+              ),
+            }}
+          >
+            {slides[currentSlide]}
+          </ReactMarkdown>
         </div>
 
         {/* Navigation */}
