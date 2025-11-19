@@ -151,6 +151,10 @@ export default function PracticeSession({
   }, [timeRemaining, results, fiveMinuteAlertShown, oneMinuteAlertShown]);
 
   async function loadQuestions() {
+    console.log('=== LOADING QUESTIONS ===');
+    console.log('Practice mode:', practiceMode);
+    console.log('Course:', courseSlug, 'Lesson:', lessonId, 'Slug:', lessonSlug);
+    
     try {
       // Load questions JSON
       const questionsResponse = await fetch(`/data/${courseSlug}/questions/${questionsFile}`);
@@ -245,11 +249,16 @@ export default function PracticeSession({
         selectedQuestions = getRandomQuestions(weakQuestionPool, Math.min(10, weakQuestionPool.length));
       }
 
+      console.log('=== QUESTIONS SELECTED ===');
+      console.log('Selected questions:', selectedQuestions.length);
+      
       setQuestions(selectedQuestions);
       setIsLoading(false);
     } catch (error) {
-      console.error('Error loading questions:', error);
-      alert('Failed to load questions. Please try again.');
+      console.error('!!! ERROR LOADING QUESTIONS !!!', error);
+      console.error('Error details:', error instanceof Error ? error.message : error);
+      console.error('Stack:', error instanceof Error ? error.stack : 'No stack trace');
+      alert(`Failed to load questions: ${error instanceof Error ? error.message : 'Unknown error'}`);
       onClose();
     }
   }
