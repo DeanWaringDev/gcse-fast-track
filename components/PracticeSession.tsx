@@ -71,8 +71,14 @@ export default function PracticeSession({
 
       // Create answer lookup map
       const answerMap = new Map<string, Answer>();
-      answersData.answers.forEach((ans: Answer) => {
-        answerMap.set(ans.id, ans);
+      answersData.answers.forEach((ans: any) => {
+        answerMap.set(ans.id.toString(), {
+          id: ans.id.toString(),
+          question: ans.question,
+          answer: ans.answer.toString(),
+          sectionId: ans.sectionId,
+          sectionTitle: ans.sectionTitle,
+        });
       });
       setAnswers(answerMap);
 
