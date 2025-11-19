@@ -26,6 +26,9 @@ interface LessonProgress {
   attempts: number;
   last_attempt_at: string | null;
   confidence_level: number | null;
+  practice_perfect?: boolean;
+  timed_perfect?: boolean;
+  expert_perfect?: boolean;
 }
 
 interface QuestionAttempt {
