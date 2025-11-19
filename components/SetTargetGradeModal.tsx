@@ -111,7 +111,7 @@ export default function SetTargetGradeModal({
           <label className="block text-sm font-medium text-gray-700 mb-3">
             What grade are you aiming for?
           </label>
-          <div className="grid grid-cols-5 gap-2">
+          <div className={`grid gap-2 ${availableGrades.length === 9 ? 'grid-cols-9' : 'grid-cols-5'}`}>
             {availableGrades.map((grade) => (
               <button
                 key={grade}
