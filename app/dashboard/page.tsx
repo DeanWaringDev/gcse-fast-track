@@ -149,17 +149,8 @@ export default function Dashboard() {
         englishlanguage: 'English Language',
       };
 
-      // Calculate study streak (simplified - last practiced date)
-      const lastPracticed = progressData?.filter(p => p.last_attempt_at)
-        .sort((a, b) => new Date(b.last_attempt_at!).getTime() - new Date(a.last_attempt_at!).getTime())[0];
-
-      const daysSinceLastPractice = lastPracticed 
-        ? Math.floor((Date.now() - new Date(lastPracticed.last_attempt_at!).getTime()) / (1000 * 60 * 60 * 24))
-        : 999;
-
-      const streak = daysSinceLastPractice === 0 ? 7 : daysSinceLastPractice === 1 ? 5 : 0; // Simplified
-
-      if (streak > maxStreak) maxStreak = streak;
+      // Streak is calculated globally, not per course
+      // We'll fetch it separately
 
       totalCompleted += completedLessons;
 
@@ -172,7 +163,7 @@ export default function Dashboard() {
         total_lessons: totalLessons,
         overall_accuracy: overallAccuracy,
         time_spent_minutes: timeSpent,
-        study_streak_days: streak,
+        study_streak_days: 0, // Will be set globally
         predicted_grade: predictedGrade,
         next_lesson_slug: nextLesson?.lesson_slug || null,
         next_lesson_title: null, // Would need to fetch from lessons.json
@@ -186,9 +177,21 @@ export default function Dashboard() {
     setEnrollments(enrichedEnrollments);
     setTotalStudyTime(totalTime);
     setTotalLessonsCompleted(totalCompleted);
-    setCurrentStreak(maxStreak);
 
-    // Calculate achievements
+    // Fetch actual study streak from API
+    try {
+      const streakResponse = await fetch('/api/study-streak');
+      if (streakResponse.ok) {
+        const { streak } = await streakResponse.json();
+        setCurrentStreak(streak);
+        maxStreak = streak;
+      }
+    } catch (error) {
+      console.error('Error fetching streak:', error);
+      setCurrentStreak(0);
+    }
+
+    // Calculate achievements based on actual data
     const userAchievements = [];
     if (totalCompleted >= 1) userAchievements.push('First Steps');
     if (totalCompleted >= 10) userAchievements.push('Getting Started');
