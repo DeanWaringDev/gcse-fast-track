@@ -34,7 +34,7 @@ export async function createClient() {
         headers: {},
       },
       realtime: {
-        timeout: 0,
+        enabled: false,
       },
       cookies: {
         get(name: string) {

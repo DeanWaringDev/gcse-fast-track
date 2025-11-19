@@ -102,7 +102,7 @@ export default function EnrollButton({
       <button
         onClick={handleClick}
         disabled={isEnrolling || isLoading}
-        className={className || 'w-full py-2.5 rounded-lg font-bold text-sm transition-all text-white shadow-md hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed'}
+        className={className || 'w-full py-2.5 rounded-lg font-bold text-sm transition-all text-white shadow-md hover:shadow-lg cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed'}
         style={courseColor ? { backgroundColor: courseColor } : {}}
       >
         {getButtonText()}
@@ -115,7 +115,7 @@ export default function EnrollButton({
     <button
       onClick={handleClick}
       disabled={isEnrolling || isLoading}
-      className={className || 'w-full py-4 rounded-xl font-bold text-lg text-white bg-cyan-600 hover:bg-cyan-700 shadow-lg hover:shadow-xl transition-all transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none'}
+      className={className || 'w-full py-4 rounded-xl font-bold text-lg text-white bg-cyan-600 hover:bg-cyan-700 shadow-lg hover:shadow-xl transition-all transform hover:scale-105 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none'}
     >
       {getButtonText()}
     </button>

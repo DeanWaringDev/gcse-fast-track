@@ -198,25 +198,15 @@ export default function PracticeSession({
       let selectedQuestions: Question[] = [];
       
       if (practiceMode === 'practice') {
-        // Practice: 8 questions from first 30 (easier) + 2 from 31-60 (harder)
-        const easierPool = allQuestions.slice(0, 30);
-        const harderPool = allQuestions.slice(30, 60);
-        const easierQuestions = getRandomQuestions(easierPool, 8);
-        const harderQuestions = getRandomQuestions(harderPool, 2);
-        selectedQuestions = [...easierQuestions, ...harderQuestions];
-        // Shuffle so harder questions aren't always at the end
-        selectedQuestions = selectedQuestions.sort(() => Math.random() - 0.5);
+        // Practice: 10 random questions from first 250 (broad practice range)
+        const practicePool = allQuestions.slice(0, 250);
+        selectedQuestions = getRandomQuestions(practicePool, 10);
       } else if (practiceMode === 'timed') {
-        // Timed: 12 questions from first 30 (easier) + 3 from 31-60 (harder)
-        const easierPool = allQuestions.slice(0, 30);
-        const harderPool = allQuestions.slice(30, 60);
-        const easierQuestions = getRandomQuestions(easierPool, 12);
-        const harderQuestions = getRandomQuestions(harderPool, 3);
-        selectedQuestions = [...easierQuestions, ...harderQuestions];
-        // Shuffle so harder questions aren't always at the end
-        selectedQuestions = selectedQuestions.sort(() => Math.random() - 0.5);
+        // Timed: 15 random questions from first 250 (same range as practice)
+        const timedPool = allQuestions.slice(0, 250);
+        selectedQuestions = getRandomQuestions(timedPool, 15);
       } else if (practiceMode === 'expert') {
-        // Expert: 15 random from questions 150-300
+        // Expert: 15 random from questions 150-300 (advanced)
         const expertQuestions = allQuestions.slice(149, 300);
         selectedQuestions = getRandomQuestions(expertQuestions, 15);
       } else if (practiceMode === 'weak_areas') {

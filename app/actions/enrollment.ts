@@ -40,7 +40,7 @@ export async function enrollInCourse(
       };
     }
 
-    // Check if already enrolled
+    // Check if already enrolled (active)
     const { data: existingEnrollment } = await supabase
       .from('enrollments')
       .select('*')
@@ -58,13 +58,42 @@ export async function enrollInCourse(
       };
     }
 
-    // Create new enrollment
-    const enrollmentData: CreateEnrollmentData = {
-      course_slug: courseSlug,
-      subscription_tier: subscriptionTier,
-    };
+    // Check if previously withdrawn
+    const { data: withdrawnEnrollment } = await supabase
+      .from('enrollments')
+      .select('*')
+      .eq('user_id', user.id)
+      .eq('course_slug', courseSlug)
+      .eq('status', 'withdrawn')
+      .single();
 
-    const enrollment = await createEnrollment(enrollmentData);
+    let enrollment;
+
+    if (withdrawnEnrollment) {
+      // Re-activate withdrawn enrollment
+      const { data: reactivated, error: updateError } = await supabase
+        .from('enrollments')
+        .update({
+          status: 'active',
+          subscription_tier: subscriptionTier,
+          enrolled_at: new Date().toISOString(),
+          withdrawn_at: null,
+        })
+        .eq('id', withdrawnEnrollment.id)
+        .select()
+        .single();
+
+      if (updateError) throw updateError;
+      enrollment = reactivated;
+    } else {
+      // Create new enrollment
+      const enrollmentData: CreateEnrollmentData = {
+        course_slug: courseSlug,
+        subscription_tier: subscriptionTier,
+      };
+
+      enrollment = await createEnrollment(enrollmentData);
+    }
 
     // Revalidate relevant paths
     revalidatePath('/');

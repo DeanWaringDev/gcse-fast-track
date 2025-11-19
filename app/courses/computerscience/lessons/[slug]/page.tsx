@@ -294,7 +294,7 @@ export default function LessonPage() {
               disabled={!hasContentReady}
               className={`w-full py-3 rounded-lg font-semibold transition-colors ${
                 hasContentReady
-                  ? 'bg-indigo-600 text-white hover:bg-indigo-700'
+                  ? 'bg-blue-600 text-white hover:bg-blue-700 cursor-pointer'
                   : 'bg-gray-200 text-gray-400 cursor-not-allowed'
               }`}
             >
@@ -330,7 +330,7 @@ export default function LessonPage() {
               disabled={!hasContentReady}
               className={`w-full py-3 rounded-lg font-semibold transition-colors ${
                 hasContentReady
-                  ? 'bg-green-600 text-white hover:bg-green-700'
+                  ? 'bg-green-600 text-white hover:bg-green-700 cursor-pointer'
                   : 'bg-gray-200 text-gray-400 cursor-not-allowed'
               }`}
             >
@@ -366,7 +366,7 @@ export default function LessonPage() {
               disabled={!hasContentReady}
               className={`w-full py-3 rounded-lg font-semibold transition-colors ${
                 hasContentReady
-                  ? 'bg-orange-600 text-white hover:bg-orange-700'
+                  ? 'bg-orange-600 text-white hover:bg-orange-700 cursor-pointer'
                   : 'bg-gray-200 text-gray-400 cursor-not-allowed'
               }`}
             >

@@ -23,6 +23,7 @@ import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import Link from 'next/link';
 import SetTargetGradeModal from '@/components/SetTargetGradeModal';
+import WithdrawModal from '@/components/WithdrawModal';
 import { formatGradeWithTier, getGradeDescription } from '@/lib/gradePrediction';
 import { hasTwoTiers } from '@/lib/courseConfig';
 
@@ -62,6 +63,7 @@ export default function Dashboard() {
   const [currentStreak, setCurrentStreak] = useState(0);
   const [achievements, setAchievements] = useState<string[]>([]);
   const [showTargetModal, setShowTargetModal] = useState(false);
+  const [showWithdrawModal, setShowWithdrawModal] = useState(false);
   const [selectedCourse, setSelectedCourse] = useState<EnrollmentData | null>(null);
 
   useEffect(() => {
@@ -285,6 +287,28 @@ export default function Dashboard() {
 
     // Reload dashboard to refresh predictions
     await loadDashboard();
+  }
+
+  async function handleWithdrawCourse() {
+    if (!selectedCourse) return;
+
+    try {
+      const response = await fetch('/api/withdraw-course', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ courseSlug: selectedCourse.course_slug })
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to withdraw');
+      }
+
+      // Reload dashboard to remove withdrawn course
+      await loadDashboard();
+    } catch (error) {
+      console.error('Withdrawal error:', error);
+      throw error;
+    }
   }
 
   if (isLoading) {
@@ -561,7 +585,7 @@ export default function Dashboard() {
                       </div>
                       <div className="text-center">
                         <div className="text-2xl font-bold" style={{ color: enrollment.color }}>
-                          {enrollment.study_streak_days}
+                          {currentStreak}
                         </div>
                         <div className="text-xs text-gray-500">Day Streak</div>
                       </div>
@@ -573,14 +597,28 @@ export default function Dashboard() {
                       </div>
                     </div>
 
-                    {/* Action Button */}
-                    <Link
-                      href={`/courses/${enrollment.course_slug}`}
-                      className="w-full py-3 rounded-xl font-bold text-white text-center block transition-all transform hover:scale-105"
-                      style={{ background: `linear-gradient(135deg, ${enrollment.color} 0%, ${enrollment.color}dd 100%)` }}
-                    >
-                      Continue Learning →
-                    </Link>
+                    {/* Action Buttons */}
+                    <div className="flex gap-2">
+                      <Link
+                        href={`/courses/${enrollment.course_slug}`}
+                        className="flex-1 py-3 rounded-xl font-bold text-white text-center block transition-all transform hover:scale-105 cursor-pointer"
+                        style={{ background: `linear-gradient(135deg, ${enrollment.color} 0%, ${enrollment.color}dd 100%)` }}
+                      >
+                        Continue Learning →
+                      </Link>
+                      <button
+                        onClick={() => {
+                          setSelectedCourse(enrollment);
+                          setShowWithdrawModal(true);
+                        }}
+                        className="w-12 h-12 rounded-xl text-red-600 hover:bg-red-50 border border-red-200 transition-colors cursor-pointer flex items-center justify-center"
+                        title="Withdraw from course"
+                      >
+                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                        </svg>
+                      </button>
+                    </div>
                   </div>
                 </div>
               );
@@ -621,18 +659,29 @@ export default function Dashboard() {
 
       {/* Target Grade Modal */}
       {selectedCourse && (
-        <SetTargetGradeModal
-          isOpen={showTargetModal}
-          onClose={() => {
-            setShowTargetModal(false);
-            setSelectedCourse(null);
-          }}
-          courseSlug={selectedCourse.course_slug}
-          courseName={selectedCourse.course_name}
-          currentPaper={selectedCourse.target_paper}
-          currentGrade={selectedCourse.target_grade}
-          onSave={handleSaveTargetGrade}
-        />
+        <>
+          <SetTargetGradeModal
+            isOpen={showTargetModal}
+            onClose={() => {
+              setShowTargetModal(false);
+              setSelectedCourse(null);
+            }}
+            courseSlug={selectedCourse.course_slug}
+            courseName={selectedCourse.course_name}
+            currentPaper={selectedCourse.target_paper}
+            currentGrade={selectedCourse.target_grade}
+            onSave={handleSaveTargetGrade}
+          />
+          <WithdrawModal
+            isOpen={showWithdrawModal}
+            onClose={() => {
+              setShowWithdrawModal(false);
+              setSelectedCourse(null);
+            }}
+            courseName={selectedCourse.course_name}
+            onConfirm={handleWithdrawCourse}
+          />
+        </>
       )}
     </div>
   );
