@@ -18,6 +18,7 @@ interface LessonProgress {
   lesson_id: number;
   lesson_slug: string;
   is_completed: boolean;
+  lesson_completed: boolean;
   accuracy_score: number | null;
   confidence_level: number | null;
 }
@@ -161,6 +162,7 @@ export default function ComputerSciencePage() {
                   lesson={lesson}
                   progress={progress ? {
                     is_completed: progress.is_completed,
+                    lesson_completed: progress.lesson_completed,
                     accuracy_score: progress.accuracy_score
                   } : null}
                   isLocked={isLocked}
