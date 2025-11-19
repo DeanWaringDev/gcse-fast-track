@@ -403,7 +403,7 @@ export default function LessonPage() {
               Focus on questions you've previously gotten wrong to improve
             </p>
             <button
-              onClick={() => setActiveMode('weak')}
+              onClick={() => setActiveMode('weak_areas')}
               disabled={!hasWeakAreas}
               className={`w-full py-3 rounded-lg font-semibold transition-colors ${
                 hasWeakAreas
