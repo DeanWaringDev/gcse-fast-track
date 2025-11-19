@@ -75,9 +75,22 @@ export async function POST(request: Request) {
       );
     }
 
+    // Calculate total time spent from all completed sessions
+    const { data: sessions } = await supabase
+      .from('practice_sessions')
+      .select('duration_seconds')
+      .eq('user_id', user.id)
+      .eq('course_slug', courseSlug)
+      .eq('lesson_id', lessonId)
+      .not('completed_at', 'is', null);
+
+    const totalSeconds = sessions?.reduce((sum, session) => sum + (session.duration_seconds || 0), 0) || 0;
+    const totalMinutes = Math.floor(totalSeconds / 60);
+
     const updateData = {
       accuracy_score: stats?.accuracy_percentage || 0,
       attempts: stats?.total_attempts || 0,
+      time_spent_minutes: totalMinutes,
       last_attempt_at: new Date().toISOString(),
     };
 
