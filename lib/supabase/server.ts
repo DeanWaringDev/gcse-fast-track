@@ -30,6 +30,12 @@ export async function createClient() {
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
     {
+      global: {
+        headers: {},
+      },
+      realtime: {
+        timeout: 0,
+      },
       cookies: {
         get(name: string) {
           return cookieStore.get(name)?.value;

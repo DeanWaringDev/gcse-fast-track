@@ -36,6 +36,8 @@ import QuestionCard from './QuestionCard';
 interface Question {
   id: string;
   question: string;
+  type?: string;
+  options?: string[];
   sectionId?: string;
   sectionTitle?: string;
 }
@@ -184,6 +186,8 @@ export default function PracticeSession({
           allQuestions.push({
             id: q.id.toString(),
             question: q.question,
+            type: q.type,
+            options: q.options,
             sectionId: section.sectionId,
             sectionTitle: section.sectionTitle,
           });

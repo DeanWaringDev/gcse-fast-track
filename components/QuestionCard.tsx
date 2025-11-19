@@ -30,6 +30,8 @@ interface QuestionCardProps {
   question: {
     id: string;
     question: string;
+    type?: string;
+    options?: string[];
     sectionId?: string;
     sectionTitle?: string;
   };
@@ -134,22 +136,51 @@ export default function QuestionCard({
         <label className="block text-sm font-semibold text-gray-700 mb-2">
           Your Answer
         </label>
-        <input
-          ref={inputRef}
-          type="text"
-          value={userAnswer}
-          onChange={(e) => setUserAnswer(e.target.value)}
-          onKeyPress={handleKeyPress}
-          disabled={isSubmitted}
-          placeholder="Enter your answer..."
-          className={`w-full px-4 py-3 border-2 rounded-lg text-lg font-semibold transition-colors ${
-            isSubmitted
-              ? isCorrect
-                ? 'border-green-500 bg-green-50 text-green-700'
-                : 'border-red-500 bg-red-50 text-red-700'
-              : 'border-gray-300 focus:border-blue-500 focus:outline-none'
-          }`}
-        />
+        {question.type === 'multiple_choice' && question.options ? (
+          <div className="space-y-3">
+            {question.options.map((option, index) => (
+              <button
+                key={index}
+                onClick={() => {
+                  if (!isSubmitted) {
+                    setUserAnswer(option);
+                  }
+                }}
+                disabled={isSubmitted}
+                className={`w-full text-left px-4 py-3 border-2 rounded-lg font-semibold transition-all ${
+                  userAnswer === option
+                    ? isSubmitted
+                      ? isCorrect
+                        ? 'border-green-500 bg-green-50 text-green-700'
+                        : 'border-red-500 bg-red-50 text-red-700'
+                      : 'border-blue-500 bg-blue-50 text-blue-700'
+                    : isSubmitted && option === correctAnswer
+                      ? 'border-green-500 bg-green-50 text-green-700'
+                      : 'border-gray-300 hover:border-gray-400 text-gray-700'
+                } ${isSubmitted ? 'cursor-default' : 'cursor-pointer'}`}
+              >
+                {option}
+              </button>
+            ))}
+          </div>
+        ) : (
+          <input
+            ref={inputRef}
+            type="text"
+            value={userAnswer}
+            onChange={(e) => setUserAnswer(e.target.value)}
+            onKeyPress={handleKeyPress}
+            disabled={isSubmitted}
+            placeholder="Enter your answer..."
+            className={`w-full px-4 py-3 border-2 rounded-lg text-lg font-semibold transition-colors ${
+              isSubmitted
+                ? isCorrect
+                  ? 'border-green-500 bg-green-50 text-green-700'
+                  : 'border-red-500 bg-red-50 text-red-700'
+                : 'border-gray-300 focus:border-blue-500 focus:outline-none'
+            }`}
+          />
+        )}
       </div>
 
       {/* Feedback */}
@@ -186,7 +217,7 @@ export default function QuestionCard({
         {!isSubmitted ? (
           <button
             onClick={handleSubmit}
-            disabled={!userAnswer.trim() || isSubmitting}
+            disabled={!userAnswer || isSubmitting}
             className="flex-1 py-3 px-6 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
           >
             {isSubmitting ? 'Checking...' : 'Submit Answer'}
@@ -217,7 +248,7 @@ export default function QuestionCard({
       </div>
 
       {/* Hint Text */}
-      {!isSubmitted && (
+      {!isSubmitted && question.type !== 'multiple_choice' && (
         <p className="text-center text-sm text-gray-500 mt-4">
           Press Enter to submit your answer
         </p>
