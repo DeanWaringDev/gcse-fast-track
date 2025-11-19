@@ -157,7 +157,7 @@ function extractTierDescriptions(content) {
  * Process a single course
  */
 function processCourse(courseSlug) {
-  const summaryPath = path.join(__dirname, '..', 'data', courseSlug, 'summary.md');
+  const summaryPath = path.join(__dirname, '..', 'public', 'data', courseSlug, 'summary.md');
   
   if (!fs.existsSync(summaryPath)) {
     console.warn(`Summary file not found: ${summaryPath}`);
@@ -179,7 +179,7 @@ function processCourse(courseSlug) {
   };
   
   // Write individual course data file
-  const outputPath = path.join(__dirname, '..', 'data', courseSlug, 'modal-data.json');
+  const outputPath = path.join(__dirname, '..', 'public', 'data', courseSlug, 'modal-data.json');
   fs.writeFileSync(outputPath, JSON.stringify(courseData, null, 2));
   console.log(`✓ Generated: ${outputPath}`);
   
@@ -202,7 +202,7 @@ function main() {
   }
   
   // Also create a combined file for convenience
-  const combinedPath = path.join(__dirname, '..', 'data', 'course-modal-data.json');
+  const combinedPath = path.join(__dirname, '..', 'public', 'data', 'course-modal-data.json');
   fs.writeFileSync(combinedPath, JSON.stringify(allCourseData, null, 2));
   console.log(`\n✓ Generated combined file: ${combinedPath}`);
   
