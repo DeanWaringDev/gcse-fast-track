@@ -1,0 +1,2109 @@
+{
+  "lessonId": 1,
+  "lessonNumber": "001",
+  "lessonTitle": "What is Computer Science?",
+  "totalQuestions": 300,
+  "note": "All answers are based on the lesson content about computational thinking, computer systems, and fundamental CS concepts.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "What does 'Computer Science' study?",
+      "answer": "Only computers",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 2,
+      "question": "What is computational thinking?",
+      "answer": "Thinking like a computer",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 3,
+      "question": "How many pillars of computational thinking are there?",
+      "answer": "2",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 4,
+      "question": "What is decomposition?",
+      "answer": "Breaking down problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 5,
+      "question": "What is pattern recognition?",
+      "answer": "Drawing patterns",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 6,
+      "question": "What is abstraction?",
+      "answer": "Being vague",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 7,
+      "question": "What is an algorithm?",
+      "answer": "A type of computer",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 8,
+      "question": "What is an embedded system?",
+      "answer": "A computer in another device",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 9,
+      "question": "What is hardware?",
+      "answer": "Physical parts you can touch",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 10,
+      "question": "What is software?",
+      "answer": "Physical parts",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary"
+    },
+    {
+      "id": 11,
+      "question": "Decomposition means:",
+      "answer": "Breaking problems into smaller parts",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 12,
+      "question": "Which is an example of decomposition?",
+      "answer": "Breaking 'make dinner' into: shop, prep, cook, serve",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 13,
+      "question": "Why is decomposition useful?",
+      "answer": "Makes big problems manageable",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 14,
+      "question": "To make a cup of tea, decomposition would break it into:",
+      "answer": "Multiple small steps",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 15,
+      "question": "Decomposing 'getting ready for school' might include:",
+      "answer": "Wake up, wash, dress, eat, travel",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 16,
+      "question": "Which needs decomposition?",
+      "answer": "Planning a party",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 17,
+      "question": "Decomposition is the _____ pillar of computational thinking:",
+      "answer": "First",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 18,
+      "question": "When coding a game, decomposition helps by:",
+      "answer": "Breaking it into characters, rules, graphics, etc.",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 19,
+      "question": "Decomposition is similar to:",
+      "answer": "Breaking a project into tasks",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 20,
+      "question": "The opposite of decomposition is:",
+      "answer": "Composition/putting together",
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition"
+    },
+    {
+      "id": 21,
+      "question": "Pattern recognition means:",
+      "answer": "Spotting similarities and trends",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 22,
+      "question": "Why is pattern recognition useful?",
+      "answer": "Solve problems faster by reusing solutions",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 23,
+      "question": "If you can make one sandwich, you can make 100 because:",
+      "answer": "It's the same pattern repeated",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 24,
+      "question": "Which shows pattern recognition?",
+      "answer": "Noticing all emails end with 'Send'",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 25,
+      "question": "Pattern recognition helps programmers:",
+      "answer": "Reuse code for similar problems",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 26,
+      "question": "In maths, recognizing patterns helps with:",
+      "answer": "Solving similar problems quickly",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 27,
+      "question": "Which is a pattern?",
+      "answer": "Monday-Friday you go to school",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 28,
+      "question": "Pattern recognition is the _____ pillar:",
+      "answer": "Second",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 29,
+      "question": "Recognizing that all logins need username + password is:",
+      "answer": "Pattern recognition",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 30,
+      "question": "Pattern recognition saves time by:",
+      "answer": "Not solving same problem twice",
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition"
+    },
+    {
+      "id": 31,
+      "question": "Abstraction means:",
+      "answer": "Focusing on important details only",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 32,
+      "question": "Why is abstraction useful?",
+      "answer": "Simplifies problems by removing unnecessary detail",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 33,
+      "question": "When making a sandwich, you use abstraction by:",
+      "answer": "Not worrying where wheat was grown",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 34,
+      "question": "A map uses abstraction by:",
+      "answer": "Showing roads but not every tree",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 35,
+      "question": "Abstraction is the _____ pillar:",
+      "answer": "Third",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 36,
+      "question": "Which uses abstraction?",
+      "answer": "Tube map showing just lines and stations",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 37,
+      "question": "In programming, abstraction helps by:",
+      "answer": "Hiding complex code behind simple commands",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 38,
+      "question": "When using a calculator, you use abstraction because:",
+      "answer": "You don't need to know how it works inside",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 39,
+      "question": "Abstraction removes:",
+      "answer": "Unnecessary details",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 40,
+      "question": "A good example of abstraction is:",
+      "answer": "Driving without knowing how engine works",
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction"
+    },
+    {
+      "id": 41,
+      "question": "An algorithm is:",
+      "answer": "Step-by-step instructions",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 42,
+      "question": "Which is an algorithm?",
+      "answer": "Recipe for baking a cake",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 43,
+      "question": "Algorithms must be:",
+      "answer": "Clear and in the right order",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 44,
+      "question": "Algorithm design is the _____ pillar:",
+      "answer": "Fourth",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 45,
+      "question": "A good algorithm is:",
+      "answer": "Easy to follow and gets result",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 46,
+      "question": "Which needs an algorithm?",
+      "answer": "Making toast",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 47,
+      "question": "An algorithm for crossing a road might include:",
+      "answer": "Stop, look, listen, cross when safe",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 48,
+      "question": "Computer programs are made of:",
+      "answer": "Algorithms",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 49,
+      "question": "Instructions on medicine are:",
+      "answer": "An algorithm to follow",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 50,
+      "question": "Why are algorithms important?",
+      "answer": "They solve problems reliably",
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms"
+    },
+    {
+      "id": 51,
+      "question": "An embedded system is:",
+      "answer": "A computer inside another device",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 52,
+      "question": "Which contains an embedded system?",
+      "answer": "Washing machine",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 53,
+      "question": "Your washing machine's computer controls:",
+      "answer": "Water temperature, spin speed, time",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 54,
+      "question": "A microwave has an embedded system to:",
+      "answer": "Control cooking time and power",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 55,
+      "question": "Smart TVs have embedded systems to:",
+      "answer": "Stream content and connect online",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 56,
+      "question": "Central heating systems use computers to:",
+      "answer": "Maintain temperature automatically",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 57,
+      "question": "Digital alarm clocks are embedded systems because:",
+      "answer": "They have computers to keep time",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 58,
+      "question": "Why are embedded systems useful at home?",
+      "answer": "Automate tasks and save time",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 59,
+      "question": "Which is NOT an embedded system?",
+      "answer": "A wooden spoon",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 60,
+      "question": "Embedded systems in homes are usually:",
+      "answer": "Hidden inside devices",
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home"
+    },
+    {
+      "id": 61,
+      "question": "Modern cars have embedded systems for:",
+      "answer": "Engine control, brakes, sensors",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 62,
+      "question": "Anti-lock brakes (ABS) use computers to:",
+      "answer": "Prevent wheel locking when braking",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 63,
+      "question": "Sat nav systems are embedded systems that:",
+      "answer": "Provide directions and routes",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 64,
+      "question": "Buses use embedded systems for:",
+      "answer": "Route displays and payment",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 65,
+      "question": "Parking sensors in cars:",
+      "answer": "Detect obstacles when parking",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 66,
+      "question": "Train systems use computers for:",
+      "answer": "Automatic doors and climate",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 67,
+      "question": "Traffic lights are embedded systems that:",
+      "answer": "Control traffic flow safely",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 68,
+      "question": "Why do cars need many embedded systems?",
+      "answer": "Safety, efficiency, comfort",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 69,
+      "question": "Automatic doors on trains use:",
+      "answer": "Embedded computers and sensors",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 70,
+      "question": "Modern transport relies on embedded systems for:",
+      "answer": "Safety and automation",
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport"
+    },
+    {
+      "id": 71,
+      "question": "ATMs (cash machines) are embedded systems that:",
+      "answer": "Dispense cash and check balance",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 72,
+      "question": "Self-checkout tills use embedded systems to:",
+      "answer": "Scan items and process payment",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 73,
+      "question": "Traffic lights use sensors to:",
+      "answer": "Detect waiting cars",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 74,
+      "question": "Vending machines are embedded systems that:",
+      "answer": "Accept payment and dispense items",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 75,
+      "question": "Ticket barriers at stations use:",
+      "answer": "Embedded systems to read tickets",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 76,
+      "question": "Automatic doors in shops use:",
+      "answer": "Sensors to detect people",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 77,
+      "question": "Public toilets with automatic taps use:",
+      "answer": "Sensors to detect hands",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 78,
+      "question": "Parking meters are embedded systems that:",
+      "answer": "Calculate time and accept payment",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 79,
+      "question": "Library self-service machines:",
+      "answer": "Check out books automatically",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 80,
+      "question": "Embedded systems in public spaces help with:",
+      "answer": "Convenience and automation",
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public"
+    },
+    {
+      "id": 81,
+      "question": "Input means:",
+      "answer": "Data going into the computer",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 82,
+      "question": "Which is an input device?",
+      "answer": "Keyboard",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 83,
+      "question": "A mouse is used for:",
+      "answer": "Input - clicking and pointing",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 84,
+      "question": "When you type on a keyboard, you are:",
+      "answer": "Inputting data",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 85,
+      "question": "A microphone is an input device because:",
+      "answer": "It captures sound going in",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 86,
+      "question": "Touching a touchscreen is:",
+      "answer": "Input",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 87,
+      "question": "A camera is an input device that captures:",
+      "answer": "Images and video",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 88,
+      "question": "Scanning a barcode is:",
+      "answer": "Input",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 89,
+      "question": "Which is NOT an input device?",
+      "answer": "Monitor",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 90,
+      "question": "Input devices allow us to:",
+      "answer": "Give data to the computer",
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input"
+    },
+    {
+      "id": 91,
+      "question": "Process means:",
+      "answer": "Computer working on data",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 92,
+      "question": "The part that processes data is:",
+      "answer": "CPU (processor)",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 93,
+      "question": "Examples of processing include:",
+      "answer": "Calculating, sorting, searching",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 94,
+      "question": "When a calculator works out 5 + 3, it is:",
+      "answer": "Processing",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 95,
+      "question": "Checking if a password is correct is:",
+      "answer": "Processing",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 96,
+      "question": "When a computer filters a photo, it is:",
+      "answer": "Processing",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 97,
+      "question": "Finding the fastest route on a map is:",
+      "answer": "Processing",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 98,
+      "question": "Sorting emails by date is:",
+      "answer": "Processing",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 99,
+      "question": "Processing happens:",
+      "answer": "Inside the computer",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 100,
+      "question": "We can't see processing happening because:",
+      "answer": "It's inside the computer",
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process"
+    },
+    {
+      "id": 101,
+      "question": "Output means:",
+      "answer": "Results coming out of computer",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 102,
+      "question": "Which is an output device?",
+      "answer": "Monitor/Screen",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 103,
+      "question": "Speakers are output devices that:",
+      "answer": "Play sound",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 104,
+      "question": "A printer is an output device because:",
+      "answer": "It produces documents",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 105,
+      "question": "When you see text on a screen, that is:",
+      "answer": "Output",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 106,
+      "question": "Which is NOT an output device?",
+      "answer": "Keyboard",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 107,
+      "question": "Headphones are output devices that:",
+      "answer": "Play sound to you",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 108,
+      "question": "A projector is an output device that:",
+      "answer": "Displays images on a screen",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 109,
+      "question": "Output devices allow us to:",
+      "answer": "Get results from the computer",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 110,
+      "question": "An LED light on a robot is:",
+      "answer": "Output",
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output"
+    },
+    {
+      "id": 111,
+      "question": "Online shopping: You click 'Buy'. What is this?",
+      "answer": "Input",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 112,
+      "question": "Online shopping: Website calculates total. What is this?",
+      "answer": "Process",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 113,
+      "question": "Online shopping: Receipt displays on screen. What is this?",
+      "answer": "Output",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 114,
+      "question": "Gaming: Pressing a button on controller is:",
+      "answer": "Input",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 115,
+      "question": "Gaming: Console calculates where character moves is:",
+      "answer": "Process",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 116,
+      "question": "Gaming: Seeing character on screen is:",
+      "answer": "Output",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 117,
+      "question": "ATM: Inserting card is:",
+      "answer": "Input",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 118,
+      "question": "ATM: Checking PIN is:",
+      "answer": "Process",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 119,
+      "question": "ATM: Dispensing cash is:",
+      "answer": "Output",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 120,
+      "question": "Every computer system needs:",
+      "answer": "Input, Process, and Output",
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples"
+    },
+    {
+      "id": 121,
+      "question": "Hardware is:",
+      "answer": "Physical parts you can touch",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 122,
+      "question": "Which is hardware?",
+      "answer": "Mouse",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 123,
+      "question": "A keyboard is hardware used for:",
+      "answer": "Typing text",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 124,
+      "question": "A monitor is hardware used for:",
+      "answer": "Displaying output",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 125,
+      "question": "Which is NOT hardware?",
+      "answer": "An app",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 126,
+      "question": "Speakers are hardware for:",
+      "answer": "Playing sound",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 127,
+      "question": "A webcam is hardware for:",
+      "answer": "Capturing video",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 128,
+      "question": "A printer is hardware for:",
+      "answer": "Printing documents",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 129,
+      "question": "A microphone is hardware for:",
+      "answer": "Recording sound",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 130,
+      "question": "You can touch hardware:",
+      "answer": "True",
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices"
+    },
+    {
+      "id": 131,
+      "question": "The CPU (processor) is:",
+      "answer": "The brain that processes data",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 132,
+      "question": "RAM is used for:",
+      "answer": "Temporary storage while working",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 133,
+      "question": "A hard drive is for:",
+      "answer": "Permanent storage of files",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 134,
+      "question": "The motherboard:",
+      "answer": "Connects all components together",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 135,
+      "question": "Which is inside a computer?",
+      "answer": "CPU",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 136,
+      "question": "RAM stands for:",
+      "answer": "Random Access Memory",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 137,
+      "question": "The power supply:",
+      "answer": "Provides electricity to components",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 138,
+      "question": "A graphics card:",
+      "answer": "Processes images for display",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 139,
+      "question": "The cooling fan:",
+      "answer": "Stops components overheating",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 140,
+      "question": "Internal hardware is:",
+      "answer": "Inside the computer case",
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components"
+    },
+    {
+      "id": 141,
+      "question": "Software is:",
+      "answer": "Programs and instructions",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 142,
+      "question": "An operating system is:",
+      "answer": "Software that manages the computer",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 143,
+      "question": "Which is an operating system?",
+      "answer": "Windows",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 144,
+      "question": "Examples of operating systems include:",
+      "answer": "Windows, macOS, Linux, Android",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 145,
+      "question": "The operating system:",
+      "answer": "Controls hardware and runs apps",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 146,
+      "question": "Which is NOT an operating system?",
+      "answer": "Microsoft Word",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 147,
+      "question": "On phones, common operating systems are:",
+      "answer": "Android and iOS",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 148,
+      "question": "The operating system is needed to:",
+      "answer": "Run other programs",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 149,
+      "question": "Without an operating system:",
+      "answer": "Computer can't run programs",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 150,
+      "question": "Operating systems manage:",
+      "answer": "Files, memory, programs, hardware",
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems"
+    },
+    {
+      "id": 151,
+      "question": "Application software is:",
+      "answer": "Programs that do specific tasks",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 152,
+      "question": "Which is application software?",
+      "answer": "Microsoft Word",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 153,
+      "question": "A word processor is used for:",
+      "answer": "Writing documents",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 154,
+      "question": "A web browser is used for:",
+      "answer": "Accessing websites",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 155,
+      "question": "Photo editing software is used for:",
+      "answer": "Editing images",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 156,
+      "question": "Examples of web browsers include:",
+      "answer": "Chrome, Firefox, Safari, Edge",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 157,
+      "question": "Gaming software:",
+      "answer": "Lets you play games",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 158,
+      "question": "Spreadsheet software like Excel is for:",
+      "answer": "Working with numbers and data",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 159,
+      "question": "Apps on your phone are:",
+      "answer": "Application software",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 160,
+      "question": "Application software needs:",
+      "answer": "An operating system to run",
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications"
+    },
+    {
+      "id": 161,
+      "question": "Hardware without software is like:",
+      "answer": "Piano without music",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 162,
+      "question": "Software without hardware is like:",
+      "answer": "Music without piano",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 163,
+      "question": "To use a computer you need:",
+      "answer": "Both hardware and software",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 164,
+      "question": "Can you touch software?",
+      "answer": "No",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 165,
+      "question": "Can you touch hardware?",
+      "answer": "Yes",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 166,
+      "question": "Which pair is correct?",
+      "answer": "Mouse = hardware, Word = software",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 167,
+      "question": "A smartphone has:",
+      "answer": "Both hardware and software",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 168,
+      "question": "If hardware breaks:",
+      "answer": "Physical repair needed",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 169,
+      "question": "If software has a bug:",
+      "answer": "Update or reinstall it",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 170,
+      "question": "Hardware and software:",
+      "answer": "Work together",
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software"
+    },
+    {
+      "id": 171,
+      "question": "Computer Science develops:",
+      "answer": "Problem-solving skills",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 172,
+      "question": "Logical thinking means:",
+      "answer": "Understanding cause and effect",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 173,
+      "question": "Computer Science helps with:",
+      "answer": "Creativity in solving problems",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 174,
+      "question": "Resilience in CS means:",
+      "answer": "Learning from mistakes",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 175,
+      "question": "Debugging is:",
+      "answer": "Finding and fixing errors",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 176,
+      "question": "CS helps you communicate by:",
+      "answer": "Explaining technical ideas clearly",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 177,
+      "question": "Breaking down problems is useful for:",
+      "answer": "Any challenge in life",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 178,
+      "question": "Pattern recognition helps with:",
+      "answer": "Solving problems efficiently",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 179,
+      "question": "CS skills are useful in:",
+      "answer": "Every career",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 180,
+      "question": "Learning CS helps you:",
+      "answer": "Think logically about problems",
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills"
+    },
+    {
+      "id": 181,
+      "question": "A Software Developer:",
+      "answer": "Creates apps and programs",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 182,
+      "question": "A Cybersecurity Expert:",
+      "answer": "Protects systems from hackers",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 183,
+      "question": "A Data Scientist:",
+      "answer": "Analyzes data for insights",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 184,
+      "question": "A Game Designer:",
+      "answer": "Creates video games",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 185,
+      "question": "An AI Engineer:",
+      "answer": "Teaches computers to learn",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 186,
+      "question": "A Web Developer:",
+      "answer": "Builds websites",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 187,
+      "question": "A Network Administrator:",
+      "answer": "Manages internet systems",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 188,
+      "question": "A Robotics Engineer:",
+      "answer": "Designs and programs robots",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 189,
+      "question": "CS skills are needed in:",
+      "answer": "Medicine, finance, entertainment, all fields",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 190,
+      "question": "Learning CS opens up:",
+      "answer": "Many career opportunities",
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science"
+    },
+    {
+      "id": 191,
+      "question": "The four pillars of computational thinking are:",
+      "answer": "Decomposition, Pattern Recognition, Abstraction, Algorithms",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 192,
+      "question": "Breaking 'make breakfast' into steps is:",
+      "answer": "Decomposition",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 193,
+      "question": "Noticing morning routine is same daily is:",
+      "answer": "Pattern Recognition",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 194,
+      "question": "Driving without knowing engine mechanics is:",
+      "answer": "Abstraction",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 195,
+      "question": "A recipe is an example of:",
+      "answer": "Algorithm",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 196,
+      "question": "Your washing machine contains:",
+      "answer": "Embedded system",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 197,
+      "question": "All computer systems use:",
+      "answer": "Input \u2192 Process \u2192 Output",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 198,
+      "question": "You can physically touch:",
+      "answer": "Hardware",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 199,
+      "question": "Windows and macOS are:",
+      "answer": "Operating systems",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 200,
+      "question": "Microsoft Word is:",
+      "answer": "Application software",
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts"
+    },
+    {
+      "id": 201,
+      "question": "When making a cup of tea, which computational thinking skill helps you order the steps correctly?",
+      "answer": "Algorithm design",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 202,
+      "question": "A smart thermostat that learns your schedule uses:",
+      "answer": "Pattern recognition",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 203,
+      "question": "When Google Maps finds your route, it uses all four pillars. Which happens first?",
+      "answer": "Decomposition - breaking journey into segments",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 204,
+      "question": "A Tube map uses abstraction by:",
+      "answer": "Showing simplified lines, not real geography",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 205,
+      "question": "When Netflix recommends shows, it uses:",
+      "answer": "Pattern recognition from your viewing history",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 206,
+      "question": "An electric car's systems include embedded computers for:",
+      "answer": "Battery, motor, braking, entertainment - all of these",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 207,
+      "question": "When you use contactless payment: tapping card is input, checking balance is process, and ___ is output:",
+      "answer": "Beep and screen showing 'approved'",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 208,
+      "question": "Face ID on phones is:",
+      "answer": "Input (camera) \u2192 Process (compare face) \u2192 Output (unlock)",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 209,
+      "question": "A self-driving car needs:",
+      "answer": "Both hardware (sensors, cameras) and software (AI, navigation)",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 210,
+      "question": "Spotify's 'Discover Weekly' playlist shows:",
+      "answer": "Pattern recognition (your music taste)",
+      "sectionId": 21,
+      "sectionTitle": "Challenge - Apply Your Knowledge 1"
+    },
+    {
+      "id": 211,
+      "question": "A robot vacuum uses abstraction when:",
+      "answer": "It maps rooms without knowing furniture brand",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 212,
+      "question": "Video game NPCs that learn player behavior use:",
+      "answer": "Pattern recognition and algorithms",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 213,
+      "question": "When coding a calculator, you'd use decomposition to:",
+      "answer": "Split into: input numbers, choose operation, calculate, display result",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 214,
+      "question": "Smart home systems that turn lights off when you leave use:",
+      "answer": "Sensors (input), processor (check if present), lights (output)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 215,
+      "question": "Autocorrect on phones demonstrates:",
+      "answer": "Pattern recognition (common words) and algorithms (suggest corrections)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 216,
+      "question": "A smartwatch monitoring heart rate uses:",
+      "answer": "Sensor (input) \u2192 Process (analyze) \u2192 Display/Alert (output)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 217,
+      "question": "Email spam filters use pattern recognition to:",
+      "answer": "Identify suspicious patterns in messages",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 218,
+      "question": "A chess computer uses algorithms to:",
+      "answer": "Calculate possible moves and outcomes",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 219,
+      "question": "Online shopping 'customers also bought' feature uses:",
+      "answer": "Pattern recognition from purchase data",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 220,
+      "question": "Traffic light systems at busy junctions use:",
+      "answer": "Sensors (input) \u2192 Process (optimize flow) \u2192 Lights (output)",
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2"
+    },
+    {
+      "id": 221,
+      "question": "Scenario: Building a weather app. Which comes first?",
+      "answer": "Decomposition - break into: data collection, processing, display, alerts",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 222,
+      "question": "Weather app: Getting data from sensors is:",
+      "answer": "Input",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 223,
+      "question": "Weather app: Calculating average temperature is:",
+      "answer": "Process",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 224,
+      "question": "Weather app: Showing forecast on screen is:",
+      "answer": "Output",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 225,
+      "question": "Weather app: Noticing temperature patterns for predictions uses:",
+      "answer": "Pattern recognition",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 226,
+      "question": "Weather app: Users don't need to know complex meteorology formulas. This is:",
+      "answer": "Abstraction",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 227,
+      "question": "Weather app: Step-by-step process for calculating wind chill is:",
+      "answer": "Algorithm",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 228,
+      "question": "Weather app: The phone/computer running it is:",
+      "answer": "Hardware",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 229,
+      "question": "Weather app: The code and interface are:",
+      "answer": "Software",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 230,
+      "question": "Weather app: Smartphone has ___ for temperature data:",
+      "answer": "Embedded sensors",
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1"
+    },
+    {
+      "id": 231,
+      "question": "Scenario: Smart doorbell. Camera capturing visitor is:",
+      "answer": "Input",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 232,
+      "question": "Smart doorbell: Comparing face to known people is:",
+      "answer": "Process",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 233,
+      "question": "Smart doorbell: Sending notification to phone is:",
+      "answer": "Output",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 234,
+      "question": "Smart doorbell: Learning to recognize regular visitors uses:",
+      "answer": "Pattern recognition",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 235,
+      "question": "Smart doorbell: Users see 'Visitor at door' without seeing complex facial recognition algorithms. This is:",
+      "answer": "Abstraction",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 236,
+      "question": "Smart doorbell: The camera and speaker are:",
+      "answer": "Hardware",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 237,
+      "question": "Smart doorbell: The app showing video feed is:",
+      "answer": "Software",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 238,
+      "question": "Smart doorbell: Computer in the doorbell is:",
+      "answer": "Embedded system",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 239,
+      "question": "Smart doorbell: The steps to detect motion, record, analyze, and notify form:",
+      "answer": "Algorithm",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 240,
+      "question": "Smart doorbell: Breaking project into camera, motion detection, notification, storage is:",
+      "answer": "Decomposition",
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2"
+    },
+    {
+      "id": 241,
+      "question": "Why is computational thinking useful beyond computing?",
+      "answer": "It's a problem-solving method for any field",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 242,
+      "question": "How does decomposition help with revision?",
+      "answer": "Break subjects into topics, topics into subtopics",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 243,
+      "question": "How does abstraction help when learning to drive?",
+      "answer": "Focus on driving skills, not engine mechanics",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 244,
+      "question": "Pattern recognition in history helps you:",
+      "answer": "Spot causes and effects across events",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 245,
+      "question": "Why do modern devices use embedded systems instead of full computers?",
+      "answer": "Cheaper, smaller, designed for specific task",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 246,
+      "question": "What makes a good algorithm?",
+      "answer": "Clear, correct, efficient, solves problem",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 247,
+      "question": "Why can't software run without hardware?",
+      "answer": "Software needs physical components to execute on",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 248,
+      "question": "Why can't hardware work without software?",
+      "answer": "Hardware needs instructions to know what to do",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 249,
+      "question": "How has computer science changed healthcare?",
+      "answer": "Digital records, scans, analysis, remote monitoring - all of these",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 250,
+      "question": "What's the main benefit of computational thinking?",
+      "answer": "Systematic approach to problem-solving",
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1"
+    },
+    {
+      "id": 251,
+      "question": "Why is pattern recognition important in AI?",
+      "answer": "AI learns by spotting patterns in data",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 252,
+      "question": "How does abstraction make systems more user-friendly?",
+      "answer": "Hides complexity, shows simple interface",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 253,
+      "question": "Why do games need both input and output?",
+      "answer": "Input for control, output for feedback",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 254,
+      "question": "What's the relationship between hardware and software?",
+      "answer": "Interdependent - both needed to function",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 255,
+      "question": "Why learn computer science if you don't want to be a programmer?",
+      "answer": "Develops problem-solving, logic, creativity for any career",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 256,
+      "question": "How do embedded systems improve car safety?",
+      "answer": "ABS, airbag sensors, stability control",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 257,
+      "question": "Why is decomposition the first step in problem-solving?",
+      "answer": "Can't solve complex problems without breaking them down",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 258,
+      "question": "How has the Internet of Things (IoT) used embedded systems?",
+      "answer": "Computers in everyday devices connect to internet",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 259,
+      "question": "Why is algorithm design considered a computational thinking skill?",
+      "answer": "Creating systematic solutions is core to CS",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 260,
+      "question": "What makes embedded systems different from regular computers?",
+      "answer": "Designed for specific task, built into device",
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2"
+    },
+    {
+      "id": 261,
+      "question": "Describe one way decomposition could help plan a school trip.",
+      "answer": "Break into: choose destination, arrange transport, book activities, plan meals",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 262,
+      "question": "Give an example of pattern recognition in everyday life.",
+      "answer": "Noticing same route to school is quickest",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 263,
+      "question": "Explain why a Tube map is a good example of abstraction.",
+      "answer": "Shows essential info (lines, stations) but removes unnecessary details (exact distances, buildings)",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 264,
+      "question": "Why are algorithms important in computing?",
+      "answer": "Provide clear, repeatable instructions for solving problems",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 265,
+      "question": "Name two input devices and two output devices.",
+      "answer": "Input: keyboard, mouse; Output: monitor, printer",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 266,
+      "question": "What is the difference between hardware and software?",
+      "answer": "Hardware is physical; software is programs/instructions",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 267,
+      "question": "Give three examples of embedded systems.",
+      "answer": "Washing machine, car engine computer, smart TV",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 268,
+      "question": "Explain Input \u2192 Process \u2192 Output using an ATM example.",
+      "answer": "Insert card (input), check PIN (process), dispense cash (output)",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 269,
+      "question": "Why does a computer need both hardware and software?",
+      "answer": "Hardware provides physical components, software provides instructions",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 270,
+      "question": "Name two careers that use computer science skills.",
+      "answer": "Software developer, data scientist (or any two from lesson)",
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1"
+    },
+    {
+      "id": 271,
+      "question": "Describe the four pillars of computational thinking.",
+      "answer": "Decomposition, Pattern Recognition, Abstraction, Algorithm Design",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 272,
+      "question": "Explain how a smart thermostat uses computational thinking.",
+      "answer": "Decomposes temperature control, recognizes patterns in schedule, abstracts user needs, algorithms for heating",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 273,
+      "question": "Why are embedded systems used in modern cars?",
+      "answer": "Control engine, safety features, entertainment automatically",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 274,
+      "question": "Compare an operating system and application software.",
+      "answer": "OS manages computer/runs programs; apps do specific tasks",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 275,
+      "question": "Explain why abstraction is useful when using technology.",
+      "answer": "Can use devices without understanding complex internal workings",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 276,
+      "question": "How does pattern recognition help when learning?",
+      "answer": "Spot similar problems, reuse solutions, learn faster",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 277,
+      "question": "Describe the role of the CPU in a computer system.",
+      "answer": "Processes data, executes instructions, controls computer",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 278,
+      "question": "Give an example of a device that needs both hardware and software to function.",
+      "answer": "Smartphone (hardware: screen, processor; software: apps, OS)",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 279,
+      "question": "Explain how computational thinking helps in subjects beyond computing.",
+      "answer": "Provides systematic problem-solving approach for any subject",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 280,
+      "question": "Why is Computer Science important in modern society?",
+      "answer": "Underpins technology in all sectors: medicine, transport, communication, etc.",
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2"
+    },
+    {
+      "id": 281,
+      "question": "Computer Science is about:",
+      "answer": "Problem-solving using computers",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 282,
+      "question": "The first pillar of computational thinking is:",
+      "answer": "Decomposition",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 283,
+      "question": "An embedded system is found in:",
+      "answer": "Washing machines, cars, smart devices",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 284,
+      "question": "Input \u2192 Process \u2192 Output describes:",
+      "answer": "How all computer systems work",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 285,
+      "question": "Hardware is:",
+      "answer": "Physical components",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 286,
+      "question": "Software is:",
+      "answer": "Programs and instructions",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 287,
+      "question": "A keyboard is:",
+      "answer": "Input device",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 288,
+      "question": "A monitor is:",
+      "answer": "Output device",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 289,
+      "question": "The CPU:",
+      "answer": "Processes data",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 290,
+      "question": "Windows is:",
+      "answer": "Operating system",
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1"
+    },
+    {
+      "id": 291,
+      "question": "Breaking problems into smaller parts is:",
+      "answer": "Decomposition",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 292,
+      "question": "Spotting similarities to solve problems faster is:",
+      "answer": "Pattern Recognition",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 293,
+      "question": "Focusing on important details only is:",
+      "answer": "Abstraction",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 294,
+      "question": "Step-by-step instructions are:",
+      "answer": "Algorithms",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 295,
+      "question": "Computer Science skills help develop:",
+      "answer": "Problem-solving, logic, creativity, resilience",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 296,
+      "question": "Careers in Computer Science include:",
+      "answer": "Software developer, data scientist, cybersecurity, many more",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 297,
+      "question": "Every computer needs:",
+      "answer": "Both hardware and software",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 298,
+      "question": "Embedded systems are useful because:",
+      "answer": "Automate devices and perform specific tasks efficiently",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 299,
+      "question": "Computational thinking can be applied to:",
+      "answer": "Any problem in any field",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    },
+    {
+      "id": 300,
+      "question": "The most important thing you've learned in this lesson is:",
+      "answer": "Computer Science is about logical problem-solving",
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2"
+    }
+  ]
+}

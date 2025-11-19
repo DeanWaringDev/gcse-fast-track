@@ -1,0 +1,79 @@
+{
+  "slug": "maths",
+  "categories": [
+    {
+      "name": "Shape",
+      "emoji": "📐",
+      "lessonCount": 26,
+      "freeLessons": 6,
+      "topics": "Angles, Polygons, Area, Volume, Perimeter, Pythagoras, Trigonometry, Circle Theorems",
+      "color": "blue"
+    },
+    {
+      "name": "Algebra",
+      "emoji": "🔢",
+      "lessonCount": 23,
+      "freeLessons": 7,
+      "topics": "Basics, Simplifying, Equations, Graphs, Sequences, Quadratics, Inequalities",
+      "color": "purple"
+    },
+    {
+      "name": "Number",
+      "emoji": "🔢",
+      "lessonCount": 19,
+      "freeLessons": 8,
+      "topics": "BIDMAS, Negatives, Fractions, Decimals, Percentages, Powers, Standard Form",
+      "color": "green"
+    },
+    {
+      "name": "Data",
+      "emoji": "📊",
+      "lessonCount": 9,
+      "freeLessons": 3,
+      "topics": "Averages, Charts, Scatter Graphs, Cumulative Frequency, Box Plots",
+      "color": "orange"
+    },
+    {
+      "name": "Exam Practice",
+      "emoji": "📝",
+      "lessonCount": 6,
+      "freeLessons": 0,
+      "topics": "Foundation & Higher Mock Exams, Final Confidence Check",
+      "color": "indigo"
+    },
+    {
+      "name": "Mixed Practice",
+      "emoji": "🔄",
+      "lessonCount": 5,
+      "freeLessons": 0,
+      "topics": "Cross-topic integration and exam-style questions",
+      "color": "cyan"
+    },
+    {
+      "name": "Probability",
+      "emoji": "🎲",
+      "lessonCount": 5,
+      "freeLessons": 1,
+      "topics": "Basic Probability, Tree Diagrams, Venn Diagrams, Conditional Probability",
+      "color": "red"
+    },
+    {
+      "name": "Problem Solving",
+      "emoji": "💡",
+      "lessonCount": 4,
+      "freeLessons": 0,
+      "topics": "Units, Time, Money, Multi-step Problems",
+      "color": "pink"
+    },
+    {
+      "name": "Speed Challenge",
+      "emoji": "📌",
+      "lessonCount": 3,
+      "freeLessons": 0,
+      "topics": "Quick-fire fluency practice",
+      "color": "gray"
+    }
+  ],
+  "foundation": "Essential content for grades 1-5",
+  "higher": "Advanced topics for grades 6-9"
+}

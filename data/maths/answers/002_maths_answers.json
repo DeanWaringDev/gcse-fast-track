@@ -1,0 +1,2109 @@
+{
+  "lessonId": 2,
+  "lessonNumber": "002",
+  "lessonTitle": "Negative Numbers",
+  "totalQuestions": 300,
+  "note": "Full answers for negative number operations. Remember: same signs = positive, different signs = negative",
+  "answers": [
+    {
+      "id": 1,
+      "question": "-3 + 5",
+      "answer": 2,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 2,
+      "question": "-7 + 10",
+      "answer": 3,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 3,
+      "question": "-4 + 8",
+      "answer": 4,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 4,
+      "question": "-6 + 9",
+      "answer": 3,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 5,
+      "question": "-2 + 7",
+      "answer": 5,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 6,
+      "question": "-8 + 12",
+      "answer": 4,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 7,
+      "question": "-5 + 11",
+      "answer": 6,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 8,
+      "question": "-9 + 15",
+      "answer": 6,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 9,
+      "question": "-1 + 6",
+      "answer": 5,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 10,
+      "question": "-10 + 14",
+      "answer": 4,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Simple Positive and Negative"
+    },
+    {
+      "id": 11,
+      "question": "5 + (-2)",
+      "answer": 3,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 12,
+      "question": "8 + (-3)",
+      "answer": 5,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 13,
+      "question": "10 + (-4)",
+      "answer": 6,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 14,
+      "question": "7 + (-5)",
+      "answer": 2,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 15,
+      "question": "12 + (-6)",
+      "answer": 6,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 16,
+      "question": "15 + (-8)",
+      "answer": 7,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 17,
+      "question": "9 + (-4)",
+      "answer": 5,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 18,
+      "question": "11 + (-7)",
+      "answer": 4,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 19,
+      "question": "14 + (-9)",
+      "answer": 5,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 20,
+      "question": "20 + (-12)",
+      "answer": 8,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 21,
+      "question": "-3 + (-4)",
+      "answer": -7,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 22,
+      "question": "-5 + (-2)",
+      "answer": -7,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 23,
+      "question": "-7 + (-3)",
+      "answer": -10,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 24,
+      "question": "-6 + (-5)",
+      "answer": -11,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 25,
+      "question": "-8 + (-4)",
+      "answer": -12,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 26,
+      "question": "-10 + (-6)",
+      "answer": -16,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 27,
+      "question": "-9 + (-7)",
+      "answer": -16,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 28,
+      "question": "-4 + (-8)",
+      "answer": -12,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 29,
+      "question": "-12 + (-5)",
+      "answer": -17,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 30,
+      "question": "-11 + (-9)",
+      "answer": -20,
+      "sectionId": 2,
+      "sectionTitle": "Adding Negative Numbers"
+    },
+    {
+      "id": 31,
+      "question": "10 - 3",
+      "answer": 7,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 32,
+      "question": "15 - 7",
+      "answer": 8,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 33,
+      "question": "8 - 5",
+      "answer": 3,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 34,
+      "question": "12 - 6",
+      "answer": 6,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 35,
+      "question": "20 - 14",
+      "answer": 6,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 36,
+      "question": "-5 - 3",
+      "answer": -8,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 37,
+      "question": "-8 - 4",
+      "answer": -12,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 38,
+      "question": "-10 - 6",
+      "answer": -16,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 39,
+      "question": "-7 - 9",
+      "answer": -16,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 40,
+      "question": "-12 - 5",
+      "answer": -17,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 41,
+      "question": "-3 - 8",
+      "answer": -11,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 42,
+      "question": "-6 - 7",
+      "answer": -13,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 43,
+      "question": "-9 - 4",
+      "answer": -13,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 44,
+      "question": "-4 - 10",
+      "answer": -14,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 45,
+      "question": "-15 - 8",
+      "answer": -23,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 46,
+      "question": "-11 - 6",
+      "answer": -17,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 47,
+      "question": "-2 - 9",
+      "answer": -11,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 48,
+      "question": "-13 - 7",
+      "answer": -20,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 49,
+      "question": "-8 - 12",
+      "answer": -20,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 50,
+      "question": "-14 - 9",
+      "answer": -23,
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Positive Numbers"
+    },
+    {
+      "id": 51,
+      "question": "10 - (-3)",
+      "answer": 13,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 52,
+      "question": "8 - (-5)",
+      "answer": 13,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 53,
+      "question": "12 - (-4)",
+      "answer": 16,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 54,
+      "question": "15 - (-7)",
+      "answer": 22,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 55,
+      "question": "9 - (-6)",
+      "answer": 15,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 56,
+      "question": "20 - (-8)",
+      "answer": 28,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 57,
+      "question": "7 - (-9)",
+      "answer": 16,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 58,
+      "question": "14 - (-6)",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 59,
+      "question": "11 - (-5)",
+      "answer": 16,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 60,
+      "question": "18 - (-10)",
+      "answer": 28,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 61,
+      "question": "-5 - (-2)",
+      "answer": -3,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 62,
+      "question": "-8 - (-4)",
+      "answer": -4,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 63,
+      "question": "-10 - (-6)",
+      "answer": -4,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 64,
+      "question": "-7 - (-9)",
+      "answer": 2,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 65,
+      "question": "-12 - (-8)",
+      "answer": -4,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 66,
+      "question": "-6 - (-6)",
+      "answer": 0,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 67,
+      "question": "-15 - (-10)",
+      "answer": -5,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 68,
+      "question": "-9 - (-5)",
+      "answer": -4,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 69,
+      "question": "-11 - (-7)",
+      "answer": -4,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 70,
+      "question": "-20 - (-12)",
+      "answer": -8,
+      "sectionId": 4,
+      "sectionTitle": "Subtracting Negative Numbers"
+    },
+    {
+      "id": 71,
+      "question": "5 + (-3) + 4",
+      "answer": 6,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 72,
+      "question": "8 - (-2) + 3",
+      "answer": 13,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 73,
+      "question": "-6 + 10 - 2",
+      "answer": 2,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 74,
+      "question": "-4 + (-5) + 12",
+      "answer": 3,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 75,
+      "question": "7 - 9 + (-3)",
+      "answer": -5,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 76,
+      "question": "-8 + 15 - (-4)",
+      "answer": 11,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 77,
+      "question": "10 + (-6) - 2",
+      "answer": 2,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 78,
+      "question": "-5 - (-8) + 3",
+      "answer": 6,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 79,
+      "question": "12 - 7 + (-4)",
+      "answer": 1,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 80,
+      "question": "-9 + (-3) + 15",
+      "answer": 3,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 81,
+      "question": "-3 + 8 - (-5)",
+      "answer": 10,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 82,
+      "question": "6 - (-4) - 7",
+      "answer": 3,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 83,
+      "question": "-10 + 6 + (-2)",
+      "answer": -6,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 84,
+      "question": "15 - 8 - (-3)",
+      "answer": 10,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 85,
+      "question": "-7 + (-4) + 9",
+      "answer": -2,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 86,
+      "question": "9 + (-12) - (-6)",
+      "answer": 3,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 87,
+      "question": "-5 - 3 + (-7)",
+      "answer": -15,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 88,
+      "question": "11 - (-5) - 8",
+      "answer": 8,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 89,
+      "question": "-14 + 9 - (-2)",
+      "answer": -3,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 90,
+      "question": "8 + (-5) + (-3)",
+      "answer": 0,
+      "sectionId": 5,
+      "sectionTitle": "Mixed Addition and Subtraction"
+    },
+    {
+      "id": 91,
+      "question": "3 \u00d7 4",
+      "answer": 12,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 92,
+      "question": "5 \u00d7 6",
+      "answer": 30,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 93,
+      "question": "7 \u00d7 2",
+      "answer": 14,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 94,
+      "question": "8 \u00d7 3",
+      "answer": 24,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 95,
+      "question": "9 \u00d7 4",
+      "answer": 36,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 96,
+      "question": "-3 \u00d7 -4",
+      "answer": 12,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 97,
+      "question": "-5 \u00d7 -6",
+      "answer": 30,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 98,
+      "question": "-7 \u00d7 -2",
+      "answer": 14,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 99,
+      "question": "-8 \u00d7 -3",
+      "answer": 24,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 100,
+      "question": "-9 \u00d7 -4",
+      "answer": 36,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 101,
+      "question": "-2 \u00d7 -5",
+      "answer": 10,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 102,
+      "question": "-6 \u00d7 -3",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 103,
+      "question": "-4 \u00d7 -7",
+      "answer": 28,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 104,
+      "question": "-10 \u00d7 -2",
+      "answer": 20,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 105,
+      "question": "-5 \u00d7 -5",
+      "answer": 25,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 106,
+      "question": "-3 \u00d7 -8",
+      "answer": 24,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 107,
+      "question": "-7 \u00d7 -4",
+      "answer": 28,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 108,
+      "question": "-6 \u00d7 -6",
+      "answer": 36,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 109,
+      "question": "-9 \u00d7 -3",
+      "answer": 27,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 110,
+      "question": "-8 \u00d7 -5",
+      "answer": 40,
+      "sectionId": 6,
+      "sectionTitle": "Multiplying Negative Numbers - Same Signs"
+    },
+    {
+      "id": 111,
+      "question": "5 \u00d7 -3",
+      "answer": -15,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 112,
+      "question": "8 \u00d7 -2",
+      "answer": -16,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 113,
+      "question": "6 \u00d7 -4",
+      "answer": -24,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 114,
+      "question": "7 \u00d7 -5",
+      "answer": -35,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 115,
+      "question": "9 \u00d7 -3",
+      "answer": -27,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 116,
+      "question": "-4 \u00d7 6",
+      "answer": -24,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 117,
+      "question": "-7 \u00d7 3",
+      "answer": -21,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 118,
+      "question": "-5 \u00d7 8",
+      "answer": -40,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 119,
+      "question": "-9 \u00d7 2",
+      "answer": -18,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 120,
+      "question": "-6 \u00d7 7",
+      "answer": -42,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 121,
+      "question": "3 \u00d7 -8",
+      "answer": -24,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 122,
+      "question": "-10 \u00d7 4",
+      "answer": -40,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 123,
+      "question": "4 \u00d7 -9",
+      "answer": -36,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 124,
+      "question": "-8 \u00d7 5",
+      "answer": -40,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 125,
+      "question": "12 \u00d7 -2",
+      "answer": -24,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 126,
+      "question": "-3 \u00d7 11",
+      "answer": -33,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 127,
+      "question": "6 \u00d7 -7",
+      "answer": -42,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 128,
+      "question": "-5 \u00d7 9",
+      "answer": -45,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 129,
+      "question": "11 \u00d7 -4",
+      "answer": -44,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 130,
+      "question": "-7 \u00d7 6",
+      "answer": -42,
+      "sectionId": 7,
+      "sectionTitle": "Multiplying Negative Numbers - Different Signs"
+    },
+    {
+      "id": 131,
+      "question": "12 \u00f7 4",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 132,
+      "question": "20 \u00f7 5",
+      "answer": 4,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 133,
+      "question": "18 \u00f7 6",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 134,
+      "question": "24 \u00f7 8",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 135,
+      "question": "30 \u00f7 6",
+      "answer": 5,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 136,
+      "question": "-12 \u00f7 -4",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 137,
+      "question": "-20 \u00f7 -5",
+      "answer": 4,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 138,
+      "question": "-18 \u00f7 -6",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 139,
+      "question": "-24 \u00f7 -8",
+      "answer": 3,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 140,
+      "question": "-30 \u00f7 -6",
+      "answer": 5,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 141,
+      "question": "-15 \u00f7 -3",
+      "answer": 5,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 142,
+      "question": "-28 \u00f7 -7",
+      "answer": 4,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 143,
+      "question": "-36 \u00f7 -9",
+      "answer": 4,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 144,
+      "question": "-40 \u00f7 -8",
+      "answer": 5,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 145,
+      "question": "-35 \u00f7 -5",
+      "answer": 7,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 146,
+      "question": "-48 \u00f7 -6",
+      "answer": 8,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 147,
+      "question": "-32 \u00f7 -4",
+      "answer": 8,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 148,
+      "question": "-42 \u00f7 -7",
+      "answer": 6,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 149,
+      "question": "-54 \u00f7 -9",
+      "answer": 6,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 150,
+      "question": "-45 \u00f7 -5",
+      "answer": 9,
+      "sectionId": 8,
+      "sectionTitle": "Dividing Negative Numbers - Same Signs"
+    },
+    {
+      "id": 151,
+      "question": "15 \u00f7 -3",
+      "answer": -5,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 152,
+      "question": "20 \u00f7 -4",
+      "answer": -5,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 153,
+      "question": "24 \u00f7 -6",
+      "answer": -4,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 154,
+      "question": "28 \u00f7 -7",
+      "answer": -4,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 155,
+      "question": "32 \u00f7 -8",
+      "answer": -4,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 156,
+      "question": "-18 \u00f7 6",
+      "answer": -3,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 157,
+      "question": "-25 \u00f7 5",
+      "answer": -5,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 158,
+      "question": "-30 \u00f7 6",
+      "answer": -5,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 159,
+      "question": "-36 \u00f7 9",
+      "answer": -4,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 160,
+      "question": "-42 \u00f7 7",
+      "answer": -6,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 161,
+      "question": "16 \u00f7 -4",
+      "answer": -4,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 162,
+      "question": "-21 \u00f7 3",
+      "answer": -7,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 163,
+      "question": "27 \u00f7 -9",
+      "answer": -3,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 164,
+      "question": "-35 \u00f7 5",
+      "answer": -7,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 165,
+      "question": "40 \u00f7 -8",
+      "answer": -5,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 166,
+      "question": "-48 \u00f7 6",
+      "answer": -8,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 167,
+      "question": "45 \u00f7 -5",
+      "answer": -9,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 168,
+      "question": "-54 \u00f7 9",
+      "answer": -6,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 169,
+      "question": "56 \u00f7 -7",
+      "answer": -8,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 170,
+      "question": "-63 \u00f7 9",
+      "answer": -7,
+      "sectionId": 9,
+      "sectionTitle": "Dividing Negative Numbers - Different Signs"
+    },
+    {
+      "id": 171,
+      "question": "-4 \u00d7 3 \u00d7 -2",
+      "answer": 24,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 172,
+      "question": "5 \u00d7 -2 \u00d7 -3",
+      "answer": 30,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 173,
+      "question": "-6 \u00d7 -2 \u00d7 4",
+      "answer": 48,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 174,
+      "question": "8 \u00d7 -3 \u00d7 -2",
+      "answer": 48,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 175,
+      "question": "-7 \u00d7 4 \u00d7 -1",
+      "answer": 28,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 176,
+      "question": "-24 \u00f7 -4 \u00f7 2",
+      "answer": 3,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 177,
+      "question": "36 \u00f7 -6 \u00f7 -3",
+      "answer": 2,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 178,
+      "question": "-48 \u00f7 8 \u00f7 -2",
+      "answer": 3,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 179,
+      "question": "60 \u00f7 -5 \u00f7 3",
+      "answer": -4,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 180,
+      "question": "-72 \u00f7 -9 \u00f7 2",
+      "answer": 4,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 181,
+      "question": "-3 \u00d7 4 \u00f7 -2",
+      "answer": 6,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 182,
+      "question": "8 \u00d7 -6 \u00f7 4",
+      "answer": -12,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 183,
+      "question": "-20 \u00f7 5 \u00d7 -3",
+      "answer": 12,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 184,
+      "question": "15 \u00d7 -2 \u00f7 -6",
+      "answer": 5,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 185,
+      "question": "-28 \u00f7 -7 \u00d7 3",
+      "answer": 12,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 186,
+      "question": "9 \u00d7 -4 \u00f7 -6",
+      "answer": 6,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 187,
+      "question": "-42 \u00f7 6 \u00d7 -2",
+      "answer": 14,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 188,
+      "question": "12 \u00d7 -3 \u00f7 4",
+      "answer": -9,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 189,
+      "question": "-36 \u00f7 -9 \u00d7 5",
+      "answer": 20,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 190,
+      "question": "18 \u00d7 -2 \u00f7 -3",
+      "answer": 12,
+      "sectionId": 10,
+      "sectionTitle": "Mixed Multiplication and Division"
+    },
+    {
+      "id": 191,
+      "question": "-5 + 8 - 2",
+      "answer": 1,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 192,
+      "question": "10 - (-3) + 4",
+      "answer": 17,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 193,
+      "question": "-7 + 12 - (-5)",
+      "answer": 10,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 194,
+      "question": "6 + (-9) - 3",
+      "answer": -6,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 195,
+      "question": "-4 - (-6) + 2",
+      "answer": 4,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 196,
+      "question": "-3 \u00d7 4 + 8",
+      "answer": -4,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 197,
+      "question": "5 \u00d7 -2 + 15",
+      "answer": 5,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 198,
+      "question": "-6 \u00d7 -3 - 10",
+      "answer": 8,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 199,
+      "question": "8 + 4 \u00d7 -2",
+      "answer": 0,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 200,
+      "question": "-10 + 6 \u00d7 -3",
+      "answer": -28,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 201,
+      "question": "12 \u00f7 -3 + 6",
+      "answer": 2,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 202,
+      "question": "-20 \u00f7 4 - 3",
+      "answer": -8,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 203,
+      "question": "18 \u00f7 -6 + 9",
+      "answer": 6,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 204,
+      "question": "-24 \u00f7 -8 + 5",
+      "answer": 8,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 205,
+      "question": "15 + 10 \u00f7 -2",
+      "answer": 10,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 206,
+      "question": "-4 \u00d7 3 - (-8)",
+      "answer": -4,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 207,
+      "question": "7 - 2 \u00d7 -4",
+      "answer": 15,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 208,
+      "question": "-9 + (-18) \u00f7 6",
+      "answer": -12,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 209,
+      "question": "5 \u00d7 -3 + (-12)",
+      "answer": -27,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 210,
+      "question": "-16 \u00f7 4 - (-7)",
+      "answer": 3,
+      "sectionId": 11,
+      "sectionTitle": "Four Operations Combined - Easy"
+    },
+    {
+      "id": 211,
+      "question": "-5 + 3 \u00d7 -2 + 8",
+      "answer": -3,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 212,
+      "question": "10 - 4 \u00d7 -2 - 3",
+      "answer": 15,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 213,
+      "question": "-8 + 12 \u00f7 -3 + 6",
+      "answer": -6,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 214,
+      "question": "15 - (-18) \u00f7 6 + 4",
+      "answer": 22,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 215,
+      "question": "-6 \u00d7 2 + 9 - (-5)",
+      "answer": 2,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 216,
+      "question": "20 \u00f7 -4 + 3 \u00d7 -2",
+      "answer": -11,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 217,
+      "question": "-14 + 7 \u00d7 -2 - 4",
+      "answer": -32,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 218,
+      "question": "9 - 15 \u00f7 -5 + (-6)",
+      "answer": 6,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 219,
+      "question": "-4 \u00d7 -3 + 8 \u00f7 -2",
+      "answer": 8,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 220,
+      "question": "12 + (-24) \u00f7 6 - 5",
+      "answer": 3,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 221,
+      "question": "-7 \u00d7 2 + 18 \u00f7 -3",
+      "answer": -20,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 222,
+      "question": "16 - 8 \u00d7 -2 + (-10)",
+      "answer": 22,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 223,
+      "question": "-9 + 27 \u00f7 -9 + 12",
+      "answer": 0,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 224,
+      "question": "5 \u00d7 -4 - 15 \u00f7 -5",
+      "answer": -17,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 225,
+      "question": "-11 + 6 \u00d7 -2 - (-9)",
+      "answer": -14,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 226,
+      "question": "18 \u00f7 -6 + 4 \u00d7 -3",
+      "answer": -15,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 227,
+      "question": "-8 \u00d7 3 + 36 \u00f7 -4",
+      "answer": -33,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 228,
+      "question": "14 - (-21) \u00f7 7 + 6",
+      "answer": 23,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 229,
+      "question": "-10 + 5 \u00d7 -3 - 8",
+      "answer": -33,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 230,
+      "question": "25 \u00f7 -5 - 6 \u00d7 -2",
+      "answer": 7,
+      "sectionId": 12,
+      "sectionTitle": "Four Operations Combined - Medium"
+    },
+    {
+      "id": 231,
+      "question": "-3 \u00d7 (4 + -6)",
+      "answer": 6,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 232,
+      "question": "(8 - 12) \u00d7 -5",
+      "answer": 20,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 233,
+      "question": "-6 + (10 - -4)",
+      "answer": 8,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 234,
+      "question": "(15 + -9) \u00f7 -2",
+      "answer": -3,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 235,
+      "question": "-8 \u00d7 (7 - 12)",
+      "answer": 40,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 236,
+      "question": "(-5 + -3) \u00d7 4",
+      "answer": -32,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 237,
+      "question": "(20 - 8) \u00f7 -4",
+      "answer": -3,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 238,
+      "question": "-7 \u00d7 (-2 + -5)",
+      "answer": 49,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 239,
+      "question": "(-18 + 6) \u00f7 -3",
+      "answer": 4,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 240,
+      "question": "(9 - -6) \u00d7 -2",
+      "answer": -30,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 241,
+      "question": "-4 \u00d7 (8 - -2)",
+      "answer": -40,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 242,
+      "question": "(14 + -20) \u00f7 -2",
+      "answer": 3,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 243,
+      "question": "-9 + (15 \u00d7 -2)",
+      "answer": -39,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 244,
+      "question": "(24 \u00f7 -6) + 10",
+      "answer": 6,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 245,
+      "question": "-6 \u00d7 (5 - -3)",
+      "answer": -48,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 246,
+      "question": "(-12 - 8) \u00d7 -2",
+      "answer": 40,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 247,
+      "question": "(30 - -10) \u00f7 -5",
+      "answer": -8,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 248,
+      "question": "-5 \u00d7 (-7 - -4)",
+      "answer": 15,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 249,
+      "question": "(-28 \u00f7 4) + -3",
+      "answer": -10,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 250,
+      "question": "(11 - -9) \u00d7 -3",
+      "answer": -60,
+      "sectionId": 13,
+      "sectionTitle": "Complex Mixed Operations"
+    },
+    {
+      "id": 251,
+      "question": "(-5 + 3) \u00d7 (8 - 12)",
+      "answer": 8,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 252,
+      "question": "(10 - -4) \u00f7 (6 + -13)",
+      "answer": -2,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 253,
+      "question": "(-8 \u00d7 2) + (15 \u00f7 -3)",
+      "answer": -21,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 254,
+      "question": "(20 \u00f7 -5) - (6 \u00d7 -3)",
+      "answer": 14,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 255,
+      "question": "(-7 - -11) \u00d7 (9 - 15)",
+      "answer": -24,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 256,
+      "question": "(18 + -6) \u00f7 (4 - -2)",
+      "answer": 2,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 257,
+      "question": "(-9 \u00d7 -2) + (24 \u00f7 -8)",
+      "answer": 15,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 258,
+      "question": "(14 - 20) \u00d7 (-3 + 8)",
+      "answer": -30,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 259,
+      "question": "(-16 \u00f7 4) - (-12 \u00f7 -3)",
+      "answer": -8,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 260,
+      "question": "(7 + -15) \u00d7 (10 \u00f7 -2)",
+      "answer": 40,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 261,
+      "question": "(-5 \u00d7 4) + (-20 \u00f7 -4)",
+      "answer": -15,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 262,
+      "question": "(22 - -8) \u00f7 (6 - 12)",
+      "answer": -5,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 263,
+      "question": "(-11 + 6) \u00d7 (18 \u00f7 -6)",
+      "answer": 15,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 264,
+      "question": "(30 \u00f7 -6) + (8 \u00d7 -2)",
+      "answer": -21,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 265,
+      "question": "(-9 - 7) \u00d7 (-4 + 10)",
+      "answer": -96,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 266,
+      "question": "(25 + -15) \u00f7 (3 - -2)",
+      "answer": 2,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 267,
+      "question": "(-6 \u00d7 -3) - (28 \u00f7 -7)",
+      "answer": 22,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 268,
+      "question": "(12 - -4) \u00d7 (-8 \u00f7 4)",
+      "answer": -32,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 269,
+      "question": "(-35 \u00f7 7) + (-6 \u00d7 -4)",
+      "answer": 19,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 270,
+      "question": "(9 + -21) \u00f7 (5 - 11)",
+      "answer": 2,
+      "sectionId": 14,
+      "sectionTitle": "Advanced Brackets and Operations"
+    },
+    {
+      "id": 271,
+      "question": "-3 \u00d7 (8 - -2) + 15 \u00f7 -5",
+      "answer": -33,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 272,
+      "question": "(12 + -6) \u00d7 -4 - 18 \u00f7 -3",
+      "answer": -18,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 273,
+      "question": "-7 + (16 \u00f7 -4) \u00d7 (9 - 15)",
+      "answer": 17,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 274,
+      "question": "(20 - -8) \u00f7 -7 + 5 \u00d7 -3",
+      "answer": -19,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 275,
+      "question": "-9 \u00d7 (-4 + 10) - 24 \u00f7 -6",
+      "answer": -50,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 276,
+      "question": "(30 \u00f7 -6) \u00d7 (7 - -3) + 12",
+      "answer": -38,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 277,
+      "question": "-8 + (14 \u00d7 -2) \u00f7 (11 - 18)",
+      "answer": -4,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 278,
+      "question": "(25 - 10) \u00d7 -2 + 36 \u00f7 -9",
+      "answer": -34,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 279,
+      "question": "-6 \u00d7 (9 - -3) + (40 \u00f7 -8)",
+      "answer": -77,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 280,
+      "question": "(18 + -12) \u00f7 -2 \u00d7 (8 - 14)",
+      "answer": 18,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 281,
+      "question": "-5 + (21 \u00f7 -7) \u00d7 (-6 + 12)",
+      "answer": -23,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 282,
+      "question": "(32 - -8) \u00f7 -5 + 7 \u00d7 -4",
+      "answer": -36,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 283,
+      "question": "-10 \u00d7 (6 - -2) - 45 \u00f7 -9",
+      "answer": -75,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 284,
+      "question": "(27 + -15) \u00d7 -3 + 48 \u00f7 -6",
+      "answer": -44,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 285,
+      "question": "-4 + (35 \u00f7 -7) \u00d7 (10 - 16)",
+      "answer": 26,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 286,
+      "question": "(42 - 18) \u00f7 -6 + 9 \u00d7 -3",
+      "answer": -31,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 287,
+      "question": "-12 \u00d7 (-5 + 8) - 56 \u00f7 -8",
+      "answer": -29,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 288,
+      "question": "(50 + -20) \u00f7 -5 \u00d7 (4 - 10)",
+      "answer": 36,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 289,
+      "question": "-7 + (28 \u00d7 -2) \u00f7 (9 - 17)",
+      "answer": 0,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 290,
+      "question": "(36 - -12) \u00f7 -8 + 15 \u00d7 -2",
+      "answer": -36,
+      "sectionId": 15,
+      "sectionTitle": "Expert Level Challenges"
+    },
+    {
+      "id": 291,
+      "question": "-8 + 15 - (-6)",
+      "answer": 13,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 292,
+      "question": "7 \u00d7 -4 + 20",
+      "answer": -8,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 293,
+      "question": "-24 \u00f7 6 - (-5)",
+      "answer": 1,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 294,
+      "question": "(-9 + 3) \u00d7 -6",
+      "answer": 36,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 295,
+      "question": "18 - 12 \u00f7 -3",
+      "answer": 22,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 296,
+      "question": "-5 \u00d7 (8 - -4)",
+      "answer": -60,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 297,
+      "question": "(20 + -8) \u00f7 -4 + 7",
+      "answer": 4,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 298,
+      "question": "-10 + 6 \u00d7 -2 - (-9)",
+      "answer": -13,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 299,
+      "question": "(-16 \u00f7 -4) \u00d7 (7 - 12)",
+      "answer": -20,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 300,
+      "question": "15 - (-3 \u00d7 8) + 10 \u00f7 -2",
+      "answer": 34,
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    }
+  ]
+}

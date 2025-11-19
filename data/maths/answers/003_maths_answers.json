@@ -1,0 +1,2109 @@
+{
+  "lessonId": 3,
+  "lessonNumber": "003",
+  "lessonTitle": "Fractions - Addition & Subtraction",
+  "totalQuestions": 300,
+  "note": "All answers are in simplified form. Remember to find common denominators when adding/subtracting fractions with different denominators.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "What is 1/2 + 1/2?",
+      "answer": "1",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 2,
+      "question": "What is 1/4 + 1/4?",
+      "answer": "1/2",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 3,
+      "question": "What is 1/3 + 1/3?",
+      "answer": "2/3",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 4,
+      "question": "What is 2/5 + 1/5?",
+      "answer": "3/5",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 5,
+      "question": "What is 3/8 + 2/8?",
+      "answer": "5/8",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 6,
+      "question": "What is 4/7 + 2/7?",
+      "answer": "6/7",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 7,
+      "question": "What is 2/9 + 3/9?",
+      "answer": "5/9",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 8,
+      "question": "What is 5/12 + 3/12?",
+      "answer": "2/3",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 9,
+      "question": "What is 1/6 + 2/6?",
+      "answer": "1/2",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 10,
+      "question": "What is 3/10 + 4/10?",
+      "answer": "7/10",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Identifying Fractions"
+    },
+    {
+      "id": 11,
+      "question": "1/5 + 2/5",
+      "answer": "3/5",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 12,
+      "question": "2/7 + 3/7",
+      "answer": "5/7",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 13,
+      "question": "3/8 + 4/8",
+      "answer": "7/8",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 14,
+      "question": "1/6 + 4/6",
+      "answer": "5/6",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 15,
+      "question": "2/9 + 5/9",
+      "answer": "7/9",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 16,
+      "question": "4/11 + 5/11",
+      "answer": "9/11",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 17,
+      "question": "3/10 + 6/10",
+      "answer": "9/10",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 18,
+      "question": "5/12 + 4/12",
+      "answer": "3/4",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 19,
+      "question": "2/13 + 7/13",
+      "answer": "9/13",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 20,
+      "question": "6/15 + 8/15",
+      "answer": "14/15",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 21,
+      "question": "1/4 + 2/4",
+      "answer": "3/4",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 22,
+      "question": "3/5 + 1/5",
+      "answer": "4/5",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 23,
+      "question": "5/9 + 3/9",
+      "answer": "8/9",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 24,
+      "question": "7/12 + 2/12",
+      "answer": "3/4",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 25,
+      "question": "4/10 + 5/10",
+      "answer": "9/10",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 26,
+      "question": "2/8 + 5/8",
+      "answer": "7/8",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 27,
+      "question": "6/11 + 3/11",
+      "answer": "9/11",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 28,
+      "question": "1/7 + 5/7",
+      "answer": "6/7",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 29,
+      "question": "8/15 + 4/15",
+      "answer": "4/5",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 30,
+      "question": "3/14 + 9/14",
+      "answer": "6/7",
+      "sectionId": 2,
+      "sectionTitle": "Adding Fractions - Same Denominator"
+    },
+    {
+      "id": 31,
+      "question": "3/5 - 1/5",
+      "answer": "2/5",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 32,
+      "question": "5/7 - 2/7",
+      "answer": "3/7",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 33,
+      "question": "7/8 - 3/8",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 34,
+      "question": "5/6 - 2/6",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 35,
+      "question": "8/9 - 3/9",
+      "answer": "5/9",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 36,
+      "question": "9/11 - 4/11",
+      "answer": "5/11",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 37,
+      "question": "7/10 - 3/10",
+      "answer": "2/5",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 38,
+      "question": "10/12 - 5/12",
+      "answer": "5/12",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 39,
+      "question": "11/13 - 6/13",
+      "answer": "5/13",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 40,
+      "question": "14/15 - 7/15",
+      "answer": "7/15",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 41,
+      "question": "3/4 - 1/4",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 42,
+      "question": "4/5 - 2/5",
+      "answer": "2/5",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 43,
+      "question": "8/9 - 5/9",
+      "answer": "1/3",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 44,
+      "question": "9/12 - 4/12",
+      "answer": "5/12",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 45,
+      "question": "9/10 - 4/10",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 46,
+      "question": "7/8 - 3/8",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 47,
+      "question": "10/11 - 6/11",
+      "answer": "4/11",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 48,
+      "question": "6/7 - 3/7",
+      "answer": "3/7",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 49,
+      "question": "13/15 - 8/15",
+      "answer": "1/3",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 50,
+      "question": "12/14 - 5/14",
+      "answer": "1/2",
+      "sectionId": 3,
+      "sectionTitle": "Subtracting Fractions - Same Denominator"
+    },
+    {
+      "id": 51,
+      "question": "Simplify: 2/4",
+      "answer": "1/2",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 52,
+      "question": "Simplify: 3/6",
+      "answer": "1/2",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 53,
+      "question": "Simplify: 4/8",
+      "answer": "1/2",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 54,
+      "question": "Simplify: 5/10",
+      "answer": "1/2",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 55,
+      "question": "Simplify: 6/12",
+      "answer": "1/2",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 56,
+      "question": "Simplify: 2/6",
+      "answer": "1/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 57,
+      "question": "Simplify: 4/6",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 58,
+      "question": "Simplify: 6/9",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 59,
+      "question": "Simplify: 8/12",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 60,
+      "question": "Simplify: 10/15",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 61,
+      "question": "Simplify: 4/10",
+      "answer": "2/5",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 62,
+      "question": "Simplify: 6/8",
+      "answer": "3/4",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 63,
+      "question": "Simplify: 9/12",
+      "answer": "3/4",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 64,
+      "question": "Simplify: 10/12",
+      "answer": "5/6",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 65,
+      "question": "Simplify: 8/10",
+      "answer": "4/5",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 66,
+      "question": "Simplify: 12/16",
+      "answer": "3/4",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 67,
+      "question": "Simplify: 15/20",
+      "answer": "3/4",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 68,
+      "question": "Simplify: 14/21",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 69,
+      "question": "Simplify: 16/24",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 70,
+      "question": "Simplify: 18/27",
+      "answer": "2/3",
+      "sectionId": 4,
+      "sectionTitle": "Simplifying Fractions"
+    },
+    {
+      "id": 71,
+      "question": "1/6 + 1/6 (simplify)",
+      "answer": "1/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 72,
+      "question": "2/8 + 2/8 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 73,
+      "question": "3/12 + 3/12 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 74,
+      "question": "2/10 + 3/10 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 75,
+      "question": "4/12 + 2/12 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 76,
+      "question": "3/9 + 3/9 (simplify)",
+      "answer": "2/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 77,
+      "question": "4/16 + 4/16 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 78,
+      "question": "5/15 + 5/15 (simplify)",
+      "answer": "2/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 79,
+      "question": "6/18 + 6/18 (simplify)",
+      "answer": "2/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 80,
+      "question": "4/14 + 3/14 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 81,
+      "question": "2/6 + 1/6 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 82,
+      "question": "3/10 + 2/10 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 83,
+      "question": "5/12 + 1/12 (simplify)",
+      "answer": "1/2",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 84,
+      "question": "6/15 + 4/15 (simplify)",
+      "answer": "2/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 85,
+      "question": "4/8 + 2/8 (simplify)",
+      "answer": "3/4",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 86,
+      "question": "6/9 + 2/9 (simplify)",
+      "answer": "8/9",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 87,
+      "question": "8/16 + 4/16 (simplify)",
+      "answer": "3/4",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 88,
+      "question": "10/20 + 5/20 (simplify)",
+      "answer": "3/4",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 89,
+      "question": "9/18 + 3/18 (simplify)",
+      "answer": "2/3",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 90,
+      "question": "12/24 + 6/24 (simplify)",
+      "answer": "3/4",
+      "sectionId": 5,
+      "sectionTitle": "Adding with Simplifying"
+    },
+    {
+      "id": 91,
+      "question": "3/6 - 1/6 (simplify)",
+      "answer": "1/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 92,
+      "question": "6/8 - 2/8 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 93,
+      "question": "8/12 - 2/12 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 94,
+      "question": "6/10 - 2/10 (simplify)",
+      "answer": "2/5",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 95,
+      "question": "8/12 - 4/12 (simplify)",
+      "answer": "1/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 96,
+      "question": "6/9 - 3/9 (simplify)",
+      "answer": "1/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 97,
+      "question": "12/16 - 4/16 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 98,
+      "question": "10/15 - 5/15 (simplify)",
+      "answer": "1/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 99,
+      "question": "12/18 - 6/18 (simplify)",
+      "answer": "1/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 100,
+      "question": "10/14 - 3/14 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 101,
+      "question": "4/6 - 1/6 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 102,
+      "question": "8/10 - 3/10 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 103,
+      "question": "10/12 - 4/12 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 104,
+      "question": "12/15 - 3/15 (simplify)",
+      "answer": "3/5",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 105,
+      "question": "6/8 - 2/8 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 106,
+      "question": "8/9 - 2/9 (simplify)",
+      "answer": "2/3",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 107,
+      "question": "14/16 - 6/16 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 108,
+      "question": "15/20 - 5/20 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 109,
+      "question": "15/18 - 6/18 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 110,
+      "question": "18/24 - 6/24 (simplify)",
+      "answer": "1/2",
+      "sectionId": 6,
+      "sectionTitle": "Subtracting with Simplifying"
+    },
+    {
+      "id": 111,
+      "question": "1/2 + 1/4",
+      "answer": "3/4",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 112,
+      "question": "1/3 + 1/6",
+      "answer": "1/2",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 113,
+      "question": "1/4 + 1/8",
+      "answer": "3/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 114,
+      "question": "1/5 + 1/10",
+      "answer": "3/10",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 115,
+      "question": "2/3 + 1/6",
+      "answer": "5/6",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 116,
+      "question": "1/2 + 1/8",
+      "answer": "5/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 117,
+      "question": "3/4 + 1/8",
+      "answer": "7/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 118,
+      "question": "2/5 + 1/10",
+      "answer": "1/2",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 119,
+      "question": "1/3 + 2/6",
+      "answer": "2/3",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 120,
+      "question": "3/4 + 1/2",
+      "answer": "5/4",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 121,
+      "question": "1/2 - 1/4",
+      "answer": "1/4",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 122,
+      "question": "1/3 - 1/6",
+      "answer": "1/6",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 123,
+      "question": "3/4 - 1/8",
+      "answer": "5/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 124,
+      "question": "4/5 - 1/10",
+      "answer": "7/10",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 125,
+      "question": "2/3 - 1/6",
+      "answer": "1/2",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 126,
+      "question": "5/8 - 1/4",
+      "answer": "3/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 127,
+      "question": "7/10 - 1/5",
+      "answer": "1/2",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 128,
+      "question": "5/6 - 1/3",
+      "answer": "1/2",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 129,
+      "question": "3/4 - 1/2",
+      "answer": "1/4",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 130,
+      "question": "7/8 - 1/2",
+      "answer": "3/8",
+      "sectionId": 7,
+      "sectionTitle": "Finding Common Denominators - Easy"
+    },
+    {
+      "id": 131,
+      "question": "1/2 + 1/3",
+      "answer": "5/6",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 132,
+      "question": "1/4 + 1/3",
+      "answer": "7/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 133,
+      "question": "1/2 + 1/5",
+      "answer": "7/10",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 134,
+      "question": "1/3 + 1/4",
+      "answer": "7/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 135,
+      "question": "2/3 + 1/4",
+      "answer": "11/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 136,
+      "question": "1/2 + 2/5",
+      "answer": "9/10",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 137,
+      "question": "1/4 + 1/5",
+      "answer": "9/20",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 138,
+      "question": "2/3 + 1/5",
+      "answer": "13/15",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 139,
+      "question": "3/4 + 1/3",
+      "answer": "13/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 140,
+      "question": "1/2 + 1/6",
+      "answer": "2/3",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 141,
+      "question": "1/3 + 1/5",
+      "answer": "8/15",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 142,
+      "question": "2/5 + 1/3",
+      "answer": "11/15",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 143,
+      "question": "3/5 + 1/4",
+      "answer": "17/20",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 144,
+      "question": "1/6 + 1/4",
+      "answer": "5/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 145,
+      "question": "2/3 + 1/6",
+      "answer": "5/6",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 146,
+      "question": "3/4 + 1/6",
+      "answer": "11/12",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 147,
+      "question": "1/2 + 3/8",
+      "answer": "7/8",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 148,
+      "question": "2/5 + 1/4",
+      "answer": "13/20",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 149,
+      "question": "1/3 + 2/5",
+      "answer": "11/15",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 150,
+      "question": "3/8 + 1/4",
+      "answer": "5/8",
+      "sectionId": 8,
+      "sectionTitle": "Adding Different Denominators"
+    },
+    {
+      "id": 151,
+      "question": "1/2 - 1/3",
+      "answer": "1/6",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 152,
+      "question": "1/2 - 1/4",
+      "answer": "1/4",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 153,
+      "question": "1/2 - 1/5",
+      "answer": "3/10",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 154,
+      "question": "2/3 - 1/4",
+      "answer": "5/12",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 155,
+      "question": "3/4 - 1/3",
+      "answer": "5/12",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 156,
+      "question": "4/5 - 1/2",
+      "answer": "3/10",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 157,
+      "question": "2/3 - 1/5",
+      "answer": "7/15",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 158,
+      "question": "3/4 - 2/5",
+      "answer": "7/20",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 159,
+      "question": "5/6 - 1/4",
+      "answer": "7/12",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 160,
+      "question": "3/5 - 1/3",
+      "answer": "4/15",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 161,
+      "question": "5/6 - 1/3",
+      "answer": "1/2",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 162,
+      "question": "7/8 - 1/4",
+      "answer": "5/8",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 163,
+      "question": "4/5 - 1/4",
+      "answer": "11/20",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 164,
+      "question": "5/6 - 2/3",
+      "answer": "1/6",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 165,
+      "question": "7/10 - 1/5",
+      "answer": "1/2",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 166,
+      "question": "3/4 - 1/6",
+      "answer": "7/12",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 167,
+      "question": "5/8 - 1/4",
+      "answer": "3/8",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 168,
+      "question": "2/3 - 2/5",
+      "answer": "4/15",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 169,
+      "question": "7/12 - 1/4",
+      "answer": "1/3",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 170,
+      "question": "4/5 - 2/3",
+      "answer": "2/15",
+      "sectionId": 9,
+      "sectionTitle": "Subtracting Different Denominators"
+    },
+    {
+      "id": 171,
+      "question": "1/5 + 2/5 - 1/5",
+      "answer": "2/5",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 172,
+      "question": "3/7 + 2/7 - 4/7",
+      "answer": "1/7",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 173,
+      "question": "4/9 - 1/9 + 3/9",
+      "answer": "2/3",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 174,
+      "question": "5/8 - 2/8 + 1/8",
+      "answer": "1/2",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 175,
+      "question": "2/6 + 3/6 - 2/6",
+      "answer": "1/2",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 176,
+      "question": "7/10 - 3/10 + 4/10",
+      "answer": "4/5",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 177,
+      "question": "6/11 + 2/11 - 5/11",
+      "answer": "3/11",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 178,
+      "question": "8/12 - 5/12 + 3/12",
+      "answer": "1/2",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 179,
+      "question": "5/9 + 3/9 - 4/9",
+      "answer": "4/9",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 180,
+      "question": "9/13 - 4/13 + 2/13",
+      "answer": "7/13",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 181,
+      "question": "3/8 + 4/8 - 5/8",
+      "answer": "1/4",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 182,
+      "question": "6/10 - 2/10 + 3/10",
+      "answer": "7/10",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 183,
+      "question": "7/12 + 3/12 - 6/12",
+      "answer": "1/3",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 184,
+      "question": "5/7 - 3/7 + 4/7",
+      "answer": "6/7",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 185,
+      "question": "8/15 + 4/15 - 7/15",
+      "answer": "1/3",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 186,
+      "question": "10/14 - 6/14 + 5/14",
+      "answer": "9/14",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 187,
+      "question": "4/6 + 1/6 - 3/6",
+      "answer": "1/3",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 188,
+      "question": "9/11 - 5/11 + 4/11",
+      "answer": "8/11",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 189,
+      "question": "11/16 + 3/16 - 8/16",
+      "answer": "3/8",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 190,
+      "question": "13/20 - 7/20 + 6/20",
+      "answer": "3/5",
+      "sectionId": 10,
+      "sectionTitle": "Mixed Operations - Same Denominator"
+    },
+    {
+      "id": 191,
+      "question": "1/2 + 1/3 + 1/6",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 192,
+      "question": "1/4 + 1/2 + 1/8",
+      "answer": "7/8",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 193,
+      "question": "1/3 + 1/6 + 1/2",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 194,
+      "question": "1/5 + 1/10 + 1/2",
+      "answer": "4/5",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 195,
+      "question": "2/3 + 1/4 + 1/6",
+      "answer": "13/12",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 196,
+      "question": "1/2 + 1/4 + 1/8",
+      "answer": "7/8",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 197,
+      "question": "1/3 + 1/4 + 1/12",
+      "answer": "2/3",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 198,
+      "question": "3/4 - 1/2 + 1/8",
+      "answer": "3/8",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 199,
+      "question": "2/3 - 1/6 + 1/2",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 200,
+      "question": "3/5 + 1/10 - 1/2",
+      "answer": "1/5",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 201,
+      "question": "1/2 + 1/3 - 1/6",
+      "answer": "2/3",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 202,
+      "question": "3/4 + 1/8 - 1/2",
+      "answer": "3/8",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 203,
+      "question": "2/5 + 1/10 + 1/2",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 204,
+      "question": "5/6 - 1/3 + 1/2",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 205,
+      "question": "1/4 + 1/3 + 1/6",
+      "answer": "3/4",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 206,
+      "question": "7/10 - 1/5 + 1/2",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 207,
+      "question": "2/3 + 1/6 - 1/2",
+      "answer": "1/3",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 208,
+      "question": "3/8 + 1/4 + 1/2",
+      "answer": "9/8",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 209,
+      "question": "5/12 + 1/4 + 1/3",
+      "answer": "1",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 210,
+      "question": "7/12 - 1/6 + 1/4",
+      "answer": "2/3",
+      "sectionId": 11,
+      "sectionTitle": "Three Fractions - Different Denominators"
+    },
+    {
+      "id": 211,
+      "question": "2/5 + 3/7",
+      "answer": "29/35",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 212,
+      "question": "3/8 + 2/5",
+      "answer": "31/40",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 213,
+      "question": "4/9 + 1/6",
+      "answer": "11/18",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 214,
+      "question": "3/7 + 2/9",
+      "answer": "41/63",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 215,
+      "question": "5/11 + 2/7",
+      "answer": "57/77",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 216,
+      "question": "4/9 + 3/8",
+      "answer": "59/72",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 217,
+      "question": "5/12 + 2/9",
+      "answer": "23/36",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 218,
+      "question": "3/10 + 4/15",
+      "answer": "17/30",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 219,
+      "question": "7/15 + 3/10",
+      "answer": "23/30",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 220,
+      "question": "5/14 + 3/10",
+      "answer": "23/35",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 221,
+      "question": "2/7 + 3/11",
+      "answer": "43/77",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 222,
+      "question": "5/13 + 2/9",
+      "answer": "71/117",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 223,
+      "question": "7/18 + 4/15",
+      "answer": "59/90",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 224,
+      "question": "5/16 + 3/14",
+      "answer": "59/112",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 225,
+      "question": "8/21 + 5/18",
+      "answer": "83/126",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 226,
+      "question": "7/20 + 4/15",
+      "answer": "37/60",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 227,
+      "question": "9/22 + 5/16",
+      "answer": "127/176",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 228,
+      "question": "6/19 + 7/24",
+      "answer": "277/456",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 229,
+      "question": "11/28 + 8/21",
+      "answer": "65/84",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 230,
+      "question": "9/25 + 7/20",
+      "answer": "71/100",
+      "sectionId": 12,
+      "sectionTitle": "Complex Addition"
+    },
+    {
+      "id": 231,
+      "question": "3/5 - 2/7",
+      "answer": "11/35",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 232,
+      "question": "5/8 - 2/5",
+      "answer": "9/40",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 233,
+      "question": "5/9 - 1/6",
+      "answer": "7/18",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 234,
+      "question": "4/7 - 2/9",
+      "answer": "22/63",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 235,
+      "question": "7/11 - 3/7",
+      "answer": "16/77",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 236,
+      "question": "7/9 - 3/8",
+      "answer": "29/72",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 237,
+      "question": "8/12 - 4/9 (simplify)",
+      "answer": "2/9",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 238,
+      "question": "7/10 - 4/15",
+      "answer": "13/30",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 239,
+      "question": "11/15 - 3/10",
+      "answer": "13/30",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 240,
+      "question": "9/14 - 3/10",
+      "answer": "12/35",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 241,
+      "question": "5/7 - 3/11",
+      "answer": "34/77",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 242,
+      "question": "8/13 - 2/9",
+      "answer": "46/117",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 243,
+      "question": "11/18 - 4/15",
+      "answer": "31/90",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 244,
+      "question": "9/16 - 3/14",
+      "answer": "39/112",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 245,
+      "question": "13/21 - 5/18",
+      "answer": "43/126",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 246,
+      "question": "11/20 - 4/15",
+      "answer": "17/60",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 247,
+      "question": "13/22 - 5/16",
+      "answer": "49/176",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 248,
+      "question": "10/19 - 7/24",
+      "answer": "107/456",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 249,
+      "question": "15/28 - 8/21",
+      "answer": "13/84",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 250,
+      "question": "14/25 - 7/20",
+      "answer": "21/100",
+      "sectionId": 13,
+      "sectionTitle": "Complex Subtraction"
+    },
+    {
+      "id": 251,
+      "question": "2/3 + 3/5 - 1/4",
+      "answer": "61/60",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 252,
+      "question": "5/6 - 1/4 + 2/9",
+      "answer": "29/36",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 253,
+      "question": "3/7 + 4/9 - 1/3",
+      "answer": "34/63",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 254,
+      "question": "7/10 - 2/5 + 3/8",
+      "answer": "27/40",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 255,
+      "question": "4/9 + 5/12 - 1/6",
+      "answer": "25/36",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 256,
+      "question": "5/8 - 3/10 + 1/4",
+      "answer": "23/40",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 257,
+      "question": "2/5 + 4/7 - 3/10",
+      "answer": "47/70",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 258,
+      "question": "7/12 + 2/9 - 1/6",
+      "answer": "23/36",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 259,
+      "question": "3/8 + 5/12 - 1/4",
+      "answer": "13/24",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 260,
+      "question": "5/9 - 1/6 + 3/8",
+      "answer": "55/72",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 261,
+      "question": "4/7 + 3/10 - 2/5",
+      "answer": "33/70",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 262,
+      "question": "7/15 - 1/5 + 2/9",
+      "answer": "22/45",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 263,
+      "question": "5/12 + 7/18 - 1/9",
+      "answer": "25/36",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 264,
+      "question": "8/15 - 3/10 + 1/6",
+      "answer": "2/5",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 265,
+      "question": "3/10 + 5/14 - 2/7",
+      "answer": "13/35",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 266,
+      "question": "9/16 - 3/8 + 1/12",
+      "answer": "13/48",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 267,
+      "question": "4/11 + 5/18 - 1/9",
+      "answer": "35/66",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 268,
+      "question": "7/20 + 3/16 - 1/8",
+      "answer": "33/80",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 269,
+      "question": "5/13 - 2/9 + 4/15",
+      "answer": "251/585",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 270,
+      "question": "11/24 + 5/18 - 1/12",
+      "answer": "47/72",
+      "sectionId": 14,
+      "sectionTitle": "Mixed Complex Operations"
+    },
+    {
+      "id": 271,
+      "question": "(1/2 + 1/3) - 1/4",
+      "answer": "7/12",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 272,
+      "question": "(3/4 - 1/6) + 1/3",
+      "answer": "11/12",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 273,
+      "question": "2/5 + (1/2 - 1/3)",
+      "answer": "17/30",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 274,
+      "question": "(3/5 + 1/4) - 2/3",
+      "answer": "11/60",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 275,
+      "question": "5/6 - (1/2 + 1/4)",
+      "answer": "1/12",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 276,
+      "question": "(2/3 + 1/6) - 1/2",
+      "answer": "1/3",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 277,
+      "question": "3/4 - (1/3 - 1/6)",
+      "answer": "7/12",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 278,
+      "question": "(4/5 - 1/10) + 1/4",
+      "answer": "19/20",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 279,
+      "question": "7/12 + (1/3 - 1/4)",
+      "answer": "2/3",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 280,
+      "question": "(5/8 + 1/4) - 1/3",
+      "answer": "13/24",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 281,
+      "question": "2/3 + 1/4 + 1/5",
+      "answer": "67/60",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 282,
+      "question": "3/5 - 1/6 + 2/9",
+      "answer": "59/90",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 283,
+      "question": "5/12 + 3/8 - 1/6",
+      "answer": "5/8",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 284,
+      "question": "7/10 - 2/15 + 1/6",
+      "answer": "11/15",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 285,
+      "question": "4/9 + 5/18 - 1/12",
+      "answer": "23/36",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 286,
+      "question": "11/20 - 3/10 + 1/8",
+      "answer": "3/8",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 287,
+      "question": "5/14 + 3/7 - 2/21",
+      "answer": "29/42",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 288,
+      "question": "8/15 - 2/9 + 1/5",
+      "answer": "23/45",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 289,
+      "question": "7/16 + 5/12 - 3/8",
+      "answer": "23/48",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 290,
+      "question": "9/20 - 1/8 + 3/10",
+      "answer": "5/8",
+      "sectionId": 15,
+      "sectionTitle": "Advanced Challenges"
+    },
+    {
+      "id": 291,
+      "question": "1/2 + 1/4 (simplify)",
+      "answer": "3/4",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 292,
+      "question": "3/5 - 1/10 (simplify)",
+      "answer": "1/2",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 293,
+      "question": "2/3 + 1/6",
+      "answer": "5/6",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 294,
+      "question": "3/4 - 1/3",
+      "answer": "5/12",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 295,
+      "question": "1/2 + 1/3 + 1/6",
+      "answer": "1",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 296,
+      "question": "5/8 - 1/4 (simplify)",
+      "answer": "3/8",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 297,
+      "question": "2/5 + 3/10 (simplify)",
+      "answer": "7/10",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 298,
+      "question": "7/12 - 1/4",
+      "answer": "1/3",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 299,
+      "question": "(2/3 + 1/6) - 1/2",
+      "answer": "1/3",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    },
+    {
+      "id": 300,
+      "question": "3/8 + 1/4 + 1/2",
+      "answer": "9/8",
+      "sectionId": 16,
+      "sectionTitle": "Final Challenge - Mixed Review"
+    }
+  ]
+}

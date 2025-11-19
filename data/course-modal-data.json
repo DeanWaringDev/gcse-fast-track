@@ -1,0 +1,200 @@
+{
+  "maths": {
+    "slug": "maths",
+    "categories": [
+      {
+        "name": "Shape",
+        "emoji": "📐",
+        "lessonCount": 26,
+        "freeLessons": 6,
+        "topics": "Angles, Polygons, Area, Volume, Perimeter, Pythagoras, Trigonometry, Circle Theorems",
+        "color": "blue"
+      },
+      {
+        "name": "Algebra",
+        "emoji": "🔢",
+        "lessonCount": 23,
+        "freeLessons": 7,
+        "topics": "Basics, Simplifying, Equations, Graphs, Sequences, Quadratics, Inequalities",
+        "color": "purple"
+      },
+      {
+        "name": "Number",
+        "emoji": "🔢",
+        "lessonCount": 19,
+        "freeLessons": 8,
+        "topics": "BIDMAS, Negatives, Fractions, Decimals, Percentages, Powers, Standard Form",
+        "color": "green"
+      },
+      {
+        "name": "Data",
+        "emoji": "📊",
+        "lessonCount": 9,
+        "freeLessons": 3,
+        "topics": "Averages, Charts, Scatter Graphs, Cumulative Frequency, Box Plots",
+        "color": "orange"
+      },
+      {
+        "name": "Exam Practice",
+        "emoji": "📝",
+        "lessonCount": 6,
+        "freeLessons": 0,
+        "topics": "Foundation & Higher Mock Exams, Final Confidence Check",
+        "color": "indigo"
+      },
+      {
+        "name": "Mixed Practice",
+        "emoji": "🔄",
+        "lessonCount": 5,
+        "freeLessons": 0,
+        "topics": "Cross-topic integration and exam-style questions",
+        "color": "cyan"
+      },
+      {
+        "name": "Probability",
+        "emoji": "🎲",
+        "lessonCount": 5,
+        "freeLessons": 1,
+        "topics": "Basic Probability, Tree Diagrams, Venn Diagrams, Conditional Probability",
+        "color": "red"
+      },
+      {
+        "name": "Problem Solving",
+        "emoji": "💡",
+        "lessonCount": 4,
+        "freeLessons": 0,
+        "topics": "Units, Time, Money, Multi-step Problems",
+        "color": "pink"
+      },
+      {
+        "name": "Speed Challenge",
+        "emoji": "📌",
+        "lessonCount": 3,
+        "freeLessons": 0,
+        "topics": "Quick-fire fluency practice",
+        "color": "gray"
+      }
+    ],
+    "foundation": "Essential content for grades 1-5",
+    "higher": "Advanced topics for grades 6-9"
+  },
+  "computerscience": {
+    "slug": "computerscience",
+    "categories": [
+      {
+        "name": "Data Representation",
+        "emoji": "💾",
+        "lessonCount": 7,
+        "freeLessons": 7,
+        "topics": "Binary, Hexadecimal, ASCII/Unicode, Images, Sound, Compression",
+        "color": "blue"
+      },
+      {
+        "name": "Computer Systems",
+        "emoji": "🖥️",
+        "lessonCount": 5,
+        "freeLessons": 5,
+        "topics": "CPU, Fetch-Execute Cycle, RAM/ROM, Storage",
+        "color": "purple"
+      },
+      {
+        "name": "Algorithms",
+        "emoji": "🔄",
+        "lessonCount": 8,
+        "freeLessons": 7,
+        "topics": "Flowcharts, Pseudocode, Searching, Sorting",
+        "color": "green"
+      },
+      {
+        "name": "Programming",
+        "emoji": "💻",
+        "lessonCount": 24,
+        "freeLessons": 6,
+        "topics": "Python Basics, Variables, Selection, Iteration, Lists, Functions, File Handling, Projects",
+        "color": "cyan"
+      },
+      {
+        "name": "Databases",
+        "emoji": "🗄️",
+        "lessonCount": 6,
+        "freeLessons": 0,
+        "topics": "Database Concepts, SQL SELECT/INSERT/UPDATE/DELETE, JOINs",
+        "color": "orange"
+      },
+      {
+        "name": "Networks",
+        "emoji": "🌐",
+        "lessonCount": 7,
+        "freeLessons": 0,
+        "topics": "LAN/WAN, Hardware, Topologies, Protocols, IP, Internet",
+        "color": "indigo"
+      },
+      {
+        "name": "Cyber Security",
+        "emoji": "🔒",
+        "lessonCount": 3,
+        "freeLessons": 0,
+        "topics": "Threats, Prevention, Encryption",
+        "color": "red"
+      },
+      {
+        "name": "Software",
+        "emoji": "⚙️",
+        "lessonCount": 4,
+        "freeLessons": 0,
+        "topics": "Operating Systems, Memory Management, Utilities",
+        "color": "pink"
+      },
+      {
+        "name": "Ethics and Law",
+        "emoji": "⚖️",
+        "lessonCount": 4,
+        "freeLessons": 0,
+        "topics": "GDPR, Computer Misuse Act, Copyright, Environmental Impact",
+        "color": "yellow"
+      },
+      {
+        "name": "Boolean Logic",
+        "emoji": "🔌",
+        "lessonCount": 3,
+        "freeLessons": 0,
+        "topics": "Logic Gates, Truth Tables, Circuits",
+        "color": "lime"
+      },
+      {
+        "name": "Data Structures",
+        "emoji": "📚",
+        "lessonCount": 3,
+        "freeLessons": 0,
+        "topics": "Stacks, Queues, Binary Trees",
+        "color": "teal"
+      },
+      {
+        "name": "Emerging Technologies",
+        "emoji": "🚀",
+        "lessonCount": 3,
+        "freeLessons": 0,
+        "topics": "AI/ML, Robotics, Cloud Computing",
+        "color": "violet"
+      },
+      {
+        "name": "Revision",
+        "emoji": "📖",
+        "lessonCount": 14,
+        "freeLessons": 0,
+        "topics": "Topic-specific revision sessions",
+        "color": "gray"
+      },
+      {
+        "name": "Exam Preparation",
+        "emoji": "📌",
+        "lessonCount": 9,
+        "freeLessons": 0,
+        "topics": "Exam technique, Mock exams, Past papers",
+        "color": "gray"
+      }
+    ],
+    "foundation": "Covers all essential GCSE Computer Science topics required for grades 1-5",
+    "higher": "Merge Sort & Advanced Algorithms, Recursion & OOP, Data Structures (Stacks, Queues, Trees), Complex Boolean Logic Circuits"
+  }
+}

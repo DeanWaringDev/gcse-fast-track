@@ -1,0 +1,518 @@
+{
+  "lessonId": 1,
+  "lessonNumber": "001",
+  "lessonTitle": "What is Computer Science?",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Basic Vocabulary",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 1, "question": "What does 'Computer Science' study?", "type": "multiple_choice", "options": ["Only computers", "Problem-solving with computers", "Just programming", "Only hardware"]},
+        {"id": 2, "question": "What is computational thinking?", "type": "multiple_choice", "options": ["Thinking like a computer", "A way of solving problems", "Programming in code", "Using a calculator"]},
+        {"id": 3, "question": "How many pillars of computational thinking are there?", "type": "multiple_choice", "options": ["2", "3", "4", "5"]},
+        {"id": 4, "question": "What is decomposition?", "type": "multiple_choice", "options": ["Breaking down problems", "Putting things together", "Deleting data", "Creating patterns"]},
+        {"id": 5, "question": "What is pattern recognition?", "type": "multiple_choice", "options": ["Drawing patterns", "Spotting similarities", "Recognizing faces", "Making designs"]},
+        {"id": 6, "question": "What is abstraction?", "type": "multiple_choice", "options": ["Being vague", "Focusing on key details", "Making art", "Hiding information"]},
+        {"id": 7, "question": "What is an algorithm?", "type": "multiple_choice", "options": ["A type of computer", "Step-by-step instructions", "A programming language", "A math formula"]},
+        {"id": 8, "question": "What is an embedded system?", "type": "multiple_choice", "options": ["A computer in another device", "A broken computer", "A small computer", "A computer game"]},
+        {"id": 9, "question": "What is hardware?", "type": "multiple_choice", "options": ["Physical parts you can touch", "Computer programs", "Internet connections", "Passwords"]},
+        {"id": 10, "question": "What is software?", "type": "multiple_choice", "options": ["Physical parts", "Programs and instructions", "Computer cables", "Hard drives"]}
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Computational Thinking - Decomposition",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 11, "question": "Decomposition means:", "type": "multiple_choice", "options": ["Breaking problems into smaller parts", "Deleting files", "Composing music", "Building computers"]},
+        {"id": 12, "question": "Which is an example of decomposition?", "type": "multiple_choice", "options": ["Breaking 'make dinner' into: shop, prep, cook, serve", "Eating dinner quickly", "Ordering takeaway", "Skipping meals"]},
+        {"id": 13, "question": "Why is decomposition useful?", "type": "multiple_choice", "options": ["Makes big problems manageable", "Makes problems harder", "Wastes time", "Confuses people"]},
+        {"id": 14, "question": "To make a cup of tea, decomposition would break it into:", "type": "multiple_choice", "options": ["Multiple small steps", "One big step", "Random actions", "No steps needed"]},
+        {"id": 15, "question": "Decomposing 'getting ready for school' might include:", "type": "multiple_choice", "options": ["Wake up, wash, dress, eat, travel", "Just leave the house", "Sleep in", "Do homework"]},
+        {"id": 16, "question": "Which needs decomposition?", "type": "multiple_choice", "options": ["Planning a party", "Blinking", "Breathing", "Sitting down"]},
+        {"id": 17, "question": "Decomposition is the _____ pillar of computational thinking:", "type": "multiple_choice", "options": ["First", "Second", "Third", "Fourth"]},
+        {"id": 18, "question": "When coding a game, decomposition helps by:", "type": "multiple_choice", "options": ["Breaking it into characters, rules, graphics, etc.", "Writing all code at once", "Guessing the solution", "Copying other games"]},
+        {"id": 19, "question": "Decomposition is similar to:", "type": "multiple_choice", "options": ["Breaking a project into tasks", "Putting puzzle pieces together", "Memorizing facts", "Watching videos"]},
+        {"id": 20, "question": "The opposite of decomposition is:", "type": "multiple_choice", "options": ["Composition/putting together", "Deletion", "Copying", "Pasting"]}
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Computational Thinking - Pattern Recognition",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 21, "question": "Pattern recognition means:", "type": "multiple_choice", "options": ["Spotting similarities and trends", "Drawing patterns", "Recognizing people", "Following rules"]},
+        {"id": 22, "question": "Why is pattern recognition useful?", "type": "multiple_choice", "options": ["Solve problems faster by reusing solutions", "Makes problems harder", "Wastes time", "Confuses people"]},
+        {"id": 23, "question": "If you can make one sandwich, you can make 100 because:", "type": "multiple_choice", "options": ["It's the same pattern repeated", "Sandwiches are easy", "You're hungry", "Someone helps you"]},
+        {"id": 24, "question": "Which shows pattern recognition?", "type": "multiple_choice", "options": ["Noticing all emails end with 'Send'", "Writing random emails", "Deleting all emails", "Ignoring patterns"]},
+        {"id": 25, "question": "Pattern recognition helps programmers:", "type": "multiple_choice", "options": ["Reuse code for similar problems", "Write more code", "Forget solutions", "Start from scratch"]},
+        {"id": 26, "question": "In maths, recognizing patterns helps with:", "type": "multiple_choice", "options": ["Solving similar problems quickly", "Making problems harder", "Forgetting formulas", "Random guessing"]},
+        {"id": 27, "question": "Which is a pattern?", "type": "multiple_choice", "options": ["Monday-Friday you go to school", "Random days off", "Sleeping at different times", "Eating different amounts"]},
+        {"id": 28, "question": "Pattern recognition is the _____ pillar:", "type": "multiple_choice", "options": ["Second", "First", "Third", "Fourth"]},
+        {"id": 29, "question": "Recognizing that all logins need username + password is:", "type": "multiple_choice", "options": ["Pattern recognition", "Decomposition", "Abstraction", "Algorithm design"]},
+        {"id": 30, "question": "Pattern recognition saves time by:", "type": "multiple_choice", "options": ["Not solving same problem twice", "Making problems longer", "Creating new problems", "Ignoring solutions"]}
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Computational Thinking - Abstraction",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 31, "question": "Abstraction means:", "type": "multiple_choice", "options": ["Focusing on important details only", "Including everything", "Being unclear", "Hiding all information"]},
+        {"id": 32, "question": "Why is abstraction useful?", "type": "multiple_choice", "options": ["Simplifies problems by removing unnecessary detail", "Makes things more complicated", "Adds confusion", "Wastes time"]},
+        {"id": 33, "question": "When making a sandwich, you use abstraction by:", "type": "multiple_choice", "options": ["Not worrying where wheat was grown", "Thinking about every detail", "Analyzing bread molecules", "Studying wheat farming"]},
+        {"id": 34, "question": "A map uses abstraction by:", "type": "multiple_choice", "options": ["Showing roads but not every tree", "Showing everything in detail", "Being blank", "Being too detailed to read"]},
+        {"id": 35, "question": "Abstraction is the _____ pillar:", "type": "multiple_choice", "options": ["Third", "First", "Second", "Fourth"]},
+        {"id": 36, "question": "Which uses abstraction?", "type": "multiple_choice", "options": ["Tube map showing just lines and stations", "Detailed street map with every building", "Blank piece of paper", "Photograph of area"]},
+        {"id": 37, "question": "In programming, abstraction helps by:", "type": "multiple_choice", "options": ["Hiding complex code behind simple commands", "Making everything complicated", "Showing all code always", "Confusing programmers"]},
+        {"id": 38, "question": "When using a calculator, you use abstraction because:", "type": "multiple_choice", "options": ["You don't need to know how it works inside", "You know every circuit", "You built it yourself", "You understand the electronics"]},
+        {"id": 39, "question": "Abstraction removes:", "type": "multiple_choice", "options": ["Unnecessary details", "Important information", "All information", "Nothing"]},
+        {"id": 40, "question": "A good example of abstraction is:", "type": "multiple_choice", "options": ["Driving without knowing how engine works", "Understanding every car part", "Building a car from scratch", "Never using cars"]}
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Computational Thinking - Algorithms",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 41, "question": "An algorithm is:", "type": "multiple_choice", "options": ["Step-by-step instructions", "A type of computer", "A programming language", "A website"]},
+        {"id": 42, "question": "Which is an algorithm?", "type": "multiple_choice", "options": ["Recipe for baking a cake", "Picture of a cake", "Eating a cake", "Buying a cake"]},
+        {"id": 43, "question": "Algorithms must be:", "type": "multiple_choice", "options": ["Clear and in the right order", "Confusing", "Random", "Secret"]},
+        {"id": 44, "question": "Algorithm design is the _____ pillar:", "type": "multiple_choice", "options": ["Fourth", "First", "Second", "Third"]},
+        {"id": 45, "question": "A good algorithm is:", "type": "multiple_choice", "options": ["Easy to follow and gets result", "Impossible to understand", "Random steps", "Missing steps"]},
+        {"id": 46, "question": "Which needs an algorithm?", "type": "multiple_choice", "options": ["Making toast", "Existing", "Being bored", "Sleeping"]},
+        {"id": 47, "question": "An algorithm for crossing a road might include:", "type": "multiple_choice", "options": ["Stop, look, listen, cross when safe", "Just cross randomly", "Never cross", "Close your eyes"]},
+        {"id": 48, "question": "Computer programs are made of:", "type": "multiple_choice", "options": ["Algorithms", "Pictures", "Random numbers", "Wishes"]},
+        {"id": 49, "question": "Instructions on medicine are:", "type": "multiple_choice", "options": ["An algorithm to follow", "Suggestions to ignore", "Random advice", "Decoration"]},
+        {"id": 50, "question": "Why are algorithms important?", "type": "multiple_choice", "options": ["They solve problems reliably", "They make problems harder", "They're confusing", "They're useless"]}
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Embedded Systems - In the Home",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 51, "question": "An embedded system is:", "type": "multiple_choice", "options": ["A computer inside another device", "A laptop", "A phone", "A tablet"]},
+        {"id": 52, "question": "Which contains an embedded system?", "type": "multiple_choice", "options": ["Washing machine", "Wooden chair", "Book", "Pencil"]},
+        {"id": 53, "question": "Your washing machine's computer controls:", "type": "multiple_choice", "options": ["Water temperature, spin speed, time", "Nothing", "Your TV", "The internet"]},
+        {"id": 54, "question": "A microwave has an embedded system to:", "type": "multiple_choice", "options": ["Control cooking time and power", "Make food appear", "Order groceries", "Play music"]},
+        {"id": 55, "question": "Smart TVs have embedded systems to:", "type": "multiple_choice", "options": ["Stream content and connect online", "Just display static images", "Make popcorn", "Clean themselves"]},
+        {"id": 56, "question": "Central heating systems use computers to:", "type": "multiple_choice", "options": ["Maintain temperature automatically", "Produce heat manually", "Do nothing", "Open windows"]},
+        {"id": 57, "question": "Digital alarm clocks are embedded systems because:", "type": "multiple_choice", "options": ["They have computers to keep time", "They're digital", "They're clocks", "They're loud"]},
+        {"id": 58, "question": "Why are embedded systems useful at home?", "type": "multiple_choice", "options": ["Automate tasks and save time", "Make life harder", "Cost more money", "Break easily"]},
+        {"id": 59, "question": "Which is NOT an embedded system?", "type": "multiple_choice", "options": ["A wooden spoon", "A smart fridge", "A robot vacuum", "A thermostat"]},
+        {"id": 60, "question": "Embedded systems in homes are usually:", "type": "multiple_choice", "options": ["Hidden inside devices", "Visible on desk", "Portable", "Worn as watches"]}
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Embedded Systems - In Transport",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 61, "question": "Modern cars have embedded systems for:", "type": "multiple_choice", "options": ["Engine control, brakes, sensors", "Just steering", "Nothing", "Radio only"]},
+        {"id": 62, "question": "Anti-lock brakes (ABS) use computers to:", "type": "multiple_choice", "options": ["Prevent wheel locking when braking", "Make car go faster", "Play music", "Open doors"]},
+        {"id": 63, "question": "Sat nav systems are embedded systems that:", "type": "multiple_choice", "options": ["Provide directions and routes", "Drive the car", "Wash the car", "Fuel the car"]},
+        {"id": 64, "question": "Buses use embedded systems for:", "type": "multiple_choice", "options": ["Route displays and payment", "Just seats", "Windows", "Fuel only"]},
+        {"id": 65, "question": "Parking sensors in cars:", "type": "multiple_choice", "options": ["Detect obstacles when parking", "Park for you always", "Do nothing", "Play sounds randomly"]},
+        {"id": 66, "question": "Train systems use computers for:", "type": "multiple_choice", "options": ["Automatic doors and climate", "Just moving", "Nothing", "Tickets only"]},
+        {"id": 67, "question": "Traffic lights are embedded systems that:", "type": "multiple_choice", "options": ["Control traffic flow safely", "Are just colored lights", "Never change", "Work randomly"]},
+        {"id": 68, "question": "Why do cars need many embedded systems?", "type": "multiple_choice", "options": ["Safety, efficiency, comfort", "To cost more", "To break easily", "No reason"]},
+        {"id": 69, "question": "Automatic doors on trains use:", "type": "multiple_choice", "options": ["Embedded computers and sensors", "Manual handles only", "Magic", "String"]},
+        {"id": 70, "question": "Modern transport relies on embedded systems for:", "type": "multiple_choice", "options": ["Safety and automation", "Making journeys longer", "Costing more", "Being uncomfortable"]}
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Embedded Systems - In Public",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 71, "question": "ATMs (cash machines) are embedded systems that:", "type": "multiple_choice", "options": ["Dispense cash and check balance", "Just beep", "Store clothes", "Make calls"]},
+        {"id": 72, "question": "Self-checkout tills use embedded systems to:", "type": "multiple_choice", "options": ["Scan items and process payment", "Just display prices", "Count people", "Play music"]},
+        {"id": 73, "question": "Traffic lights use sensors to:", "type": "multiple_choice", "options": ["Detect waiting cars", "Count clouds", "Measure rain", "Do nothing"]},
+        {"id": 74, "question": "Vending machines are embedded systems that:", "type": "multiple_choice", "options": ["Accept payment and dispense items", "Just store products", "Display prices only", "Do nothing"]},
+        {"id": 75, "question": "Ticket barriers at stations use:", "type": "multiple_choice", "options": ["Embedded systems to read tickets", "Manual checking only", "No technology", "Random opening"]},
+        {"id": 76, "question": "Automatic doors in shops use:", "type": "multiple_choice", "options": ["Sensors to detect people", "Manual pushing", "Timers only", "Random opening"]},
+        {"id": 77, "question": "Public toilets with automatic taps use:", "type": "multiple_choice", "options": ["Sensors to detect hands", "Manual turning", "Timers", "Nothing"]},
+        {"id": 78, "question": "Parking meters are embedded systems that:", "type": "multiple_choice", "options": ["Calculate time and accept payment", "Just tell time", "Do nothing", "Print randomly"]},
+        {"id": 79, "question": "Library self-service machines:", "type": "multiple_choice", "options": ["Check out books automatically", "Just scan barcodes", "Print cards", "Do nothing"]},
+        {"id": 80, "question": "Embedded systems in public spaces help with:", "type": "multiple_choice", "options": ["Convenience and automation", "Making things slower", "Costing more", "Confusion"]}
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Input, Process, Output - Understanding Input",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 81, "question": "Input means:", "type": "multiple_choice", "options": ["Data going into the computer", "Data coming out", "Processing data", "Storing data"]},
+        {"id": 82, "question": "Which is an input device?", "type": "multiple_choice", "options": ["Keyboard", "Screen", "Printer", "Speaker"]},
+        {"id": 83, "question": "A mouse is used for:", "type": "multiple_choice", "options": ["Input - clicking and pointing", "Output - displaying", "Storage", "Processing"]},
+        {"id": 84, "question": "When you type on a keyboard, you are:", "type": "multiple_choice", "options": ["Inputting data", "Outputting data", "Processing data", "Storing data"]},
+        {"id": 85, "question": "A microphone is an input device because:", "type": "multiple_choice", "options": ["It captures sound going in", "It plays sound coming out", "It stores sound", "It processes sound"]},
+        {"id": 86, "question": "Touching a touchscreen is:", "type": "multiple_choice", "options": ["Input", "Output", "Process", "Storage"]},
+        {"id": 87, "question": "A camera is an input device that captures:", "type": "multiple_choice", "options": ["Images and video", "Sound only", "Text only", "Nothing"]},
+        {"id": 88, "question": "Scanning a barcode is:", "type": "multiple_choice", "options": ["Input", "Output", "Processing", "Storage"]},
+        {"id": 89, "question": "Which is NOT an input device?", "type": "multiple_choice", "options": ["Monitor", "Mouse", "Keyboard", "Microphone"]},
+        {"id": 90, "question": "Input devices allow us to:", "type": "multiple_choice", "options": ["Give data to the computer", "Receive data from computer", "Store data", "Process data"]}
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Input, Process, Output - Understanding Process",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 91, "question": "Process means:", "type": "multiple_choice", "options": ["Computer working on data", "Data going in", "Data coming out", "Storing data"]},
+        {"id": 92, "question": "The part that processes data is:", "type": "multiple_choice", "options": ["CPU (processor)", "Keyboard", "Monitor", "Mouse"]},
+        {"id": 93, "question": "Examples of processing include:", "type": "multiple_choice", "options": ["Calculating, sorting, searching", "Typing", "Displaying", "Printing"]},
+        {"id": 94, "question": "When a calculator works out 5 + 3, it is:", "type": "multiple_choice", "options": ["Processing", "Inputting", "Outputting", "Storing"]},
+        {"id": 95, "question": "Checking if a password is correct is:", "type": "multiple_choice", "options": ["Processing", "Input", "Output", "Storage"]},
+        {"id": 96, "question": "When a computer filters a photo, it is:", "type": "multiple_choice", "options": ["Processing", "Inputting", "Outputting", "Storing"]},
+        {"id": 97, "question": "Finding the fastest route on a map is:", "type": "multiple_choice", "options": ["Processing", "Input", "Output", "Storage"]},
+        {"id": 98, "question": "Sorting emails by date is:", "type": "multiple_choice", "options": ["Processing", "Input", "Output", "Storage"]},
+        {"id": 99, "question": "Processing happens:", "type": "multiple_choice", "options": ["Inside the computer", "On the screen", "In the keyboard", "In the mouse"]},
+        {"id": 100, "question": "We can't see processing happening because:", "type": "multiple_choice", "options": ["It's inside the computer", "It's invisible", "It's magic", "It doesn't happen"]}
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Input, Process, Output - Understanding Output",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 101, "question": "Output means:", "type": "multiple_choice", "options": ["Results coming out of computer", "Data going in", "Processing data", "Storing data"]},
+        {"id": 102, "question": "Which is an output device?", "type": "multiple_choice", "options": ["Monitor/Screen", "Keyboard", "Mouse", "Scanner"]},
+        {"id": 103, "question": "Speakers are output devices that:", "type": "multiple_choice", "options": ["Play sound", "Record sound", "Type text", "Display images"]},
+        {"id": 104, "question": "A printer is an output device because:", "type": "multiple_choice", "options": ["It produces documents", "It scans documents", "It stores documents", "It types documents"]},
+        {"id": 105, "question": "When you see text on a screen, that is:", "type": "multiple_choice", "options": ["Output", "Input", "Processing", "Storage"]},
+        {"id": 106, "question": "Which is NOT an output device?", "type": "multiple_choice", "options": ["Keyboard", "Monitor", "Speaker", "Printer"]},
+        {"id": 107, "question": "Headphones are output devices that:", "type": "multiple_choice", "options": ["Play sound to you", "Record your voice", "Display text", "Scan images"]},
+        {"id": 108, "question": "A projector is an output device that:", "type": "multiple_choice", "options": ["Displays images on a screen", "Captures images", "Stores images", "Processes images"]},
+        {"id": 109, "question": "Output devices allow us to:", "type": "multiple_choice", "options": ["Get results from the computer", "Give data to computer", "Store data", "Process data"]},
+        {"id": 110, "question": "An LED light on a robot is:", "type": "multiple_choice", "options": ["Output", "Input", "Processing", "Storage"]}
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Input, Process, Output - Real-World Examples",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 111, "question": "Online shopping: You click 'Buy'. What is this?", "type": "multiple_choice", "options": ["Input", "Process", "Output", "Storage"]},
+        {"id": 112, "question": "Online shopping: Website calculates total. What is this?", "type": "multiple_choice", "options": ["Process", "Input", "Output", "Storage"]},
+        {"id": 113, "question": "Online shopping: Receipt displays on screen. What is this?", "type": "multiple_choice", "options": ["Output", "Input", "Process", "Storage"]},
+        {"id": 114, "question": "Gaming: Pressing a button on controller is:", "type": "multiple_choice", "options": ["Input", "Process", "Output", "Storage"]},
+        {"id": 115, "question": "Gaming: Console calculates where character moves is:", "type": "multiple_choice", "options": ["Process", "Input", "Output", "Storage"]},
+        {"id": 116, "question": "Gaming: Seeing character on screen is:", "type": "multiple_choice", "options": ["Output", "Input", "Process", "Storage"]},
+        {"id": 117, "question": "ATM: Inserting card is:", "type": "multiple_choice", "options": ["Input", "Process", "Output", "Storage"]},
+        {"id": 118, "question": "ATM: Checking PIN is:", "type": "multiple_choice", "options": ["Process", "Input", "Output", "Storage"]},
+        {"id": 119, "question": "ATM: Dispensing cash is:", "type": "multiple_choice", "options": ["Output", "Input", "Process", "Storage"]},
+        {"id": 120, "question": "Every computer system needs:", "type": "multiple_choice", "options": ["Input, Process, and Output", "Just input", "Just output", "Just processing"]}
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Hardware - Input and Output Devices",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 121, "question": "Hardware is:", "type": "multiple_choice", "options": ["Physical parts you can touch", "Computer programs", "Internet connection", "Passwords"]},
+        {"id": 122, "question": "Which is hardware?", "type": "multiple_choice", "options": ["Mouse", "Microsoft Word", "Windows", "Google Chrome"]},
+        {"id": 123, "question": "A keyboard is hardware used for:", "type": "multiple_choice", "options": ["Typing text", "Displaying images", "Storing files", "Processing data"]},
+        {"id": 124, "question": "A monitor is hardware used for:", "type": "multiple_choice", "options": ["Displaying output", "Inputting data", "Storing files", "Processing"]},
+        {"id": 125, "question": "Which is NOT hardware?", "type": "multiple_choice", "options": ["An app", "A mouse", "A screen", "A keyboard"]},
+        {"id": 126, "question": "Speakers are hardware for:", "type": "multiple_choice", "options": ["Playing sound", "Recording sound", "Displaying text", "Typing"]},
+        {"id": 127, "question": "A webcam is hardware for:", "type": "multiple_choice", "options": ["Capturing video", "Playing video", "Storing video", "Editing video"]},
+        {"id": 128, "question": "A printer is hardware for:", "type": "multiple_choice", "options": ["Printing documents", "Scanning documents", "Typing documents", "Storing documents"]},
+        {"id": 129, "question": "A microphone is hardware for:", "type": "multiple_choice", "options": ["Recording sound", "Playing sound", "Displaying sound", "Storing sound"]},
+        {"id": 130, "question": "You can touch hardware:", "type": "multiple_choice", "options": ["True", "False", "Sometimes", "Never"]}
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Hardware - Internal Components",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 131, "question": "The CPU (processor) is:", "type": "multiple_choice", "options": ["The brain that processes data", "Storage device", "Output device", "Internet connection"]},
+        {"id": 132, "question": "RAM is used for:", "type": "multiple_choice", "options": ["Temporary storage while working", "Permanent file storage", "Displaying output", "Internet access"]},
+        {"id": 133, "question": "A hard drive is for:", "type": "multiple_choice", "options": ["Permanent storage of files", "Temporary storage", "Processing data", "Displaying images"]},
+        {"id": 134, "question": "The motherboard:", "type": "multiple_choice", "options": ["Connects all components together", "Displays output", "Stores files", "Processes everything"]},
+        {"id": 135, "question": "Which is inside a computer?", "type": "multiple_choice", "options": ["CPU", "Monitor", "Keyboard", "Mouse"]},
+        {"id": 136, "question": "RAM stands for:", "type": "multiple_choice", "options": ["Random Access Memory", "Really Amazing Memory", "Rapid Action Mode", "Read All Memory"]},
+        {"id": 137, "question": "The power supply:", "type": "multiple_choice", "options": ["Provides electricity to components", "Stores data", "Displays output", "Processes information"]},
+        {"id": 138, "question": "A graphics card:", "type": "multiple_choice", "options": ["Processes images for display", "Stores images", "Prints images", "Scans images"]},
+        {"id": 139, "question": "The cooling fan:", "type": "multiple_choice", "options": ["Stops components overheating", "Stores data", "Processes faster", "Displays better"]},
+        {"id": 140, "question": "Internal hardware is:", "type": "multiple_choice", "options": ["Inside the computer case", "Outside the computer", "Not needed", "Just decoration"]}
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Software - Operating Systems",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 141, "question": "Software is:", "type": "multiple_choice", "options": ["Programs and instructions", "Physical hardware", "Cables and wires", "Storage devices"]},
+        {"id": 142, "question": "An operating system is:", "type": "multiple_choice", "options": ["Software that manages the computer", "Hardware inside computer", "Internet connection", "An app"]},
+        {"id": 143, "question": "Which is an operating system?", "type": "multiple_choice", "options": ["Windows", "Microsoft Word", "Google Chrome", "Minecraft"]},
+        {"id": 144, "question": "Examples of operating systems include:", "type": "multiple_choice", "options": ["Windows, macOS, Linux, Android", "Word, Excel, PowerPoint", "Chrome, Firefox, Safari", "Facebook, Instagram, TikTok"]},
+        {"id": 145, "question": "The operating system:", "type": "multiple_choice", "options": ["Controls hardware and runs apps", "Is just an app", "Is hardware", "Isn't needed"]},
+        {"id": 146, "question": "Which is NOT an operating system?", "type": "multiple_choice", "options": ["Microsoft Word", "Windows", "macOS", "Linux"]},
+        {"id": 147, "question": "On phones, common operating systems are:", "type": "multiple_choice", "options": ["Android and iOS", "Windows and macOS", "Word and Excel", "Chrome and Safari"]},
+        {"id": 148, "question": "The operating system is needed to:", "type": "multiple_choice", "options": ["Run other programs", "Store files only", "Display images only", "Nothing"]},
+        {"id": 149, "question": "Without an operating system:", "type": "multiple_choice", "options": ["Computer can't run programs", "Everything works fine", "Only games work", "Internet works"]},
+        {"id": 150, "question": "Operating systems manage:", "type": "multiple_choice", "options": ["Files, memory, programs, hardware", "Just files", "Just hardware", "Nothing"]}
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Software - Applications",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 151, "question": "Application software is:", "type": "multiple_choice", "options": ["Programs that do specific tasks", "The operating system", "Hardware", "Internet"]},
+        {"id": 152, "question": "Which is application software?", "type": "multiple_choice", "options": ["Microsoft Word", "Windows", "CPU", "RAM"]},
+        {"id": 153, "question": "A word processor is used for:", "type": "multiple_choice", "options": ["Writing documents", "Playing games", "Browsing internet", "Editing photos"]},
+        {"id": 154, "question": "A web browser is used for:", "type": "multiple_choice", "options": ["Accessing websites", "Writing documents", "Editing photos", "Playing music"]},
+        {"id": 155, "question": "Photo editing software is used for:", "type": "multiple_choice", "options": ["Editing images", "Writing text", "Browsing web", "Playing games"]},
+        {"id": 156, "question": "Examples of web browsers include:", "type": "multiple_choice", "options": ["Chrome, Firefox, Safari, Edge", "Word, Excel, PowerPoint", "Windows, macOS, Linux", "Facebook, Instagram, Twitter"]},
+        {"id": 157, "question": "Gaming software:", "type": "multiple_choice", "options": ["Lets you play games", "Writes documents", "Edits photos", "Browses web"]},
+        {"id": 158, "question": "Spreadsheet software like Excel is for:", "type": "multiple_choice", "options": ["Working with numbers and data", "Writing essays", "Playing games", "Editing photos"]},
+        {"id": 159, "question": "Apps on your phone are:", "type": "multiple_choice", "options": ["Application software", "Operating systems", "Hardware", "Internet"]},
+        {"id": 160, "question": "Application software needs:", "type": "multiple_choice", "options": ["An operating system to run", "Nothing", "Just hardware", "Only internet"]}
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Hardware vs Software",
+      "difficulty": "Medium",
+      "questions": [
+        {"id": 161, "question": "Hardware without software is like:", "type": "multiple_choice", "options": ["Piano without music", "Music without piano", "Complete system", "Working computer"]},
+        {"id": 162, "question": "Software without hardware is like:", "type": "multiple_choice", "options": ["Music without piano", "Piano without music", "Complete system", "Working computer"]},
+        {"id": 163, "question": "To use a computer you need:", "type": "multiple_choice", "options": ["Both hardware and software", "Just hardware", "Just software", "Neither"]},
+        {"id": 164, "question": "Can you touch software?", "type": "multiple_choice", "options": ["No", "Yes", "Sometimes", "Always"]},
+        {"id": 165, "question": "Can you touch hardware?", "type": "multiple_choice", "options": ["Yes", "No", "Sometimes", "Never"]},
+        {"id": 166, "question": "Which pair is correct?", "type": "multiple_choice", "options": ["Mouse = hardware, Word = software", "Mouse = software, Word = hardware", "Both hardware", "Both software"]},
+        {"id": 167, "question": "A smartphone has:", "type": "multiple_choice", "options": ["Both hardware and software", "Just hardware", "Just software", "Neither"]},
+        {"id": 168, "question": "If hardware breaks:", "type": "multiple_choice", "options": ["Physical repair needed", "Just reinstall software", "Nothing you can do", "Buy new software"]},
+        {"id": 169, "question": "If software has a bug:", "type": "multiple_choice", "options": ["Update or reinstall it", "Replace hardware", "Buy new computer", "Nothing you can do"]},
+        {"id": 170, "question": "Hardware and software:", "type": "multiple_choice", "options": ["Work together", "Don't interact", "Are the same thing", "Are not needed"]}
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Computer Science Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 171, "question": "Computer Science develops:", "type": "multiple_choice", "options": ["Problem-solving skills", "Just programming", "Just typing", "Just gaming"]},
+        {"id": 172, "question": "Logical thinking means:", "type": "multiple_choice", "options": ["Understanding cause and effect", "Random guessing", "Not thinking", "Memorizing facts"]},
+        {"id": 173, "question": "Computer Science helps with:", "type": "multiple_choice", "options": ["Creativity in solving problems", "Just following instructions", "Memorizing only", "Not thinking"]},
+        {"id": 174, "question": "Resilience in CS means:", "type": "multiple_choice", "options": ["Learning from mistakes", "Giving up quickly", "Never trying", "Being perfect first time"]},
+        {"id": 175, "question": "Debugging is:", "type": "multiple_choice", "options": ["Finding and fixing errors", "Creating new bugs", "Ignoring problems", "Perfect code"]},
+        {"id": 176, "question": "CS helps you communicate by:", "type": "multiple_choice", "options": ["Explaining technical ideas clearly", "Using only jargon", "Not explaining", "Confusing people"]},
+        {"id": 177, "question": "Breaking down problems is useful for:", "type": "multiple_choice", "options": ["Any challenge in life", "Just computing", "Just school", "Nothing"]},
+        {"id": 178, "question": "Pattern recognition helps with:", "type": "multiple_choice", "options": ["Solving problems efficiently", "Making problems harder", "Wasting time", "Random guessing"]},
+        {"id": 179, "question": "CS skills are useful in:", "type": "multiple_choice", "options": ["Every career", "Just tech jobs", "Just programming", "No careers"]},
+        {"id": 180, "question": "Learning CS helps you:", "type": "multiple_choice", "options": ["Think logically about problems", "Just use apps", "Just play games", "Nothing useful"]}
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Careers in Computer Science",
+      "difficulty": "Easy",
+      "questions": [
+        {"id": 181, "question": "A Software Developer:", "type": "multiple_choice", "options": ["Creates apps and programs", "Just uses apps", "Fixes hardware", "Manages files"]},
+        {"id": 182, "question": "A Cybersecurity Expert:", "type": "multiple_choice", "options": ["Protects systems from hackers", "Creates viruses", "Plays games", "Types documents"]},
+        {"id": 183, "question": "A Data Scientist:", "type": "multiple_choice", "options": ["Analyzes data for insights", "Just stores data", "Deletes data", "Ignores data"]},
+        {"id": 184, "question": "A Game Designer:", "type": "multiple_choice", "options": ["Creates video games", "Just plays games", "Watches games", "Sells games"]},
+        {"id": 185, "question": "An AI Engineer:", "type": "multiple_choice", "options": ["Teaches computers to learn", "Just uses AI", "Watches AI", "Fears AI"]},
+        {"id": 186, "question": "A Web Developer:", "type": "multiple_choice", "options": ["Builds websites", "Just visits websites", "Designs logos", "Takes photos"]},
+        {"id": 187, "question": "A Network Administrator:", "type": "multiple_choice", "options": ["Manages internet systems", "Just uses internet", "Breaks networks", "Ignores networks"]},
+        {"id": 188, "question": "A Robotics Engineer:", "type": "multiple_choice", "options": ["Designs and programs robots", "Just watches robots", "Fears robots", "Buys robots"]},
+        {"id": 189, "question": "CS skills are needed in:", "type": "multiple_choice", "options": ["Medicine, finance, entertainment, all fields", "Just tech companies", "Just gaming", "Nowhere"]},
+        {"id": 190, "question": "Learning CS opens up:", "type": "multiple_choice", "options": ["Many career opportunities", "Just one job", "No opportunities", "Only gaming jobs"]}
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Review - Mixed Concepts",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 191, "question": "The four pillars of computational thinking are:", "type": "multiple_choice", "options": ["Decomposition, Pattern Recognition, Abstraction, Algorithms", "Input, Process, Output, Storage", "Hardware, Software, Networks, Data", "Reading, Writing, Math, Science"]},
+        {"id": 192, "question": "Breaking 'make breakfast' into steps is:", "type": "multiple_choice", "options": ["Decomposition", "Pattern Recognition", "Abstraction", "Input"]},
+        {"id": 193, "question": "Noticing morning routine is same daily is:", "type": "multiple_choice", "options": ["Pattern Recognition", "Decomposition", "Abstraction", "Algorithm"]},
+        {"id": 194, "question": "Driving without knowing engine mechanics is:", "type": "multiple_choice", "options": ["Abstraction", "Decomposition", "Pattern Recognition", "Input"]},
+        {"id": 195, "question": "A recipe is an example of:", "type": "multiple_choice", "options": ["Algorithm", "Hardware", "Input", "Abstraction"]},
+        {"id": 196, "question": "Your washing machine contains:", "type": "multiple_choice", "options": ["Embedded system", "Just hardware", "No computer", "Only software"]},
+        {"id": 197, "question": "All computer systems use:", "type": "multiple_choice", "options": ["Input → Process → Output", "Just input", "Just output", "Random operations"]},
+        {"id": 198, "question": "You can physically touch:", "type": "multiple_choice", "options": ["Hardware", "Software", "Data", "Algorithms"]},
+        {"id": 199, "question": "Windows and macOS are:", "type": "multiple_choice", "options": ["Operating systems", "Applications", "Hardware", "Games"]},
+        {"id": 200, "question": "Microsoft Word is:", "type": "multiple_choice", "options": ["Application software", "Operating system", "Hardware", "Embedded system"]}
+      ]
+    },
+    {
+      "sectionId": 21,
+      "question": "Challenge - Apply Your Knowledge 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 201, "question": "When making a cup of tea, which computational thinking skill helps you order the steps correctly?", "type": "multiple_choice", "options": ["Algorithm design", "Abstraction", "Pattern recognition", "None"]},
+        {"id": 202, "question": "A smart thermostat that learns your schedule uses:", "type": "multiple_choice", "options": ["Pattern recognition", "Just timers", "No technology", "Random settings"]},
+        {"id": 203, "question": "When Google Maps finds your route, it uses all four pillars. Which happens first?", "type": "multiple_choice", "options": ["Decomposition - breaking journey into segments", "Pattern recognition", "Abstraction", "Algorithm"]},
+        {"id": 204, "question": "A Tube map uses abstraction by:", "type": "multiple_choice", "options": ["Showing simplified lines, not real geography", "Showing every building", "Being too detailed", "Being blank"]},
+        {"id": 205, "question": "When Netflix recommends shows, it uses:", "type": "multiple_choice", "options": ["Pattern recognition from your viewing history", "Random selection", "Just new shows", "Alphabetical order"]},
+        {"id": 206, "question": "An electric car's systems include embedded computers for:", "type": "multiple_choice", "options": ["Battery, motor, braking, entertainment - all of these", "Just music", "Just steering", "Nothing"]},
+        {"id": 207, "question": "When you use contactless payment: tapping card is input, checking balance is process, and ___ is output:", "type": "multiple_choice", "options": ["Beep and screen showing 'approved'", "The card itself", "The reader", "Nothing"]},
+        {"id": 208, "question": "Face ID on phones is:", "type": "multiple_choice", "options": ["Input (camera) → Process (compare face) → Output (unlock)", "Just input", "Just process", "Just output"]},
+        {"id": 209, "question": "A self-driving car needs:", "type": "multiple_choice", "options": ["Both hardware (sensors, cameras) and software (AI, navigation)", "Just hardware", "Just software", "Neither"]},
+        {"id": 210, "question": "Spotify's 'Discover Weekly' playlist shows:", "type": "multiple_choice", "options": ["Pattern recognition (your music taste)", "Random songs", "Alphabetical order", "Newest songs only"]}
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Challenge - Apply Your Knowledge 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 211, "question": "A robot vacuum uses abstraction when:", "type": "multiple_choice", "options": ["It maps rooms without knowing furniture brand", "It knows every object's name", "It vacuums randomly", "It doesn't clean"]},
+        {"id": 212, "question": "Video game NPCs that learn player behavior use:", "type": "multiple_choice", "options": ["Pattern recognition and algorithms", "Just random movement", "No AI", "Only scripts"]},
+        {"id": 213, "question": "When coding a calculator, you'd use decomposition to:", "type": "multiple_choice", "options": ["Split into: input numbers, choose operation, calculate, display result", "Write everything at once", "Hope it works", "Copy code randomly"]},
+        {"id": 214, "question": "Smart home systems that turn lights off when you leave use:", "type": "multiple_choice", "options": ["Sensors (input), processor (check if present), lights (output)", "Just lights", "Just sensors", "Magic"]},
+        {"id": 215, "question": "Autocorrect on phones demonstrates:", "type": "multiple_choice", "options": ["Pattern recognition (common words) and algorithms (suggest corrections)", "Random suggestions", "No technology", "Just dictionary"]},
+        {"id": 216, "question": "A smartwatch monitoring heart rate uses:", "type": "multiple_choice", "options": ["Sensor (input) → Process (analyze) → Display/Alert (output)", "Just a sensor", "Just a display", "No technology"]},
+        {"id": 217, "question": "Email spam filters use pattern recognition to:", "type": "multiple_choice", "options": ["Identify suspicious patterns in messages", "Randomly delete emails", "Block all emails", "Do nothing"]},
+        {"id": 218, "question": "A chess computer uses algorithms to:", "type": "multiple_choice", "options": ["Calculate possible moves and outcomes", "Move pieces randomly", "Cheat", "Give up"]},
+        {"id": 219, "question": "Online shopping 'customers also bought' feature uses:", "type": "multiple_choice", "options": ["Pattern recognition from purchase data", "Random products", "Expensive items only", "Nothing useful"]},
+        {"id": 220, "question": "Traffic light systems at busy junctions use:", "type": "multiple_choice", "options": ["Sensors (input) → Process (optimize flow) → Lights (output)", "Just timers", "Random changes", "No technology"]}
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Challenge - Scenario Analysis 1",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 221, "question": "Scenario: Building a weather app. Which comes first?", "type": "multiple_choice", "options": ["Decomposition - break into: data collection, processing, display, alerts", "Start coding immediately", "Design graphics first", "Guess the weather"]},
+        {"id": 222, "question": "Weather app: Getting data from sensors is:", "type": "multiple_choice", "options": ["Input", "Process", "Output", "Storage"]},
+        {"id": 223, "question": "Weather app: Calculating average temperature is:", "type": "multiple_choice", "options": ["Process", "Input", "Output", "Storage"]},
+        {"id": 224, "question": "Weather app: Showing forecast on screen is:", "type": "multiple_choice", "options": ["Output", "Input", "Process", "Storage"]},
+        {"id": 225, "question": "Weather app: Noticing temperature patterns for predictions uses:", "type": "multiple_choice", "options": ["Pattern recognition", "Decomposition", "Just guessing", "No skill"]},
+        {"id": 226, "question": "Weather app: Users don't need to know complex meteorology formulas. This is:", "type": "multiple_choice", "options": ["Abstraction", "Decomposition", "Pattern recognition", "Bad design"]},
+        {"id": 227, "question": "Weather app: Step-by-step process for calculating wind chill is:", "type": "multiple_choice", "options": ["Algorithm", "Hardware", "Input", "Guess"]},
+        {"id": 228, "question": "Weather app: The phone/computer running it is:", "type": "multiple_choice", "options": ["Hardware", "Software", "Data", "Nothing"]},
+        {"id": 229, "question": "Weather app: The code and interface are:", "type": "multiple_choice", "options": ["Software", "Hardware", "Input only", "Output only"]},
+        {"id": 230, "question": "Weather app: Smartphone has ___ for temperature data:", "type": "multiple_choice", "options": ["Embedded sensors", "No technology", "Just guesses", "Magic"]}
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Challenge - Scenario Analysis 2",
+      "difficulty": "Hard",
+      "questions": [
+        {"id": 231, "question": "Scenario: Smart doorbell. Camera capturing visitor is:", "type": "multiple_choice", "options": ["Input", "Process", "Output", "Storage"]},
+        {"id": 232, "question": "Smart doorbell: Comparing face to known people is:", "type": "multiple_choice", "options": ["Process", "Input", "Output", "Storage"]},
+        {"id": 233, "question": "Smart doorbell: Sending notification to phone is:", "type": "multiple_choice", "options": ["Output", "Input", "Process", "Storage"]},
+        {"id": 234, "question": "Smart doorbell: Learning to recognize regular visitors uses:", "type": "multiple_choice", "options": ["Pattern recognition", "Decomposition", "No AI", "Random recognition"]},
+        {"id": 235, "question": "Smart doorbell: Users see 'Visitor at door' without seeing complex facial recognition algorithms. This is:", "type": "multiple_choice", "options": ["Abstraction", "Decomposition", "Pattern recognition", "Bad feature"]},
+        {"id": 236, "question": "Smart doorbell: The camera and speaker are:", "type": "multiple_choice", "options": ["Hardware", "Software", "Algorithms", "Data"]},
+        {"id": 237, "question": "Smart doorbell: The app showing video feed is:", "type": "multiple_choice", "options": ["Software", "Hardware", "Just the camera", "Nothing"]},
+        {"id": 238, "question": "Smart doorbell: Computer in the doorbell is:", "type": "multiple_choice", "options": ["Embedded system", "Regular PC", "Not a computer", "Just a camera"]},
+        {"id": 239, "question": "Smart doorbell: The steps to detect motion, record, analyze, and notify form:", "type": "multiple_choice", "options": ["Algorithm", "Random process", "No pattern", "Mistake"]},
+        {"id": 240, "question": "Smart doorbell: Breaking project into camera, motion detection, notification, storage is:", "type": "multiple_choice", "options": ["Decomposition", "Pattern recognition", "Abstraction", "Random division"]}
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Challenge - Critical Thinking 1",
+      "difficulty": "Very Hard",
+      "questions": [
+        {"id": 241, "question": "Why is computational thinking useful beyond computing?", "type": "multiple_choice", "options": ["It's a problem-solving method for any field", "It only works with computers", "It's not useful elsewhere", "It's just theory"]},
+        {"id": 242, "question": "How does decomposition help with revision?", "type": "multiple_choice", "options": ["Break subjects into topics, topics into subtopics", "Study everything at once", "Don't plan", "Give up"]},
+        {"id": 243, "question": "How does abstraction help when learning to drive?", "type": "multiple_choice", "options": ["Focus on driving skills, not engine mechanics", "Learn every car part first", "Never simplify", "Know everything"]},
+        {"id": 244, "question": "Pattern recognition in history helps you:", "type": "multiple_choice", "options": ["Spot causes and effects across events", "Memorize random dates", "Forget everything", "Guess randomly"]},
+        {"id": 245, "question": "Why do modern devices use embedded systems instead of full computers?", "type": "multiple_choice", "options": ["Cheaper, smaller, designed for specific task", "They don't work as well", "They're temporary", "No good reason"]},
+        {"id": 246, "question": "What makes a good algorithm?", "type": "multiple_choice", "options": ["Clear, correct, efficient, solves problem", "Confusing and long", "Complicated unnecessarily", "Random steps"]},
+        {"id": 247, "question": "Why can't software run without hardware?", "type": "multiple_choice", "options": ["Software needs physical components to execute on", "Software can run on nothing", "Hardware isn't needed", "Both are independent"]},
+        {"id": 248, "question": "Why can't hardware work without software?", "type": "multiple_choice", "options": ["Hardware needs instructions to know what to do", "Hardware works fine alone", "Software isn't useful", "They're unrelated"]},
+        {"id": 249, "question": "How has computer science changed healthcare?", "type": "multiple_choice", "options": ["Digital records, scans, analysis, remote monitoring - all of these", "Just games", "Just social media", "No impact"]},
+        {"id": 250, "question": "What's the main benefit of computational thinking?", "type": "multiple_choice", "options": ["Systematic approach to problem-solving", "Learning programming only", "Using computers more", "Playing games better"]}
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Challenge - Critical Thinking 2",
+      "difficulty": "Very Hard",
+      "questions": [
+        {"id": 251, "question": "Why is pattern recognition important in AI?", "type": "multiple_choice", "options": ["AI learns by spotting patterns in data", "AI doesn't need patterns", "Patterns confuse AI", "AI is random"]},
+        {"id": 252, "question": "How does abstraction make systems more user-friendly?", "type": "multiple_choice", "options": ["Hides complexity, shows simple interface", "Shows all technical details", "Makes things harder", "Confuses users"]},
+        {"id": 253, "question": "Why do games need both input and output?", "type": "multiple_choice", "options": ["Input for control, output for feedback", "Just input is enough", "Just output is enough", "Neither is needed"]},
+        {"id": 254, "question": "What's the relationship between hardware and software?", "type": "multiple_choice", "options": ["Interdependent - both needed to function", "Completely separate", "Hardware only matters", "Software only matters"]},
+        {"id": 255, "question": "Why learn computer science if you don't want to be a programmer?", "type": "multiple_choice", "options": ["Develops problem-solving, logic, creativity for any career", "No reason", "Only for programmers", "Not useful"]},
+        {"id": 256, "question": "How do embedded systems improve car safety?", "type": "multiple_choice", "options": ["ABS, airbag sensors, stability control", "They don't", "They just add cost", "No safety benefit"]},
+        {"id": 257, "question": "Why is decomposition the first step in problem-solving?", "type": "multiple_choice", "options": ["Can't solve complex problems without breaking them down", "It's not important", "Should solve problems whole", "It wastes time"]},
+        {"id": 258, "question": "How has the Internet of Things (IoT) used embedded systems?", "type": "multiple_choice", "options": ["Computers in everyday devices connect to internet", "IoT doesn't use computers", "Just phones connect", "No connection"]},
+        {"id": 259, "question": "Why is algorithm design considered a computational thinking skill?", "type": "multiple_choice", "options": ["Creating systematic solutions is core to CS", "It's just programming", "It's not important", "It's only for experts"]},
+        {"id": 260, "question": "What makes embedded systems different from regular computers?", "type": "multiple_choice", "options": ["Designed for specific task, built into device", "They're the same", "Just smaller", "No difference"]}
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Challenge - Exam-Style Questions 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 261, "question": "Describe one way decomposition could help plan a school trip.", "type": "multiple_choice", "options": ["Break into: choose destination, arrange transport, book activities, plan meals", "Just go randomly", "Don't plan", "Hope for best"]},
+        {"id": 262, "question": "Give an example of pattern recognition in everyday life.", "type": "multiple_choice", "options": ["Noticing same route to school is quickest", "Random actions", "No patterns exist", "Guessing daily"]},
+        {"id": 263, "question": "Explain why a Tube map is a good example of abstraction.", "type": "multiple_choice", "options": ["Shows essential info (lines, stations) but removes unnecessary details (exact distances, buildings)", "Shows everything", "Shows nothing", "Is too detailed"]},
+        {"id": 264, "question": "Why are algorithms important in computing?", "type": "multiple_choice", "options": ["Provide clear, repeatable instructions for solving problems", "They're not important", "Just for fun", "Confuse computers"]},
+        {"id": 265, "question": "Name two input devices and two output devices.", "type": "multiple_choice", "options": ["Input: keyboard, mouse; Output: monitor, printer", "All input devices", "All output devices", "No devices"]},
+        {"id": 266, "question": "What is the difference between hardware and software?", "type": "multiple_choice", "options": ["Hardware is physical; software is programs/instructions", "They're the same", "No difference", "Both are physical"]},
+        {"id": 267, "question": "Give three examples of embedded systems.", "type": "multiple_choice", "options": ["Washing machine, car engine computer, smart TV", "Laptop, desktop, tablet", "Just computers", "No examples"]},
+        {"id": 268, "question": "Explain Input → Process → Output using an ATM example.", "type": "multiple_choice", "options": ["Insert card (input), check PIN (process), dispense cash (output)", "Random operations", "No clear stages", "Just input"]},
+        {"id": 269, "question": "Why does a computer need both hardware and software?", "type": "multiple_choice", "options": ["Hardware provides physical components, software provides instructions", "Only hardware needed", "Only software needed", "Neither needed"]},
+        {"id": 270, "question": "Name two careers that use computer science skills.", "type": "multiple_choice", "options": ["Software developer, data scientist (or any two from lesson)", "Only programming", "No careers", "Just gaming"]}
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Challenge - Exam-Style Questions 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 271, "question": "Describe the four pillars of computational thinking.", "type": "multiple_choice", "options": ["Decomposition, Pattern Recognition, Abstraction, Algorithm Design", "Input, Process, Output, Storage", "Hardware, Software, Networks, Data", "Read, Write, Calculate, Store"]},
+        {"id": 272, "question": "Explain how a smart thermostat uses computational thinking.", "type": "multiple_choice", "options": ["Decomposes temperature control, recognizes patterns in schedule, abstracts user needs, algorithms for heating", "Just sets temperature", "Random settings", "No thinking"]},
+        {"id": 273, "question": "Why are embedded systems used in modern cars?", "type": "multiple_choice", "options": ["Control engine, safety features, entertainment automatically", "Just for decoration", "No reason", "Make cars expensive"]},
+        {"id": 274, "question": "Compare an operating system and application software.", "type": "multiple_choice", "options": ["OS manages computer/runs programs; apps do specific tasks", "They're identical", "No difference", "Apps manage computer"]},
+        {"id": 275, "question": "Explain why abstraction is useful when using technology.", "type": "multiple_choice", "options": ["Can use devices without understanding complex internal workings", "Must know everything", "Abstraction isn't useful", "Makes things harder"]},
+        {"id": 276, "question": "How does pattern recognition help when learning?", "type": "multiple_choice", "options": ["Spot similar problems, reuse solutions, learn faster", "Makes learning harder", "Creates confusion", "No benefit"]},
+        {"id": 277, "question": "Describe the role of the CPU in a computer system.", "type": "multiple_choice", "options": ["Processes data, executes instructions, controls computer", "Just storage", "Just display", "Not important"]},
+        {"id": 278, "question": "Give an example of a device that needs both hardware and software to function.", "type": "multiple_choice", "options": ["Smartphone (hardware: screen, processor; software: apps, OS)", "Empty box", "Nothing", "Software alone"]},
+        {"id": 279, "question": "Explain how computational thinking helps in subjects beyond computing.", "type": "multiple_choice", "options": ["Provides systematic problem-solving approach for any subject", "Only works in computing", "Not useful elsewhere", "No connection"]},
+        {"id": 280, "question": "Why is Computer Science important in modern society?", "type": "multiple_choice", "options": ["Underpins technology in all sectors: medicine, transport, communication, etc.", "Just for games", "Just for apps", "Not important"]}
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Final Review - Comprehensive 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 281, "question": "Computer Science is about:", "type": "multiple_choice", "options": ["Problem-solving using computers", "Just programming", "Just using computers", "Just hardware"]},
+        {"id": 282, "question": "The first pillar of computational thinking is:", "type": "multiple_choice", "options": ["Decomposition", "Pattern Recognition", "Abstraction", "Algorithm"]},
+        {"id": 283, "question": "An embedded system is found in:", "type": "multiple_choice", "options": ["Washing machines, cars, smart devices", "Only computers", "Only phones", "Nowhere"]},
+        {"id": 284, "question": "Input → Process → Output describes:", "type": "multiple_choice", "options": ["How all computer systems work", "Just some systems", "Random operations", "Nothing useful"]},
+        {"id": 285, "question": "Hardware is:", "type": "multiple_choice", "options": ["Physical components", "Programs", "Data", "Instructions"]},
+        {"id": 286, "question": "Software is:", "type": "multiple_choice", "options": ["Programs and instructions", "Physical parts", "Cables", "Storage only"]},
+        {"id": 287, "question": "A keyboard is:", "type": "multiple_choice", "options": ["Input device", "Output device", "Process device", "Storage device"]},
+        {"id": 288, "question": "A monitor is:", "type": "multiple_choice", "options": ["Output device", "Input device", "Process device", "Storage device"]},
+        {"id": 289, "question": "The CPU:", "type": "multiple_choice", "options": ["Processes data", "Displays data", "Inputs data", "Stores data permanently"]},
+        {"id": 290, "question": "Windows is:", "type": "multiple_choice", "options": ["Operating system", "Application", "Hardware", "Input device"]}
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Final Review - Comprehensive 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {"id": 291, "question": "Breaking problems into smaller parts is:", "type": "multiple_choice", "options": ["Decomposition", "Pattern Recognition", "Abstraction", "Input"]},
+        {"id": 292, "question": "Spotting similarities to solve problems faster is:", "type": "multiple_choice", "options": ["Pattern Recognition", "Decomposition", "Abstraction", "Output"]},
+        {"id": 293, "question": "Focusing on important details only is:", "type": "multiple_choice", "options": ["Abstraction", "Decomposition", "Pattern Recognition", "Process"]},
+        {"id": 294, "question": "Step-by-step instructions are:", "type": "multiple_choice", "options": ["Algorithms", "Hardware", "Input", "Output"]},
+        {"id": 295, "question": "Computer Science skills help develop:", "type": "multiple_choice", "options": ["Problem-solving, logic, creativity, resilience", "Just programming", "Just typing", "Nothing useful"]},
+        {"id": 296, "question": "Careers in Computer Science include:", "type": "multiple_choice", "options": ["Software developer, data scientist, cybersecurity, many more", "Just programming", "Just IT support", "No careers"]},
+        {"id": 297, "question": "Every computer needs:", "type": "multiple_choice", "options": ["Both hardware and software", "Just hardware", "Just software", "Neither"]},
+        {"id": 298, "question": "Embedded systems are useful because:", "type": "multiple_choice", "options": ["Automate devices and perform specific tasks efficiently", "They cost more", "They break easily", "No benefits"]},
+        {"id": 299, "question": "Computational thinking can be applied to:", "type": "multiple_choice", "options": ["Any problem in any field", "Just computing problems", "Just school work", "Nothing practical"]},
+        {"id": 300, "question": "The most important thing you've learned in this lesson is:", "type": "multiple_choice", "options": ["Computer Science is about logical problem-solving", "Computers are complicated", "CS is just programming", "Nothing important"]}
+      ]
+    }
+  ]
+}
