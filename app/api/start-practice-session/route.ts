@@ -31,11 +31,11 @@ export async function POST(request: Request) {
       );
     }
 
-    const { courseSlug, lessonId, practiceMode } = await request.json();
+    const { courseSlug, lessonId, lessonSlug, practiceMode } = await request.json();
 
-    if (!courseSlug || !lessonId || !practiceMode) {
+    if (!courseSlug || !lessonId || !lessonSlug || !practiceMode) {
       return NextResponse.json(
-        { error: 'Missing required fields' },
+        { error: 'Missing required fields: courseSlug, lessonId, lessonSlug, practiceMode' },
         { status: 400 }
       );
     }
@@ -47,6 +47,7 @@ export async function POST(request: Request) {
         user_id: user.id,
         course_slug: courseSlug,
         lesson_id: lessonId,
+        lesson_slug: lessonSlug,
         practice_mode: practiceMode,
         questions_attempted: 0,
         questions_correct: 0,

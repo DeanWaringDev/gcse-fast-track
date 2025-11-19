@@ -251,7 +251,7 @@ export default function PracticeSession({
    */
   async function startPracticeSession() {
     try {
-      console.log('Starting practice session:', { courseSlug, lessonId, practiceMode });
+      console.log('Starting practice session:', { courseSlug, lessonId, lessonSlug, practiceMode });
       
       const response = await fetch('/api/start-practice-session', {
         method: 'POST',
@@ -259,6 +259,7 @@ export default function PracticeSession({
         body: JSON.stringify({
           courseSlug,
           lessonId,
+          lessonSlug,
           practiceMode,
         }),
       });
