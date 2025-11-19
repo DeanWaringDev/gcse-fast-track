@@ -225,7 +225,7 @@ export default function LessonPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <div className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-8 px-4 sm:px-6 lg:px-8">
+      <div className="bg-linear-to-r from-indigo-600 to-purple-700 text-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <button
             onClick={() => router.push('/courses/computerscience')}
