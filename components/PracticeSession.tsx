@@ -213,20 +213,29 @@ export default function PracticeSession({
         selectedQuestions = getRandomQuestions(expertQuestions, 15);
       } else if (practiceMode === 'weak_areas') {
         // Weak areas: Fetch incorrect questions from database
+        console.log('Fetching weak questions for:', { courseSlug, lessonId });
         const response = await fetch(`/api/weak-questions?courseSlug=${courseSlug}&lessonId=${lessonId}`);
         
         if (!response.ok) {
+          const errorText = await response.text();
+          console.error('Failed to fetch weak questions:', response.status, errorText);
           throw new Error('Failed to fetch weak questions');
         }
         
         const weakQuestionIds = await response.json();
+        console.log('Weak question IDs from API:', weakQuestionIds);
+        console.log('Total questions in lesson:', allQuestions.length);
+        console.log('Sample question IDs from lesson:', allQuestions.slice(0, 5).map(q => q.id));
         
         // Filter allQuestions to only include weak questions
         const weakQuestionPool = allQuestions.filter(q => 
           weakQuestionIds.includes(q.id)
         );
         
+        console.log('Matched weak questions:', weakQuestionPool.length);
+        
         if (weakQuestionPool.length === 0) {
+          console.warn('No weak questions found. IDs from API:', weakQuestionIds);
           alert('No weak areas found yet. Practice more questions first!');
           onClose();
           return;

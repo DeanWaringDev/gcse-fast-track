@@ -49,6 +49,8 @@ export async function GET(request: Request) {
     }
 
     // Get weak questions from view
+    console.log('Fetching weak questions for user:', user.id, 'course:', courseSlug, 'lesson:', lessonId);
+    
     const { data: weakQuestions, error: weakError } = await supabase
       .from('weak_questions')
       .select('question_id')
@@ -59,13 +61,18 @@ export async function GET(request: Request) {
     if (weakError) {
       console.error('Error fetching weak questions:', weakError);
       return NextResponse.json(
-        { error: 'Failed to fetch weak questions' },
+        { error: 'Failed to fetch weak questions', details: weakError.message },
         { status: 500 }
       );
     }
 
+    console.log('Found weak questions:', weakQuestions?.length || 0, 'questions');
+    console.log('Weak question data:', weakQuestions);
+
     // Extract just the question IDs
     const questionIds = weakQuestions?.map(q => q.question_id) || [];
+    
+    console.log('Returning question IDs:', questionIds);
 
     return NextResponse.json(questionIds);
   } catch (error) {
