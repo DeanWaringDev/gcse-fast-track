@@ -12,7 +12,7 @@ import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import CourseProgressBanner from '@/components/CourseProgressBanner';
 import LessonCard from '@/components/LessonCard';
-import lessonsData from '@/public/data/computerscience/computerscience_lessons.json';
+import lessonsData from '@/public/data/computerscience/lessons.json';
 
 interface LessonProgress {
   lesson_id: number;
