@@ -1,0 +1,1250 @@
+{
+  "lessonId": 100,
+  "lessonNumber": "100",
+  "lessonTitle": "Final Confidence Check",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 48 - 22"
+        },
+        {
+          "id": 2,
+          "question": "Find: 11 \u00d7 7"
+        },
+        {
+          "id": 3,
+          "question": "Work out: 96 - 41"
+        },
+        {
+          "id": 4,
+          "question": "Work out: 28 - 15"
+        },
+        {
+          "id": 5,
+          "question": "Find: 2 \u00d7 2"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 10 - 6"
+        },
+        {
+          "id": 7,
+          "question": "Find: 10 \u00d7 4"
+        },
+        {
+          "id": 8,
+          "question": "Calculate: 10 + 8"
+        },
+        {
+          "id": 9,
+          "question": "Find: 6 \u00d7 12"
+        },
+        {
+          "id": 10,
+          "question": "Work out: 33 - 7"
+        },
+        {
+          "id": 11,
+          "question": "Work out: 75 - 35"
+        },
+        {
+          "id": 12,
+          "question": "Calculate: 14 + 19"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 9 + 2"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 14 + 17"
+        },
+        {
+          "id": 15,
+          "question": "Calculate: 15 + 12"
+        },
+        {
+          "id": 16,
+          "question": "Calculate: 2 + 9"
+        },
+        {
+          "id": 17,
+          "question": "Work out: 20 - 6"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 51 - 7"
+        },
+        {
+          "id": 19,
+          "question": "Find: 7 \u00d7 7"
+        },
+        {
+          "id": 20,
+          "question": "Calculate: 1 + 4"
+        },
+        {
+          "id": 21,
+          "question": "Find: 2 \u00d7 5"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 100 - 14"
+        },
+        {
+          "id": 23,
+          "question": "Find: 6 \u00d7 11"
+        },
+        {
+          "id": 24,
+          "question": "Work out: 37 - 32"
+        },
+        {
+          "id": 25,
+          "question": "Find: 11 \u00d7 9"
+        },
+        {
+          "id": 26,
+          "question": "Find: 9 \u00d7 6"
+        },
+        {
+          "id": 27,
+          "question": "Calculate: 3 + 15"
+        },
+        {
+          "id": 28,
+          "question": "Calculate: 13 + 11"
+        },
+        {
+          "id": 29,
+          "question": "Work out: 10 - 4"
+        },
+        {
+          "id": 30,
+          "question": "Work out: 59 - 20"
+        },
+        {
+          "id": 31,
+          "question": "Work out: 89 - 34"
+        },
+        {
+          "id": 32,
+          "question": "Calculate: 3 + 11"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 14 - 35"
+        },
+        {
+          "id": 34,
+          "question": "Work out: 37 - 21"
+        },
+        {
+          "id": 35,
+          "question": "Calculate: 4 + 10"
+        },
+        {
+          "id": 36,
+          "question": "Calculate: 14 + 17"
+        },
+        {
+          "id": 37,
+          "question": "Find: 6 \u00d7 2"
+        },
+        {
+          "id": 38,
+          "question": "Work out: 21 - 33"
+        },
+        {
+          "id": 39,
+          "question": "Find: 9 \u00d7 7"
+        },
+        {
+          "id": 40,
+          "question": "Work out: 19 - 10"
+        },
+        {
+          "id": 41,
+          "question": "Find: 7 \u00d7 4"
+        },
+        {
+          "id": 42,
+          "question": "Work out: 91 - 17"
+        },
+        {
+          "id": 43,
+          "question": "Work out: 12 - 10"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 12 - 35"
+        },
+        {
+          "id": 45,
+          "question": "Work out: 22 - 17"
+        },
+        {
+          "id": 46,
+          "question": "Find: 12 \u00d7 9"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 52 - 14"
+        },
+        {
+          "id": 48,
+          "question": "Work out: 80 - 19"
+        },
+        {
+          "id": 49,
+          "question": "Find: 4 \u00d7 4"
+        },
+        {
+          "id": 50,
+          "question": "Calculate: 9 + 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Solve: 20 + 7 - 7"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (7 + 10) \u00d7 8"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 28 + 9 - 23"
+        },
+        {
+          "id": 54,
+          "question": "Solve: 42 + 44 - 21"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (6 + 3) \u00d7 3"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (3 + 10) \u00d7 3"
+        },
+        {
+          "id": 57,
+          "question": "Calculate: (8 + 10) \u00d7 5"
+        },
+        {
+          "id": 58,
+          "question": "Calculate: (5 + 8) \u00d7 6"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (7 + 4) \u00d7 7"
+        },
+        {
+          "id": 60,
+          "question": "Calculate: (8 + 5) \u00d7 3"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 44 + 42 - 1"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (5 + 7) \u00d7 3"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (1 + 7) \u00d7 8"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 38 + 41 - 8"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (6 + 2) \u00d7 8"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 27 + 30 - 20"
+        },
+        {
+          "id": 67,
+          "question": "Calculate: (4 + 10) \u00d7 7"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (8 + 8) \u00d7 2"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 14 + 37 - 13"
+        },
+        {
+          "id": 70,
+          "question": "Calculate: (10 + 4) \u00d7 6"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (7 + 4) \u00d7 5"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (7 + 2) \u00d7 3"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (10 + 9) \u00d7 7"
+        },
+        {
+          "id": 74,
+          "question": "Calculate: (4 + 4) \u00d7 4"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 48 + 48 - 29"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 17 + 10 - 1"
+        },
+        {
+          "id": 77,
+          "question": "Calculate: (6 + 3) \u00d7 8"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (7 + 10) \u00d7 5"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (9 + 6) \u00d7 5"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (2 + 10) \u00d7 5"
+        },
+        {
+          "id": 81,
+          "question": "Calculate: (9 + 8) \u00d7 7"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 21 + 22 - 28"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (3 + 3) \u00d7 7"
+        },
+        {
+          "id": 84,
+          "question": "Solve: 8 + 18 - 5"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (6 + 9) \u00d7 3"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 14 + 27 - 24"
+        },
+        {
+          "id": 87,
+          "question": "Calculate: (10 + 6) \u00d7 5"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (2 + 3) \u00d7 6"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 42 + 12 - 16"
+        },
+        {
+          "id": 90,
+          "question": "Calculate: (9 + 6) \u00d7 7"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 44 + 50 - 18"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 25 + 9 - 25"
+        },
+        {
+          "id": 93,
+          "question": "Solve: 13 + 32 - 27"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (10 + 5) \u00d7 8"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 10 + 5 - 9"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (9 + 9) \u00d7 2"
+        },
+        {
+          "id": 97,
+          "question": "Calculate: (3 + 5) \u00d7 7"
+        },
+        {
+          "id": 98,
+          "question": "Solve: 26 + 29 - 22"
+        },
+        {
+          "id": 99,
+          "question": "Solve: 23 + 18 - 3"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 9 + 5 - 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Calculate: (4 + 1) \u00d7 2"
+        },
+        {
+          "id": 102,
+          "question": "Solve: 38 + 26 - 30"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (9 + 2) \u00d7 2"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 10 + 36 - 26"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (5 + 6) \u00d7 6"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 40 + 13 - 8"
+        },
+        {
+          "id": 107,
+          "question": "Calculate: (6 + 6) \u00d7 7"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 28 + 38 - 6"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 20 + 27 - 12"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 11 + 22 - 2"
+        },
+        {
+          "id": 111,
+          "question": "Solve: 19 + 15 - 10"
+        },
+        {
+          "id": 112,
+          "question": "Solve: 14 + 22 - 8"
+        },
+        {
+          "id": 113,
+          "question": "Calculate: (5 + 3) \u00d7 8"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (7 + 7) \u00d7 5"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 19 + 23 - 23"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 34 + 36 - 20"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (1 + 4) \u00d7 6"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 41 + 47 - 3"
+        },
+        {
+          "id": 119,
+          "question": "Calculate: (7 + 4) \u00d7 5"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (8 + 8) \u00d7 3"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 11 + 37 - 1"
+        },
+        {
+          "id": 122,
+          "question": "Calculate: (4 + 6) \u00d7 3"
+        },
+        {
+          "id": 123,
+          "question": "Calculate: (9 + 10) \u00d7 3"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 45 + 34 - 26"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (8 + 1) \u00d7 7"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 28 + 14 - 27"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 48 + 20 - 6"
+        },
+        {
+          "id": 128,
+          "question": "Solve: 27 + 16 - 28"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 29 + 31 - 26"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (5 + 4) \u00d7 3"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 38 + 12 - 12"
+        },
+        {
+          "id": 132,
+          "question": "Solve: 27 + 28 - 21"
+        },
+        {
+          "id": 133,
+          "question": "Solve: 29 + 5 - 19"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 22 + 44 - 1"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (9 + 1) \u00d7 5"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 45 + 43 - 23"
+        },
+        {
+          "id": 137,
+          "question": "Solve: 37 + 27 - 3"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: (7 + 1) \u00d7 8"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 8 + 32 - 18"
+        },
+        {
+          "id": 140,
+          "question": "Solve: 41 + 21 - 18"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (7 + 9) \u00d7 7"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (10 + 3) \u00d7 6"
+        },
+        {
+          "id": 143,
+          "question": "Solve: 19 + 30 - 12"
+        },
+        {
+          "id": 144,
+          "question": "Calculate: (3 + 3) \u00d7 6"
+        },
+        {
+          "id": 145,
+          "question": "Solve: 26 + 39 - 9"
+        },
+        {
+          "id": 146,
+          "question": "Solve: 38 + 28 - 9"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (4 + 1) \u00d7 8"
+        },
+        {
+          "id": 148,
+          "question": "Solve: 18 + 47 - 5"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (10 + 7) \u00d7 2"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 18 + 6 - 10"
+        },
+        {
+          "id": 151,
+          "question": "Solve: 18 + 31 - 7"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 10 + 49 - 2"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 11 + 23 - 17"
+        },
+        {
+          "id": 154,
+          "question": "Solve: 8 + 6 - 8"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 39 + 26 - 4"
+        },
+        {
+          "id": 156,
+          "question": "Solve: 39 + 17 - 11"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (6 + 8) \u00d7 2"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (3 + 4) \u00d7 8"
+        },
+        {
+          "id": 159,
+          "question": "Solve: 39 + 11 - 17"
+        },
+        {
+          "id": 160,
+          "question": "Solve: 8 + 46 - 1"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Solve: 15 + 8 - 23"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (9 + 1) \u00d7 6"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (10 + 7) \u00d7 8"
+        },
+        {
+          "id": 164,
+          "question": "Solve: 16 + 43 - 7"
+        },
+        {
+          "id": 165,
+          "question": "Solve: 19 + 38 - 11"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 41 + 6 - 19"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (9 + 5) \u00d7 3"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 36 + 30 - 6"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 34 + 31 - 13"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 43 + 47 - 17"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (1 + 9) \u00d7 6"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (5 + 9) \u00d7 6"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (10 + 5) \u00d7 3"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (1 + 6) \u00d7 2"
+        },
+        {
+          "id": 175,
+          "question": "Solve: 41 + 40 - 7"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 13 + 16 - 19"
+        },
+        {
+          "id": 177,
+          "question": "Solve: 7 + 36 - 19"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (3 + 2) \u00d7 4"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (5 + 2) \u00d7 2"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (3 + 8) \u00d7 3"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: (2 + 4) \u00d7 8"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 20 + 40 - 14"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 49 + 31 - 27"
+        },
+        {
+          "id": 184,
+          "question": "Calculate: (1 + 8) \u00d7 3"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 18 + 22 - 26"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (10 + 5) \u00d7 6"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (3 + 4) \u00d7 8"
+        },
+        {
+          "id": 188,
+          "question": "Calculate: (9 + 8) \u00d7 8"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 18 + 24 - 21"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (2 + 6) \u00d7 8"
+        },
+        {
+          "id": 191,
+          "question": "Solve: 42 + 38 - 17"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (4 + 2) \u00d7 5"
+        },
+        {
+          "id": 193,
+          "question": "Solve: 19 + 48 - 23"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (4 + 1) \u00d7 7"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 49 + 21 - 20"
+        },
+        {
+          "id": 196,
+          "question": "Calculate: (1 + 9) \u00d7 7"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 26 + 13 - 18"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 30 + 22 - 13"
+        },
+        {
+          "id": 199,
+          "question": "Solve: 49 + 34 - 9"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 13 + 45 - 29"
+        },
+        {
+          "id": 201,
+          "question": "Calculate: (4 + 2) \u00d7 5"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 29 + 28 - 17"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (2 + 9) \u00d7 8"
+        },
+        {
+          "id": 204,
+          "question": "Calculate: (8 + 9) \u00d7 7"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 21 + 35 - 19"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (10 + 1) \u00d7 6"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (6 + 6) \u00d7 8"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 22 + 30 - 28"
+        },
+        {
+          "id": 209,
+          "question": "Calculate: (9 + 6) \u00d7 5"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 13 + 36 - 9"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 219,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 225,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 229,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 230,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 231,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 232,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 233,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 234,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 235,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 238,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 240,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 241,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 245,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 248,
+          "question": "Multi-step question about final confidence check"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving final confidence check"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about final confidence check"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 252,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 258,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 263,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 266,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 267,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 270,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 275,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 276,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 278,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 279,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 281,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 289,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 292,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 293,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Show your working for this final confidence check question"
+        },
+        {
+          "id": 299,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        },
+        {
+          "id": 300,
+          "question": "Exam question: Apply final confidence check to solve this problem"
+        }
+      ]
+    }
+  ]
+}

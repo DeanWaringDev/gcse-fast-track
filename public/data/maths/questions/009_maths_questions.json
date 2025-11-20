@@ -1,0 +1,1718 @@
+{
+  "lessonId": 9,
+  "lessonNumber": "009",
+  "lessonTitle": "Understanding Algebra - The Basics",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Variables",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is a variable?",
+          "answer": "A letter representing a number"
+        },
+        {
+          "id": 2,
+          "question": "Can you use any letter as a variable?",
+          "answer": "Yes"
+        },
+        {
+          "id": 3,
+          "question": "If x = 5, what is the value of x?",
+          "answer": "5"
+        },
+        {
+          "id": 4,
+          "question": "Can x = 3 AND x = 7 in the same problem?",
+          "answer": "No"
+        },
+        {
+          "id": 5,
+          "question": "What does the variable n often represent?",
+          "answer": "A counting number"
+        },
+        {
+          "id": 6,
+          "question": "If y = 10, what is y?",
+          "answer": "10"
+        },
+        {
+          "id": 7,
+          "question": "Are x and y different variables?",
+          "answer": "Yes"
+        },
+        {
+          "id": 8,
+          "question": "What letter is most common in algebra?",
+          "answer": "x"
+        },
+        {
+          "id": 9,
+          "question": "If a = 4, what is a + a?",
+          "answer": "8"
+        },
+        {
+          "id": 10,
+          "question": "Can variables represent negative numbers?",
+          "answer": "Yes"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Writing Algebra - Set 1",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Write in algebra: 3 times x",
+          "answer": "3x"
+        },
+        {
+          "id": 12,
+          "question": "Write in algebra: 4 times x",
+          "answer": "4x"
+        },
+        {
+          "id": 13,
+          "question": "Write in algebra: 5 times x",
+          "answer": "5x"
+        },
+        {
+          "id": 14,
+          "question": "Write in algebra: 6 times x",
+          "answer": "6x"
+        },
+        {
+          "id": 15,
+          "question": "Write in algebra: 7 times x",
+          "answer": "7x"
+        },
+        {
+          "id": 16,
+          "question": "Write in algebra: 8 times x",
+          "answer": "8x"
+        },
+        {
+          "id": 17,
+          "question": "Write in algebra: 9 times x",
+          "answer": "9x"
+        },
+        {
+          "id": 18,
+          "question": "Write in algebra: 10 times x",
+          "answer": "10x"
+        },
+        {
+          "id": 19,
+          "question": "Write in algebra: 11 times x",
+          "answer": "11x"
+        },
+        {
+          "id": 20,
+          "question": "Write in algebra: 12 times x",
+          "answer": "12x"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Writing Algebra - Set 2",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Write in algebra: 3 times x",
+          "answer": "3x"
+        },
+        {
+          "id": 22,
+          "question": "Write in algebra: 4 times x",
+          "answer": "4x"
+        },
+        {
+          "id": 23,
+          "question": "Write in algebra: 5 times x",
+          "answer": "5x"
+        },
+        {
+          "id": 24,
+          "question": "Write in algebra: 6 times x",
+          "answer": "6x"
+        },
+        {
+          "id": 25,
+          "question": "Write in algebra: 7 times x",
+          "answer": "7x"
+        },
+        {
+          "id": 26,
+          "question": "Write in algebra: 8 times x",
+          "answer": "8x"
+        },
+        {
+          "id": 27,
+          "question": "Write in algebra: 9 times x",
+          "answer": "9x"
+        },
+        {
+          "id": 28,
+          "question": "Write in algebra: 10 times x",
+          "answer": "10x"
+        },
+        {
+          "id": 29,
+          "question": "Write in algebra: 11 times x",
+          "answer": "11x"
+        },
+        {
+          "id": 30,
+          "question": "Write in algebra: 12 times x",
+          "answer": "12x"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Writing Algebra - Set 3",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 31,
+          "question": "Write in algebra: 3 times x",
+          "answer": "3x"
+        },
+        {
+          "id": 32,
+          "question": "Write in algebra: 4 times x",
+          "answer": "4x"
+        },
+        {
+          "id": 33,
+          "question": "Write in algebra: 5 times x",
+          "answer": "5x"
+        },
+        {
+          "id": 34,
+          "question": "Write in algebra: 6 times x",
+          "answer": "6x"
+        },
+        {
+          "id": 35,
+          "question": "Write in algebra: 7 times x",
+          "answer": "7x"
+        },
+        {
+          "id": 36,
+          "question": "Write in algebra: 8 times x",
+          "answer": "8x"
+        },
+        {
+          "id": 37,
+          "question": "Write in algebra: 9 times x",
+          "answer": "9x"
+        },
+        {
+          "id": 38,
+          "question": "Write in algebra: 10 times x",
+          "answer": "10x"
+        },
+        {
+          "id": 39,
+          "question": "Write in algebra: 11 times x",
+          "answer": "11x"
+        },
+        {
+          "id": 40,
+          "question": "Write in algebra: 12 times x",
+          "answer": "12x"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Writing Algebra - Set 4",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Write: x divided by 2",
+          "answer": "x/2"
+        },
+        {
+          "id": 42,
+          "question": "Write: x divided by 3",
+          "answer": "x/3"
+        },
+        {
+          "id": 43,
+          "question": "Write: x divided by 4",
+          "answer": "x/4"
+        },
+        {
+          "id": 44,
+          "question": "Write: x divided by 5",
+          "answer": "x/5"
+        },
+        {
+          "id": 45,
+          "question": "Write: x divided by 6",
+          "answer": "x/6"
+        },
+        {
+          "id": 46,
+          "question": "Write: x divided by 7",
+          "answer": "x/7"
+        },
+        {
+          "id": 47,
+          "question": "Write: x divided by 8",
+          "answer": "x/8"
+        },
+        {
+          "id": 48,
+          "question": "Write: x divided by 9",
+          "answer": "x/9"
+        },
+        {
+          "id": 49,
+          "question": "Write: x divided by 10",
+          "answer": "x/10"
+        },
+        {
+          "id": 50,
+          "question": "Write: x divided by 11",
+          "answer": "x/11"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Writing Algebra - Set 5",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Write: x divided by 2",
+          "answer": "x/2"
+        },
+        {
+          "id": 52,
+          "question": "Write: x divided by 3",
+          "answer": "x/3"
+        },
+        {
+          "id": 53,
+          "question": "Write: x divided by 4",
+          "answer": "x/4"
+        },
+        {
+          "id": 54,
+          "question": "Write: x divided by 5",
+          "answer": "x/5"
+        },
+        {
+          "id": 55,
+          "question": "Write: x divided by 6",
+          "answer": "x/6"
+        },
+        {
+          "id": 56,
+          "question": "Write: x divided by 7",
+          "answer": "x/7"
+        },
+        {
+          "id": 57,
+          "question": "Write: x divided by 8",
+          "answer": "x/8"
+        },
+        {
+          "id": 58,
+          "question": "Write: x divided by 9",
+          "answer": "x/9"
+        },
+        {
+          "id": 59,
+          "question": "Write: x divided by 10",
+          "answer": "x/10"
+        },
+        {
+          "id": 60,
+          "question": "Write: x divided by 11",
+          "answer": "x/11"
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Writing Algebra - Set 6",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "Write: x divided by 2",
+          "answer": "x/2"
+        },
+        {
+          "id": 62,
+          "question": "Write: x divided by 3",
+          "answer": "x/3"
+        },
+        {
+          "id": 63,
+          "question": "Write: x divided by 4",
+          "answer": "x/4"
+        },
+        {
+          "id": 64,
+          "question": "Write: x divided by 5",
+          "answer": "x/5"
+        },
+        {
+          "id": 65,
+          "question": "Write: x divided by 6",
+          "answer": "x/6"
+        },
+        {
+          "id": 66,
+          "question": "Write: x divided by 7",
+          "answer": "x/7"
+        },
+        {
+          "id": 67,
+          "question": "Write: x divided by 8",
+          "answer": "x/8"
+        },
+        {
+          "id": 68,
+          "question": "Write: x divided by 9",
+          "answer": "x/9"
+        },
+        {
+          "id": 69,
+          "question": "Write: x divided by 10",
+          "answer": "x/10"
+        },
+        {
+          "id": 70,
+          "question": "Write: x divided by 11",
+          "answer": "x/11"
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Writing Algebra - Set 7",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 72,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 73,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 74,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 75,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 76,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 77,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 78,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 79,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 80,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Writing Algebra - Set 8",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 81,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 82,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 83,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 84,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 85,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 86,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 87,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 88,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 89,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 90,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Writing Algebra - Set 9",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 92,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 93,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 94,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 95,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 96,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 97,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 98,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 99,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        },
+        {
+          "id": 100,
+          "question": "Write: x times x",
+          "answer": "x\u00b2"
+        }
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Substitution - Set 1",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 102,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 103,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 104,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 105,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 106,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 107,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 108,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 109,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 110,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Substitution - Set 2",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 111,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 112,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 113,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 114,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 115,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 116,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 117,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 118,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 119,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 120,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Substitution - Set 3",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 121,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 122,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 123,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 124,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 125,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 126,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 127,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 128,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 129,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 130,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Substitution - Set 4",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 131,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 132,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 133,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 134,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 135,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 136,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 137,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 138,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 139,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 140,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Substitution - Set 5",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 141,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 142,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 143,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 144,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 145,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 146,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 147,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 148,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 149,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 150,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Substitution - Set 6",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 151,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 152,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 153,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 154,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 155,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 156,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 157,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 158,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 159,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 160,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Substitution - Set 7",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 162,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 163,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 164,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 165,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 166,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 167,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 168,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 169,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 170,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Substitution - Set 8",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 171,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 172,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 173,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 174,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 175,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 176,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 177,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 178,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 179,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 180,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Substitution - Set 9",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 181,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 182,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 183,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 184,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 185,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 186,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 187,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 188,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 189,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 190,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Substitution - Set 10",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 191,
+          "question": "Find 3x + 5 when x = 2",
+          "answer": "11"
+        },
+        {
+          "id": 192,
+          "question": "Find 3x + 5 when x = 3",
+          "answer": "14"
+        },
+        {
+          "id": 193,
+          "question": "Find 3x + 5 when x = 4",
+          "answer": "17"
+        },
+        {
+          "id": 194,
+          "question": "Find 3x + 5 when x = 5",
+          "answer": "20"
+        },
+        {
+          "id": 195,
+          "question": "Find 3x + 5 when x = 6",
+          "answer": "23"
+        },
+        {
+          "id": 196,
+          "question": "Find 3x + 5 when x = 7",
+          "answer": "26"
+        },
+        {
+          "id": 197,
+          "question": "Find 3x + 5 when x = 8",
+          "answer": "29"
+        },
+        {
+          "id": 198,
+          "question": "Find 3x + 5 when x = 9",
+          "answer": "32"
+        },
+        {
+          "id": 199,
+          "question": "Find 3x + 5 when x = 10",
+          "answer": "35"
+        },
+        {
+          "id": 200,
+          "question": "Find 3x + 5 when x = 11",
+          "answer": "38"
+        }
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Terms & Coefficients - Set 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 201,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 202,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 203,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 204,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 205,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 206,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 207,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 208,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 209,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 210,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Terms & Coefficients - Set 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 211,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 212,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 213,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 214,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 215,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 216,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 217,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 218,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 219,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 220,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Terms & Coefficients - Set 3",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 221,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 222,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 223,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 224,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 225,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 226,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 227,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 228,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 229,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 230,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Terms & Coefficients - Set 4",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 231,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 232,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 233,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 234,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 235,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 236,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 237,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 238,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 239,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 240,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Terms & Coefficients - Set 5",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 241,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 242,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 243,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 244,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 245,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 246,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 247,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 248,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 249,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 250,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Terms & Coefficients - Set 6",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 251,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 252,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 253,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 254,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 255,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 256,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 257,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 258,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 259,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 260,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Terms & Coefficients - Set 7",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 261,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 262,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 263,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 264,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 265,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 266,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 267,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 268,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 269,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 270,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Terms & Coefficients - Set 8",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 271,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 272,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 273,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 274,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 275,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 276,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 277,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 278,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 279,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 280,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Terms & Coefficients - Set 9",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 281,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 282,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 283,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 284,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 285,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 286,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 287,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 288,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 289,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 290,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Terms & Coefficients - Set 10",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 291,
+          "question": "What is the coefficient of 3x?",
+          "answer": "3"
+        },
+        {
+          "id": 292,
+          "question": "What is the coefficient of 4x?",
+          "answer": "4"
+        },
+        {
+          "id": 293,
+          "question": "What is the coefficient of 5x?",
+          "answer": "5"
+        },
+        {
+          "id": 294,
+          "question": "What is the coefficient of 6x?",
+          "answer": "6"
+        },
+        {
+          "id": 295,
+          "question": "What is the coefficient of 7x?",
+          "answer": "7"
+        },
+        {
+          "id": 296,
+          "question": "What is the coefficient of 8x?",
+          "answer": "8"
+        },
+        {
+          "id": 297,
+          "question": "What is the coefficient of 9x?",
+          "answer": "9"
+        },
+        {
+          "id": 298,
+          "question": "What is the coefficient of 10x?",
+          "answer": "10"
+        },
+        {
+          "id": 299,
+          "question": "What is the coefficient of 11x?",
+          "answer": "11"
+        },
+        {
+          "id": 300,
+          "question": "What is the coefficient of 12x?",
+          "answer": "12"
+        }
+      ]
+    }
+  ]
+}

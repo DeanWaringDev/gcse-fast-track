@@ -1,0 +1,2109 @@
+{
+  "lessonId": 79,
+  "lessonNumber": "079",
+  "lessonTitle": "Expected Outcomes",
+  "totalQuestions": 300,
+  "note": "Full working and explanations provided for each answer.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "Calculate: 7 + 19",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 2,
+      "question": "Work out: 11 - 4",
+      "answer": 7,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 3,
+      "question": "Calculate: 19 + 6",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 4,
+      "question": "Find: 9 \u00d7 7",
+      "answer": 63,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 5,
+      "question": "Find: 10 \u00d7 4",
+      "answer": 40,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 6,
+      "question": "Calculate: 10 + 15",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 7,
+      "question": "Calculate: 9 + 5",
+      "answer": 14,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 8,
+      "question": "Find: 3 \u00d7 6",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 9,
+      "question": "Find: 7 \u00d7 11",
+      "answer": 77,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 10,
+      "question": "Find: 10 \u00d7 12",
+      "answer": 120,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 11,
+      "question": "Find: 11 \u00d7 3",
+      "answer": 33,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 12,
+      "question": "Work out: 73 - 36",
+      "answer": 37,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 13,
+      "question": "Calculate: 7 + 15",
+      "answer": 22,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 14,
+      "question": "Find: 11 \u00d7 11",
+      "answer": 121,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 15,
+      "question": "Find: 9 \u00d7 12",
+      "answer": 108,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 16,
+      "question": "Work out: 51 - 43",
+      "answer": 8,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 17,
+      "question": "Calculate: 3 + 6",
+      "answer": 9,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 18,
+      "question": "Calculate: 13 + 3",
+      "answer": 16,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 19,
+      "question": "Calculate: 4 + 1",
+      "answer": 5,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 20,
+      "question": "Find: 11 \u00d7 10",
+      "answer": 110,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 21,
+      "question": "Work out: 91 - 29",
+      "answer": 62,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 22,
+      "question": "Calculate: 19 + 11",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 23,
+      "question": "Calculate: 3 + 10",
+      "answer": 13,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 24,
+      "question": "Calculate: 20 + 8",
+      "answer": 28,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 25,
+      "question": "Calculate: 10 + 18",
+      "answer": 28,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 26,
+      "question": "Work out: 73 - 48",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 27,
+      "question": "Work out: 78 - 48",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 28,
+      "question": "Find: 2 \u00d7 9",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 29,
+      "question": "Work out: 74 - 47",
+      "answer": 27,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 30,
+      "question": "Work out: 53 - 49",
+      "answer": 4,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 31,
+      "question": "Find: 3 \u00d7 9",
+      "answer": 27,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 32,
+      "question": "Work out: 93 - 41",
+      "answer": 52,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 33,
+      "question": "Calculate: 14 + 18",
+      "answer": 32,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 34,
+      "question": "Calculate: 1 + 14",
+      "answer": 15,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 35,
+      "question": "Find: 9 \u00d7 8",
+      "answer": 72,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 36,
+      "question": "Work out: 23 - 15",
+      "answer": 8,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 37,
+      "question": "Work out: 86 - 1",
+      "answer": 85,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 38,
+      "question": "Find: 5 \u00d7 4",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 39,
+      "question": "Find: 6 \u00d7 12",
+      "answer": 72,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 40,
+      "question": "Find: 2 \u00d7 8",
+      "answer": 16,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 41,
+      "question": "Work out: 17 - 13",
+      "answer": 4,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 42,
+      "question": "Work out: 80 - 35",
+      "answer": 45,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 43,
+      "question": "Calculate: 19 + 2",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 44,
+      "question": "Work out: 10 - 24",
+      "answer": -14,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 45,
+      "question": "Calculate: 8 + 18",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 46,
+      "question": "Find: 7 \u00d7 9",
+      "answer": 63,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 47,
+      "question": "Find: 2 \u00d7 7",
+      "answer": 14,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 48,
+      "question": "Calculate: 3 + 15",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 49,
+      "question": "Work out: 95 - 28",
+      "answer": 67,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 50,
+      "question": "Find: 5 \u00d7 11",
+      "answer": 55,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 51,
+      "question": "Calculate: (5 + 2) \u00d7 5",
+      "answer": 35,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 52,
+      "question": "Calculate: (7 + 3) \u00d7 5",
+      "answer": 50,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 53,
+      "question": "Solve: 47 + 6 - 11",
+      "answer": 42,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 54,
+      "question": "Calculate: (7 + 10) \u00d7 5",
+      "answer": 85,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 55,
+      "question": "Solve: 48 + 26 - 17",
+      "answer": 57,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 56,
+      "question": "Calculate: (4 + 3) \u00d7 3",
+      "answer": 21,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 57,
+      "question": "Calculate: (3 + 1) \u00d7 7",
+      "answer": 28,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 58,
+      "question": "Calculate: (3 + 9) \u00d7 3",
+      "answer": 36,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 59,
+      "question": "Solve: 16 + 37 - 30",
+      "answer": 23,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 60,
+      "question": "Solve: 19 + 21 - 24",
+      "answer": 16,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 61,
+      "question": "Solve: 33 + 40 - 17",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 62,
+      "question": "Calculate: (8 + 10) \u00d7 5",
+      "answer": 90,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 63,
+      "question": "Solve: 30 + 17 - 19",
+      "answer": 28,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 64,
+      "question": "Solve: 27 + 19 - 3",
+      "answer": 43,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 65,
+      "question": "Solve: 29 + 33 - 18",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 66,
+      "question": "Calculate: (6 + 8) \u00d7 7",
+      "answer": 98,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 67,
+      "question": "Calculate: (6 + 2) \u00d7 8",
+      "answer": 64,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 68,
+      "question": "Calculate: (5 + 5) \u00d7 7",
+      "answer": 70,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 69,
+      "question": "Calculate: (10 + 8) \u00d7 2",
+      "answer": 36,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 70,
+      "question": "Solve: 48 + 38 - 23",
+      "answer": 63,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 71,
+      "question": "Solve: 40 + 21 - 10",
+      "answer": 51,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 72,
+      "question": "Calculate: (5 + 1) \u00d7 4",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 73,
+      "question": "Solve: 25 + 36 - 25",
+      "answer": 36,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 74,
+      "question": "Solve: 48 + 46 - 4",
+      "answer": 90,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 75,
+      "question": "Calculate: (4 + 7) \u00d7 2",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 76,
+      "question": "Calculate: (9 + 2) \u00d7 4",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 77,
+      "question": "Calculate: (7 + 4) \u00d7 6",
+      "answer": 66,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 78,
+      "question": "Calculate: (9 + 7) \u00d7 6",
+      "answer": 96,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 79,
+      "question": "Calculate: (5 + 8) \u00d7 6",
+      "answer": 78,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 80,
+      "question": "Solve: 11 + 8 - 6",
+      "answer": 13,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 81,
+      "question": "Calculate: (4 + 5) \u00d7 2",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 82,
+      "question": "Calculate: (4 + 1) \u00d7 3",
+      "answer": 15,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 83,
+      "question": "Solve: 11 + 47 - 17",
+      "answer": 41,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 84,
+      "question": "Solve: 32 + 20 - 20",
+      "answer": 32,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 85,
+      "question": "Solve: 8 + 42 - 24",
+      "answer": 26,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 86,
+      "question": "Solve: 24 + 40 - 15",
+      "answer": 49,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 87,
+      "question": "Solve: 40 + 31 - 9",
+      "answer": 62,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 88,
+      "question": "Calculate: (7 + 4) \u00d7 2",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 89,
+      "question": "Calculate: (9 + 1) \u00d7 3",
+      "answer": 30,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 90,
+      "question": "Calculate: (2 + 4) \u00d7 7",
+      "answer": 42,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 91,
+      "question": "Solve: 20 + 18 - 10",
+      "answer": 28,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 92,
+      "question": "Solve: 23 + 9 - 1",
+      "answer": 31,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 93,
+      "question": "Calculate: (2 + 3) \u00d7 6",
+      "answer": 30,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 94,
+      "question": "Solve: 15 + 21 - 15",
+      "answer": 21,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 95,
+      "question": "Solve: 41 + 22 - 11",
+      "answer": 52,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 96,
+      "question": "Calculate: (6 + 5) \u00d7 4",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 97,
+      "question": "Calculate: (8 + 8) \u00d7 7",
+      "answer": 112,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 98,
+      "question": "Solve: 22 + 36 - 19",
+      "answer": 39,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 99,
+      "question": "Solve: 15 + 45 - 28",
+      "answer": 32,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 100,
+      "question": "Solve: 6 + 23 - 24",
+      "answer": 5,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 101,
+      "question": "Solve: 42 + 43 - 9",
+      "answer": 76,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 102,
+      "question": "Calculate: (4 + 6) \u00d7 6",
+      "answer": 60,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 103,
+      "question": "Solve: 11 + 43 - 20",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 104,
+      "question": "Solve: 12 + 46 - 8",
+      "answer": 50,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 105,
+      "question": "Calculate: (6 + 7) \u00d7 7",
+      "answer": 91,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 106,
+      "question": "Calculate: (3 + 2) \u00d7 4",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 107,
+      "question": "Solve: 28 + 45 - 15",
+      "answer": 58,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 108,
+      "question": "Solve: 44 + 50 - 13",
+      "answer": 81,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 109,
+      "question": "Solve: 20 + 50 - 11",
+      "answer": 59,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 110,
+      "question": "Solve: 36 + 26 - 7",
+      "answer": 55,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 111,
+      "question": "Solve: 41 + 16 - 11",
+      "answer": 46,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 112,
+      "question": "Solve: 36 + 36 - 10",
+      "answer": 62,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 113,
+      "question": "Calculate: (4 + 4) \u00d7 5",
+      "answer": 40,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 114,
+      "question": "Solve: 22 + 48 - 10",
+      "answer": 60,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 115,
+      "question": "Solve: 13 + 43 - 6",
+      "answer": 50,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 116,
+      "question": "Calculate: (1 + 10) \u00d7 4",
+      "answer": 44,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 117,
+      "question": "Calculate: (7 + 7) \u00d7 4",
+      "answer": 56,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 118,
+      "question": "Calculate: (6 + 10) \u00d7 4",
+      "answer": 64,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 119,
+      "question": "Calculate: (1 + 6) \u00d7 2",
+      "answer": 14,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 120,
+      "question": "Solve: 43 + 6 - 2",
+      "answer": 47,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 121,
+      "question": "Solve: 45 + 6 - 4",
+      "answer": 47,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 122,
+      "question": "Calculate: (9 + 9) \u00d7 7",
+      "answer": 126,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 123,
+      "question": "Calculate: (9 + 4) \u00d7 7",
+      "answer": 91,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 124,
+      "question": "Solve: 33 + 46 - 26",
+      "answer": 53,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 125,
+      "question": "Solve: 42 + 23 - 14",
+      "answer": 51,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 126,
+      "question": "Solve: 37 + 41 - 9",
+      "answer": 69,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 127,
+      "question": "Solve: 37 + 17 - 12",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 128,
+      "question": "Solve: 46 + 39 - 24",
+      "answer": 61,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 129,
+      "question": "Calculate: (9 + 5) \u00d7 4",
+      "answer": 56,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 130,
+      "question": "Calculate: (2 + 2) \u00d7 5",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 131,
+      "question": "Solve: 46 + 33 - 2",
+      "answer": 77,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 132,
+      "question": "Calculate: (4 + 3) \u00d7 3",
+      "answer": 21,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 133,
+      "question": "Calculate: (5 + 10) \u00d7 8",
+      "answer": 120,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 134,
+      "question": "Calculate: (4 + 3) \u00d7 5",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 135,
+      "question": "Calculate: (6 + 7) \u00d7 8",
+      "answer": 104,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 136,
+      "question": "Calculate: (3 + 9) \u00d7 6",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 137,
+      "question": "Calculate: (1 + 4) \u00d7 3",
+      "answer": 15,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 138,
+      "question": "Solve: 24 + 33 - 8",
+      "answer": 49,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 139,
+      "question": "Calculate: (9 + 2) \u00d7 3",
+      "answer": 33,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 140,
+      "question": "Calculate: (6 + 3) \u00d7 8",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 141,
+      "question": "Solve: 49 + 21 - 25",
+      "answer": 45,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 142,
+      "question": "Calculate: (4 + 9) \u00d7 7",
+      "answer": 91,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 143,
+      "question": "Solve: 34 + 39 - 4",
+      "answer": 69,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 144,
+      "question": "Solve: 44 + 28 - 11",
+      "answer": 61,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 145,
+      "question": "Solve: 21 + 25 - 30",
+      "answer": 16,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 146,
+      "question": "Calculate: (5 + 8) \u00d7 8",
+      "answer": 104,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 147,
+      "question": "Calculate: (10 + 2) \u00d7 6",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 148,
+      "question": "Solve: 11 + 7 - 4",
+      "answer": 14,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 149,
+      "question": "Solve: 17 + 48 - 7",
+      "answer": 58,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 150,
+      "question": "Solve: 9 + 9 - 24",
+      "answer": -6,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 151,
+      "question": "Calculate: (7 + 3) \u00d7 4",
+      "answer": 40,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 152,
+      "question": "Solve: 31 + 17 - 14",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 153,
+      "question": "Calculate: (2 + 6) \u00d7 3",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 154,
+      "question": "Calculate: (10 + 4) \u00d7 5",
+      "answer": 70,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 155,
+      "question": "Solve: 17 + 25 - 10",
+      "answer": 32,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 156,
+      "question": "Calculate: (3 + 2) \u00d7 7",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 157,
+      "question": "Calculate: (3 + 3) \u00d7 6",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 158,
+      "question": "Solve: 16 + 46 - 20",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 159,
+      "question": "Solve: 47 + 31 - 26",
+      "answer": 52,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 160,
+      "question": "Calculate: (9 + 5) \u00d7 2",
+      "answer": 28,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 161,
+      "question": "Solve: 37 + 21 - 3",
+      "answer": 55,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 162,
+      "question": "Solve: 27 + 35 - 6",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 163,
+      "question": "Calculate: (10 + 9) \u00d7 4",
+      "answer": 76,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 164,
+      "question": "Solve: 45 + 34 - 29",
+      "answer": 50,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 165,
+      "question": "Calculate: (9 + 3) \u00d7 6",
+      "answer": 72,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 166,
+      "question": "Solve: 26 + 8 - 17",
+      "answer": 17,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 167,
+      "question": "Solve: 11 + 46 - 26",
+      "answer": 31,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 168,
+      "question": "Calculate: (10 + 8) \u00d7 5",
+      "answer": 90,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 169,
+      "question": "Calculate: (7 + 8) \u00d7 3",
+      "answer": 45,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 170,
+      "question": "Solve: 12 + 44 - 17",
+      "answer": 39,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 171,
+      "question": "Solve: 32 + 30 - 10",
+      "answer": 52,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 172,
+      "question": "Calculate: (3 + 10) \u00d7 5",
+      "answer": 65,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 173,
+      "question": "Calculate: (1 + 2) \u00d7 8",
+      "answer": 24,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 174,
+      "question": "Calculate: (8 + 10) \u00d7 2",
+      "answer": 36,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 175,
+      "question": "Solve: 16 + 7 - 17",
+      "answer": 6,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 176,
+      "question": "Calculate: (10 + 9) \u00d7 6",
+      "answer": 114,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 177,
+      "question": "Solve: 23 + 43 - 10",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 178,
+      "question": "Calculate: (1 + 4) \u00d7 4",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 179,
+      "question": "Solve: 44 + 39 - 7",
+      "answer": 76,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 180,
+      "question": "Solve: 5 + 43 - 30",
+      "answer": 18,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 181,
+      "question": "Solve: 38 + 10 - 18",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 182,
+      "question": "Solve: 15 + 9 - 10",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 183,
+      "question": "Solve: 29 + 37 - 9",
+      "answer": 57,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 184,
+      "question": "Calculate: (7 + 3) \u00d7 4",
+      "answer": 40,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 185,
+      "question": "Calculate: (5 + 2) \u00d7 2",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 186,
+      "question": "Solve: 29 + 20 - 16",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 187,
+      "question": "Calculate: (9 + 8) \u00d7 2",
+      "answer": 34,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 188,
+      "question": "Calculate: (3 + 4) \u00d7 7",
+      "answer": 49,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 189,
+      "question": "Calculate: (3 + 10) \u00d7 5",
+      "answer": 65,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 190,
+      "question": "Solve: 50 + 46 - 18",
+      "answer": 78,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 191,
+      "question": "Calculate: (1 + 4) \u00d7 8",
+      "answer": 40,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 192,
+      "question": "Solve: 31 + 44 - 19",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 193,
+      "question": "Solve: 50 + 34 - 25",
+      "answer": 59,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 194,
+      "question": "Calculate: (9 + 7) \u00d7 8",
+      "answer": 128,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 195,
+      "question": "Solve: 15 + 12 - 17",
+      "answer": 10,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 196,
+      "question": "Solve: 12 + 26 - 29",
+      "answer": 9,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 197,
+      "question": "Calculate: (8 + 2) \u00d7 2",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 198,
+      "question": "Solve: 27 + 8 - 4",
+      "answer": 31,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 199,
+      "question": "Calculate: (2 + 3) \u00d7 6",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 200,
+      "question": "Solve: 46 + 24 - 13",
+      "answer": 57,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 201,
+      "question": "Calculate: (2 + 4) \u00d7 5",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 202,
+      "question": "Calculate: (8 + 8) \u00d7 6",
+      "answer": 96,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 203,
+      "question": "Solve: 20 + 27 - 22",
+      "answer": 25,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 204,
+      "question": "Solve: 19 + 8 - 17",
+      "answer": 10,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 205,
+      "question": "Calculate: (10 + 5) \u00d7 3",
+      "answer": 45,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 206,
+      "question": "Calculate: (2 + 1) \u00d7 3",
+      "answer": 9,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 207,
+      "question": "Solve: 39 + 25 - 10",
+      "answer": 54,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 208,
+      "question": "Solve: 22 + 42 - 6",
+      "answer": 58,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 209,
+      "question": "Solve: 33 + 11 - 28",
+      "answer": 16,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 210,
+      "question": "Solve: 8 + 30 - 9",
+      "answer": 29,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 211,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 212,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 213,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 214,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 215,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 216,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 217,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 218,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 219,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 220,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 221,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 222,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 223,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 224,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 225,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 226,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 227,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 228,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 229,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 230,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 231,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 232,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 233,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 234,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 235,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 236,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 237,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 238,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 239,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 240,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 241,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 242,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 243,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 244,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 245,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 246,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 247,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 248,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 249,
+      "question": "A complex problem involving expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 250,
+      "question": "Multi-step question about expected outcomes",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 251,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 252,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 253,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 254,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 255,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 256,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 257,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 258,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 259,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 260,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 261,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 262,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 263,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 264,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 265,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 266,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 267,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 268,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 269,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 270,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 271,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 272,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 273,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 274,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 275,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 276,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 277,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 278,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 279,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 280,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 281,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 282,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 283,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 284,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 285,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 286,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 287,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 288,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 289,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 290,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 291,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 292,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 293,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 294,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 295,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 296,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 297,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 298,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 299,
+      "question": "Exam question: Apply expected outcomes to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 300,
+      "question": "Show your working for this expected outcomes question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    }
+  ]
+}

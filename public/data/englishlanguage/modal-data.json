@@ -1,0 +1,111 @@
+{
+  "slug": "englishlanguage",
+  "categories": [
+    {
+      "name": "Reading Fundamentals",
+      "emoji": "📖",
+      "lessonCount": 8,
+      "freeLessons": 8,
+      "topics": "Explicit & Implicit Meaning, Inference, Evidence Selection, Terminology",
+      "color": "blue"
+    },
+    {
+      "name": "Language Analysis",
+      "emoji": "🔍",
+      "lessonCount": 12,
+      "freeLessons": 10,
+      "topics": "Word Choice, Literary Devices, Figurative Language, Tone & Mood",
+      "color": "purple"
+    },
+    {
+      "name": "Structure Analysis",
+      "emoji": "🏗️",
+      "lessonCount": 6,
+      "freeLessons": 4,
+      "topics": "Sentence Structure, Paragraphing, Narrative Perspective, Text Organization",
+      "color": "green"
+    },
+    {
+      "name": "Comparison & Evaluation",
+      "emoji": "⚖️",
+      "lessonCount": 5,
+      "freeLessons": 3,
+      "topics": "Comparing Texts, Critical Evaluation, Writer's Viewpoints",
+      "color": "cyan"
+    },
+    {
+      "name": "Creative Writing",
+      "emoji": "✍️",
+      "lessonCount": 12,
+      "freeLessons": 0,
+      "topics": "Narrative, Descriptive, Character, Setting, Dialogue, Atmosphere",
+      "color": "pink"
+    },
+    {
+      "name": "Persuasive & Transactional Writing",
+      "emoji": "📝",
+      "lessonCount": 10,
+      "freeLessons": 0,
+      "topics": "Articles, Letters, Speeches, Reviews, Persuasive Techniques",
+      "color": "orange"
+    },
+    {
+      "name": "Grammar & Punctuation",
+      "emoji": "📚",
+      "lessonCount": 8,
+      "freeLessons": 0,
+      "topics": "Sentence Types, Punctuation Mastery, Paragraphing, Spelling",
+      "color": "indigo"
+    },
+    {
+      "name": "19th Century Texts",
+      "emoji": "🎩",
+      "lessonCount": 6,
+      "freeLessons": 0,
+      "topics": "Victorian Literature, Historical Context, Language Change",
+      "color": "yellow"
+    },
+    {
+      "name": "20th & 21st Century Texts",
+      "emoji": "📰",
+      "lessonCount": 7,
+      "freeLessons": 0,
+      "topics": "Modern Fiction, Contemporary Non-Fiction, Media Analysis",
+      "color": "teal"
+    },
+    {
+      "name": "Spoken Language",
+      "emoji": "🎤",
+      "lessonCount": 4,
+      "freeLessons": 0,
+      "topics": "Presentation Skills, Spoken English, Listening & Responding",
+      "color": "red"
+    },
+    {
+      "name": "Exam Technique",
+      "emoji": "🎯",
+      "lessonCount": 6,
+      "freeLessons": 0,
+      "topics": "Paper 1 & 2 Strategy, Time Management, Question Skills",
+      "color": "lime"
+    },
+    {
+      "name": "Revision & Practice",
+      "emoji": "🔄",
+      "lessonCount": 10,
+      "freeLessons": 0,
+      "topics": "Topic Consolidation, Practice Papers, Timed Responses",
+      "color": "gray"
+    },
+    {
+      "name": "Mock Exams",
+      "emoji": "📋",
+      "lessonCount": 6,
+      "freeLessons": 0,
+      "topics": "Full Mock Papers, Exam Conditions, Performance Review",
+      "color": "gray"
+    }
+  ],
+  "foundation": "Essential reading and writing skills for grades 1-5",
+  "higher": "Advanced analysis and sophisticated writing for grades 6-9"
+}

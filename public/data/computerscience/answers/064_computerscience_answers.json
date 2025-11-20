@@ -1,0 +1,2109 @@
+{
+  "lessonId": 64,
+  "lessonNumber": "064",
+  "lessonTitle": "Truth Tables",
+  "totalQuestions": 300,
+  "note": "Answers for Truth Tables. The correct answer is always the first option.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 2,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 3,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 4,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 5,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 6,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 7,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 8,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 9,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 10,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 11,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 12,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 13,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 14,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 15,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 16,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 42,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 43,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 44,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 45,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 46,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 47,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 48,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 49,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 50,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary"
+    },
+    {
+      "id": 51,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 52,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 53,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 54,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 55,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 56,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 57,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 58,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 59,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 60,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 61,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 62,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 63,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 64,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 65,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 66,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 67,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 68,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 69,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 70,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 71,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 72,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 73,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 74,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 75,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 76,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 77,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 78,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 79,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 80,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 81,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 82,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 83,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 84,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 85,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 86,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 87,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 88,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 89,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 90,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 91,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 92,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 93,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 94,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 95,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 96,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 97,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 98,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 99,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 100,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts"
+    },
+    {
+      "id": 101,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 102,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 103,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 104,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 105,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 106,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 107,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 108,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 109,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 110,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 111,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 112,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 113,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 114,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 115,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 116,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 117,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 118,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 119,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 120,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 121,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 122,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 123,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 124,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 125,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 126,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 127,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 128,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 129,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 130,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 131,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 132,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 133,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 134,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 135,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 136,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 137,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 138,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 139,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 140,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 141,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 142,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 143,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 144,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 145,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 146,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 147,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 148,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 149,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 150,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge"
+    },
+    {
+      "id": 151,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 152,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 153,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 154,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 155,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 156,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 157,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 158,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 159,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 160,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 161,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 162,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 163,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 164,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 165,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 166,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 167,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 168,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 169,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 170,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 171,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 172,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 173,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 174,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 175,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 176,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 177,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 178,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 179,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 180,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 181,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 182,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 183,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 184,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 185,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 186,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 187,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 188,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 189,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 190,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 191,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 192,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 193,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 194,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 195,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 196,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 197,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 198,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 199,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 200,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice"
+    },
+    {
+      "id": 201,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 202,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 203,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 204,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 205,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 206,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 207,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 208,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 209,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 210,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 211,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 212,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 213,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 214,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 215,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 216,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 217,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 218,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 219,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 220,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 221,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 222,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 223,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 224,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 225,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 226,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 227,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 228,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 229,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 230,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 231,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 232,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 233,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 234,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 235,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 236,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 237,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 238,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 239,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 240,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 241,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 242,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 243,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 244,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 245,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 246,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 247,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 248,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 249,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 250,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 251,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 252,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 253,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 254,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 255,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 256,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 257,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 258,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 259,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 260,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 261,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 262,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 263,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 264,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 265,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 266,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 267,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 268,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 269,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 270,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 271,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 272,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 273,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 274,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 275,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 276,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 277,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 278,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 279,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 280,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 281,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 282,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 283,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 284,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 285,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 286,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 287,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 288,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 289,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 290,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 291,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 292,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 293,
+      "question": "Why is truth tables important?",
+      "answer": "Essential for understanding how systems work",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 294,
+      "question": "An example of truth tables would be:",
+      "answer": "A practical application of truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 295,
+      "question": "Truth Tables is used to:",
+      "answer": "Solve important computing problems",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 296,
+      "question": "The main advantage of truth tables is:",
+      "answer": "Improved efficiency and security",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 297,
+      "question": "Which best describes truth tables?",
+      "answer": "An important concept in Computer Science involving truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 298,
+      "question": "When would you use truth tables?",
+      "answer": "When you need to accomplish specific computing tasks",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 299,
+      "question": "What is truth tables?",
+      "answer": "A key Computer Science concept related to truth tables",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 300,
+      "question": "Which statement about truth tables is correct?",
+      "answer": "Truth Tables is an important CS concept",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    }
+  ]
+}

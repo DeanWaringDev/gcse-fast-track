@@ -1,0 +1,1250 @@
+{
+  "lessonId": 78,
+  "lessonNumber": "078",
+  "lessonTitle": "Probability Scale",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Calculate: 19 + 6"
+        },
+        {
+          "id": 2,
+          "question": "Work out: 81 - 7"
+        },
+        {
+          "id": 3,
+          "question": "Find: 11 \u00d7 7"
+        },
+        {
+          "id": 4,
+          "question": "Work out: 73 - 12"
+        },
+        {
+          "id": 5,
+          "question": "Calculate: 14 + 7"
+        },
+        {
+          "id": 6,
+          "question": "Calculate: 13 + 9"
+        },
+        {
+          "id": 7,
+          "question": "Work out: 43 - 9"
+        },
+        {
+          "id": 8,
+          "question": "Find: 6 \u00d7 11"
+        },
+        {
+          "id": 9,
+          "question": "Calculate: 5 + 19"
+        },
+        {
+          "id": 10,
+          "question": "Work out: 29 - 5"
+        },
+        {
+          "id": 11,
+          "question": "Find: 9 \u00d7 6"
+        },
+        {
+          "id": 12,
+          "question": "Find: 5 \u00d7 5"
+        },
+        {
+          "id": 13,
+          "question": "Find: 9 \u00d7 6"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 7 + 19"
+        },
+        {
+          "id": 15,
+          "question": "Find: 4 \u00d7 7"
+        },
+        {
+          "id": 16,
+          "question": "Calculate: 13 + 6"
+        },
+        {
+          "id": 17,
+          "question": "Find: 2 \u00d7 3"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 66 - 50"
+        },
+        {
+          "id": 19,
+          "question": "Work out: 13 - 14"
+        },
+        {
+          "id": 20,
+          "question": "Work out: 74 - 3"
+        },
+        {
+          "id": 21,
+          "question": "Work out: 69 - 44"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 96 - 43"
+        },
+        {
+          "id": 23,
+          "question": "Calculate: 4 + 13"
+        },
+        {
+          "id": 24,
+          "question": "Calculate: 13 + 19"
+        },
+        {
+          "id": 25,
+          "question": "Calculate: 7 + 7"
+        },
+        {
+          "id": 26,
+          "question": "Find: 11 \u00d7 2"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 96 - 25"
+        },
+        {
+          "id": 28,
+          "question": "Find: 3 \u00d7 7"
+        },
+        {
+          "id": 29,
+          "question": "Find: 8 \u00d7 7"
+        },
+        {
+          "id": 30,
+          "question": "Find: 9 \u00d7 10"
+        },
+        {
+          "id": 31,
+          "question": "Find: 11 \u00d7 12"
+        },
+        {
+          "id": 32,
+          "question": "Work out: 59 - 23"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 28 - 24"
+        },
+        {
+          "id": 34,
+          "question": "Calculate: 10 + 2"
+        },
+        {
+          "id": 35,
+          "question": "Find: 12 \u00d7 9"
+        },
+        {
+          "id": 36,
+          "question": "Calculate: 6 + 3"
+        },
+        {
+          "id": 37,
+          "question": "Calculate: 10 + 2"
+        },
+        {
+          "id": 38,
+          "question": "Find: 8 \u00d7 5"
+        },
+        {
+          "id": 39,
+          "question": "Calculate: 5 + 9"
+        },
+        {
+          "id": 40,
+          "question": "Calculate: 17 + 20"
+        },
+        {
+          "id": 41,
+          "question": "Find: 8 \u00d7 8"
+        },
+        {
+          "id": 42,
+          "question": "Find: 3 \u00d7 6"
+        },
+        {
+          "id": 43,
+          "question": "Find: 6 \u00d7 9"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 83 - 21"
+        },
+        {
+          "id": 45,
+          "question": "Calculate: 7 + 4"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 64 - 19"
+        },
+        {
+          "id": 47,
+          "question": "Calculate: 15 + 18"
+        },
+        {
+          "id": 48,
+          "question": "Find: 10 \u00d7 10"
+        },
+        {
+          "id": 49,
+          "question": "Work out: 58 - 15"
+        },
+        {
+          "id": 50,
+          "question": "Work out: 62 - 14"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (1 + 2) \u00d7 8"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (1 + 9) \u00d7 4"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 23 + 27 - 9"
+        },
+        {
+          "id": 54,
+          "question": "Solve: 23 + 11 - 24"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (4 + 5) \u00d7 5"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (2 + 8) \u00d7 2"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 22 + 38 - 17"
+        },
+        {
+          "id": 58,
+          "question": "Calculate: (2 + 8) \u00d7 6"
+        },
+        {
+          "id": 59,
+          "question": "Solve: 38 + 11 - 28"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 26 + 5 - 14"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 33 + 31 - 8"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (2 + 8) \u00d7 4"
+        },
+        {
+          "id": 63,
+          "question": "Solve: 12 + 44 - 12"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 30 + 21 - 22"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (8 + 7) \u00d7 3"
+        },
+        {
+          "id": 66,
+          "question": "Calculate: (5 + 7) \u00d7 3"
+        },
+        {
+          "id": 67,
+          "question": "Calculate: (5 + 2) \u00d7 6"
+        },
+        {
+          "id": 68,
+          "question": "Solve: 44 + 39 - 22"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 23 + 46 - 5"
+        },
+        {
+          "id": 70,
+          "question": "Calculate: (2 + 2) \u00d7 7"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (7 + 8) \u00d7 7"
+        },
+        {
+          "id": 72,
+          "question": "Solve: 50 + 36 - 30"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (3 + 8) \u00d7 4"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 20 + 24 - 3"
+        },
+        {
+          "id": 75,
+          "question": "Calculate: (10 + 9) \u00d7 2"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 28 + 40 - 22"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 14 + 16 - 21"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (9 + 10) \u00d7 6"
+        },
+        {
+          "id": 79,
+          "question": "Solve: 50 + 38 - 3"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (6 + 8) \u00d7 8"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 11 + 15 - 24"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 17 + 16 - 23"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (9 + 8) \u00d7 6"
+        },
+        {
+          "id": 84,
+          "question": "Solve: 38 + 46 - 4"
+        },
+        {
+          "id": 85,
+          "question": "Solve: 31 + 13 - 4"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 34 + 18 - 11"
+        },
+        {
+          "id": 87,
+          "question": "Calculate: (7 + 4) \u00d7 2"
+        },
+        {
+          "id": 88,
+          "question": "Solve: 42 + 31 - 16"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 35 + 23 - 19"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 12 + 22 - 23"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 15 + 29 - 10"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 20 + 36 - 23"
+        },
+        {
+          "id": 93,
+          "question": "Solve: 18 + 43 - 15"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (10 + 9) \u00d7 3"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 21 + 20 - 25"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (1 + 4) \u00d7 3"
+        },
+        {
+          "id": 97,
+          "question": "Calculate: (10 + 8) \u00d7 6"
+        },
+        {
+          "id": 98,
+          "question": "Solve: 50 + 30 - 4"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (4 + 1) \u00d7 7"
+        },
+        {
+          "id": 100,
+          "question": "Calculate: (1 + 2) \u00d7 2"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Calculate: (4 + 7) \u00d7 6"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (6 + 9) \u00d7 2"
+        },
+        {
+          "id": 103,
+          "question": "Solve: 16 + 34 - 15"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 16 + 41 - 24"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (9 + 8) \u00d7 7"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 40 + 11 - 22"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 11 + 36 - 20"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 22 + 29 - 16"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 33 + 30 - 12"
+        },
+        {
+          "id": 110,
+          "question": "Calculate: (3 + 10) \u00d7 3"
+        },
+        {
+          "id": 111,
+          "question": "Solve: 36 + 40 - 13"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (5 + 1) \u00d7 8"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 20 + 20 - 16"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (5 + 6) \u00d7 5"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 31 + 39 - 8"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 48 + 8 - 22"
+        },
+        {
+          "id": 117,
+          "question": "Solve: 49 + 32 - 25"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 36 + 39 - 9"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 31 + 27 - 28"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (3 + 9) \u00d7 6"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 5 + 34 - 15"
+        },
+        {
+          "id": 122,
+          "question": "Calculate: (7 + 2) \u00d7 3"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 25 + 32 - 23"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 43 + 28 - 23"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (3 + 9) \u00d7 8"
+        },
+        {
+          "id": 126,
+          "question": "Calculate: (7 + 9) \u00d7 6"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 49 + 30 - 27"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (8 + 2) \u00d7 6"
+        },
+        {
+          "id": 129,
+          "question": "Calculate: (7 + 5) \u00d7 3"
+        },
+        {
+          "id": 130,
+          "question": "Solve: 12 + 44 - 20"
+        },
+        {
+          "id": 131,
+          "question": "Calculate: (3 + 5) \u00d7 7"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (6 + 9) \u00d7 6"
+        },
+        {
+          "id": 133,
+          "question": "Solve: 50 + 9 - 7"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 20 + 50 - 19"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (3 + 10) \u00d7 8"
+        },
+        {
+          "id": 136,
+          "question": "Calculate: (2 + 1) \u00d7 3"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (1 + 2) \u00d7 2"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: (3 + 8) \u00d7 3"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 21 + 34 - 10"
+        },
+        {
+          "id": 140,
+          "question": "Solve: 16 + 39 - 8"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (7 + 3) \u00d7 3"
+        },
+        {
+          "id": 142,
+          "question": "Solve: 32 + 13 - 19"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (5 + 3) \u00d7 5"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 46 + 11 - 21"
+        },
+        {
+          "id": 145,
+          "question": "Solve: 48 + 46 - 16"
+        },
+        {
+          "id": 146,
+          "question": "Solve: 40 + 21 - 28"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (4 + 9) \u00d7 8"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (3 + 7) \u00d7 8"
+        },
+        {
+          "id": 149,
+          "question": "Solve: 35 + 27 - 5"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 5 + 24 - 29"
+        },
+        {
+          "id": 151,
+          "question": "Solve: 18 + 46 - 4"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 23 + 23 - 24"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 12 + 7 - 6"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (9 + 3) \u00d7 8"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 16 + 12 - 27"
+        },
+        {
+          "id": 156,
+          "question": "Solve: 20 + 18 - 27"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (8 + 2) \u00d7 6"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (7 + 3) \u00d7 5"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (6 + 6) \u00d7 6"
+        },
+        {
+          "id": 160,
+          "question": "Solve: 15 + 6 - 16"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Solve: 49 + 10 - 12"
+        },
+        {
+          "id": 162,
+          "question": "Solve: 14 + 42 - 2"
+        },
+        {
+          "id": 163,
+          "question": "Solve: 23 + 17 - 5"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (6 + 9) \u00d7 8"
+        },
+        {
+          "id": 165,
+          "question": "Solve: 41 + 26 - 10"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 44 + 12 - 21"
+        },
+        {
+          "id": 167,
+          "question": "Solve: 18 + 30 - 9"
+        },
+        {
+          "id": 168,
+          "question": "Calculate: (6 + 1) \u00d7 6"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 33 + 32 - 26"
+        },
+        {
+          "id": 170,
+          "question": "Calculate: (4 + 4) \u00d7 8"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (1 + 3) \u00d7 3"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (6 + 6) \u00d7 2"
+        },
+        {
+          "id": 173,
+          "question": "Solve: 22 + 13 - 20"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (3 + 1) \u00d7 5"
+        },
+        {
+          "id": 175,
+          "question": "Solve: 31 + 11 - 2"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 19 + 21 - 15"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (4 + 5) \u00d7 8"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (2 + 6) \u00d7 3"
+        },
+        {
+          "id": 179,
+          "question": "Solve: 15 + 6 - 10"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (8 + 3) \u00d7 7"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 17 + 7 - 11"
+        },
+        {
+          "id": 182,
+          "question": "Calculate: (1 + 3) \u00d7 3"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 11 + 28 - 1"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 26 + 35 - 13"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: (6 + 1) \u00d7 3"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (2 + 3) \u00d7 2"
+        },
+        {
+          "id": 187,
+          "question": "Solve: 43 + 50 - 29"
+        },
+        {
+          "id": 188,
+          "question": "Calculate: (1 + 8) \u00d7 8"
+        },
+        {
+          "id": 189,
+          "question": "Calculate: (6 + 3) \u00d7 5"
+        },
+        {
+          "id": 190,
+          "question": "Solve: 10 + 9 - 11"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (4 + 10) \u00d7 4"
+        },
+        {
+          "id": 192,
+          "question": "Solve: 37 + 39 - 3"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (7 + 10) \u00d7 3"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (3 + 2) \u00d7 3"
+        },
+        {
+          "id": 195,
+          "question": "Calculate: (10 + 6) \u00d7 8"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 40 + 16 - 25"
+        },
+        {
+          "id": 197,
+          "question": "Calculate: (7 + 10) \u00d7 4"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 26 + 43 - 19"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (6 + 2) \u00d7 4"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 15 + 10 - 15"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 31 + 41 - 3"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 48 + 29 - 27"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (10 + 10) \u00d7 3"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 37 + 46 - 15"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 14 + 25 - 11"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (7 + 7) \u00d7 6"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (4 + 10) \u00d7 3"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 26 + 34 - 2"
+        },
+        {
+          "id": 209,
+          "question": "Calculate: (4 + 9) \u00d7 6"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 21 + 28 - 8"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 212,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 213,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 214,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 217,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 220,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 221,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 223,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 224,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 225,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 226,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 227,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 231,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 233,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 235,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 237,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 238,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 240,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 243,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 246,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving probability scale"
+        },
+        {
+          "id": 249,
+          "question": "Multi-step question about probability scale"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about probability scale"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 254,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 262,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 264,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 265,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 275,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 281,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 282,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 283,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 284,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 285,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 287,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 290,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 293,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 294,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this probability scale question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Exam question: Apply probability scale to solve this problem"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this probability scale question"
+        }
+      ]
+    }
+  ]
+}

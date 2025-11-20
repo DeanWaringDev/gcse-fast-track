@@ -1,0 +1,1250 @@
+{
+  "lessonId": 28,
+  "lessonNumber": "028",
+  "lessonTitle": "Reverse Percentages",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Calculate: 17 + 2"
+        },
+        {
+          "id": 2,
+          "question": "Work out: 69 - 35"
+        },
+        {
+          "id": 3,
+          "question": "Calculate: 4 + 15"
+        },
+        {
+          "id": 4,
+          "question": "Calculate: 5 + 2"
+        },
+        {
+          "id": 5,
+          "question": "Find: 6 \u00d7 2"
+        },
+        {
+          "id": 6,
+          "question": "Calculate: 9 + 16"
+        },
+        {
+          "id": 7,
+          "question": "Work out: 40 - 13"
+        },
+        {
+          "id": 8,
+          "question": "Calculate: 13 + 12"
+        },
+        {
+          "id": 9,
+          "question": "Work out: 75 - 17"
+        },
+        {
+          "id": 10,
+          "question": "Work out: 17 - 18"
+        },
+        {
+          "id": 11,
+          "question": "Work out: 36 - 45"
+        },
+        {
+          "id": 12,
+          "question": "Calculate: 11 + 17"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 11 + 10"
+        },
+        {
+          "id": 14,
+          "question": "Find: 10 \u00d7 3"
+        },
+        {
+          "id": 15,
+          "question": "Calculate: 10 + 2"
+        },
+        {
+          "id": 16,
+          "question": "Find: 6 \u00d7 11"
+        },
+        {
+          "id": 17,
+          "question": "Work out: 60 - 42"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 15 - 20"
+        },
+        {
+          "id": 19,
+          "question": "Find: 7 \u00d7 11"
+        },
+        {
+          "id": 20,
+          "question": "Find: 2 \u00d7 6"
+        },
+        {
+          "id": 21,
+          "question": "Find: 5 \u00d7 11"
+        },
+        {
+          "id": 22,
+          "question": "Calculate: 12 + 5"
+        },
+        {
+          "id": 23,
+          "question": "Calculate: 2 + 12"
+        },
+        {
+          "id": 24,
+          "question": "Calculate: 3 + 5"
+        },
+        {
+          "id": 25,
+          "question": "Work out: 14 - 37"
+        },
+        {
+          "id": 26,
+          "question": "Calculate: 3 + 15"
+        },
+        {
+          "id": 27,
+          "question": "Calculate: 10 + 17"
+        },
+        {
+          "id": 28,
+          "question": "Work out: 47 - 31"
+        },
+        {
+          "id": 29,
+          "question": "Find: 9 \u00d7 3"
+        },
+        {
+          "id": 30,
+          "question": "Find: 2 \u00d7 5"
+        },
+        {
+          "id": 31,
+          "question": "Work out: 63 - 3"
+        },
+        {
+          "id": 32,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 93 - 24"
+        },
+        {
+          "id": 34,
+          "question": "Find: 12 \u00d7 7"
+        },
+        {
+          "id": 35,
+          "question": "Work out: 28 - 42"
+        },
+        {
+          "id": 36,
+          "question": "Find: 8 \u00d7 7"
+        },
+        {
+          "id": 37,
+          "question": "Calculate: 6 + 19"
+        },
+        {
+          "id": 38,
+          "question": "Calculate: 11 + 10"
+        },
+        {
+          "id": 39,
+          "question": "Calculate: 5 + 17"
+        },
+        {
+          "id": 40,
+          "question": "Calculate: 4 + 11"
+        },
+        {
+          "id": 41,
+          "question": "Work out: 100 - 19"
+        },
+        {
+          "id": 42,
+          "question": "Work out: 93 - 24"
+        },
+        {
+          "id": 43,
+          "question": "Work out: 43 - 2"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 55 - 32"
+        },
+        {
+          "id": 45,
+          "question": "Calculate: 6 + 14"
+        },
+        {
+          "id": 46,
+          "question": "Find: 7 \u00d7 11"
+        },
+        {
+          "id": 47,
+          "question": "Calculate: 6 + 14"
+        },
+        {
+          "id": 48,
+          "question": "Calculate: 18 + 9"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 5 + 20"
+        },
+        {
+          "id": 50,
+          "question": "Calculate: 3 + 11"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (4 + 1) \u00d7 4"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (6 + 3) \u00d7 8"
+        },
+        {
+          "id": 53,
+          "question": "Calculate: (10 + 8) \u00d7 3"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (4 + 4) \u00d7 7"
+        },
+        {
+          "id": 55,
+          "question": "Solve: 30 + 11 - 29"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (9 + 6) \u00d7 2"
+        },
+        {
+          "id": 57,
+          "question": "Calculate: (10 + 1) \u00d7 7"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 17 + 27 - 15"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (7 + 4) \u00d7 4"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 26 + 9 - 20"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 43 + 6 - 30"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (2 + 2) \u00d7 7"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (7 + 9) \u00d7 2"
+        },
+        {
+          "id": 64,
+          "question": "Calculate: (5 + 3) \u00d7 4"
+        },
+        {
+          "id": 65,
+          "question": "Solve: 50 + 41 - 27"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 32 + 31 - 23"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 15 + 22 - 7"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (4 + 1) \u00d7 4"
+        },
+        {
+          "id": 69,
+          "question": "Calculate: (7 + 6) \u00d7 6"
+        },
+        {
+          "id": 70,
+          "question": "Calculate: (7 + 3) \u00d7 7"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (3 + 9) \u00d7 5"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (5 + 2) \u00d7 6"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (7 + 7) \u00d7 4"
+        },
+        {
+          "id": 74,
+          "question": "Calculate: (3 + 2) \u00d7 7"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 27 + 18 - 11"
+        },
+        {
+          "id": 76,
+          "question": "Calculate: (5 + 6) \u00d7 3"
+        },
+        {
+          "id": 77,
+          "question": "Calculate: (5 + 5) \u00d7 7"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (5 + 5) \u00d7 4"
+        },
+        {
+          "id": 79,
+          "question": "Solve: 49 + 47 - 13"
+        },
+        {
+          "id": 80,
+          "question": "Solve: 30 + 17 - 13"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 7 + 47 - 21"
+        },
+        {
+          "id": 82,
+          "question": "Calculate: (6 + 6) \u00d7 7"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (5 + 6) \u00d7 4"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (4 + 4) \u00d7 6"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (7 + 8) \u00d7 5"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 19 + 9 - 6"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 22 + 23 - 18"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (10 + 1) \u00d7 5"
+        },
+        {
+          "id": 89,
+          "question": "Calculate: (1 + 3) \u00d7 5"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 23 + 43 - 15"
+        },
+        {
+          "id": 91,
+          "question": "Calculate: (10 + 4) \u00d7 7"
+        },
+        {
+          "id": 92,
+          "question": "Calculate: (6 + 8) \u00d7 8"
+        },
+        {
+          "id": 93,
+          "question": "Solve: 15 + 40 - 9"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (8 + 2) \u00d7 2"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 45 + 34 - 22"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (9 + 4) \u00d7 5"
+        },
+        {
+          "id": 97,
+          "question": "Calculate: (9 + 9) \u00d7 8"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (8 + 7) \u00d7 8"
+        },
+        {
+          "id": 99,
+          "question": "Solve: 11 + 47 - 24"
+        },
+        {
+          "id": 100,
+          "question": "Calculate: (4 + 9) \u00d7 2"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 47 + 45 - 18"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (5 + 2) \u00d7 2"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (4 + 3) \u00d7 3"
+        },
+        {
+          "id": 104,
+          "question": "Calculate: (6 + 1) \u00d7 3"
+        },
+        {
+          "id": 105,
+          "question": "Solve: 34 + 28 - 26"
+        },
+        {
+          "id": 106,
+          "question": "Calculate: (10 + 8) \u00d7 4"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 48 + 49 - 7"
+        },
+        {
+          "id": 108,
+          "question": "Calculate: (2 + 1) \u00d7 3"
+        },
+        {
+          "id": 109,
+          "question": "Calculate: (2 + 10) \u00d7 6"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 8 + 30 - 11"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (10 + 5) \u00d7 2"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (7 + 1) \u00d7 6"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 34 + 14 - 23"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (6 + 10) \u00d7 3"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: (3 + 3) \u00d7 3"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 48 + 5 - 4"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (9 + 3) \u00d7 7"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: (4 + 5) \u00d7 3"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 43 + 43 - 23"
+        },
+        {
+          "id": 120,
+          "question": "Solve: 27 + 40 - 22"
+        },
+        {
+          "id": 121,
+          "question": "Calculate: (9 + 3) \u00d7 6"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 6 + 34 - 20"
+        },
+        {
+          "id": 123,
+          "question": "Calculate: (6 + 2) \u00d7 5"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 39 + 40 - 29"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (2 + 6) \u00d7 5"
+        },
+        {
+          "id": 126,
+          "question": "Calculate: (5 + 4) \u00d7 8"
+        },
+        {
+          "id": 127,
+          "question": "Calculate: (4 + 8) \u00d7 3"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (5 + 9) \u00d7 3"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 35 + 50 - 27"
+        },
+        {
+          "id": 130,
+          "question": "Solve: 29 + 5 - 13"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 22 + 40 - 14"
+        },
+        {
+          "id": 132,
+          "question": "Solve: 25 + 19 - 12"
+        },
+        {
+          "id": 133,
+          "question": "Solve: 17 + 30 - 22"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 44 + 44 - 17"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (3 + 8) \u00d7 5"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 10 + 48 - 5"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (10 + 6) \u00d7 5"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 16 + 5 - 24"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 34 + 14 - 6"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (7 + 5) \u00d7 6"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (2 + 8) \u00d7 2"
+        },
+        {
+          "id": 142,
+          "question": "Solve: 23 + 14 - 6"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (8 + 2) \u00d7 3"
+        },
+        {
+          "id": 144,
+          "question": "Calculate: (5 + 1) \u00d7 4"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (7 + 2) \u00d7 3"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (9 + 8) \u00d7 7"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (3 + 1) \u00d7 4"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (4 + 10) \u00d7 5"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (7 + 1) \u00d7 2"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 13 + 21 - 21"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (3 + 9) \u00d7 5"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 45 + 19 - 14"
+        },
+        {
+          "id": 153,
+          "question": "Calculate: (3 + 8) \u00d7 6"
+        },
+        {
+          "id": 154,
+          "question": "Solve: 19 + 34 - 22"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 49 + 46 - 25"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (5 + 3) \u00d7 4"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (7 + 6) \u00d7 4"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (3 + 7) \u00d7 6"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (1 + 3) \u00d7 6"
+        },
+        {
+          "id": 160,
+          "question": "Solve: 15 + 6 - 12"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (2 + 4) \u00d7 4"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (4 + 7) \u00d7 6"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (6 + 1) \u00d7 4"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (8 + 9) \u00d7 6"
+        },
+        {
+          "id": 165,
+          "question": "Solve: 10 + 33 - 23"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 36 + 44 - 21"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (9 + 8) \u00d7 5"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 15 + 21 - 2"
+        },
+        {
+          "id": 169,
+          "question": "Calculate: (9 + 9) \u00d7 8"
+        },
+        {
+          "id": 170,
+          "question": "Calculate: (7 + 1) \u00d7 4"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (10 + 8) \u00d7 3"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (7 + 5) \u00d7 5"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (9 + 3) \u00d7 8"
+        },
+        {
+          "id": 174,
+          "question": "Solve: 5 + 11 - 7"
+        },
+        {
+          "id": 175,
+          "question": "Solve: 30 + 9 - 14"
+        },
+        {
+          "id": 176,
+          "question": "Calculate: (10 + 5) \u00d7 8"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (1 + 6) \u00d7 5"
+        },
+        {
+          "id": 178,
+          "question": "Solve: 21 + 26 - 28"
+        },
+        {
+          "id": 179,
+          "question": "Solve: 7 + 9 - 12"
+        },
+        {
+          "id": 180,
+          "question": "Solve: 33 + 46 - 26"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: (2 + 6) \u00d7 4"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 10 + 38 - 19"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 15 + 26 - 25"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 34 + 29 - 10"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 33 + 13 - 19"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (10 + 7) \u00d7 7"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (8 + 1) \u00d7 8"
+        },
+        {
+          "id": 188,
+          "question": "Calculate: (1 + 5) \u00d7 8"
+        },
+        {
+          "id": 189,
+          "question": "Calculate: (8 + 5) \u00d7 6"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (2 + 2) \u00d7 3"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (6 + 3) \u00d7 7"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (2 + 4) \u00d7 2"
+        },
+        {
+          "id": 193,
+          "question": "Solve: 45 + 9 - 6"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (8 + 5) \u00d7 2"
+        },
+        {
+          "id": 195,
+          "question": "Calculate: (9 + 8) \u00d7 2"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 32 + 18 - 10"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 22 + 44 - 14"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 25 + 7 - 2"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (1 + 4) \u00d7 8"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 9 + 15 - 21"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 41 + 24 - 19"
+        },
+        {
+          "id": 202,
+          "question": "Calculate: (4 + 1) \u00d7 7"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (4 + 2) \u00d7 8"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 46 + 21 - 1"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 18 + 49 - 25"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (8 + 6) \u00d7 3"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (2 + 3) \u00d7 5"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 17 + 23 - 22"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 17 + 48 - 17"
+        },
+        {
+          "id": 210,
+          "question": "Calculate: (7 + 4) \u00d7 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 214,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 216,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 218,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 219,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 220,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 221,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 227,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 230,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 232,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 234,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 240,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 241,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 243,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 245,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 247,
+          "question": "A complex problem involving reverse percentages"
+        },
+        {
+          "id": 248,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 249,
+          "question": "Multi-step question about reverse percentages"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about reverse percentages"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 252,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 254,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 266,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 267,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 268,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 273,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 275,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 276,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 277,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 286,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 292,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 297,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply reverse percentages to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this reverse percentages question"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this reverse percentages question"
+        }
+      ]
+    }
+  ]
+}

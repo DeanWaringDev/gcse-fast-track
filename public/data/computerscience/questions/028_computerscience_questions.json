@@ -1,0 +1,3350 @@
+{
+  "lessonId": 28,
+  "lessonNumber": "028",
+  "lessonTitle": "Lists and Arrays",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Key Vocabulary",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 16,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 17,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 18,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 19,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 20,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 21,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 22,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 23,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 24,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 25,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 26,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 27,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 28,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 29,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 30,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 31,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 32,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 33,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 34,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 35,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 36,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 37,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 38,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 39,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 40,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 41,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 42,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 43,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 44,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 45,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 46,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 47,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 48,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 49,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 50,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Understanding Core Concepts",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 52,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 53,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 54,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 55,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 56,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 57,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 58,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 59,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 60,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 61,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 62,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 63,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 64,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 65,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 66,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 67,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 68,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 69,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 70,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 71,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 72,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 73,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 74,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 75,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 76,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 77,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 78,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 79,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 80,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 81,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 82,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 83,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 84,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 85,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 86,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 87,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 88,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 89,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 90,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 91,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 92,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 93,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 94,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 95,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 96,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 97,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 98,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 99,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 100,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Applying Your Knowledge",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 102,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 103,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 104,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 105,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 106,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 107,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 108,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 109,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 110,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 111,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 112,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 113,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 114,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 115,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 116,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 117,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 118,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 119,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 120,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 121,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 122,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 123,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 124,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 125,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 126,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 127,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 128,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 129,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 130,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 131,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 132,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 133,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 134,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 135,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 136,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 137,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 138,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 139,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 140,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 141,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 142,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 143,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 144,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 145,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 146,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 147,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 148,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 149,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 150,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Problem Solving Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 151,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 152,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 153,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 154,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 155,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 156,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 157,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 158,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 159,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 160,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 161,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 162,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 163,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 164,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 165,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 166,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 167,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 168,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 169,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 170,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 171,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 172,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 173,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 174,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 175,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 176,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 177,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 178,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 179,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 180,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 181,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 182,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 183,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 184,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 185,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 186,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 187,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 188,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 189,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 190,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 191,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 192,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 193,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 194,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 195,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 196,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 197,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 198,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 199,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 200,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 201,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 202,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 203,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 204,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 205,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 206,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 207,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 208,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 209,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 210,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 211,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 212,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 213,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 214,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 215,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 216,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 217,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 218,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 219,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 220,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 221,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 222,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 223,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 224,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 225,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 226,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 227,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 228,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 229,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 230,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 231,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 232,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 233,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 234,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 235,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 236,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 237,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 238,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 239,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 240,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 241,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 242,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 243,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 244,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 245,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 246,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 247,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 248,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 249,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 250,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 252,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 253,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 254,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 255,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 256,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 257,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 258,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 259,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 260,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 261,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 262,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 263,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 264,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 265,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 266,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 267,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 268,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 269,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 270,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 271,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 272,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 273,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 274,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 275,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 276,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 277,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 278,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 279,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 280,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 281,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 282,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 283,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 284,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 285,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 286,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 287,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 288,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 289,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 290,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 291,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 292,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        },
+        {
+          "id": 293,
+          "question": "Why would you use lists?",
+          "type": "multiple_choice",
+          "options": [
+            "To solve problems efficiently and effectively",
+            "To make computers run slower",
+            "To complicate simple tasks",
+            "To replace human thinking"
+          ]
+        },
+        {
+          "id": 294,
+          "question": "In Lists and Arrays, lists is used to:",
+          "type": "multiple_choice",
+          "options": [
+            "Accomplish important tasks in Computer Science",
+            "Slow down program execution",
+            "Make code harder to read",
+            "Waste computer memory"
+          ]
+        },
+        {
+          "id": 295,
+          "question": "Which best describes lists?",
+          "type": "multiple_choice",
+          "options": [
+            "An important Computer Science concept involving lists",
+            "An outdated technique no longer used",
+            "A hardware specification",
+            "A type of virus"
+          ]
+        },
+        {
+          "id": 296,
+          "question": "An example of lists would be:",
+          "type": "multiple_choice",
+          "options": [
+            "A practical application of lists concepts",
+            "Something completely unrelated",
+            "A hardware malfunction",
+            "An error message"
+          ]
+        },
+        {
+          "id": 297,
+          "question": "The main advantage of lists is:",
+          "type": "multiple_choice",
+          "options": [
+            "Improved efficiency and better results",
+            "Increased complexity with no benefits",
+            "Slower performance",
+            "More errors"
+          ]
+        },
+        {
+          "id": 298,
+          "question": "When working with lists, you should:",
+          "type": "multiple_choice",
+          "options": [
+            "Follow proper procedures and test thoroughly",
+            "Skip testing to save time",
+            "Ignore error messages",
+            "Copy code without understanding"
+          ]
+        },
+        {
+          "id": 299,
+          "question": "What is lists?",
+          "type": "multiple_choice",
+          "options": [
+            "A key concept in Computer Science related to lists",
+            "A type of hardware component",
+            "A programming language",
+            "An operating system feature"
+          ]
+        },
+        {
+          "id": 300,
+          "question": "Which statement about lists is correct?",
+          "type": "multiple_choice",
+          "options": [
+            "Lists is essential for this topic",
+            "Lists is rarely used",
+            "Lists is only for advanced programmers",
+            "Lists is being phased out"
+          ]
+        }
+      ]
+    }
+  ]
+}

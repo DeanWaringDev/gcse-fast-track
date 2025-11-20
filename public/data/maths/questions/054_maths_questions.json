@@ -1,0 +1,1250 @@
+{
+  "lessonId": 54,
+  "lessonNumber": "054",
+  "lessonTitle": "Angles in Polygons",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 31 - 39"
+        },
+        {
+          "id": 2,
+          "question": "Find: 8 \u00d7 4"
+        },
+        {
+          "id": 3,
+          "question": "Find: 9 \u00d7 3"
+        },
+        {
+          "id": 4,
+          "question": "Work out: 43 - 33"
+        },
+        {
+          "id": 5,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 6,
+          "question": "Calculate: 10 + 11"
+        },
+        {
+          "id": 7,
+          "question": "Find: 3 \u00d7 12"
+        },
+        {
+          "id": 8,
+          "question": "Work out: 52 - 18"
+        },
+        {
+          "id": 9,
+          "question": "Find: 7 \u00d7 9"
+        },
+        {
+          "id": 10,
+          "question": "Calculate: 2 + 5"
+        },
+        {
+          "id": 11,
+          "question": "Calculate: 16 + 15"
+        },
+        {
+          "id": 12,
+          "question": "Work out: 75 - 25"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 9 + 9"
+        },
+        {
+          "id": 14,
+          "question": "Work out: 15 - 46"
+        },
+        {
+          "id": 15,
+          "question": "Work out: 35 - 1"
+        },
+        {
+          "id": 16,
+          "question": "Find: 2 \u00d7 10"
+        },
+        {
+          "id": 17,
+          "question": "Find: 10 \u00d7 5"
+        },
+        {
+          "id": 18,
+          "question": "Find: 3 \u00d7 3"
+        },
+        {
+          "id": 19,
+          "question": "Work out: 71 - 32"
+        },
+        {
+          "id": 20,
+          "question": "Calculate: 15 + 12"
+        },
+        {
+          "id": 21,
+          "question": "Work out: 35 - 49"
+        },
+        {
+          "id": 22,
+          "question": "Find: 5 \u00d7 11"
+        },
+        {
+          "id": 23,
+          "question": "Find: 11 \u00d7 9"
+        },
+        {
+          "id": 24,
+          "question": "Find: 9 \u00d7 8"
+        },
+        {
+          "id": 25,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 26,
+          "question": "Calculate: 16 + 19"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 44 - 17"
+        },
+        {
+          "id": 28,
+          "question": "Work out: 67 - 19"
+        },
+        {
+          "id": 29,
+          "question": "Calculate: 3 + 17"
+        },
+        {
+          "id": 30,
+          "question": "Find: 8 \u00d7 2"
+        },
+        {
+          "id": 31,
+          "question": "Work out: 24 - 13"
+        },
+        {
+          "id": 32,
+          "question": "Work out: 81 - 17"
+        },
+        {
+          "id": 33,
+          "question": "Calculate: 9 + 1"
+        },
+        {
+          "id": 34,
+          "question": "Work out: 19 - 19"
+        },
+        {
+          "id": 35,
+          "question": "Work out: 83 - 24"
+        },
+        {
+          "id": 36,
+          "question": "Calculate: 19 + 8"
+        },
+        {
+          "id": 37,
+          "question": "Calculate: 13 + 11"
+        },
+        {
+          "id": 38,
+          "question": "Work out: 35 - 35"
+        },
+        {
+          "id": 39,
+          "question": "Work out: 38 - 24"
+        },
+        {
+          "id": 40,
+          "question": "Work out: 14 - 47"
+        },
+        {
+          "id": 41,
+          "question": "Calculate: 17 + 2"
+        },
+        {
+          "id": 42,
+          "question": "Find: 2 \u00d7 3"
+        },
+        {
+          "id": 43,
+          "question": "Calculate: 4 + 4"
+        },
+        {
+          "id": 44,
+          "question": "Calculate: 13 + 6"
+        },
+        {
+          "id": 45,
+          "question": "Work out: 68 - 25"
+        },
+        {
+          "id": 46,
+          "question": "Find: 5 \u00d7 3"
+        },
+        {
+          "id": 47,
+          "question": "Find: 6 \u00d7 2"
+        },
+        {
+          "id": 48,
+          "question": "Calculate: 1 + 20"
+        },
+        {
+          "id": 49,
+          "question": "Work out: 42 - 4"
+        },
+        {
+          "id": 50,
+          "question": "Work out: 31 - 18"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Solve: 46 + 11 - 17"
+        },
+        {
+          "id": 52,
+          "question": "Solve: 10 + 27 - 7"
+        },
+        {
+          "id": 53,
+          "question": "Calculate: (9 + 1) \u00d7 5"
+        },
+        {
+          "id": 54,
+          "question": "Solve: 34 + 26 - 23"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (4 + 1) \u00d7 2"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (2 + 2) \u00d7 2"
+        },
+        {
+          "id": 57,
+          "question": "Calculate: (2 + 9) \u00d7 4"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 27 + 38 - 24"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (9 + 4) \u00d7 4"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 26 + 12 - 12"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 36 + 15 - 5"
+        },
+        {
+          "id": 62,
+          "question": "Solve: 50 + 38 - 7"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (3 + 7) \u00d7 2"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 11 + 31 - 20"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (2 + 3) \u00d7 4"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 18 + 17 - 30"
+        },
+        {
+          "id": 67,
+          "question": "Calculate: (10 + 10) \u00d7 2"
+        },
+        {
+          "id": 68,
+          "question": "Solve: 10 + 28 - 11"
+        },
+        {
+          "id": 69,
+          "question": "Calculate: (1 + 10) \u00d7 5"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 30 + 10 - 18"
+        },
+        {
+          "id": 71,
+          "question": "Solve: 37 + 24 - 4"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (10 + 2) \u00d7 8"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (3 + 7) \u00d7 5"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 11 + 5 - 3"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 11 + 32 - 29"
+        },
+        {
+          "id": 76,
+          "question": "Calculate: (8 + 2) \u00d7 8"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 21 + 34 - 28"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (8 + 10) \u00d7 3"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (9 + 3) \u00d7 5"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (3 + 10) \u00d7 5"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 35 + 38 - 30"
+        },
+        {
+          "id": 82,
+          "question": "Calculate: (6 + 1) \u00d7 7"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (6 + 5) \u00d7 8"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (9 + 9) \u00d7 2"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (5 + 5) \u00d7 3"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 37 + 9 - 17"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 43 + 5 - 1"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (6 + 8) \u00d7 8"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 18 + 24 - 18"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 27 + 7 - 10"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 40 + 37 - 10"
+        },
+        {
+          "id": 92,
+          "question": "Calculate: (1 + 2) \u00d7 3"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (8 + 3) \u00d7 3"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (10 + 1) \u00d7 7"
+        },
+        {
+          "id": 95,
+          "question": "Calculate: (4 + 2) \u00d7 8"
+        },
+        {
+          "id": 96,
+          "question": "Solve: 10 + 29 - 15"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 7 + 31 - 9"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (1 + 3) \u00d7 3"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (1 + 3) \u00d7 3"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 24 + 13 - 13"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 7 + 12 - 2"
+        },
+        {
+          "id": 102,
+          "question": "Solve: 24 + 43 - 14"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (8 + 7) \u00d7 5"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 34 + 49 - 2"
+        },
+        {
+          "id": 105,
+          "question": "Solve: 25 + 11 - 2"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 29 + 47 - 11"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 31 + 33 - 5"
+        },
+        {
+          "id": 108,
+          "question": "Calculate: (9 + 10) \u00d7 3"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 7 + 27 - 1"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 42 + 46 - 29"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (4 + 8) \u00d7 3"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (4 + 3) \u00d7 5"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 40 + 33 - 4"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (2 + 6) \u00d7 5"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 38 + 10 - 16"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 49 + 8 - 4"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (9 + 5) \u00d7 3"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: (5 + 3) \u00d7 5"
+        },
+        {
+          "id": 119,
+          "question": "Calculate: (5 + 7) \u00d7 8"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (10 + 4) \u00d7 4"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 31 + 27 - 25"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 47 + 37 - 5"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 6 + 41 - 25"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 40 + 50 - 17"
+        },
+        {
+          "id": 125,
+          "question": "Solve: 12 + 44 - 16"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 24 + 28 - 19"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 45 + 27 - 5"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (9 + 2) \u00d7 4"
+        },
+        {
+          "id": 129,
+          "question": "Calculate: (2 + 2) \u00d7 5"
+        },
+        {
+          "id": 130,
+          "question": "Solve: 6 + 35 - 19"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 5 + 31 - 25"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (1 + 7) \u00d7 3"
+        },
+        {
+          "id": 133,
+          "question": "Solve: 40 + 40 - 2"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 38 + 15 - 16"
+        },
+        {
+          "id": 135,
+          "question": "Solve: 37 + 45 - 25"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 48 + 8 - 11"
+        },
+        {
+          "id": 137,
+          "question": "Solve: 34 + 32 - 27"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 30 + 7 - 4"
+        },
+        {
+          "id": 139,
+          "question": "Calculate: (7 + 9) \u00d7 4"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (3 + 1) \u00d7 7"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (1 + 3) \u00d7 5"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (4 + 3) \u00d7 6"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (2 + 1) \u00d7 8"
+        },
+        {
+          "id": 144,
+          "question": "Calculate: (7 + 7) \u00d7 8"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (8 + 1) \u00d7 7"
+        },
+        {
+          "id": 146,
+          "question": "Solve: 18 + 29 - 2"
+        },
+        {
+          "id": 147,
+          "question": "Solve: 11 + 46 - 24"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (1 + 7) \u00d7 2"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (5 + 5) \u00d7 5"
+        },
+        {
+          "id": 150,
+          "question": "Calculate: (5 + 10) \u00d7 4"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (2 + 2) \u00d7 5"
+        },
+        {
+          "id": 152,
+          "question": "Calculate: (6 + 5) \u00d7 3"
+        },
+        {
+          "id": 153,
+          "question": "Calculate: (6 + 5) \u00d7 5"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (5 + 2) \u00d7 5"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 31 + 41 - 8"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (9 + 8) \u00d7 6"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (9 + 1) \u00d7 7"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (2 + 6) \u00d7 3"
+        },
+        {
+          "id": 159,
+          "question": "Solve: 37 + 22 - 20"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (2 + 8) \u00d7 2"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (5 + 4) \u00d7 6"
+        },
+        {
+          "id": 162,
+          "question": "Solve: 50 + 24 - 6"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (4 + 5) \u00d7 6"
+        },
+        {
+          "id": 164,
+          "question": "Solve: 24 + 12 - 2"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (5 + 3) \u00d7 3"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 10 + 50 - 8"
+        },
+        {
+          "id": 167,
+          "question": "Solve: 30 + 44 - 9"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 49 + 13 - 13"
+        },
+        {
+          "id": 169,
+          "question": "Calculate: (9 + 3) \u00d7 8"
+        },
+        {
+          "id": 170,
+          "question": "Calculate: (2 + 1) \u00d7 3"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (8 + 8) \u00d7 7"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (3 + 9) \u00d7 4"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (9 + 1) \u00d7 5"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (8 + 6) \u00d7 4"
+        },
+        {
+          "id": 175,
+          "question": "Solve: 14 + 39 - 28"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 18 + 15 - 16"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (8 + 7) \u00d7 4"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (2 + 9) \u00d7 2"
+        },
+        {
+          "id": 179,
+          "question": "Solve: 15 + 38 - 28"
+        },
+        {
+          "id": 180,
+          "question": "Solve: 33 + 7 - 15"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 14 + 20 - 20"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 22 + 18 - 12"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 7 + 35 - 27"
+        },
+        {
+          "id": 184,
+          "question": "Calculate: (3 + 8) \u00d7 8"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: (2 + 1) \u00d7 5"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (2 + 1) \u00d7 8"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (1 + 5) \u00d7 8"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 36 + 7 - 5"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 50 + 11 - 10"
+        },
+        {
+          "id": 190,
+          "question": "Solve: 33 + 43 - 19"
+        },
+        {
+          "id": 191,
+          "question": "Solve: 49 + 5 - 12"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (4 + 6) \u00d7 8"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (5 + 2) \u00d7 5"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (3 + 3) \u00d7 5"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 9 + 33 - 25"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 43 + 10 - 5"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 7 + 41 - 27"
+        },
+        {
+          "id": 198,
+          "question": "Calculate: (1 + 2) \u00d7 4"
+        },
+        {
+          "id": 199,
+          "question": "Solve: 21 + 48 - 2"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 37 + 32 - 20"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 26 + 25 - 24"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 15 + 40 - 20"
+        },
+        {
+          "id": 203,
+          "question": "Solve: 44 + 44 - 29"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 11 + 22 - 26"
+        },
+        {
+          "id": 205,
+          "question": "Calculate: (8 + 8) \u00d7 5"
+        },
+        {
+          "id": 206,
+          "question": "Solve: 32 + 19 - 2"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (3 + 3) \u00d7 4"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 26 + 26 - 2"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 22 + 33 - 13"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 44 + 20 - 11"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 213,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 214,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 215,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 216,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 223,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 224,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 227,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 230,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 232,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 236,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 239,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 240,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 242,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about angles in polygons"
+        },
+        {
+          "id": 247,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving angles in polygons"
+        },
+        {
+          "id": 250,
+          "question": "A complex problem involving angles in polygons"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 259,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 266,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 271,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 272,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 280,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 289,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this angles in polygons question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Exam question: Apply angles in polygons to solve this problem"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this angles in polygons question"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2109 @@
+{
+  "lessonId": 53,
+  "lessonNumber": "053",
+  "lessonTitle": "Angles in Parallel Lines",
+  "totalQuestions": 300,
+  "note": "Full working and explanations provided for each answer.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "Find: 5 \u00d7 10",
+      "answer": 50,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 2,
+      "question": "Find: 4 \u00d7 12",
+      "answer": 48,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 3,
+      "question": "Calculate: 14 + 5",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 4,
+      "question": "Work out: 96 - 34",
+      "answer": 62,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 5,
+      "question": "Calculate: 16 + 20",
+      "answer": 36,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 6,
+      "question": "Find: 6 \u00d7 2",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 7,
+      "question": "Work out: 38 - 9",
+      "answer": 29,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 8,
+      "question": "Find: 9 \u00d7 5",
+      "answer": 45,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 9,
+      "question": "Find: 2 \u00d7 6",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 10,
+      "question": "Work out: 42 - 15",
+      "answer": 27,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 11,
+      "question": "Work out: 95 - 40",
+      "answer": 55,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 12,
+      "question": "Work out: 80 - 42",
+      "answer": 38,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 13,
+      "question": "Find: 5 \u00d7 5",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 14,
+      "question": "Find: 6 \u00d7 3",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 15,
+      "question": "Find: 11 \u00d7 9",
+      "answer": 99,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 16,
+      "question": "Find: 7 \u00d7 5",
+      "answer": 35,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 17,
+      "question": "Calculate: 15 + 20",
+      "answer": 35,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 18,
+      "question": "Work out: 40 - 14",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 19,
+      "question": "Calculate: 4 + 16",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 20,
+      "question": "Find: 6 \u00d7 7",
+      "answer": 42,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 21,
+      "question": "Work out: 61 - 10",
+      "answer": 51,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 22,
+      "question": "Work out: 48 - 27",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 23,
+      "question": "Calculate: 19 + 5",
+      "answer": 24,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 24,
+      "question": "Work out: 89 - 32",
+      "answer": 57,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 25,
+      "question": "Work out: 84 - 20",
+      "answer": 64,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 26,
+      "question": "Calculate: 19 + 11",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 27,
+      "question": "Find: 9 \u00d7 12",
+      "answer": 108,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 28,
+      "question": "Work out: 39 - 25",
+      "answer": 14,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 29,
+      "question": "Find: 7 \u00d7 4",
+      "answer": 28,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 30,
+      "question": "Work out: 32 - 6",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 31,
+      "question": "Calculate: 18 + 12",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 32,
+      "question": "Find: 3 \u00d7 11",
+      "answer": 33,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 33,
+      "question": "Find: 11 \u00d7 7",
+      "answer": 77,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 34,
+      "question": "Calculate: 12 + 7",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 35,
+      "question": "Find: 10 \u00d7 7",
+      "answer": 70,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 36,
+      "question": "Work out: 63 - 43",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 37,
+      "question": "Work out: 89 - 13",
+      "answer": 76,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 38,
+      "question": "Calculate: 10 + 10",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 39,
+      "question": "Find: 8 \u00d7 6",
+      "answer": 48,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 40,
+      "question": "Find: 12 \u00d7 2",
+      "answer": 24,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 41,
+      "question": "Calculate: 9 + 10",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 42,
+      "question": "Find: 9 \u00d7 2",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 43,
+      "question": "Find: 6 \u00d7 2",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 44,
+      "question": "Find: 8 \u00d7 11",
+      "answer": 88,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 45,
+      "question": "Work out: 26 - 47",
+      "answer": -21,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 46,
+      "question": "Find: 8 \u00d7 10",
+      "answer": 80,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 47,
+      "question": "Work out: 63 - 2",
+      "answer": 61,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 48,
+      "question": "Work out: 67 - 10",
+      "answer": 57,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 49,
+      "question": "Calculate: 14 + 1",
+      "answer": 15,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 50,
+      "question": "Find: 9 \u00d7 4",
+      "answer": 36,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 51,
+      "question": "Solve: 8 + 12 - 25",
+      "answer": -5,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 52,
+      "question": "Solve: 35 + 32 - 12",
+      "answer": 55,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 53,
+      "question": "Solve: 39 + 21 - 26",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 54,
+      "question": "Solve: 31 + 30 - 7",
+      "answer": 54,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 55,
+      "question": "Solve: 31 + 5 - 2",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 56,
+      "question": "Calculate: (4 + 3) \u00d7 8",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 57,
+      "question": "Solve: 31 + 28 - 10",
+      "answer": 49,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 58,
+      "question": "Solve: 12 + 27 - 26",
+      "answer": 13,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 59,
+      "question": "Calculate: (9 + 4) \u00d7 2",
+      "answer": 26,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 60,
+      "question": "Calculate: (10 + 5) \u00d7 6",
+      "answer": 90,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 61,
+      "question": "Calculate: (9 + 2) \u00d7 2",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 62,
+      "question": "Calculate: (9 + 7) \u00d7 3",
+      "answer": 48,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 63,
+      "question": "Calculate: (1 + 5) \u00d7 8",
+      "answer": 48,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 64,
+      "question": "Solve: 47 + 37 - 8",
+      "answer": 76,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 65,
+      "question": "Calculate: (3 + 4) \u00d7 4",
+      "answer": 28,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 66,
+      "question": "Solve: 6 + 33 - 2",
+      "answer": 37,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 67,
+      "question": "Calculate: (2 + 9) \u00d7 2",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 68,
+      "question": "Solve: 17 + 7 - 27",
+      "answer": -3,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 69,
+      "question": "Calculate: (4 + 4) \u00d7 5",
+      "answer": 40,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 70,
+      "question": "Calculate: (6 + 7) \u00d7 7",
+      "answer": 91,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 71,
+      "question": "Solve: 35 + 36 - 5",
+      "answer": 66,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 72,
+      "question": "Solve: 19 + 26 - 23",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 73,
+      "question": "Calculate: (4 + 5) \u00d7 2",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 74,
+      "question": "Calculate: (2 + 1) \u00d7 4",
+      "answer": 12,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 75,
+      "question": "Solve: 21 + 45 - 12",
+      "answer": 54,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 76,
+      "question": "Solve: 34 + 49 - 17",
+      "answer": 66,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 77,
+      "question": "Calculate: (8 + 7) \u00d7 8",
+      "answer": 120,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 78,
+      "question": "Calculate: (1 + 3) \u00d7 3",
+      "answer": 12,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 79,
+      "question": "Calculate: (2 + 1) \u00d7 6",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 80,
+      "question": "Calculate: (9 + 6) \u00d7 5",
+      "answer": 75,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 81,
+      "question": "Solve: 25 + 12 - 6",
+      "answer": 31,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 82,
+      "question": "Solve: 38 + 15 - 24",
+      "answer": 29,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 83,
+      "question": "Calculate: (2 + 8) \u00d7 4",
+      "answer": 40,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 84,
+      "question": "Solve: 25 + 8 - 6",
+      "answer": 27,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 85,
+      "question": "Calculate: (2 + 1) \u00d7 4",
+      "answer": 12,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 86,
+      "question": "Calculate: (3 + 2) \u00d7 2",
+      "answer": 10,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 87,
+      "question": "Solve: 40 + 22 - 26",
+      "answer": 36,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 88,
+      "question": "Solve: 14 + 41 - 18",
+      "answer": 37,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 89,
+      "question": "Solve: 34 + 49 - 14",
+      "answer": 69,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 90,
+      "question": "Calculate: (2 + 9) \u00d7 5",
+      "answer": 55,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 91,
+      "question": "Calculate: (1 + 1) \u00d7 2",
+      "answer": 4,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 92,
+      "question": "Solve: 50 + 32 - 18",
+      "answer": 64,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 93,
+      "question": "Solve: 21 + 44 - 21",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 94,
+      "question": "Solve: 42 + 26 - 7",
+      "answer": 61,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 95,
+      "question": "Calculate: (3 + 10) \u00d7 6",
+      "answer": 78,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 96,
+      "question": "Solve: 27 + 33 - 28",
+      "answer": 32,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 97,
+      "question": "Calculate: (1 + 2) \u00d7 2",
+      "answer": 6,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 98,
+      "question": "Calculate: (9 + 6) \u00d7 5",
+      "answer": 75,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 99,
+      "question": "Solve: 17 + 31 - 14",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 100,
+      "question": "Calculate: (8 + 7) \u00d7 4",
+      "answer": 60,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 101,
+      "question": "Solve: 44 + 44 - 19",
+      "answer": 69,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 102,
+      "question": "Solve: 23 + 50 - 26",
+      "answer": 47,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 103,
+      "question": "Calculate: (3 + 6) \u00d7 4",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 104,
+      "question": "Solve: 31 + 46 - 20",
+      "answer": 57,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 105,
+      "question": "Calculate: (3 + 1) \u00d7 8",
+      "answer": 32,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 106,
+      "question": "Calculate: (6 + 7) \u00d7 7",
+      "answer": 91,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 107,
+      "question": "Solve: 29 + 35 - 30",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 108,
+      "question": "Solve: 33 + 33 - 7",
+      "answer": 59,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 109,
+      "question": "Solve: 29 + 25 - 25",
+      "answer": 29,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 110,
+      "question": "Calculate: (10 + 9) \u00d7 2",
+      "answer": 38,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 111,
+      "question": "Calculate: (1 + 9) \u00d7 3",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 112,
+      "question": "Calculate: (6 + 6) \u00d7 7",
+      "answer": 84,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 113,
+      "question": "Solve: 10 + 39 - 12",
+      "answer": 37,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 114,
+      "question": "Solve: 50 + 11 - 17",
+      "answer": 44,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 115,
+      "question": "Solve: 10 + 41 - 21",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 116,
+      "question": "Solve: 10 + 20 - 19",
+      "answer": 11,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 117,
+      "question": "Solve: 49 + 14 - 2",
+      "answer": 61,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 118,
+      "question": "Solve: 23 + 21 - 3",
+      "answer": 41,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 119,
+      "question": "Calculate: (9 + 8) \u00d7 7",
+      "answer": 119,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 120,
+      "question": "Calculate: (4 + 1) \u00d7 5",
+      "answer": 25,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 121,
+      "question": "Calculate: (2 + 2) \u00d7 5",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 122,
+      "question": "Solve: 14 + 36 - 13",
+      "answer": 37,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 123,
+      "question": "Calculate: (1 + 8) \u00d7 3",
+      "answer": 27,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 124,
+      "question": "Calculate: (5 + 7) \u00d7 4",
+      "answer": 48,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 125,
+      "question": "Calculate: (3 + 5) \u00d7 2",
+      "answer": 16,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 126,
+      "question": "Solve: 42 + 42 - 6",
+      "answer": 78,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 127,
+      "question": "Solve: 9 + 43 - 27",
+      "answer": 25,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 128,
+      "question": "Solve: 40 + 18 - 14",
+      "answer": 44,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 129,
+      "question": "Calculate: (2 + 10) \u00d7 7",
+      "answer": 84,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 130,
+      "question": "Solve: 9 + 47 - 12",
+      "answer": 44,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 131,
+      "question": "Solve: 13 + 38 - 25",
+      "answer": 26,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 132,
+      "question": "Calculate: (10 + 7) \u00d7 4",
+      "answer": 68,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 133,
+      "question": "Calculate: (6 + 6) \u00d7 6",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 134,
+      "question": "Solve: 10 + 32 - 23",
+      "answer": 19,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 135,
+      "question": "Calculate: (5 + 4) \u00d7 5",
+      "answer": 45,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 136,
+      "question": "Calculate: (5 + 5) \u00d7 4",
+      "answer": 40,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 137,
+      "question": "Calculate: (5 + 9) \u00d7 7",
+      "answer": 98,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 138,
+      "question": "Solve: 13 + 23 - 18",
+      "answer": 18,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 139,
+      "question": "Calculate: (6 + 7) \u00d7 3",
+      "answer": 39,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 140,
+      "question": "Calculate: (10 + 3) \u00d7 3",
+      "answer": 39,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 141,
+      "question": "Solve: 25 + 47 - 19",
+      "answer": 53,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 142,
+      "question": "Calculate: (1 + 2) \u00d7 2",
+      "answer": 6,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 143,
+      "question": "Calculate: (9 + 6) \u00d7 3",
+      "answer": 45,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 144,
+      "question": "Calculate: (5 + 8) \u00d7 5",
+      "answer": 65,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 145,
+      "question": "Calculate: (8 + 9) \u00d7 5",
+      "answer": 85,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 146,
+      "question": "Solve: 17 + 35 - 20",
+      "answer": 32,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 147,
+      "question": "Solve: 38 + 25 - 24",
+      "answer": 39,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 148,
+      "question": "Solve: 18 + 17 - 7",
+      "answer": 28,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 149,
+      "question": "Solve: 35 + 42 - 28",
+      "answer": 49,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 150,
+      "question": "Calculate: (6 + 8) \u00d7 8",
+      "answer": 112,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 151,
+      "question": "Solve: 32 + 10 - 13",
+      "answer": 29,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 152,
+      "question": "Calculate: (7 + 2) \u00d7 7",
+      "answer": 63,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 153,
+      "question": "Solve: 20 + 33 - 19",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 154,
+      "question": "Solve: 43 + 19 - 19",
+      "answer": 43,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 155,
+      "question": "Solve: 47 + 40 - 14",
+      "answer": 73,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 156,
+      "question": "Solve: 32 + 23 - 19",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 157,
+      "question": "Calculate: (1 + 5) \u00d7 6",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 158,
+      "question": "Calculate: (9 + 2) \u00d7 6",
+      "answer": 66,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 159,
+      "question": "Calculate: (9 + 6) \u00d7 5",
+      "answer": 75,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 160,
+      "question": "Solve: 9 + 22 - 4",
+      "answer": 27,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 161,
+      "question": "Calculate: (7 + 1) \u00d7 6",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 162,
+      "question": "Solve: 14 + 49 - 19",
+      "answer": 44,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 163,
+      "question": "Calculate: (8 + 7) \u00d7 7",
+      "answer": 105,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 164,
+      "question": "Solve: 46 + 20 - 18",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 165,
+      "question": "Calculate: (2 + 9) \u00d7 4",
+      "answer": 44,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 166,
+      "question": "Solve: 30 + 21 - 15",
+      "answer": 36,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 167,
+      "question": "Calculate: (3 + 10) \u00d7 6",
+      "answer": 78,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 168,
+      "question": "Calculate: (1 + 1) \u00d7 3",
+      "answer": 6,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 169,
+      "question": "Calculate: (7 + 5) \u00d7 4",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 170,
+      "question": "Calculate: (3 + 4) \u00d7 4",
+      "answer": 28,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 171,
+      "question": "Calculate: (4 + 6) \u00d7 2",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 172,
+      "question": "Solve: 41 + 5 - 3",
+      "answer": 43,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 173,
+      "question": "Solve: 44 + 19 - 24",
+      "answer": 39,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 174,
+      "question": "Solve: 10 + 15 - 25",
+      "answer": 0,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 175,
+      "question": "Solve: 16 + 47 - 20",
+      "answer": 43,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 176,
+      "question": "Calculate: (10 + 7) \u00d7 2",
+      "answer": 34,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 177,
+      "question": "Solve: 50 + 6 - 11",
+      "answer": 45,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 178,
+      "question": "Solve: 30 + 48 - 22",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 179,
+      "question": "Solve: 21 + 37 - 19",
+      "answer": 39,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 180,
+      "question": "Solve: 38 + 27 - 21",
+      "answer": 44,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 181,
+      "question": "Solve: 10 + 25 - 3",
+      "answer": 32,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 182,
+      "question": "Solve: 37 + 23 - 27",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 183,
+      "question": "Solve: 17 + 9 - 9",
+      "answer": 17,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 184,
+      "question": "Calculate: (4 + 9) \u00d7 7",
+      "answer": 91,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 185,
+      "question": "Solve: 18 + 33 - 5",
+      "answer": 46,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 186,
+      "question": "Solve: 29 + 35 - 25",
+      "answer": 39,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 187,
+      "question": "Calculate: (10 + 8) \u00d7 5",
+      "answer": 90,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 188,
+      "question": "Calculate: (7 + 2) \u00d7 3",
+      "answer": 27,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 189,
+      "question": "Solve: 13 + 46 - 29",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 190,
+      "question": "Solve: 6 + 7 - 11",
+      "answer": 2,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 191,
+      "question": "Solve: 48 + 14 - 14",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 192,
+      "question": "Calculate: (1 + 9) \u00d7 4",
+      "answer": 40,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 193,
+      "question": "Solve: 8 + 26 - 20",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 194,
+      "question": "Calculate: (7 + 8) \u00d7 6",
+      "answer": 90,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 195,
+      "question": "Solve: 23 + 34 - 12",
+      "answer": 45,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 196,
+      "question": "Calculate: (6 + 1) \u00d7 5",
+      "answer": 35,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 197,
+      "question": "Calculate: (7 + 3) \u00d7 7",
+      "answer": 70,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 198,
+      "question": "Solve: 22 + 38 - 4",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 199,
+      "question": "Calculate: (5 + 4) \u00d7 2",
+      "answer": 18,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 200,
+      "question": "Calculate: (5 + 10) \u00d7 8",
+      "answer": 120,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 201,
+      "question": "Calculate: (3 + 6) \u00d7 3",
+      "answer": 27,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 202,
+      "question": "Calculate: (8 + 3) \u00d7 5",
+      "answer": 55,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 203,
+      "question": "Solve: 18 + 12 - 10",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 204,
+      "question": "Solve: 9 + 44 - 20",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 205,
+      "question": "Calculate: (8 + 3) \u00d7 4",
+      "answer": 44,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 206,
+      "question": "Solve: 35 + 11 - 11",
+      "answer": 35,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 207,
+      "question": "Calculate: (6 + 7) \u00d7 6",
+      "answer": 78,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 208,
+      "question": "Solve: 43 + 26 - 25",
+      "answer": 44,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 209,
+      "question": "Calculate: (10 + 5) \u00d7 4",
+      "answer": 60,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 210,
+      "question": "Calculate: (1 + 6) \u00d7 2",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 211,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 212,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 213,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 214,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 215,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 216,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 217,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 218,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 219,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 220,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 221,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 222,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 223,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 224,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 225,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 226,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 227,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 228,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 229,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 230,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 231,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 232,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 233,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 234,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 235,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 236,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 237,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 238,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 239,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 240,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 241,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 242,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 243,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 244,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 245,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 246,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 247,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 248,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 249,
+      "question": "Multi-step question about angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 250,
+      "question": "A complex problem involving angles in parallel lines",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 251,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 252,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 253,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 254,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 255,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 256,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 257,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 258,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 259,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 260,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 261,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 262,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 263,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 264,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 265,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 266,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 267,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 268,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 269,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 270,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 271,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 272,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 273,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 274,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 275,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 276,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 277,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 278,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 279,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 280,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 281,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 282,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 283,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 284,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 285,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 286,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 287,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 288,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 289,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 290,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 291,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 292,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 293,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 294,
+      "question": "Show your working for this angles in parallel lines question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 295,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 296,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 297,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 298,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 299,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 300,
+      "question": "Exam question: Apply angles in parallel lines to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    }
+  ]
+}

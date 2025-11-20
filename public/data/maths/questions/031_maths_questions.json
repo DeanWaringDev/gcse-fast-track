@@ -1,0 +1,1250 @@
+{
+  "lessonId": 31,
+  "lessonNumber": "031",
+  "lessonTitle": "Surds - Simplifying",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Calculate: 10 + 3"
+        },
+        {
+          "id": 2,
+          "question": "Calculate: 20 + 17"
+        },
+        {
+          "id": 3,
+          "question": "Work out: 52 - 25"
+        },
+        {
+          "id": 4,
+          "question": "Work out: 77 - 5"
+        },
+        {
+          "id": 5,
+          "question": "Calculate: 4 + 12"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 96 - 36"
+        },
+        {
+          "id": 7,
+          "question": "Work out: 60 - 30"
+        },
+        {
+          "id": 8,
+          "question": "Work out: 38 - 38"
+        },
+        {
+          "id": 9,
+          "question": "Calculate: 17 + 18"
+        },
+        {
+          "id": 10,
+          "question": "Find: 9 \u00d7 3"
+        },
+        {
+          "id": 11,
+          "question": "Find: 3 \u00d7 11"
+        },
+        {
+          "id": 12,
+          "question": "Find: 8 \u00d7 4"
+        },
+        {
+          "id": 13,
+          "question": "Work out: 54 - 24"
+        },
+        {
+          "id": 14,
+          "question": "Work out: 70 - 45"
+        },
+        {
+          "id": 15,
+          "question": "Find: 9 \u00d7 5"
+        },
+        {
+          "id": 16,
+          "question": "Work out: 34 - 5"
+        },
+        {
+          "id": 17,
+          "question": "Work out: 25 - 50"
+        },
+        {
+          "id": 18,
+          "question": "Calculate: 15 + 3"
+        },
+        {
+          "id": 19,
+          "question": "Find: 10 \u00d7 5"
+        },
+        {
+          "id": 20,
+          "question": "Work out: 81 - 39"
+        },
+        {
+          "id": 21,
+          "question": "Work out: 63 - 43"
+        },
+        {
+          "id": 22,
+          "question": "Calculate: 4 + 4"
+        },
+        {
+          "id": 23,
+          "question": "Find: 3 \u00d7 9"
+        },
+        {
+          "id": 24,
+          "question": "Find: 7 \u00d7 4"
+        },
+        {
+          "id": 25,
+          "question": "Find: 9 \u00d7 10"
+        },
+        {
+          "id": 26,
+          "question": "Calculate: 2 + 2"
+        },
+        {
+          "id": 27,
+          "question": "Find: 8 \u00d7 6"
+        },
+        {
+          "id": 28,
+          "question": "Find: 9 \u00d7 8"
+        },
+        {
+          "id": 29,
+          "question": "Work out: 72 - 38"
+        },
+        {
+          "id": 30,
+          "question": "Work out: 15 - 5"
+        },
+        {
+          "id": 31,
+          "question": "Calculate: 11 + 9"
+        },
+        {
+          "id": 32,
+          "question": "Find: 9 \u00d7 3"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 16 - 50"
+        },
+        {
+          "id": 34,
+          "question": "Calculate: 8 + 13"
+        },
+        {
+          "id": 35,
+          "question": "Find: 5 \u00d7 5"
+        },
+        {
+          "id": 36,
+          "question": "Find: 4 \u00d7 8"
+        },
+        {
+          "id": 37,
+          "question": "Find: 8 \u00d7 3"
+        },
+        {
+          "id": 38,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 39,
+          "question": "Calculate: 18 + 15"
+        },
+        {
+          "id": 40,
+          "question": "Calculate: 19 + 18"
+        },
+        {
+          "id": 41,
+          "question": "Find: 11 \u00d7 7"
+        },
+        {
+          "id": 42,
+          "question": "Find: 4 \u00d7 2"
+        },
+        {
+          "id": 43,
+          "question": "Calculate: 1 + 2"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 19 - 31"
+        },
+        {
+          "id": 45,
+          "question": "Find: 12 \u00d7 10"
+        },
+        {
+          "id": 46,
+          "question": "Find: 9 \u00d7 5"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 18 - 30"
+        },
+        {
+          "id": 48,
+          "question": "Work out: 12 - 45"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 6 + 8"
+        },
+        {
+          "id": 50,
+          "question": "Calculate: 10 + 10"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (9 + 5) \u00d7 2"
+        },
+        {
+          "id": 52,
+          "question": "Solve: 26 + 15 - 14"
+        },
+        {
+          "id": 53,
+          "question": "Calculate: (1 + 6) \u00d7 5"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (2 + 10) \u00d7 3"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (1 + 10) \u00d7 3"
+        },
+        {
+          "id": 56,
+          "question": "Solve: 32 + 49 - 9"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 23 + 21 - 21"
+        },
+        {
+          "id": 58,
+          "question": "Calculate: (1 + 3) \u00d7 7"
+        },
+        {
+          "id": 59,
+          "question": "Solve: 49 + 30 - 25"
+        },
+        {
+          "id": 60,
+          "question": "Calculate: (4 + 8) \u00d7 5"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 25 + 50 - 23"
+        },
+        {
+          "id": 62,
+          "question": "Solve: 18 + 43 - 19"
+        },
+        {
+          "id": 63,
+          "question": "Solve: 34 + 33 - 22"
+        },
+        {
+          "id": 64,
+          "question": "Calculate: (2 + 2) \u00d7 4"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (3 + 6) \u00d7 4"
+        },
+        {
+          "id": 66,
+          "question": "Calculate: (2 + 1) \u00d7 7"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 18 + 22 - 24"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (2 + 10) \u00d7 2"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 32 + 14 - 16"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 35 + 10 - 14"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (4 + 2) \u00d7 7"
+        },
+        {
+          "id": 72,
+          "question": "Solve: 41 + 49 - 23"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (4 + 7) \u00d7 8"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 14 + 11 - 8"
+        },
+        {
+          "id": 75,
+          "question": "Calculate: (10 + 1) \u00d7 3"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 36 + 39 - 4"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 45 + 44 - 29"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (5 + 1) \u00d7 3"
+        },
+        {
+          "id": 79,
+          "question": "Solve: 28 + 17 - 8"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (5 + 5) \u00d7 3"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 7 + 16 - 8"
+        },
+        {
+          "id": 82,
+          "question": "Calculate: (7 + 5) \u00d7 3"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (5 + 9) \u00d7 8"
+        },
+        {
+          "id": 84,
+          "question": "Solve: 49 + 27 - 16"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (5 + 8) \u00d7 5"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 40 + 6 - 1"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 14 + 33 - 27"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (1 + 8) \u00d7 3"
+        },
+        {
+          "id": 89,
+          "question": "Calculate: (7 + 4) \u00d7 3"
+        },
+        {
+          "id": 90,
+          "question": "Calculate: (1 + 5) \u00d7 7"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 42 + 12 - 24"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 40 + 6 - 26"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (7 + 7) \u00d7 6"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (9 + 9) \u00d7 3"
+        },
+        {
+          "id": 95,
+          "question": "Calculate: (8 + 10) \u00d7 6"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (6 + 10) \u00d7 2"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 50 + 43 - 23"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (7 + 9) \u00d7 7"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (10 + 3) \u00d7 2"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 33 + 42 - 5"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 15 + 37 - 6"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (9 + 9) \u00d7 7"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (5 + 7) \u00d7 7"
+        },
+        {
+          "id": 104,
+          "question": "Calculate: (2 + 9) \u00d7 8"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (3 + 2) \u00d7 2"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 21 + 27 - 1"
+        },
+        {
+          "id": 107,
+          "question": "Calculate: (7 + 5) \u00d7 6"
+        },
+        {
+          "id": 108,
+          "question": "Calculate: (3 + 1) \u00d7 6"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 25 + 25 - 14"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 46 + 50 - 15"
+        },
+        {
+          "id": 111,
+          "question": "Solve: 31 + 32 - 2"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (1 + 6) \u00d7 5"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 18 + 9 - 3"
+        },
+        {
+          "id": 114,
+          "question": "Solve: 49 + 12 - 23"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: (5 + 8) \u00d7 2"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 5 + 47 - 14"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (9 + 2) \u00d7 5"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 45 + 37 - 27"
+        },
+        {
+          "id": 119,
+          "question": "Calculate: (4 + 2) \u00d7 6"
+        },
+        {
+          "id": 120,
+          "question": "Solve: 38 + 46 - 8"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 29 + 20 - 13"
+        },
+        {
+          "id": 122,
+          "question": "Calculate: (1 + 7) \u00d7 6"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 39 + 11 - 17"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 10 + 17 - 9"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (8 + 3) \u00d7 2"
+        },
+        {
+          "id": 126,
+          "question": "Calculate: (10 + 2) \u00d7 3"
+        },
+        {
+          "id": 127,
+          "question": "Calculate: (4 + 4) \u00d7 3"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (4 + 8) \u00d7 2"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 30 + 38 - 30"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (1 + 8) \u00d7 7"
+        },
+        {
+          "id": 131,
+          "question": "Calculate: (4 + 7) \u00d7 6"
+        },
+        {
+          "id": 132,
+          "question": "Solve: 10 + 27 - 7"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (10 + 8) \u00d7 7"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 40 + 27 - 28"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (7 + 3) \u00d7 4"
+        },
+        {
+          "id": 136,
+          "question": "Calculate: (7 + 10) \u00d7 2"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (8 + 10) \u00d7 3"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 38 + 44 - 10"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 45 + 49 - 16"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (8 + 1) \u00d7 3"
+        },
+        {
+          "id": 141,
+          "question": "Solve: 24 + 38 - 11"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (8 + 2) \u00d7 6"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (2 + 3) \u00d7 7"
+        },
+        {
+          "id": 144,
+          "question": "Calculate: (2 + 4) \u00d7 8"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (4 + 1) \u00d7 5"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (10 + 4) \u00d7 4"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (4 + 8) \u00d7 7"
+        },
+        {
+          "id": 148,
+          "question": "Solve: 35 + 29 - 16"
+        },
+        {
+          "id": 149,
+          "question": "Solve: 42 + 5 - 28"
+        },
+        {
+          "id": 150,
+          "question": "Calculate: (8 + 1) \u00d7 3"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (5 + 8) \u00d7 2"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 25 + 12 - 1"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 14 + 44 - 6"
+        },
+        {
+          "id": 154,
+          "question": "Solve: 10 + 35 - 14"
+        },
+        {
+          "id": 155,
+          "question": "Calculate: (4 + 10) \u00d7 5"
+        },
+        {
+          "id": 156,
+          "question": "Solve: 44 + 27 - 13"
+        },
+        {
+          "id": 157,
+          "question": "Solve: 41 + 8 - 20"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (4 + 4) \u00d7 2"
+        },
+        {
+          "id": 159,
+          "question": "Solve: 16 + 11 - 4"
+        },
+        {
+          "id": 160,
+          "question": "Solve: 22 + 41 - 27"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (4 + 4) \u00d7 5"
+        },
+        {
+          "id": 162,
+          "question": "Solve: 15 + 27 - 14"
+        },
+        {
+          "id": 163,
+          "question": "Solve: 11 + 17 - 7"
+        },
+        {
+          "id": 164,
+          "question": "Solve: 21 + 43 - 16"
+        },
+        {
+          "id": 165,
+          "question": "Solve: 18 + 22 - 18"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 47 + 33 - 24"
+        },
+        {
+          "id": 167,
+          "question": "Solve: 38 + 31 - 21"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 39 + 9 - 29"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 50 + 50 - 7"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 33 + 27 - 28"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (6 + 4) \u00d7 3"
+        },
+        {
+          "id": 172,
+          "question": "Solve: 17 + 38 - 21"
+        },
+        {
+          "id": 173,
+          "question": "Solve: 26 + 21 - 19"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (3 + 5) \u00d7 3"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (1 + 8) \u00d7 4"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 17 + 35 - 21"
+        },
+        {
+          "id": 177,
+          "question": "Solve: 19 + 5 - 30"
+        },
+        {
+          "id": 178,
+          "question": "Solve: 8 + 43 - 5"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (8 + 1) \u00d7 8"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (8 + 1) \u00d7 3"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: (7 + 2) \u00d7 8"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 33 + 13 - 10"
+        },
+        {
+          "id": 183,
+          "question": "Calculate: (8 + 9) \u00d7 6"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 46 + 30 - 19"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: (2 + 7) \u00d7 4"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (7 + 5) \u00d7 8"
+        },
+        {
+          "id": 187,
+          "question": "Solve: 40 + 10 - 12"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 24 + 38 - 28"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 30 + 12 - 25"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (7 + 9) \u00d7 3"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (1 + 3) \u00d7 5"
+        },
+        {
+          "id": 192,
+          "question": "Solve: 44 + 35 - 26"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (8 + 2) \u00d7 5"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (5 + 8) \u00d7 3"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 41 + 32 - 2"
+        },
+        {
+          "id": 196,
+          "question": "Calculate: (1 + 4) \u00d7 6"
+        },
+        {
+          "id": 197,
+          "question": "Calculate: (4 + 5) \u00d7 3"
+        },
+        {
+          "id": 198,
+          "question": "Calculate: (1 + 4) \u00d7 8"
+        },
+        {
+          "id": 199,
+          "question": "Solve: 31 + 22 - 5"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 39 + 11 - 27"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 49 + 12 - 2"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 10 + 36 - 30"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (7 + 2) \u00d7 7"
+        },
+        {
+          "id": 204,
+          "question": "Calculate: (10 + 5) \u00d7 4"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 36 + 8 - 18"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (4 + 4) \u00d7 2"
+        },
+        {
+          "id": 207,
+          "question": "Solve: 26 + 21 - 9"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 44 + 45 - 21"
+        },
+        {
+          "id": 209,
+          "question": "Calculate: (6 + 4) \u00d7 6"
+        },
+        {
+          "id": 210,
+          "question": "Calculate: (5 + 1) \u00d7 4"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 214,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 222,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 223,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 224,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 226,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 228,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 231,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 234,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 242,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 243,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 246,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about surds - simplifying"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving surds - simplifying"
+        },
+        {
+          "id": 250,
+          "question": "A complex problem involving surds - simplifying"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 259,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 262,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 263,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 280,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 281,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 282,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 283,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 284,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 290,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 291,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 292,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this surds - simplifying question"
+        },
+        {
+          "id": 300,
+          "question": "Exam question: Apply surds - simplifying to solve this problem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2936 @@
+{
+  "subject": "GCSE Computer Science",
+  "totalLessons": 100,
+  "freeLessons": 25,
+  "estimatedCompletionWeeks": 24,
+  "targetGrade": "Grade 5 (Pass)",
+  "programmingLanguage": "Python",
+  "examBoards": [
+    "AQA",
+    "OCR",
+    "Edexcel"
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "number": "001",
+      "slug": "what-is-computer-science",
+      "title": "What is Computer Science?",
+      "category": "Computer Systems",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 40,
+      "confidenceTarget": 8,
+      "prerequisites": [],
+      "topicsCovered": [
+        "introduction",
+        "computer science basics",
+        "computational thinking"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "001_computerscience_lesson.md",
+        "questions": "001_computerscience_questions.json",
+        "worksheet": "001_computerscience.pdf",
+        "answers": "001_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 2,
+      "number": "002",
+      "slug": "binary-basics",
+      "title": "Binary - The Language of Computers",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "binary",
+        "number systems",
+        "denary conversion"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "002_computerscience_lesson.md",
+        "questions": "002_computerscience_questions.json",
+        "worksheet": "002_computerscience.pdf",
+        "answers": "002_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 3,
+      "number": "003",
+      "slug": "binary-addition",
+      "title": "Binary Addition",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        2
+      ],
+      "topicsCovered": [
+        "binary addition",
+        "overflow",
+        "carrying"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "003_computerscience_lesson.md",
+        "questions": "003_computerscience_questions.json",
+        "worksheet": "003_computerscience.pdf",
+        "answers": "003_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 4,
+      "number": "004",
+      "slug": "hexadecimal-basics",
+      "title": "Hexadecimal Numbers",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        2
+      ],
+      "topicsCovered": [
+        "hexadecimal",
+        "hex to denary",
+        "hex to binary"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "004_computerscience_lesson.md",
+        "questions": "004_computerscience_questions.json",
+        "worksheet": "004_computerscience.pdf",
+        "answers": "004_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 5,
+      "number": "005",
+      "slug": "representing-text",
+      "title": "How Computers Store Text - ASCII & Unicode",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        2
+      ],
+      "topicsCovered": [
+        "ASCII",
+        "Unicode",
+        "character encoding"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "005_computerscience_lesson.md",
+        "questions": "005_computerscience_questions.json",
+        "worksheet": "005_computerscience.pdf",
+        "answers": "005_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 6,
+      "number": "006",
+      "slug": "representing-images",
+      "title": "How Computers Store Images",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        2
+      ],
+      "topicsCovered": [
+        "pixels",
+        "resolution",
+        "colour depth",
+        "metadata"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "006_computerscience_lesson.md",
+        "questions": "006_computerscience_questions.json",
+        "worksheet": "006_computerscience.pdf",
+        "answers": "006_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 7,
+      "number": "007",
+      "slug": "representing-sound",
+      "title": "How Computers Store Sound",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        2
+      ],
+      "topicsCovered": [
+        "sampling",
+        "sample rate",
+        "bit depth",
+        "audio files"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "007_computerscience_lesson.md",
+        "questions": "007_computerscience_questions.json",
+        "worksheet": "007_computerscience.pdf",
+        "answers": "007_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 8,
+      "number": "008",
+      "slug": "compression-basics",
+      "title": "Data Compression - Making Files Smaller",
+      "category": "Data Representation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        5,
+        6
+      ],
+      "topicsCovered": [
+        "lossy compression",
+        "lossless compression",
+        "file sizes"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "008_computerscience_lesson.md",
+        "questions": "008_computerscience_questions.json",
+        "worksheet": "008_computerscience.pdf",
+        "answers": "008_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 9,
+      "number": "009",
+      "slug": "cpu-basics",
+      "title": "The CPU - The Brain of the Computer",
+      "category": "Computer Systems",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "CPU",
+        "processor",
+        "cores",
+        "clock speed",
+        "cache"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "009_computerscience_lesson.md",
+        "questions": "009_computerscience_questions.json",
+        "worksheet": "009_computerscience.pdf",
+        "answers": "009_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 10,
+      "number": "010",
+      "slug": "fetch-execute-cycle",
+      "title": "How the CPU Works - Fetch-Execute Cycle",
+      "category": "Computer Systems",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        9
+      ],
+      "topicsCovered": [
+        "fetch-execute cycle",
+        "registers",
+        "Von Neumann",
+        "instruction set"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "010_computerscience_lesson.md",
+        "questions": "010_computerscience_questions.json",
+        "worksheet": "010_computerscience.pdf",
+        "answers": "010_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 11,
+      "number": "011",
+      "slug": "memory-basics",
+      "title": "Computer Memory - RAM and ROM",
+      "category": "Computer Systems",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        9
+      ],
+      "topicsCovered": [
+        "RAM",
+        "ROM",
+        "volatile memory",
+        "primary storage"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "011_computerscience_lesson.md",
+        "questions": "011_computerscience_questions.json",
+        "worksheet": "011_computerscience.pdf",
+        "answers": "011_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 12,
+      "number": "012",
+      "slug": "secondary-storage",
+      "title": "Secondary Storage - Hard Drives, SSDs, USB",
+      "category": "Computer Systems",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        11
+      ],
+      "topicsCovered": [
+        "HDD",
+        "SSD",
+        "optical",
+        "magnetic",
+        "solid state"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "012_computerscience_lesson.md",
+        "questions": "012_computerscience_questions.json",
+        "worksheet": "012_computerscience.pdf",
+        "answers": "012_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 13,
+      "number": "013",
+      "slug": "algorithms-introduction",
+      "title": "Introduction to Algorithms",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "algorithms",
+        "pseudocode",
+        "flowcharts",
+        "abstraction"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "013_computerscience_lesson.md",
+        "questions": "013_computerscience_questions.json",
+        "worksheet": "013_computerscience.pdf",
+        "answers": "013_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 14,
+      "number": "014",
+      "slug": "flowcharts",
+      "title": "Flowcharts - Visualizing Algorithms",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        13
+      ],
+      "topicsCovered": [
+        "flowcharts",
+        "symbols",
+        "decision boxes",
+        "loops"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "014_computerscience_lesson.md",
+        "questions": "014_computerscience_questions.json",
+        "worksheet": "014_computerscience.pdf",
+        "answers": "014_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 15,
+      "number": "015",
+      "slug": "pseudocode-basics",
+      "title": "Pseudocode - Planning Your Programs",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        13
+      ],
+      "topicsCovered": [
+        "pseudocode",
+        "planning",
+        "structure",
+        "syntax"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "015_computerscience_lesson.md",
+        "questions": "015_computerscience_questions.json",
+        "worksheet": "015_computerscience.pdf",
+        "answers": "015_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 16,
+      "number": "016",
+      "slug": "searching-linear",
+      "title": "Linear Search Algorithm",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        13
+      ],
+      "topicsCovered": [
+        "linear search",
+        "searching",
+        "algorithms"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "016_computerscience_lesson.md",
+        "questions": "016_computerscience_questions.json",
+        "worksheet": "016_computerscience.pdf",
+        "answers": "016_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 17,
+      "number": "017",
+      "slug": "searching-binary",
+      "title": "Binary Search Algorithm",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        16
+      ],
+      "topicsCovered": [
+        "binary search",
+        "efficiency",
+        "sorted data"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "017_computerscience_lesson.md",
+        "questions": "017_computerscience_questions.json",
+        "worksheet": "017_computerscience.pdf",
+        "answers": "017_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 18,
+      "number": "018",
+      "slug": "sorting-bubble",
+      "title": "Bubble Sort Algorithm",
+      "category": "Algorithms",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        13
+      ],
+      "topicsCovered": [
+        "bubble sort",
+        "sorting",
+        "swapping",
+        "passes"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "018_computerscience_lesson.md",
+        "questions": "018_computerscience_questions.json",
+        "worksheet": "018_computerscience.pdf",
+        "answers": "018_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 19,
+      "number": "019",
+      "slug": "sorting-merge",
+      "title": "Merge Sort Algorithm",
+      "category": "Algorithms",
+      "tier": "Higher",
+      "difficulty": "Very Hard",
+      "isFree": true,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 5,
+      "prerequisites": [
+        18
+      ],
+      "topicsCovered": [
+        "merge sort",
+        "divide and conquer",
+        "recursion"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "019_computerscience_lesson.md",
+        "questions": "019_computerscience_questions.json",
+        "worksheet": "019_computerscience.pdf",
+        "answers": "019_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 20,
+      "number": "020",
+      "slug": "python-basics",
+      "title": "Python Basics - Your First Program",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "Python",
+        "print",
+        "variables",
+        "input",
+        "data types"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "020_computerscience_lesson.md",
+        "questions": "020_computerscience_questions.json",
+        "worksheet": "020_computerscience.pdf",
+        "answers": "020_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 21,
+      "number": "021",
+      "slug": "variables-data-types",
+      "title": "Variables and Data Types",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        20
+      ],
+      "topicsCovered": [
+        "variables",
+        "integer",
+        "float",
+        "string",
+        "boolean",
+        "casting"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "021_computerscience_lesson.md",
+        "questions": "021_computerscience_questions.json",
+        "worksheet": "021_computerscience.pdf",
+        "answers": "021_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 22,
+      "number": "022",
+      "slug": "arithmetic-operators",
+      "title": "Arithmetic Operations in Python",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        21
+      ],
+      "topicsCovered": [
+        "operators",
+        "arithmetic",
+        "modulo",
+        "integer division"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "022_computerscience_lesson.md",
+        "questions": "022_computerscience_questions.json",
+        "worksheet": "022_computerscience.pdf",
+        "answers": "022_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 23,
+      "number": "023",
+      "slug": "selection-if-statements",
+      "title": "Selection - IF Statements",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        21
+      ],
+      "topicsCovered": [
+        "if",
+        "elif",
+        "else",
+        "conditions",
+        "comparison operators"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "023_computerscience_lesson.md",
+        "questions": "023_computerscience_questions.json",
+        "worksheet": "023_computerscience.pdf",
+        "answers": "023_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 24,
+      "number": "024",
+      "slug": "boolean-logic",
+      "title": "Boolean Logic - AND, OR, NOT",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        23
+      ],
+      "topicsCovered": [
+        "Boolean",
+        "AND",
+        "OR",
+        "NOT",
+        "truth tables",
+        "logic"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "024_computerscience_lesson.md",
+        "questions": "024_computerscience_questions.json",
+        "worksheet": "024_computerscience.pdf",
+        "answers": "024_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 25,
+      "number": "025",
+      "slug": "iteration-while-loops",
+      "title": "Iteration - WHILE Loops",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        23
+      ],
+      "topicsCovered": [
+        "while loops",
+        "iteration",
+        "count-controlled",
+        "condition-controlled"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "025_computerscience_lesson.md",
+        "questions": "025_computerscience_questions.json",
+        "worksheet": "025_computerscience.pdf",
+        "answers": "025_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 26,
+      "number": "026",
+      "slug": "iteration-for-loops",
+      "title": "Iteration - FOR Loops",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        25
+      ],
+      "topicsCovered": [
+        "for loops",
+        "range",
+        "iteration",
+        "counting"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "026_computerscience_lesson.md",
+        "questions": "026_computerscience_questions.json",
+        "worksheet": "026_computerscience.pdf",
+        "answers": "026_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 27,
+      "number": "027",
+      "slug": "nested-loops",
+      "title": "Nested Loops",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        26
+      ],
+      "topicsCovered": [
+        "nested loops",
+        "inner loop",
+        "outer loop",
+        "patterns"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "027_computerscience_lesson.md",
+        "questions": "027_computerscience_questions.json",
+        "worksheet": "027_computerscience.pdf",
+        "answers": "027_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 28,
+      "number": "028",
+      "slug": "lists-arrays",
+      "title": "Lists and Arrays",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        26
+      ],
+      "topicsCovered": [
+        "lists",
+        "arrays",
+        "indexing",
+        "append",
+        "len"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "028_computerscience_lesson.md",
+        "questions": "028_computerscience_questions.json",
+        "worksheet": "028_computerscience.pdf",
+        "answers": "028_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 29,
+      "number": "029",
+      "slug": "list-operations",
+      "title": "List Operations and Methods",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        28
+      ],
+      "topicsCovered": [
+        "list methods",
+        "insert",
+        "remove",
+        "sort",
+        "reverse"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "029_computerscience_lesson.md",
+        "questions": "029_computerscience_questions.json",
+        "worksheet": "029_computerscience.pdf",
+        "answers": "029_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 30,
+      "number": "030",
+      "slug": "2d-arrays",
+      "title": "2D Arrays (Lists within Lists)",
+      "category": "Programming",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        28
+      ],
+      "topicsCovered": [
+        "2D arrays",
+        "matrices",
+        "nested lists",
+        "double indexing"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "030_computerscience_lesson.md",
+        "questions": "030_computerscience_questions.json",
+        "worksheet": "030_computerscience.pdf",
+        "answers": "030_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 31,
+      "number": "031",
+      "slug": "string-manipulation",
+      "title": "String Manipulation",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        21
+      ],
+      "topicsCovered": [
+        "strings",
+        "slicing",
+        "concatenation",
+        "upper",
+        "lower",
+        "length"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "031_computerscience_lesson.md",
+        "questions": "031_computerscience_questions.json",
+        "worksheet": "031_computerscience.pdf",
+        "answers": "031_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 32,
+      "number": "032",
+      "slug": "functions-basics",
+      "title": "Functions and Procedures",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        20
+      ],
+      "topicsCovered": [
+        "functions",
+        "procedures",
+        "def",
+        "parameters",
+        "return"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "032_computerscience_lesson.md",
+        "questions": "032_computerscience_questions.json",
+        "worksheet": "032_computerscience.pdf",
+        "answers": "032_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 33,
+      "number": "033",
+      "slug": "functions-parameters",
+      "title": "Functions with Parameters",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        32
+      ],
+      "topicsCovered": [
+        "parameters",
+        "arguments",
+        "passing values",
+        "scope"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "033_computerscience_lesson.md",
+        "questions": "033_computerscience_questions.json",
+        "worksheet": "033_computerscience.pdf",
+        "answers": "033_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 34,
+      "number": "034",
+      "slug": "functions-return",
+      "title": "Functions with Return Values",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        33
+      ],
+      "topicsCovered": [
+        "return",
+        "return values",
+        "function output"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "034_computerscience_lesson.md",
+        "questions": "034_computerscience_questions.json",
+        "worksheet": "034_computerscience.pdf",
+        "answers": "034_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 35,
+      "number": "035",
+      "slug": "file-handling-read",
+      "title": "File Handling - Reading Files",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        31
+      ],
+      "topicsCovered": [
+        "file handling",
+        "open",
+        "read",
+        "readlines",
+        "close"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "035_computerscience_lesson.md",
+        "questions": "035_computerscience_questions.json",
+        "worksheet": "035_computerscience.pdf",
+        "answers": "035_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 36,
+      "number": "036",
+      "slug": "file-handling-write",
+      "title": "File Handling - Writing Files",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        35
+      ],
+      "topicsCovered": [
+        "write",
+        "append",
+        "file modes",
+        "with statement"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "036_computerscience_lesson.md",
+        "questions": "036_computerscience_questions.json",
+        "worksheet": "036_computerscience.pdf",
+        "answers": "036_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 37,
+      "number": "037",
+      "slug": "validation",
+      "title": "Input Validation",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        23,
+        25
+      ],
+      "topicsCovered": [
+        "validation",
+        "error checking",
+        "try-except",
+        "data validation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "037_computerscience_lesson.md",
+        "questions": "037_computerscience_questions.json",
+        "worksheet": "037_computerscience.pdf",
+        "answers": "037_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 38,
+      "number": "038",
+      "slug": "records-dictionaries",
+      "title": "Records and Dictionaries",
+      "category": "Programming",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        28
+      ],
+      "topicsCovered": [
+        "dictionaries",
+        "records",
+        "key-value pairs",
+        "data structures"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "038_computerscience_lesson.md",
+        "questions": "038_computerscience_questions.json",
+        "worksheet": "038_computerscience.pdf",
+        "answers": "038_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 39,
+      "number": "039",
+      "slug": "sql-databases-intro",
+      "title": "Introduction to Databases",
+      "category": "Databases",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "databases",
+        "tables",
+        "records",
+        "fields",
+        "primary key"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "039_computerscience_lesson.md",
+        "questions": "039_computerscience_questions.json",
+        "worksheet": "039_computerscience.pdf",
+        "answers": "039_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 40,
+      "number": "040",
+      "slug": "sql-select",
+      "title": "SQL - SELECT Statements",
+      "category": "Databases",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        39
+      ],
+      "topicsCovered": [
+        "SQL",
+        "SELECT",
+        "FROM",
+        "WHERE",
+        "queries"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "040_computerscience_lesson.md",
+        "questions": "040_computerscience_questions.json",
+        "worksheet": "040_computerscience.pdf",
+        "answers": "040_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 41,
+      "number": "041",
+      "slug": "sql-where-clauses",
+      "title": "SQL - WHERE Clauses and Conditions",
+      "category": "Databases",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        40
+      ],
+      "topicsCovered": [
+        "WHERE",
+        "conditions",
+        "AND",
+        "OR",
+        "comparison"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "041_computerscience_lesson.md",
+        "questions": "041_computerscience_questions.json",
+        "worksheet": "041_computerscience.pdf",
+        "answers": "041_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 42,
+      "number": "042",
+      "slug": "sql-insert-update",
+      "title": "SQL - INSERT and UPDATE",
+      "category": "Databases",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        40
+      ],
+      "topicsCovered": [
+        "INSERT",
+        "UPDATE",
+        "adding data",
+        "modifying data"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "042_computerscience_lesson.md",
+        "questions": "042_computerscience_questions.json",
+        "worksheet": "042_computerscience.pdf",
+        "answers": "042_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 43,
+      "number": "043",
+      "slug": "sql-delete",
+      "title": "SQL - DELETE Statements",
+      "category": "Databases",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        42
+      ],
+      "topicsCovered": [
+        "DELETE",
+        "removing data",
+        "WHERE with DELETE"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "043_computerscience_lesson.md",
+        "questions": "043_computerscience_questions.json",
+        "worksheet": "043_computerscience.pdf",
+        "answers": "043_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 44,
+      "number": "044",
+      "slug": "sql-joins",
+      "title": "SQL - JOIN Operations",
+      "category": "Databases",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        40
+      ],
+      "topicsCovered": [
+        "JOIN",
+        "INNER JOIN",
+        "foreign key",
+        "relationships"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "044_computerscience_lesson.md",
+        "questions": "044_computerscience_questions.json",
+        "worksheet": "044_computerscience.pdf",
+        "answers": "044_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 45,
+      "number": "045",
+      "slug": "networks-basics",
+      "title": "Introduction to Networks",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "networks",
+        "LAN",
+        "WAN",
+        "client-server",
+        "peer-to-peer"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "045_computerscience_lesson.md",
+        "questions": "045_computerscience_questions.json",
+        "worksheet": "045_computerscience.pdf",
+        "answers": "045_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 46,
+      "number": "046",
+      "slug": "network-hardware",
+      "title": "Network Hardware",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45
+      ],
+      "topicsCovered": [
+        "router",
+        "switch",
+        "NIC",
+        "wireless access point",
+        "cables"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "046_computerscience_lesson.md",
+        "questions": "046_computerscience_questions.json",
+        "worksheet": "046_computerscience.pdf",
+        "answers": "046_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 47,
+      "number": "047",
+      "slug": "network-topologies",
+      "title": "Network Topologies",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45
+      ],
+      "topicsCovered": [
+        "star topology",
+        "mesh topology",
+        "advantages",
+        "disadvantages"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "047_computerscience_lesson.md",
+        "questions": "047_computerscience_questions.json",
+        "worksheet": "047_computerscience.pdf",
+        "answers": "047_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 48,
+      "number": "048",
+      "slug": "protocols-basics",
+      "title": "Network Protocols",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45
+      ],
+      "topicsCovered": [
+        "protocols",
+        "TCP/IP",
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "048_computerscience_lesson.md",
+        "questions": "048_computerscience_questions.json",
+        "worksheet": "048_computerscience.pdf",
+        "answers": "048_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 49,
+      "number": "049",
+      "slug": "layers-model",
+      "title": "The Layers Model",
+      "category": "Networks",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        48
+      ],
+      "topicsCovered": [
+        "OSI model",
+        "TCP/IP model",
+        "layers",
+        "encapsulation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "049_computerscience_lesson.md",
+        "questions": "049_computerscience_questions.json",
+        "worksheet": "049_computerscience.pdf",
+        "answers": "049_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 50,
+      "number": "050",
+      "slug": "ip-addressing",
+      "title": "IP Addressing",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45
+      ],
+      "topicsCovered": [
+        "IP address",
+        "IPv4",
+        "MAC address",
+        "public",
+        "private"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "050_computerscience_lesson.md",
+        "questions": "050_computerscience_questions.json",
+        "worksheet": "050_computerscience.pdf",
+        "answers": "050_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 51,
+      "number": "051",
+      "slug": "internet-basics",
+      "title": "How the Internet Works",
+      "category": "Networks",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45,
+        48
+      ],
+      "topicsCovered": [
+        "internet",
+        "ISP",
+        "DNS",
+        "hosting",
+        "URL"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "051_computerscience_lesson.md",
+        "questions": "051_computerscience_questions.json",
+        "worksheet": "051_computerscience.pdf",
+        "answers": "051_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 52,
+      "number": "052",
+      "slug": "cyber-security-threats",
+      "title": "Cyber Security Threats",
+      "category": "Cyber Security",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "malware",
+        "phishing",
+        "brute force",
+        "DDoS",
+        "social engineering"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "052_computerscience_lesson.md",
+        "questions": "052_computerscience_questions.json",
+        "worksheet": "052_computerscience.pdf",
+        "answers": "052_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 53,
+      "number": "053",
+      "slug": "cyber-security-prevention",
+      "title": "Preventing Cyber Attacks",
+      "category": "Cyber Security",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        52
+      ],
+      "topicsCovered": [
+        "passwords",
+        "biometrics",
+        "firewalls",
+        "encryption",
+        "penetration testing"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "053_computerscience_lesson.md",
+        "questions": "053_computerscience_questions.json",
+        "worksheet": "053_computerscience.pdf",
+        "answers": "053_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 54,
+      "number": "054",
+      "slug": "encryption-basics",
+      "title": "Encryption Basics",
+      "category": "Cyber Security",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        53
+      ],
+      "topicsCovered": [
+        "encryption",
+        "Caesar cipher",
+        "public key",
+        "private key"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "054_computerscience_lesson.md",
+        "questions": "054_computerscience_questions.json",
+        "worksheet": "054_computerscience.pdf",
+        "answers": "054_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 55,
+      "number": "055",
+      "slug": "operating-systems",
+      "title": "Operating Systems",
+      "category": "Software",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "OS",
+        "Windows",
+        "Linux",
+        "macOS",
+        "user interface",
+        "file management"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "055_computerscience_lesson.md",
+        "questions": "055_computerscience_questions.json",
+        "worksheet": "055_computerscience.pdf",
+        "answers": "055_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 56,
+      "number": "056",
+      "slug": "os-memory-management",
+      "title": "Memory Management",
+      "category": "Software",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        55,
+        11
+      ],
+      "topicsCovered": [
+        "memory management",
+        "virtual memory",
+        "paging",
+        "segmentation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "056_computerscience_lesson.md",
+        "questions": "056_computerscience_questions.json",
+        "worksheet": "056_computerscience.pdf",
+        "answers": "056_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 57,
+      "number": "057",
+      "slug": "utility-software",
+      "title": "Utility Software",
+      "category": "Software",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        55
+      ],
+      "topicsCovered": [
+        "utilities",
+        "antivirus",
+        "compression",
+        "defragmentation",
+        "backup"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "057_computerscience_lesson.md",
+        "questions": "057_computerscience_questions.json",
+        "worksheet": "057_computerscience.pdf",
+        "answers": "057_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 58,
+      "number": "058",
+      "slug": "software-types",
+      "title": "Types of Software",
+      "category": "Software",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "system software",
+        "application software",
+        "open source",
+        "proprietary"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "058_computerscience_lesson.md",
+        "questions": "058_computerscience_questions.json",
+        "worksheet": "058_computerscience.pdf",
+        "answers": "058_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 59,
+      "number": "059",
+      "slug": "ethics-data-protection",
+      "title": "Data Protection and Privacy",
+      "category": "Ethics and Law",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "GDPR",
+        "Data Protection Act",
+        "privacy",
+        "personal data"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "059_computerscience_lesson.md",
+        "questions": "059_computerscience_questions.json",
+        "worksheet": "059_computerscience.pdf",
+        "answers": "059_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 60,
+      "number": "060",
+      "slug": "ethics-computer-misuse",
+      "title": "Computer Misuse Act",
+      "category": "Ethics and Law",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        52
+      ],
+      "topicsCovered": [
+        "Computer Misuse Act",
+        "hacking",
+        "unauthorized access",
+        "cybercrime"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "060_computerscience_lesson.md",
+        "questions": "060_computerscience_questions.json",
+        "worksheet": "060_computerscience.pdf",
+        "answers": "060_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 61,
+      "number": "061",
+      "slug": "ethics-copyright",
+      "title": "Copyright and Intellectual Property",
+      "category": "Ethics and Law",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "copyright",
+        "patents",
+        "trademarks",
+        "Creative Commons",
+        "piracy"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "061_computerscience_lesson.md",
+        "questions": "061_computerscience_questions.json",
+        "worksheet": "061_computerscience.pdf",
+        "answers": "061_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 62,
+      "number": "062",
+      "slug": "ethics-environmental",
+      "title": "Environmental Impact of Technology",
+      "category": "Ethics and Law",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "e-waste",
+        "energy consumption",
+        "sustainability",
+        "carbon footprint"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "062_computerscience_lesson.md",
+        "questions": "062_computerscience_questions.json",
+        "worksheet": "062_computerscience.pdf",
+        "answers": "062_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 63,
+      "number": "063",
+      "slug": "boolean-logic-gates",
+      "title": "Logic Gates",
+      "category": "Boolean Logic",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        24
+      ],
+      "topicsCovered": [
+        "AND",
+        "OR",
+        "NOT",
+        "logic gates",
+        "symbols"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "063_computerscience_lesson.md",
+        "questions": "063_computerscience_questions.json",
+        "worksheet": "063_computerscience.pdf",
+        "answers": "063_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 64,
+      "number": "064",
+      "slug": "truth-tables",
+      "title": "Truth Tables",
+      "category": "Boolean Logic",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        63
+      ],
+      "topicsCovered": [
+        "truth tables",
+        "inputs",
+        "outputs",
+        "logic evaluation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "064_computerscience_lesson.md",
+        "questions": "064_computerscience_questions.json",
+        "worksheet": "064_computerscience.pdf",
+        "answers": "064_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 65,
+      "number": "065",
+      "slug": "logic-circuits",
+      "title": "Logic Circuits",
+      "category": "Boolean Logic",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        64
+      ],
+      "topicsCovered": [
+        "logic circuits",
+        "combining gates",
+        "NAND",
+        "NOR",
+        "XOR"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "065_computerscience_lesson.md",
+        "questions": "065_computerscience_questions.json",
+        "worksheet": "065_computerscience.pdf",
+        "answers": "065_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 66,
+      "number": "066",
+      "slug": "ai-machine-learning",
+      "title": "Artificial Intelligence and Machine Learning",
+      "category": "Emerging Technologies",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "AI",
+        "machine learning",
+        "neural networks",
+        "training data"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "066_computerscience_lesson.md",
+        "questions": "066_computerscience_questions.json",
+        "worksheet": "066_computerscience.pdf",
+        "answers": "066_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 67,
+      "number": "067",
+      "slug": "robotics-automation",
+      "title": "Robotics and Automation",
+      "category": "Emerging Technologies",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        1
+      ],
+      "topicsCovered": [
+        "robotics",
+        "automation",
+        "sensors",
+        "actuators",
+        "autonomous systems"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "067_computerscience_lesson.md",
+        "questions": "067_computerscience_questions.json",
+        "worksheet": "067_computerscience.pdf",
+        "answers": "067_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 68,
+      "number": "068",
+      "slug": "cloud-computing",
+      "title": "Cloud Computing",
+      "category": "Emerging Technologies",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45,
+        51
+      ],
+      "topicsCovered": [
+        "cloud",
+        "SaaS",
+        "PaaS",
+        "IaaS",
+        "advantages",
+        "disadvantages"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "068_computerscience_lesson.md",
+        "questions": "068_computerscience_questions.json",
+        "worksheet": "068_computerscience.pdf",
+        "answers": "068_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 69,
+      "number": "069",
+      "slug": "data-structures-stacks",
+      "title": "Data Structures - Stacks",
+      "category": "Data Structures",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        28
+      ],
+      "topicsCovered": [
+        "stacks",
+        "LIFO",
+        "push",
+        "pop",
+        "peek"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "069_computerscience_lesson.md",
+        "questions": "069_computerscience_questions.json",
+        "worksheet": "069_computerscience.pdf",
+        "answers": "069_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 70,
+      "number": "070",
+      "slug": "data-structures-queues",
+      "title": "Data Structures - Queues",
+      "category": "Data Structures",
+      "tier": "Higher",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 55,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        69
+      ],
+      "topicsCovered": [
+        "queues",
+        "FIFO",
+        "enqueue",
+        "dequeue",
+        "circular queue"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "070_computerscience_lesson.md",
+        "questions": "070_computerscience_questions.json",
+        "worksheet": "070_computerscience.pdf",
+        "answers": "070_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 71,
+      "number": "071",
+      "slug": "programming-project-1",
+      "title": "Programming Project - Number Guessing Game",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 90,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        21,
+        23,
+        25
+      ],
+      "topicsCovered": [
+        "project",
+        "random",
+        "while loop",
+        "input validation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "071_computerscience_lesson.md",
+        "questions": "071_computerscience_questions.json",
+        "worksheet": "071_computerscience.pdf",
+        "answers": "071_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 72,
+      "number": "072",
+      "slug": "programming-project-2",
+      "title": "Programming Project - Quiz Application",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 90,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        28,
+        32
+      ],
+      "topicsCovered": [
+        "project",
+        "lists",
+        "functions",
+        "scoring"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "072_computerscience_lesson.md",
+        "questions": "072_computerscience_questions.json",
+        "worksheet": "072_computerscience.pdf",
+        "answers": "072_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 73,
+      "number": "073",
+      "slug": "programming-project-3",
+      "title": "Programming Project - Student Records System",
+      "category": "Programming",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": false,
+      "estimatedMinutes": 90,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        35,
+        36,
+        38
+      ],
+      "topicsCovered": [
+        "project",
+        "file handling",
+        "dictionaries",
+        "CRUD operations"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "073_computerscience_lesson.md",
+        "questions": "073_computerscience_questions.json",
+        "worksheet": "073_computerscience.pdf",
+        "answers": "073_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 74,
+      "number": "074",
+      "slug": "exam-technique-paper1",
+      "title": "Exam Technique - Paper 1 (Theory)",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        1,
+        2,
+        9,
+        13
+      ],
+      "topicsCovered": [
+        "exam technique",
+        "theory",
+        "time management",
+        "question types"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "074_computerscience_lesson.md",
+        "questions": "074_computerscience_questions.json",
+        "worksheet": "074_computerscience.pdf",
+        "answers": "074_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 75,
+      "number": "075",
+      "slug": "exam-technique-paper2",
+      "title": "Exam Technique - Paper 2 (Programming)",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        20,
+        32
+      ],
+      "topicsCovered": [
+        "exam technique",
+        "programming",
+        "debugging",
+        "testing"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "075_computerscience_lesson.md",
+        "questions": "075_computerscience_questions.json",
+        "worksheet": "075_computerscience.pdf",
+        "answers": "075_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 76,
+      "number": "076",
+      "slug": "revision-data-representation",
+      "title": "Revision - Data Representation",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "topicsCovered": [
+        "revision",
+        "binary",
+        "hexadecimal",
+        "images",
+        "sound",
+        "compression"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "076_computerscience_lesson.md",
+        "questions": "076_computerscience_questions.json",
+        "worksheet": "076_computerscience.pdf",
+        "answers": "076_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 77,
+      "number": "077",
+      "slug": "revision-computer-systems",
+      "title": "Revision - Computer Systems",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "topicsCovered": [
+        "revision",
+        "CPU",
+        "memory",
+        "storage"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "077_computerscience_lesson.md",
+        "questions": "077_computerscience_questions.json",
+        "worksheet": "077_computerscience.pdf",
+        "answers": "077_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 78,
+      "number": "078",
+      "slug": "revision-algorithms",
+      "title": "Revision - Algorithms",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "topicsCovered": [
+        "revision",
+        "flowcharts",
+        "pseudocode",
+        "searching",
+        "sorting"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "078_computerscience_lesson.md",
+        "questions": "078_computerscience_questions.json",
+        "worksheet": "078_computerscience.pdf",
+        "answers": "078_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 79,
+      "number": "079",
+      "slug": "revision-programming-basics",
+      "title": "Revision - Programming Basics",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "topicsCovered": [
+        "revision",
+        "variables",
+        "selection",
+        "iteration",
+        "operators"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "079_computerscience_lesson.md",
+        "questions": "079_computerscience_questions.json",
+        "worksheet": "079_computerscience.pdf",
+        "answers": "079_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 80,
+      "number": "080",
+      "slug": "revision-advanced-programming",
+      "title": "Revision - Advanced Programming",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        28,
+        32,
+        35,
+        36,
+        38
+      ],
+      "topicsCovered": [
+        "revision",
+        "lists",
+        "functions",
+        "file handling",
+        "dictionaries"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "080_computerscience_lesson.md",
+        "questions": "080_computerscience_questions.json",
+        "worksheet": "080_computerscience.pdf",
+        "answers": "080_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 81,
+      "number": "081",
+      "slug": "revision-databases",
+      "title": "Revision - Databases and SQL",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "topicsCovered": [
+        "revision",
+        "SQL",
+        "SELECT",
+        "INSERT",
+        "UPDATE",
+        "DELETE",
+        "JOIN"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "081_computerscience_lesson.md",
+        "questions": "081_computerscience_questions.json",
+        "worksheet": "081_computerscience.pdf",
+        "answers": "081_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 82,
+      "number": "082",
+      "slug": "revision-networks",
+      "title": "Revision - Networks",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "topicsCovered": [
+        "revision",
+        "LAN",
+        "WAN",
+        "topologies",
+        "protocols",
+        "IP addressing"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "082_computerscience_lesson.md",
+        "questions": "082_computerscience_questions.json",
+        "worksheet": "082_computerscience.pdf",
+        "answers": "082_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 83,
+      "number": "083",
+      "slug": "revision-cyber-security",
+      "title": "Revision - Cyber Security",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        52,
+        53,
+        54
+      ],
+      "topicsCovered": [
+        "revision",
+        "threats",
+        "prevention",
+        "encryption"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "083_computerscience_lesson.md",
+        "questions": "083_computerscience_questions.json",
+        "worksheet": "083_computerscience.pdf",
+        "answers": "083_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 84,
+      "number": "084",
+      "slug": "revision-software",
+      "title": "Revision - Software",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "topicsCovered": [
+        "revision",
+        "operating systems",
+        "utilities",
+        "software types"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "084_computerscience_lesson.md",
+        "questions": "084_computerscience_questions.json",
+        "worksheet": "084_computerscience.pdf",
+        "answers": "084_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 85,
+      "number": "085",
+      "slug": "revision-ethics-law",
+      "title": "Revision - Ethics and Law",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "topicsCovered": [
+        "revision",
+        "data protection",
+        "computer misuse",
+        "copyright",
+        "environment"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "085_computerscience_lesson.md",
+        "questions": "085_computerscience_questions.json",
+        "worksheet": "085_computerscience.pdf",
+        "answers": "085_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 86,
+      "number": "086",
+      "slug": "revision-boolean-logic",
+      "title": "Revision - Boolean Logic",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        63,
+        64,
+        65
+      ],
+      "topicsCovered": [
+        "revision",
+        "logic gates",
+        "truth tables",
+        "circuits"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "086_computerscience_lesson.md",
+        "questions": "086_computerscience_questions.json",
+        "worksheet": "086_computerscience.pdf",
+        "answers": "086_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 87,
+      "number": "087",
+      "slug": "mock-exam-paper1",
+      "title": "Mock Exam - Paper 1 (Theory)",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 105,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        74,
+        76,
+        77,
+        78,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "topicsCovered": [
+        "mock exam",
+        "theory",
+        "all topics",
+        "timed exam"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "087_computerscience_lesson.md",
+        "questions": "087_computerscience_questions.json",
+        "worksheet": "087_computerscience.pdf",
+        "answers": "087_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 88,
+      "number": "088",
+      "slug": "mock-exam-paper2",
+      "title": "Mock Exam - Paper 2 (Programming)",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 105,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        75,
+        79,
+        80,
+        81
+      ],
+      "topicsCovered": [
+        "mock exam",
+        "programming",
+        "algorithms",
+        "timed exam"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "088_computerscience_lesson.md",
+        "questions": "088_computerscience_questions.json",
+        "worksheet": "088_computerscience.pdf",
+        "answers": "088_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 89,
+      "number": "089",
+      "slug": "past-paper-practice-1",
+      "title": "Past Paper Practice - Set 1",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 120,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        87,
+        88
+      ],
+      "topicsCovered": [
+        "past paper",
+        "exam practice",
+        "both papers"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "089_computerscience_lesson.md",
+        "questions": "089_computerscience_questions.json",
+        "worksheet": "089_computerscience.pdf",
+        "answers": "089_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 90,
+      "number": "090",
+      "slug": "past-paper-practice-2",
+      "title": "Past Paper Practice - Set 2",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 120,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        89
+      ],
+      "topicsCovered": [
+        "past paper",
+        "exam practice",
+        "both papers"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "090_computerscience_lesson.md",
+        "questions": "090_computerscience_questions.json",
+        "worksheet": "090_computerscience.pdf",
+        "answers": "090_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 91,
+      "number": "091",
+      "slug": "past-paper-practice-3",
+      "title": "Past Paper Practice - Set 3",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 120,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        90
+      ],
+      "topicsCovered": [
+        "past paper",
+        "exam practice",
+        "both papers"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "091_computerscience_lesson.md",
+        "questions": "091_computerscience_questions.json",
+        "worksheet": "091_computerscience.pdf",
+        "answers": "091_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 92,
+      "number": "092",
+      "slug": "advanced-topic-recursion",
+      "title": "Advanced - Recursion",
+      "category": "Programming",
+      "tier": "Higher",
+      "difficulty": "Very Hard",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 5,
+      "prerequisites": [
+        34
+      ],
+      "topicsCovered": [
+        "recursion",
+        "base case",
+        "recursive case",
+        "call stack"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "092_computerscience_lesson.md",
+        "questions": "092_computerscience_questions.json",
+        "worksheet": "092_computerscience.pdf",
+        "answers": "092_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 93,
+      "number": "093",
+      "slug": "advanced-topic-oop",
+      "title": "Advanced - Object-Oriented Programming",
+      "category": "Programming",
+      "tier": "Higher",
+      "difficulty": "Very Hard",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 5,
+      "prerequisites": [
+        32,
+        38
+      ],
+      "topicsCovered": [
+        "OOP",
+        "classes",
+        "objects",
+        "inheritance",
+        "encapsulation"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "093_computerscience_lesson.md",
+        "questions": "093_computerscience_questions.json",
+        "worksheet": "093_computerscience.pdf",
+        "answers": "093_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 94,
+      "number": "094",
+      "slug": "advanced-topic-graphs",
+      "title": "Advanced - Graph Algorithms",
+      "category": "Algorithms",
+      "tier": "Higher",
+      "difficulty": "Very Hard",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 5,
+      "prerequisites": [
+        13,
+        19
+      ],
+      "topicsCovered": [
+        "graphs",
+        "nodes",
+        "edges",
+        "traversal",
+        "Dijkstra"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "094_computerscience_lesson.md",
+        "questions": "094_computerscience_questions.json",
+        "worksheet": "094_computerscience.pdf",
+        "answers": "094_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 95,
+      "number": "095",
+      "slug": "advanced-topic-trees",
+      "title": "Advanced - Binary Trees",
+      "category": "Data Structures",
+      "tier": "Higher",
+      "difficulty": "Very Hard",
+      "isFree": false,
+      "estimatedMinutes": 60,
+      "confidenceTarget": 5,
+      "prerequisites": [
+        69,
+        70
+      ],
+      "topicsCovered": [
+        "binary trees",
+        "nodes",
+        "traversal",
+        "BST",
+        "searching"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "095_computerscience_lesson.md",
+        "questions": "095_computerscience_questions.json",
+        "worksheet": "095_computerscience.pdf",
+        "answers": "095_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 96,
+      "number": "096",
+      "slug": "final-revision-bootcamp-1",
+      "title": "Final Revision Bootcamp - Day 1",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 180,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        76,
+        77,
+        78
+      ],
+      "topicsCovered": [
+        "intensive revision",
+        "data representation",
+        "computer systems",
+        "algorithms"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "096_computerscience_lesson.md",
+        "questions": "096_computerscience_questions.json",
+        "worksheet": "096_computerscience.pdf",
+        "answers": "096_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 97,
+      "number": "097",
+      "slug": "final-revision-bootcamp-2",
+      "title": "Final Revision Bootcamp - Day 2",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 180,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        79,
+        80,
+        81
+      ],
+      "topicsCovered": [
+        "intensive revision",
+        "programming",
+        "databases",
+        "file handling"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "097_computerscience_lesson.md",
+        "questions": "097_computerscience_questions.json",
+        "worksheet": "097_computerscience.pdf",
+        "answers": "097_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 98,
+      "number": "098",
+      "slug": "final-revision-bootcamp-3",
+      "title": "Final Revision Bootcamp - Day 3",
+      "category": "Revision",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 180,
+      "confidenceTarget": 7,
+      "prerequisites": [
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "topicsCovered": [
+        "intensive revision",
+        "networks",
+        "cyber security",
+        "ethics",
+        "boolean logic"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "098_computerscience_lesson.md",
+        "questions": "098_computerscience_questions.json",
+        "worksheet": "098_computerscience.pdf",
+        "answers": "098_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 99,
+      "number": "099",
+      "slug": "final-mock-exam",
+      "title": "Final Mock Exam - Full Papers",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Mixed",
+      "isFree": false,
+      "estimatedMinutes": 210,
+      "confidenceTarget": 6,
+      "prerequisites": [
+        96,
+        97,
+        98
+      ],
+      "topicsCovered": [
+        "final mock",
+        "both papers",
+        "exam conditions",
+        "full assessment"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "099_computerscience_lesson.md",
+        "questions": "099_computerscience_questions.json",
+        "worksheet": "099_computerscience.pdf",
+        "answers": "099_computerscience_answers.json"
+      }
+    },
+    {
+      "id": 100,
+      "number": "100",
+      "slug": "exam-day-preparation",
+      "title": "Exam Day Preparation and Tips",
+      "category": "Exam Preparation",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": false,
+      "estimatedMinutes": 45,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        99
+      ],
+      "topicsCovered": [
+        "exam tips",
+        "stress management",
+        "final checklist",
+        "exam strategy"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "100_computerscience_lesson.md",
+        "questions": "100_computerscience_questions.json",
+        "worksheet": "100_computerscience.pdf",
+        "answers": "100_computerscience_answers.json"
+      }
+    }
+  ]
+}

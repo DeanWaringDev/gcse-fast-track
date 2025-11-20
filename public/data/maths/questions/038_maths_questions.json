@@ -1,0 +1,1250 @@
+{
+  "lessonId": 38,
+  "lessonNumber": "038",
+  "lessonTitle": "Simplifying Expressions - Multiple Variables",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Find: 10 \u00d7 5"
+        },
+        {
+          "id": 2,
+          "question": "Work out: 50 - 10"
+        },
+        {
+          "id": 3,
+          "question": "Work out: 49 - 21"
+        },
+        {
+          "id": 4,
+          "question": "Calculate: 2 + 8"
+        },
+        {
+          "id": 5,
+          "question": "Work out: 49 - 24"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 91 - 35"
+        },
+        {
+          "id": 7,
+          "question": "Work out: 69 - 50"
+        },
+        {
+          "id": 8,
+          "question": "Calculate: 15 + 5"
+        },
+        {
+          "id": 9,
+          "question": "Work out: 14 - 23"
+        },
+        {
+          "id": 10,
+          "question": "Work out: 35 - 29"
+        },
+        {
+          "id": 11,
+          "question": "Find: 3 \u00d7 5"
+        },
+        {
+          "id": 12,
+          "question": "Calculate: 19 + 10"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 15 + 3"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 12 + 18"
+        },
+        {
+          "id": 15,
+          "question": "Work out: 13 - 33"
+        },
+        {
+          "id": 16,
+          "question": "Calculate: 20 + 2"
+        },
+        {
+          "id": 17,
+          "question": "Calculate: 2 + 14"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 96 - 28"
+        },
+        {
+          "id": 19,
+          "question": "Find: 10 \u00d7 2"
+        },
+        {
+          "id": 20,
+          "question": "Work out: 75 - 49"
+        },
+        {
+          "id": 21,
+          "question": "Calculate: 18 + 18"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 54 - 17"
+        },
+        {
+          "id": 23,
+          "question": "Work out: 52 - 42"
+        },
+        {
+          "id": 24,
+          "question": "Calculate: 1 + 8"
+        },
+        {
+          "id": 25,
+          "question": "Work out: 71 - 30"
+        },
+        {
+          "id": 26,
+          "question": "Work out: 50 - 3"
+        },
+        {
+          "id": 27,
+          "question": "Find: 11 \u00d7 3"
+        },
+        {
+          "id": 28,
+          "question": "Work out: 10 - 26"
+        },
+        {
+          "id": 29,
+          "question": "Work out: 81 - 28"
+        },
+        {
+          "id": 30,
+          "question": "Calculate: 14 + 7"
+        },
+        {
+          "id": 31,
+          "question": "Calculate: 1 + 20"
+        },
+        {
+          "id": 32,
+          "question": "Find: 9 \u00d7 7"
+        },
+        {
+          "id": 33,
+          "question": "Calculate: 2 + 1"
+        },
+        {
+          "id": 34,
+          "question": "Calculate: 19 + 12"
+        },
+        {
+          "id": 35,
+          "question": "Find: 5 \u00d7 3"
+        },
+        {
+          "id": 36,
+          "question": "Work out: 67 - 20"
+        },
+        {
+          "id": 37,
+          "question": "Find: 5 \u00d7 6"
+        },
+        {
+          "id": 38,
+          "question": "Calculate: 14 + 6"
+        },
+        {
+          "id": 39,
+          "question": "Find: 10 \u00d7 6"
+        },
+        {
+          "id": 40,
+          "question": "Work out: 92 - 20"
+        },
+        {
+          "id": 41,
+          "question": "Work out: 93 - 30"
+        },
+        {
+          "id": 42,
+          "question": "Find: 10 \u00d7 8"
+        },
+        {
+          "id": 43,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 44,
+          "question": "Calculate: 10 + 16"
+        },
+        {
+          "id": 45,
+          "question": "Calculate: 8 + 3"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 42 - 33"
+        },
+        {
+          "id": 47,
+          "question": "Find: 6 \u00d7 10"
+        },
+        {
+          "id": 48,
+          "question": "Calculate: 3 + 3"
+        },
+        {
+          "id": 49,
+          "question": "Find: 9 \u00d7 10"
+        },
+        {
+          "id": 50,
+          "question": "Work out: 14 - 5"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (2 + 1) \u00d7 4"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (10 + 1) \u00d7 8"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 26 + 10 - 18"
+        },
+        {
+          "id": 54,
+          "question": "Solve: 21 + 37 - 24"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (2 + 10) \u00d7 2"
+        },
+        {
+          "id": 56,
+          "question": "Solve: 46 + 27 - 2"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 35 + 26 - 3"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 39 + 43 - 15"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (2 + 2) \u00d7 2"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 26 + 22 - 28"
+        },
+        {
+          "id": 61,
+          "question": "Calculate: (1 + 8) \u00d7 3"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (5 + 6) \u00d7 4"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (4 + 9) \u00d7 6"
+        },
+        {
+          "id": 64,
+          "question": "Calculate: (5 + 3) \u00d7 6"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (4 + 8) \u00d7 6"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 12 + 29 - 7"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 36 + 29 - 13"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (1 + 8) \u00d7 6"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 37 + 30 - 20"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 32 + 42 - 30"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (3 + 9) \u00d7 3"
+        },
+        {
+          "id": 72,
+          "question": "Solve: 47 + 24 - 16"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (7 + 9) \u00d7 3"
+        },
+        {
+          "id": 74,
+          "question": "Calculate: (7 + 8) \u00d7 2"
+        },
+        {
+          "id": 75,
+          "question": "Calculate: (4 + 10) \u00d7 4"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 38 + 32 - 14"
+        },
+        {
+          "id": 77,
+          "question": "Calculate: (10 + 10) \u00d7 8"
+        },
+        {
+          "id": 78,
+          "question": "Solve: 26 + 34 - 22"
+        },
+        {
+          "id": 79,
+          "question": "Solve: 8 + 20 - 4"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (2 + 6) \u00d7 3"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 15 + 23 - 20"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 34 + 16 - 7"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (4 + 9) \u00d7 6"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (8 + 8) \u00d7 5"
+        },
+        {
+          "id": 85,
+          "question": "Solve: 50 + 42 - 29"
+        },
+        {
+          "id": 86,
+          "question": "Calculate: (6 + 7) \u00d7 5"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 13 + 23 - 9"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (8 + 6) \u00d7 5"
+        },
+        {
+          "id": 89,
+          "question": "Calculate: (2 + 9) \u00d7 4"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 25 + 49 - 14"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 33 + 5 - 23"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 27 + 41 - 4"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (10 + 10) \u00d7 7"
+        },
+        {
+          "id": 94,
+          "question": "Solve: 46 + 24 - 15"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 40 + 44 - 9"
+        },
+        {
+          "id": 96,
+          "question": "Solve: 32 + 34 - 22"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 8 + 50 - 24"
+        },
+        {
+          "id": 98,
+          "question": "Solve: 35 + 5 - 17"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (7 + 3) \u00d7 5"
+        },
+        {
+          "id": 100,
+          "question": "Calculate: (1 + 2) \u00d7 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 20 + 8 - 19"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (4 + 6) \u00d7 3"
+        },
+        {
+          "id": 103,
+          "question": "Solve: 22 + 27 - 24"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 26 + 24 - 11"
+        },
+        {
+          "id": 105,
+          "question": "Solve: 27 + 11 - 7"
+        },
+        {
+          "id": 106,
+          "question": "Calculate: (6 + 4) \u00d7 8"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 12 + 28 - 5"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 35 + 25 - 18"
+        },
+        {
+          "id": 109,
+          "question": "Calculate: (1 + 7) \u00d7 8"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 5 + 48 - 29"
+        },
+        {
+          "id": 111,
+          "question": "Solve: 9 + 12 - 16"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (8 + 6) \u00d7 8"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 27 + 26 - 30"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (5 + 9) \u00d7 8"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: (8 + 4) \u00d7 5"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 33 + 44 - 28"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (1 + 2) \u00d7 2"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: (3 + 1) \u00d7 6"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 32 + 8 - 22"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (8 + 8) \u00d7 5"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 11 + 32 - 23"
+        },
+        {
+          "id": 122,
+          "question": "Calculate: (1 + 9) \u00d7 2"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 13 + 24 - 8"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 24 + 27 - 27"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (2 + 2) \u00d7 6"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 28 + 13 - 6"
+        },
+        {
+          "id": 127,
+          "question": "Calculate: (5 + 4) \u00d7 7"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (3 + 5) \u00d7 8"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 23 + 25 - 25"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (5 + 2) \u00d7 6"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 42 + 25 - 3"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (7 + 10) \u00d7 2"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (5 + 1) \u00d7 2"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 9 + 11 - 29"
+        },
+        {
+          "id": 135,
+          "question": "Solve: 17 + 14 - 26"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 24 + 50 - 25"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (9 + 2) \u00d7 2"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: (3 + 10) \u00d7 6"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 35 + 35 - 12"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (9 + 3) \u00d7 3"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (6 + 4) \u00d7 3"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (7 + 4) \u00d7 7"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (5 + 4) \u00d7 6"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 6 + 27 - 5"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (6 + 3) \u00d7 8"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (5 + 8) \u00d7 4"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (2 + 8) \u00d7 3"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (7 + 1) \u00d7 3"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (5 + 2) \u00d7 7"
+        },
+        {
+          "id": 150,
+          "question": "Calculate: (7 + 5) \u00d7 6"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (6 + 4) \u00d7 2"
+        },
+        {
+          "id": 152,
+          "question": "Calculate: (5 + 9) \u00d7 3"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 41 + 41 - 22"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (2 + 9) \u00d7 8"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 45 + 13 - 20"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (2 + 5) \u00d7 3"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (10 + 9) \u00d7 8"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (3 + 7) \u00d7 7"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (6 + 3) \u00d7 4"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (1 + 9) \u00d7 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (8 + 1) \u00d7 2"
+        },
+        {
+          "id": 162,
+          "question": "Solve: 39 + 27 - 3"
+        },
+        {
+          "id": 163,
+          "question": "Solve: 49 + 19 - 14"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (8 + 8) \u00d7 6"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (4 + 7) \u00d7 8"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 42 + 24 - 19"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (1 + 1) \u00d7 4"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 28 + 15 - 24"
+        },
+        {
+          "id": 169,
+          "question": "Calculate: (3 + 4) \u00d7 8"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 35 + 27 - 19"
+        },
+        {
+          "id": 171,
+          "question": "Solve: 8 + 24 - 17"
+        },
+        {
+          "id": 172,
+          "question": "Solve: 41 + 21 - 3"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (6 + 7) \u00d7 7"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (1 + 4) \u00d7 8"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (6 + 7) \u00d7 8"
+        },
+        {
+          "id": 176,
+          "question": "Calculate: (9 + 4) \u00d7 5"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (6 + 10) \u00d7 4"
+        },
+        {
+          "id": 178,
+          "question": "Solve: 34 + 20 - 1"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (2 + 2) \u00d7 3"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (3 + 4) \u00d7 3"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 44 + 8 - 19"
+        },
+        {
+          "id": 182,
+          "question": "Calculate: (2 + 1) \u00d7 5"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 48 + 27 - 10"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 8 + 13 - 16"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 33 + 12 - 2"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (2 + 2) \u00d7 4"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (7 + 2) \u00d7 3"
+        },
+        {
+          "id": 188,
+          "question": "Calculate: (1 + 4) \u00d7 2"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 28 + 28 - 17"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (2 + 6) \u00d7 8"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (1 + 2) \u00d7 7"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (9 + 1) \u00d7 2"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (5 + 5) \u00d7 3"
+        },
+        {
+          "id": 194,
+          "question": "Solve: 7 + 43 - 17"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 21 + 47 - 7"
+        },
+        {
+          "id": 196,
+          "question": "Calculate: (1 + 1) \u00d7 7"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 50 + 31 - 21"
+        },
+        {
+          "id": 198,
+          "question": "Calculate: (6 + 3) \u00d7 5"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (2 + 4) \u00d7 4"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 29 + 24 - 2"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 48 + 9 - 9"
+        },
+        {
+          "id": 202,
+          "question": "Calculate: (9 + 9) \u00d7 4"
+        },
+        {
+          "id": 203,
+          "question": "Solve: 47 + 18 - 16"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 29 + 10 - 26"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 26 + 5 - 6"
+        },
+        {
+          "id": 206,
+          "question": "Solve: 33 + 23 - 10"
+        },
+        {
+          "id": 207,
+          "question": "Solve: 16 + 46 - 4"
+        },
+        {
+          "id": 208,
+          "question": "Calculate: (5 + 4) \u00d7 8"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 36 + 37 - 18"
+        },
+        {
+          "id": 210,
+          "question": "Calculate: (2 + 6) \u00d7 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 212,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 214,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 215,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 218,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 222,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 226,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 229,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 230,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 239,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 244,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 245,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 246,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving simplifying expressions - multiple variables"
+        },
+        {
+          "id": 249,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about simplifying expressions - multiple variables"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 253,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 263,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 265,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 267,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 281,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 284,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 286,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 290,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 291,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 293,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 294,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 295,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this simplifying expressions - multiple variables question"
+        }
+      ]
+    }
+  ]
+}

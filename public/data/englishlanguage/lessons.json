@@ -1,0 +1,707 @@
+{
+  "subject": "English Language",
+  "totalLessons": 100,
+  "freeLessons": 25,
+  "estimatedCompletionWeeks": 24,
+  "targetGrade": "Grade 4 (Foundation)",
+  "lessons": [
+    {
+      "id": 1,
+      "number": "001",
+      "slug": "introduction-to-gcse-english-language",
+      "title": "Introduction to GCSE English Language",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [],
+      "topicsCovered": [
+        "Understand the structure of GCSE English Language",
+        "Know the assessment objectives",
+        "Identify the two papers and their focus",
+        "Understand the Spoken Language endorsement"
+      ],
+      "contentReady": true,
+      "files": {
+        "instructions": "001_englishlanguage_lesson.md",
+        "questions": "001_englishlanguage_questions.json",
+        "worksheet": "001_englishlanguage.pdf",
+        "answers": "001_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 2,
+      "number": "002",
+      "slug": "explicit-and-implicit-meaning",
+      "title": "Understanding Explicit and Implicit Meaning",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "001"
+      ],
+      "topicsCovered": [
+        "Distinguish between explicit and implicit information",
+        "Identify directly stated facts and ideas",
+        "Understand what is suggested or implied",
+        "Practice retrieving both types of information"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "002_englishlanguage_lesson.md",
+        "questions": "002_englishlanguage_questions.json",
+        "worksheet": "002_englishlanguage.pdf",
+        "answers": "002_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 3,
+      "number": "003",
+      "slug": "making-inferences",
+      "title": "Making Inferences from Texts",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "002"
+      ],
+      "topicsCovered": [
+        "Understand what inference means",
+        "Read between the lines effectively",
+        "Use textual evidence to support inferences",
+        "Make logical deductions from details"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "003_englishlanguage_lesson.md",
+        "questions": "003_englishlanguage_questions.json",
+        "worksheet": "003_englishlanguage.pdf",
+        "answers": "003_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 4,
+      "number": "004",
+      "slug": "selecting-evidence",
+      "title": "Selecting and Synthesizing Evidence",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "003"
+      ],
+      "topicsCovered": [
+        "Select relevant quotations from texts",
+        "Synthesize information from multiple sources",
+        "Integrate evidence smoothly into responses",
+        "Avoid over-quoting or under-quoting"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "004_englishlanguage_lesson.md",
+        "questions": "004_englishlanguage_questions.json",
+        "worksheet": "004_englishlanguage.pdf",
+        "answers": "004_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 5,
+      "number": "005",
+      "slug": "purpose-and-audience",
+      "title": "Understanding Writer's Purpose and Audience",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "004"
+      ],
+      "topicsCovered": [
+        "Identify writer's purpose (inform, persuade, entertain, argue)",
+        "Recognize the intended audience",
+        "Understand how purpose affects language choices",
+        "Analyze how writers target specific readers"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "005_englishlanguage_lesson.md",
+        "questions": "005_englishlanguage_questions.json",
+        "worksheet": "005_englishlanguage.pdf",
+        "answers": "005_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 6,
+      "number": "006",
+      "slug": "subject-terminology",
+      "title": "Introduction to Subject Terminology",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "005"
+      ],
+      "topicsCovered": [
+        "Learn essential literary and linguistic terminology",
+        "Use technical terms accurately in analysis",
+        "Understand why terminology matters in responses",
+        "Build a vocabulary bank for analysis"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "006_englishlanguage_lesson.md",
+        "questions": "006_englishlanguage_questions.json",
+        "worksheet": "006_englishlanguage.pdf",
+        "answers": "006_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 7,
+      "number": "007",
+      "slug": "reading-fiction-texts",
+      "title": "Reading Fiction Texts",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "006"
+      ],
+      "topicsCovered": [
+        "Understand the features of fiction texts",
+        "Identify narrative techniques",
+        "Recognize characterization methods",
+        "Analyze settings and atmosphere"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "007_englishlanguage_lesson.md",
+        "questions": "007_englishlanguage_questions.json",
+        "worksheet": "007_englishlanguage.pdf",
+        "answers": "007_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 8,
+      "number": "008",
+      "slug": "reading-non-fiction-texts",
+      "title": "Reading Non-Fiction Texts",
+      "category": "Reading Fundamentals",
+      "tier": "Foundation",
+      "difficulty": "Easy",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "007"
+      ],
+      "topicsCovered": [
+        "Understand the features of non-fiction texts",
+        "Identify different non-fiction forms",
+        "Recognize factual and opinion-based content",
+        "Analyze argument and persuasion"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "008_englishlanguage_lesson.md",
+        "questions": "008_englishlanguage_questions.json",
+        "worksheet": "008_englishlanguage.pdf",
+        "answers": "008_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 9,
+      "number": "009",
+      "slug": "analyzing-word-choice",
+      "title": "Analyzing Word Choice",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "006"
+      ],
+      "topicsCovered": [
+        "Analyze why writers choose specific words",
+        "Examine the effects of word choices on readers",
+        "Consider alternatives and their different impacts",
+        "Link word choice to writer's purpose"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "009_englishlanguage_lesson.md",
+        "questions": "009_englishlanguage_questions.json",
+        "worksheet": "009_englishlanguage.pdf",
+        "answers": "009_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 10,
+      "number": "010",
+      "slug": "connotations-and-denotations",
+      "title": "Understanding Connotations and Denotations",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "009"
+      ],
+      "topicsCovered": [
+        "Distinguish between denotation and connotation",
+        "Identify positive and negative connotations",
+        "Analyze how connotations create meaning",
+        "Explore emotional associations of words"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "010_englishlanguage_lesson.md",
+        "questions": "010_englishlanguage_questions.json",
+        "worksheet": "010_englishlanguage.pdf",
+        "answers": "010_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 11,
+      "number": "011",
+      "slug": "literary-devices-introduction",
+      "title": "Introduction to Literary Devices",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "010"
+      ],
+      "topicsCovered": [
+        "Understand what literary devices are",
+        "Recognize common devices in texts",
+        "Analyze the effects of literary techniques",
+        "Avoid simply 'spotting' devices without analysis"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "011_englishlanguage_lesson.md",
+        "questions": "011_englishlanguage_questions.json",
+        "worksheet": "011_englishlanguage.pdf",
+        "answers": "011_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 12,
+      "number": "012",
+      "slug": "similes-and-metaphors",
+      "title": "Similes and Metaphors",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "011"
+      ],
+      "topicsCovered": [
+        "Identify similes and metaphors in texts",
+        "Understand the difference between them",
+        "Analyze their effects on the reader",
+        "Explore how they create vivid imagery"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "012_englishlanguage_lesson.md",
+        "questions": "012_englishlanguage_questions.json",
+        "worksheet": "012_englishlanguage.pdf",
+        "answers": "012_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 13,
+      "number": "013",
+      "slug": "personification-and-imagery",
+      "title": "Personification and Imagery",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "012"
+      ],
+      "topicsCovered": [
+        "Recognize personification in texts",
+        "Understand different types of imagery",
+        "Analyze how personification creates effects",
+        "Explore sensory imagery (visual, auditory, etc.)"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "013_englishlanguage_lesson.md",
+        "questions": "013_englishlanguage_questions.json",
+        "worksheet": "013_englishlanguage.pdf",
+        "answers": "013_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 14,
+      "number": "014",
+      "slug": "sound-devices",
+      "title": "Alliteration, Assonance, and Onomatopoeia",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "013"
+      ],
+      "topicsCovered": [
+        "Identify sound devices in texts",
+        "Understand alliteration, assonance, and onomatopoeia",
+        "Analyze how sound enhances meaning",
+        "Explore rhythm and musicality in prose"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "014_englishlanguage_lesson.md",
+        "questions": "014_englishlanguage_questions.json",
+        "worksheet": "014_englishlanguage.pdf",
+        "answers": "014_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 15,
+      "number": "015",
+      "slug": "tone-and-mood",
+      "title": "Understanding Tone and Mood",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "014"
+      ],
+      "topicsCovered": [
+        "Distinguish between tone and mood",
+        "Identify how writers create tone",
+        "Analyze mood shifts in texts",
+        "Link tone/mood to language choices"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "015_englishlanguage_lesson.md",
+        "questions": "015_englishlanguage_questions.json",
+        "worksheet": "015_englishlanguage.pdf",
+        "answers": "015_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 16,
+      "number": "016",
+      "slug": "sentence-types-for-effect",
+      "title": "Analyzing Sentence Types for Effect",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "015"
+      ],
+      "topicsCovered": [
+        "Identify simple, compound, and complex sentences",
+        "Analyze the effects of different sentence types",
+        "Understand how sentence length creates impact",
+        "Explore varied sentence structures"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "016_englishlanguage_lesson.md",
+        "questions": "016_englishlanguage_questions.json",
+        "worksheet": "016_englishlanguage.pdf",
+        "answers": "016_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 17,
+      "number": "017",
+      "slug": "rhetorical-devices",
+      "title": "Rhetorical Devices in Non-Fiction",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "016"
+      ],
+      "topicsCovered": [
+        "Identify rhetorical questions, triplets, repetition",
+        "Understand direct address and imperatives",
+        "Analyze how rhetoric persuades readers",
+        "Explore emotive appeals and logic"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "017_englishlanguage_lesson.md",
+        "questions": "017_englishlanguage_questions.json",
+        "worksheet": "017_englishlanguage.pdf",
+        "answers": "017_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 18,
+      "number": "018",
+      "slug": "emotive-language",
+      "title": "Emotive Language and its Impact",
+      "category": "Language Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "017"
+      ],
+      "topicsCovered": [
+        "Recognize emotive language in texts",
+        "Analyze how writers manipulate emotions",
+        "Understand loaded vocabulary",
+        "Explore bias and subjectivity"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "018_englishlanguage_lesson.md",
+        "questions": "018_englishlanguage_questions.json",
+        "worksheet": "018_englishlanguage.pdf",
+        "answers": "018_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 19,
+      "number": "019",
+      "slug": "text-structure",
+      "title": "Understanding Text Structure",
+      "category": "Structure Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "011"
+      ],
+      "topicsCovered": [
+        "Understand what structure means in texts",
+        "Identify overall organization patterns",
+        "Recognize beginning, middle, and end functions",
+        "Analyze how structure supports meaning"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "019_englishlanguage_lesson.md",
+        "questions": "019_englishlanguage_questions.json",
+        "worksheet": "019_englishlanguage.pdf",
+        "answers": "019_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 20,
+      "number": "020",
+      "slug": "openings-and-endings",
+      "title": "Analyzing Openings and Endings",
+      "category": "Structure Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "019"
+      ],
+      "topicsCovered": [
+        "Analyze effective opening techniques",
+        "Understand how writers hook readers",
+        "Explore different types of endings",
+        "Evaluate the impact of openings and closures"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "020_englishlanguage_lesson.md",
+        "questions": "020_englishlanguage_questions.json",
+        "worksheet": "020_englishlanguage.pdf",
+        "answers": "020_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 21,
+      "number": "021",
+      "slug": "narrative-perspective",
+      "title": "Narrative Perspective: First, Second, Third Person",
+      "category": "Structure Analysis",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "020"
+      ],
+      "topicsCovered": [
+        "Identify first, second, and third person narration",
+        "Understand omniscient vs. limited perspectives",
+        "Analyze how perspective affects reader understanding",
+        "Explore reliability and bias in narration"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "021_englishlanguage_lesson.md",
+        "questions": "021_englishlanguage_questions.json",
+        "worksheet": "021_englishlanguage.pdf",
+        "answers": "021_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 22,
+      "number": "022",
+      "slug": "paragraph-structure",
+      "title": "Paragraph Structure and Development",
+      "category": "Structure Analysis",
+      "tier": "Foundation",
+      "difficulty": "Medium",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "021"
+      ],
+      "topicsCovered": [
+        "Understand effective paragraph structure",
+        "Analyze topic sentences and development",
+        "Recognize paragraph cohesion",
+        "Link paragraph structure to overall text structure"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "022_englishlanguage_lesson.md",
+        "questions": "022_englishlanguage_questions.json",
+        "worksheet": "022_englishlanguage.pdf",
+        "answers": "022_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 23,
+      "number": "023",
+      "slug": "comparing-writers-ideas",
+      "title": "Comparing Writers' Ideas",
+      "category": "Comparison & Evaluation",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "008"
+      ],
+      "topicsCovered": [
+        "Identify similarities and differences in ideas",
+        "Compare perspectives across texts",
+        "Use comparative discourse markers",
+        "Structure comparative responses"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "023_englishlanguage_lesson.md",
+        "questions": "023_englishlanguage_questions.json",
+        "worksheet": "023_englishlanguage.pdf",
+        "answers": "023_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 24,
+      "number": "024",
+      "slug": "comparing-language-use",
+      "title": "Comparing Language Use Across Texts",
+      "category": "Comparison & Evaluation",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "023"
+      ],
+      "topicsCovered": [
+        "Compare language choices in different texts",
+        "Analyze how different writers achieve similar effects",
+        "Explore contrasting styles and techniques",
+        "Link language to purpose and context"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "024_englishlanguage_lesson.md",
+        "questions": "024_englishlanguage_questions.json",
+        "worksheet": "024_englishlanguage.pdf",
+        "answers": "024_englishlanguage_answers.json"
+      }
+    },
+    {
+      "id": 25,
+      "number": "025",
+      "slug": "synthesis",
+      "title": "Synthesis: Bringing Ideas Together",
+      "category": "Comparison & Evaluation",
+      "tier": "Foundation",
+      "difficulty": "Hard",
+      "isFree": true,
+      "estimatedMinutes": 50,
+      "confidenceTarget": 8,
+      "prerequisites": [
+        "024"
+      ],
+      "topicsCovered": [
+        "Understand what synthesis means",
+        "Combine information from multiple sources",
+        "Create coherent summaries",
+        "Integrate evidence smoothly"
+      ],
+      "contentReady": false,
+      "files": {
+        "instructions": "025_englishlanguage_lesson.md",
+        "questions": "025_englishlanguage_questions.json",
+        "worksheet": "025_englishlanguage.pdf",
+        "answers": "025_englishlanguage_answers.json"
+      }
+    }
+  ]
+}

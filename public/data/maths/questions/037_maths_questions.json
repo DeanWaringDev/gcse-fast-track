@@ -1,0 +1,1250 @@
+{
+  "lessonId": 37,
+  "lessonNumber": "037",
+  "lessonTitle": "Understanding Algebra - Advanced",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Find: 6 \u00d7 12"
+        },
+        {
+          "id": 2,
+          "question": "Calculate: 14 + 14"
+        },
+        {
+          "id": 3,
+          "question": "Work out: 52 - 10"
+        },
+        {
+          "id": 4,
+          "question": "Calculate: 3 + 10"
+        },
+        {
+          "id": 5,
+          "question": "Calculate: 16 + 20"
+        },
+        {
+          "id": 6,
+          "question": "Find: 4 \u00d7 9"
+        },
+        {
+          "id": 7,
+          "question": "Work out: 23 - 4"
+        },
+        {
+          "id": 8,
+          "question": "Find: 2 \u00d7 2"
+        },
+        {
+          "id": 9,
+          "question": "Work out: 48 - 19"
+        },
+        {
+          "id": 10,
+          "question": "Work out: 25 - 6"
+        },
+        {
+          "id": 11,
+          "question": "Find: 2 \u00d7 6"
+        },
+        {
+          "id": 12,
+          "question": "Find: 3 \u00d7 11"
+        },
+        {
+          "id": 13,
+          "question": "Find: 2 \u00d7 4"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 14 + 11"
+        },
+        {
+          "id": 15,
+          "question": "Work out: 75 - 48"
+        },
+        {
+          "id": 16,
+          "question": "Find: 12 \u00d7 9"
+        },
+        {
+          "id": 17,
+          "question": "Calculate: 11 + 12"
+        },
+        {
+          "id": 18,
+          "question": "Find: 6 \u00d7 6"
+        },
+        {
+          "id": 19,
+          "question": "Calculate: 3 + 14"
+        },
+        {
+          "id": 20,
+          "question": "Work out: 78 - 3"
+        },
+        {
+          "id": 21,
+          "question": "Calculate: 20 + 14"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 67 - 18"
+        },
+        {
+          "id": 23,
+          "question": "Find: 8 \u00d7 10"
+        },
+        {
+          "id": 24,
+          "question": "Find: 12 \u00d7 12"
+        },
+        {
+          "id": 25,
+          "question": "Work out: 92 - 17"
+        },
+        {
+          "id": 26,
+          "question": "Find: 6 \u00d7 4"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 47 - 23"
+        },
+        {
+          "id": 28,
+          "question": "Find: 10 \u00d7 6"
+        },
+        {
+          "id": 29,
+          "question": "Find: 12 \u00d7 5"
+        },
+        {
+          "id": 30,
+          "question": "Find: 3 \u00d7 3"
+        },
+        {
+          "id": 31,
+          "question": "Find: 8 \u00d7 9"
+        },
+        {
+          "id": 32,
+          "question": "Work out: 64 - 50"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 14 - 45"
+        },
+        {
+          "id": 34,
+          "question": "Find: 9 \u00d7 2"
+        },
+        {
+          "id": 35,
+          "question": "Find: 6 \u00d7 7"
+        },
+        {
+          "id": 36,
+          "question": "Work out: 17 - 16"
+        },
+        {
+          "id": 37,
+          "question": "Find: 5 \u00d7 5"
+        },
+        {
+          "id": 38,
+          "question": "Find: 2 \u00d7 11"
+        },
+        {
+          "id": 39,
+          "question": "Work out: 87 - 13"
+        },
+        {
+          "id": 40,
+          "question": "Calculate: 19 + 1"
+        },
+        {
+          "id": 41,
+          "question": "Calculate: 1 + 16"
+        },
+        {
+          "id": 42,
+          "question": "Find: 11 \u00d7 6"
+        },
+        {
+          "id": 43,
+          "question": "Find: 3 \u00d7 2"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 99 - 30"
+        },
+        {
+          "id": 45,
+          "question": "Find: 11 \u00d7 10"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 60 - 22"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 77 - 19"
+        },
+        {
+          "id": 48,
+          "question": "Work out: 32 - 28"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 18 + 10"
+        },
+        {
+          "id": 50,
+          "question": "Work out: 30 - 28"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (9 + 5) \u00d7 4"
+        },
+        {
+          "id": 52,
+          "question": "Solve: 42 + 46 - 18"
+        },
+        {
+          "id": 53,
+          "question": "Calculate: (2 + 8) \u00d7 2"
+        },
+        {
+          "id": 54,
+          "question": "Solve: 9 + 38 - 3"
+        },
+        {
+          "id": 55,
+          "question": "Solve: 17 + 15 - 27"
+        },
+        {
+          "id": 56,
+          "question": "Solve: 5 + 39 - 13"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 28 + 10 - 10"
+        },
+        {
+          "id": 58,
+          "question": "Calculate: (5 + 3) \u00d7 4"
+        },
+        {
+          "id": 59,
+          "question": "Solve: 24 + 24 - 27"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 44 + 25 - 13"
+        },
+        {
+          "id": 61,
+          "question": "Calculate: (10 + 1) \u00d7 8"
+        },
+        {
+          "id": 62,
+          "question": "Solve: 23 + 17 - 26"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (6 + 5) \u00d7 2"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 33 + 28 - 17"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (7 + 4) \u00d7 6"
+        },
+        {
+          "id": 66,
+          "question": "Calculate: (5 + 4) \u00d7 7"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 11 + 22 - 6"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (4 + 2) \u00d7 6"
+        },
+        {
+          "id": 69,
+          "question": "Calculate: (1 + 10) \u00d7 4"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 10 + 40 - 23"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (5 + 2) \u00d7 7"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (6 + 5) \u00d7 7"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (1 + 7) \u00d7 5"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 7 + 42 - 3"
+        },
+        {
+          "id": 75,
+          "question": "Calculate: (10 + 1) \u00d7 8"
+        },
+        {
+          "id": 76,
+          "question": "Calculate: (1 + 3) \u00d7 8"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 33 + 47 - 13"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (5 + 7) \u00d7 2"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (5 + 1) \u00d7 4"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (8 + 3) \u00d7 8"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 17 + 47 - 28"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 9 + 21 - 1"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (4 + 10) \u00d7 3"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (4 + 7) \u00d7 5"
+        },
+        {
+          "id": 85,
+          "question": "Solve: 6 + 15 - 21"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 28 + 22 - 16"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 40 + 34 - 22"
+        },
+        {
+          "id": 88,
+          "question": "Solve: 42 + 13 - 13"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 49 + 23 - 8"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 28 + 25 - 17"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 14 + 37 - 11"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 48 + 45 - 17"
+        },
+        {
+          "id": 93,
+          "question": "Solve: 41 + 50 - 6"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (3 + 8) \u00d7 4"
+        },
+        {
+          "id": 95,
+          "question": "Calculate: (10 + 10) \u00d7 5"
+        },
+        {
+          "id": 96,
+          "question": "Solve: 10 + 5 - 5"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 24 + 13 - 1"
+        },
+        {
+          "id": 98,
+          "question": "Solve: 27 + 37 - 14"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (2 + 10) \u00d7 2"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 16 + 7 - 29"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 19 + 23 - 2"
+        },
+        {
+          "id": 102,
+          "question": "Solve: 37 + 13 - 24"
+        },
+        {
+          "id": 103,
+          "question": "Solve: 46 + 12 - 7"
+        },
+        {
+          "id": 104,
+          "question": "Calculate: (1 + 3) \u00d7 7"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (6 + 3) \u00d7 7"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 23 + 8 - 30"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 16 + 7 - 24"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 33 + 34 - 24"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 24 + 22 - 19"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 24 + 30 - 14"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (8 + 2) \u00d7 6"
+        },
+        {
+          "id": 112,
+          "question": "Solve: 14 + 35 - 1"
+        },
+        {
+          "id": 113,
+          "question": "Calculate: (4 + 8) \u00d7 2"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (9 + 2) \u00d7 4"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 45 + 20 - 6"
+        },
+        {
+          "id": 116,
+          "question": "Calculate: (2 + 6) \u00d7 6"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (5 + 9) \u00d7 3"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 36 + 18 - 6"
+        },
+        {
+          "id": 119,
+          "question": "Calculate: (8 + 10) \u00d7 8"
+        },
+        {
+          "id": 120,
+          "question": "Solve: 28 + 16 - 7"
+        },
+        {
+          "id": 121,
+          "question": "Calculate: (2 + 9) \u00d7 5"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 10 + 32 - 8"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 48 + 39 - 3"
+        },
+        {
+          "id": 124,
+          "question": "Calculate: (9 + 2) \u00d7 3"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (3 + 1) \u00d7 3"
+        },
+        {
+          "id": 126,
+          "question": "Calculate: (3 + 9) \u00d7 5"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 9 + 17 - 4"
+        },
+        {
+          "id": 128,
+          "question": "Solve: 17 + 24 - 10"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 39 + 29 - 16"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (7 + 1) \u00d7 2"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 35 + 49 - 11"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (9 + 8) \u00d7 3"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (4 + 7) \u00d7 8"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 21 + 38 - 30"
+        },
+        {
+          "id": 135,
+          "question": "Solve: 42 + 13 - 9"
+        },
+        {
+          "id": 136,
+          "question": "Calculate: (4 + 9) \u00d7 7"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (8 + 6) \u00d7 6"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: (3 + 5) \u00d7 3"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 7 + 48 - 22"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (1 + 6) \u00d7 2"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (3 + 1) \u00d7 2"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (5 + 4) \u00d7 8"
+        },
+        {
+          "id": 143,
+          "question": "Solve: 47 + 8 - 29"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 28 + 50 - 6"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (5 + 9) \u00d7 5"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (6 + 5) \u00d7 3"
+        },
+        {
+          "id": 147,
+          "question": "Solve: 38 + 38 - 7"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (4 + 10) \u00d7 2"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (7 + 2) \u00d7 7"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 28 + 22 - 22"
+        },
+        {
+          "id": 151,
+          "question": "Solve: 11 + 12 - 5"
+        },
+        {
+          "id": 152,
+          "question": "Calculate: (4 + 4) \u00d7 5"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 30 + 18 - 16"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (1 + 9) \u00d7 2"
+        },
+        {
+          "id": 155,
+          "question": "Solve: 34 + 20 - 4"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (8 + 3) \u00d7 5"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (8 + 3) \u00d7 5"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (6 + 8) \u00d7 5"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (10 + 7) \u00d7 6"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (5 + 4) \u00d7 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (3 + 9) \u00d7 7"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (8 + 4) \u00d7 3"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (8 + 6) \u00d7 4"
+        },
+        {
+          "id": 164,
+          "question": "Solve: 44 + 30 - 29"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (2 + 3) \u00d7 6"
+        },
+        {
+          "id": 166,
+          "question": "Calculate: (6 + 3) \u00d7 7"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (1 + 4) \u00d7 8"
+        },
+        {
+          "id": 168,
+          "question": "Calculate: (7 + 5) \u00d7 3"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 45 + 35 - 13"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 49 + 42 - 13"
+        },
+        {
+          "id": 171,
+          "question": "Solve: 36 + 14 - 24"
+        },
+        {
+          "id": 172,
+          "question": "Solve: 17 + 11 - 18"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (6 + 9) \u00d7 4"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (9 + 1) \u00d7 5"
+        },
+        {
+          "id": 175,
+          "question": "Solve: 35 + 40 - 16"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 9 + 41 - 30"
+        },
+        {
+          "id": 177,
+          "question": "Solve: 14 + 13 - 7"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (6 + 9) \u00d7 4"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (3 + 2) \u00d7 3"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (7 + 7) \u00d7 2"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 40 + 31 - 21"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 20 + 40 - 5"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 38 + 34 - 20"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 36 + 23 - 12"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 11 + 29 - 24"
+        },
+        {
+          "id": 186,
+          "question": "Solve: 18 + 41 - 5"
+        },
+        {
+          "id": 187,
+          "question": "Solve: 44 + 24 - 24"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 38 + 39 - 14"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 19 + 10 - 10"
+        },
+        {
+          "id": 190,
+          "question": "Solve: 7 + 45 - 27"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (3 + 9) \u00d7 2"
+        },
+        {
+          "id": 192,
+          "question": "Solve: 43 + 15 - 24"
+        },
+        {
+          "id": 193,
+          "question": "Solve: 8 + 17 - 14"
+        },
+        {
+          "id": 194,
+          "question": "Solve: 29 + 28 - 10"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 8 + 27 - 19"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 25 + 36 - 25"
+        },
+        {
+          "id": 197,
+          "question": "Calculate: (3 + 6) \u00d7 5"
+        },
+        {
+          "id": 198,
+          "question": "Calculate: (3 + 3) \u00d7 4"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (4 + 9) \u00d7 6"
+        },
+        {
+          "id": 200,
+          "question": "Calculate: (9 + 6) \u00d7 6"
+        },
+        {
+          "id": 201,
+          "question": "Calculate: (7 + 10) \u00d7 7"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 24 + 12 - 1"
+        },
+        {
+          "id": 203,
+          "question": "Solve: 28 + 40 - 29"
+        },
+        {
+          "id": 204,
+          "question": "Calculate: (7 + 5) \u00d7 2"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 19 + 17 - 22"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (2 + 9) \u00d7 5"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (2 + 5) \u00d7 7"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 15 + 43 - 2"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 34 + 34 - 26"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 23 + 48 - 3"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 213,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 217,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 221,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 222,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 226,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 227,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 233,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 234,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 235,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 236,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 237,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 238,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 242,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about understanding algebra - advanced"
+        },
+        {
+          "id": 247,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving understanding algebra - advanced"
+        },
+        {
+          "id": 250,
+          "question": "A complex problem involving understanding algebra - advanced"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 256,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 259,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 260,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 263,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 264,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 266,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 267,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 268,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 271,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 275,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 276,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 277,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 283,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 286,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 291,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 292,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this understanding algebra - advanced question"
+        },
+        {
+          "id": 300,
+          "question": "Exam question: Apply understanding algebra - advanced to solve this problem"
+        }
+      ]
+    }
+  ]
+}

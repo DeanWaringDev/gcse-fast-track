@@ -1,0 +1,2109 @@
+{
+  "lessonId": 96,
+  "lessonNumber": "096",
+  "lessonTitle": "Foundation Mock Exam 2",
+  "totalQuestions": 300,
+  "note": "Full working and explanations provided for each answer.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "Work out: 48 - 41",
+      "answer": 7,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 2,
+      "question": "Find: 5 \u00d7 9",
+      "answer": 45,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 3,
+      "question": "Calculate: 2 + 17",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 4,
+      "question": "Work out: 26 - 49",
+      "answer": -23,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 5,
+      "question": "Find: 5 \u00d7 6",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 6,
+      "question": "Work out: 100 - 48",
+      "answer": 52,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 7,
+      "question": "Calculate: 3 + 15",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 8,
+      "question": "Work out: 62 - 12",
+      "answer": 50,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 9,
+      "question": "Work out: 12 - 21",
+      "answer": -9,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 10,
+      "question": "Calculate: 2 + 17",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 11,
+      "question": "Find: 3 \u00d7 7",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 12,
+      "question": "Calculate: 6 + 6",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 13,
+      "question": "Find: 2 \u00d7 10",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 14,
+      "question": "Calculate: 10 + 13",
+      "answer": 23,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 15,
+      "question": "Find: 2 \u00d7 8",
+      "answer": 16,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 16,
+      "question": "Work out: 43 - 43",
+      "answer": 0,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 17,
+      "question": "Calculate: 18 + 9",
+      "answer": 27,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 18,
+      "question": "Calculate: 9 + 15",
+      "answer": 24,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 19,
+      "question": "Calculate: 4 + 18",
+      "answer": 22,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 20,
+      "question": "Find: 3 \u00d7 2",
+      "answer": 6,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 21,
+      "question": "Find: 4 \u00d7 6",
+      "answer": 24,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 22,
+      "question": "Find: 2 \u00d7 7",
+      "answer": 14,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 23,
+      "question": "Work out: 60 - 15",
+      "answer": 45,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 24,
+      "question": "Calculate: 18 + 7",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 25,
+      "question": "Calculate: 14 + 18",
+      "answer": 32,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 26,
+      "question": "Calculate: 19 + 12",
+      "answer": 31,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 27,
+      "question": "Find: 5 \u00d7 10",
+      "answer": 50,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 28,
+      "question": "Find: 7 \u00d7 3",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 29,
+      "question": "Calculate: 6 + 6",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 30,
+      "question": "Calculate: 20 + 15",
+      "answer": 35,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 31,
+      "question": "Calculate: 17 + 18",
+      "answer": 35,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 32,
+      "question": "Work out: 96 - 27",
+      "answer": 69,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 33,
+      "question": "Work out: 32 - 40",
+      "answer": -8,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 34,
+      "question": "Work out: 30 - 37",
+      "answer": -7,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 35,
+      "question": "Work out: 38 - 41",
+      "answer": -3,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 36,
+      "question": "Calculate: 13 + 19",
+      "answer": 32,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 37,
+      "question": "Calculate: 16 + 20",
+      "answer": 36,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 38,
+      "question": "Calculate: 11 + 6",
+      "answer": 17,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 39,
+      "question": "Calculate: 16 + 15",
+      "answer": 31,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 40,
+      "question": "Find: 11 \u00d7 9",
+      "answer": 99,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 41,
+      "question": "Calculate: 3 + 9",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 42,
+      "question": "Find: 4 \u00d7 3",
+      "answer": 12,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 43,
+      "question": "Calculate: 19 + 6",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 44,
+      "question": "Work out: 48 - 23",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 45,
+      "question": "Find: 7 \u00d7 4",
+      "answer": 28,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 46,
+      "question": "Work out: 12 - 34",
+      "answer": -22,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 47,
+      "question": "Work out: 37 - 47",
+      "answer": -10,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 48,
+      "question": "Work out: 27 - 22",
+      "answer": 5,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 49,
+      "question": "Find: 10 \u00d7 6",
+      "answer": 60,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 50,
+      "question": "Work out: 71 - 26",
+      "answer": 45,
+      "sectionId": 1,
+      "sectionTitle": "Calculator Paper - Section A"
+    },
+    {
+      "id": 51,
+      "question": "Find: 4 \u00d7 2",
+      "answer": 8,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 52,
+      "question": "Work out: 52 - 46",
+      "answer": 6,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 53,
+      "question": "Calculate: 4 + 20",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 54,
+      "question": "Find: 12 \u00d7 9",
+      "answer": 108,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 55,
+      "question": "Work out: 50 - 28",
+      "answer": 22,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 56,
+      "question": "Work out: 90 - 37",
+      "answer": 53,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 57,
+      "question": "Work out: 29 - 21",
+      "answer": 8,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 58,
+      "question": "Find: 10 \u00d7 12",
+      "answer": 120,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 59,
+      "question": "Calculate: 5 + 1",
+      "answer": 6,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 60,
+      "question": "Work out: 96 - 18",
+      "answer": 78,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 61,
+      "question": "Work out: 94 - 43",
+      "answer": 51,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 62,
+      "question": "Calculate: 19 + 14",
+      "answer": 33,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 63,
+      "question": "Find: 8 \u00d7 7",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 64,
+      "question": "Find: 11 \u00d7 11",
+      "answer": 121,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 65,
+      "question": "Find: 5 \u00d7 9",
+      "answer": 45,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 66,
+      "question": "Find: 12 \u00d7 6",
+      "answer": 72,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 67,
+      "question": "Work out: 66 - 1",
+      "answer": 65,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 68,
+      "question": "Find: 6 \u00d7 3",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 69,
+      "question": "Find: 8 \u00d7 4",
+      "answer": 32,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 70,
+      "question": "Find: 6 \u00d7 4",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 71,
+      "question": "Work out: 46 - 8",
+      "answer": 38,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 72,
+      "question": "Find: 2 \u00d7 10",
+      "answer": 20,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 73,
+      "question": "Work out: 71 - 15",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 74,
+      "question": "Calculate: 10 + 18",
+      "answer": 28,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 75,
+      "question": "Calculate: 5 + 14",
+      "answer": 19,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 76,
+      "question": "Work out: 38 - 12",
+      "answer": 26,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 77,
+      "question": "Work out: 79 - 31",
+      "answer": 48,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 78,
+      "question": "Calculate: 6 + 3",
+      "answer": 9,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 79,
+      "question": "Find: 7 \u00d7 11",
+      "answer": 77,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 80,
+      "question": "Find: 9 \u00d7 10",
+      "answer": 90,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 81,
+      "question": "Calculate: 4 + 20",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 82,
+      "question": "Calculate: 18 + 19",
+      "answer": 37,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 83,
+      "question": "Find: 7 \u00d7 7",
+      "answer": 49,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 84,
+      "question": "Find: 6 \u00d7 9",
+      "answer": 54,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 85,
+      "question": "Work out: 76 - 14",
+      "answer": 62,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 86,
+      "question": "Calculate: 3 + 16",
+      "answer": 19,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 87,
+      "question": "Find: 9 \u00d7 12",
+      "answer": 108,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 88,
+      "question": "Work out: 89 - 35",
+      "answer": 54,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 89,
+      "question": "Find: 9 \u00d7 10",
+      "answer": 90,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 90,
+      "question": "Find: 4 \u00d7 4",
+      "answer": 16,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 91,
+      "question": "Find: 8 \u00d7 9",
+      "answer": 72,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 92,
+      "question": "Work out: 36 - 33",
+      "answer": 3,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 93,
+      "question": "Find: 8 \u00d7 3",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 94,
+      "question": "Find: 6 \u00d7 12",
+      "answer": 72,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 95,
+      "question": "Find: 10 \u00d7 8",
+      "answer": 80,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 96,
+      "question": "Calculate: 11 + 10",
+      "answer": 21,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 97,
+      "question": "Work out: 98 - 47",
+      "answer": 51,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 98,
+      "question": "Find: 10 \u00d7 2",
+      "answer": 20,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 99,
+      "question": "Calculate: 4 + 3",
+      "answer": 7,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 100,
+      "question": "Find: 2 \u00d7 8",
+      "answer": 16,
+      "sectionId": 2,
+      "sectionTitle": "Calculator Paper - Section B"
+    },
+    {
+      "id": 101,
+      "question": "Find: 8 \u00d7 11",
+      "answer": 88,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 102,
+      "question": "Calculate: 16 + 1",
+      "answer": 17,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 103,
+      "question": "Calculate: 3 + 14",
+      "answer": 17,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 104,
+      "question": "Calculate: 16 + 7",
+      "answer": 23,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 105,
+      "question": "Work out: 30 - 40",
+      "answer": -10,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 106,
+      "question": "Calculate: 19 + 17",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 107,
+      "question": "Calculate: 19 + 15",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 108,
+      "question": "Find: 7 \u00d7 4",
+      "answer": 28,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 109,
+      "question": "Work out: 36 - 9",
+      "answer": 27,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 110,
+      "question": "Find: 5 \u00d7 11",
+      "answer": 55,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 111,
+      "question": "Calculate: 15 + 14",
+      "answer": 29,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 112,
+      "question": "Work out: 27 - 32",
+      "answer": -5,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 113,
+      "question": "Work out: 26 - 25",
+      "answer": 1,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 114,
+      "question": "Find: 8 \u00d7 11",
+      "answer": 88,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 115,
+      "question": "Find: 4 \u00d7 12",
+      "answer": 48,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 116,
+      "question": "Calculate: 5 + 13",
+      "answer": 18,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 117,
+      "question": "Calculate: 13 + 17",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 118,
+      "question": "Work out: 51 - 29",
+      "answer": 22,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 119,
+      "question": "Calculate: 5 + 19",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 120,
+      "question": "Find: 6 \u00d7 10",
+      "answer": 60,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 121,
+      "question": "Find: 10 \u00d7 7",
+      "answer": 70,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 122,
+      "question": "Calculate: 20 + 16",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 123,
+      "question": "Calculate: 2 + 20",
+      "answer": 22,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 124,
+      "question": "Work out: 90 - 28",
+      "answer": 62,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 125,
+      "question": "Work out: 27 - 15",
+      "answer": 12,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 126,
+      "question": "Find: 4 \u00d7 6",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 127,
+      "question": "Find: 6 \u00d7 4",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 128,
+      "question": "Work out: 66 - 24",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 129,
+      "question": "Find: 12 \u00d7 2",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 130,
+      "question": "Work out: 43 - 3",
+      "answer": 40,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 131,
+      "question": "Calculate: 15 + 15",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 132,
+      "question": "Calculate: 18 + 17",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 133,
+      "question": "Find: 2 \u00d7 2",
+      "answer": 4,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 134,
+      "question": "Work out: 90 - 11",
+      "answer": 79,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 135,
+      "question": "Find: 6 \u00d7 9",
+      "answer": 54,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 136,
+      "question": "Work out: 87 - 28",
+      "answer": 59,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 137,
+      "question": "Calculate: 12 + 14",
+      "answer": 26,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 138,
+      "question": "Work out: 56 - 32",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 139,
+      "question": "Calculate: 13 + 16",
+      "answer": 29,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 140,
+      "question": "Find: 8 \u00d7 3",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 141,
+      "question": "Calculate: 3 + 12",
+      "answer": 15,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 142,
+      "question": "Work out: 29 - 26",
+      "answer": 3,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 143,
+      "question": "Calculate: 3 + 12",
+      "answer": 15,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 144,
+      "question": "Calculate: 16 + 8",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 145,
+      "question": "Find: 9 \u00d7 10",
+      "answer": 90,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 146,
+      "question": "Find: 9 \u00d7 4",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 147,
+      "question": "Work out: 78 - 43",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 148,
+      "question": "Find: 4 \u00d7 4",
+      "answer": 16,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 149,
+      "question": "Find: 10 \u00d7 11",
+      "answer": 110,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 150,
+      "question": "Find: 3 \u00d7 10",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Non-Calculator Paper - Section A"
+    },
+    {
+      "id": 151,
+      "question": "Find: 11 \u00d7 2",
+      "answer": 22,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 152,
+      "question": "Work out: 31 - 37",
+      "answer": -6,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 153,
+      "question": "Calculate: 4 + 9",
+      "answer": 13,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 154,
+      "question": "Find: 8 \u00d7 8",
+      "answer": 64,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 155,
+      "question": "Calculate: 6 + 12",
+      "answer": 18,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 156,
+      "question": "Find: 8 \u00d7 8",
+      "answer": 64,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 157,
+      "question": "Work out: 87 - 31",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 158,
+      "question": "Calculate: 16 + 9",
+      "answer": 25,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 159,
+      "question": "Work out: 56 - 50",
+      "answer": 6,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 160,
+      "question": "Find: 2 \u00d7 11",
+      "answer": 22,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 161,
+      "question": "Calculate: 5 + 16",
+      "answer": 21,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 162,
+      "question": "Find: 10 \u00d7 10",
+      "answer": 100,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 163,
+      "question": "Work out: 58 - 39",
+      "answer": 19,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 164,
+      "question": "Work out: 60 - 37",
+      "answer": 23,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 165,
+      "question": "Find: 6 \u00d7 6",
+      "answer": 36,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 166,
+      "question": "Find: 11 \u00d7 10",
+      "answer": 110,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 167,
+      "question": "Work out: 44 - 23",
+      "answer": 21,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 168,
+      "question": "Calculate: 1 + 20",
+      "answer": 21,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 169,
+      "question": "Find: 9 \u00d7 9",
+      "answer": 81,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 170,
+      "question": "Work out: 20 - 6",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 171,
+      "question": "Find: 3 \u00d7 4",
+      "answer": 12,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 172,
+      "question": "Work out: 82 - 30",
+      "answer": 52,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 173,
+      "question": "Work out: 39 - 16",
+      "answer": 23,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 174,
+      "question": "Find: 7 \u00d7 9",
+      "answer": 63,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 175,
+      "question": "Find: 12 \u00d7 5",
+      "answer": 60,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 176,
+      "question": "Find: 6 \u00d7 7",
+      "answer": 42,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 177,
+      "question": "Work out: 28 - 28",
+      "answer": 0,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 178,
+      "question": "Find: 10 \u00d7 3",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 179,
+      "question": "Find: 11 \u00d7 7",
+      "answer": 77,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 180,
+      "question": "Work out: 82 - 41",
+      "answer": 41,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 181,
+      "question": "Work out: 33 - 19",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 182,
+      "question": "Find: 5 \u00d7 10",
+      "answer": 50,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 183,
+      "question": "Calculate: 4 + 5",
+      "answer": 9,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 184,
+      "question": "Work out: 89 - 33",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 185,
+      "question": "Calculate: 14 + 11",
+      "answer": 25,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 186,
+      "question": "Find: 8 \u00d7 4",
+      "answer": 32,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 187,
+      "question": "Find: 10 \u00d7 2",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 188,
+      "question": "Calculate: 3 + 10",
+      "answer": 13,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 189,
+      "question": "Work out: 71 - 20",
+      "answer": 51,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 190,
+      "question": "Calculate: 1 + 4",
+      "answer": 5,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 191,
+      "question": "Work out: 64 - 13",
+      "answer": 51,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 192,
+      "question": "Work out: 87 - 19",
+      "answer": 68,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 193,
+      "question": "Work out: 92 - 2",
+      "answer": 90,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 194,
+      "question": "Calculate: 10 + 19",
+      "answer": 29,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 195,
+      "question": "Work out: 21 - 9",
+      "answer": 12,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 196,
+      "question": "Work out: 95 - 26",
+      "answer": 69,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 197,
+      "question": "Find: 10 \u00d7 7",
+      "answer": 70,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 198,
+      "question": "Find: 2 \u00d7 7",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 199,
+      "question": "Calculate: 19 + 14",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 200,
+      "question": "Work out: 29 - 24",
+      "answer": 5,
+      "sectionId": 4,
+      "sectionTitle": "Non-Calculator Paper - Section B"
+    },
+    {
+      "id": 201,
+      "question": "Calculate: 20 + 4",
+      "answer": 24,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 202,
+      "question": "Find: 3 \u00d7 2",
+      "answer": 6,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 203,
+      "question": "Work out: 58 - 2",
+      "answer": 56,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 204,
+      "question": "Find: 7 \u00d7 11",
+      "answer": 77,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 205,
+      "question": "Work out: 51 - 11",
+      "answer": 40,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 206,
+      "question": "Calculate: 4 + 17",
+      "answer": 21,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 207,
+      "question": "Calculate: 13 + 5",
+      "answer": 18,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 208,
+      "question": "Find: 6 \u00d7 5",
+      "answer": 30,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 209,
+      "question": "Calculate: 14 + 5",
+      "answer": 19,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 210,
+      "question": "Find: 3 \u00d7 8",
+      "answer": 24,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 211,
+      "question": "Work out: 87 - 29",
+      "answer": 58,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 212,
+      "question": "Work out: 73 - 2",
+      "answer": 71,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 213,
+      "question": "Work out: 81 - 47",
+      "answer": 34,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 214,
+      "question": "Work out: 51 - 13",
+      "answer": 38,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 215,
+      "question": "Find: 12 \u00d7 3",
+      "answer": 36,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 216,
+      "question": "Work out: 24 - 46",
+      "answer": -22,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 217,
+      "question": "Find: 12 \u00d7 10",
+      "answer": 120,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 218,
+      "question": "Calculate: 5 + 12",
+      "answer": 17,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 219,
+      "question": "Find: 8 \u00d7 4",
+      "answer": 32,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 220,
+      "question": "Work out: 12 - 3",
+      "answer": 9,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 221,
+      "question": "Work out: 60 - 48",
+      "answer": 12,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 222,
+      "question": "Find: 6 \u00d7 7",
+      "answer": 42,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 223,
+      "question": "Calculate: 11 + 5",
+      "answer": 16,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 224,
+      "question": "Calculate: 15 + 8",
+      "answer": 23,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 225,
+      "question": "Calculate: 17 + 8",
+      "answer": 25,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 226,
+      "question": "Work out: 12 - 29",
+      "answer": -17,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 227,
+      "question": "Find: 10 \u00d7 6",
+      "answer": 60,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 228,
+      "question": "Find: 7 \u00d7 6",
+      "answer": 42,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 229,
+      "question": "Find: 4 \u00d7 2",
+      "answer": 8,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 230,
+      "question": "Calculate: 3 + 12",
+      "answer": 15,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 231,
+      "question": "Find: 12 \u00d7 3",
+      "answer": 36,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 232,
+      "question": "Find: 12 \u00d7 11",
+      "answer": 132,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 233,
+      "question": "Work out: 97 - 25",
+      "answer": 72,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 234,
+      "question": "Calculate: 11 + 2",
+      "answer": 13,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 235,
+      "question": "Find: 8 \u00d7 3",
+      "answer": 24,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 236,
+      "question": "Find: 3 \u00d7 5",
+      "answer": 15,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 237,
+      "question": "Find: 9 \u00d7 10",
+      "answer": 90,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 238,
+      "question": "Work out: 31 - 44",
+      "answer": -13,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 239,
+      "question": "Find: 9 \u00d7 5",
+      "answer": 45,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 240,
+      "question": "Find: 6 \u00d7 9",
+      "answer": 54,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 241,
+      "question": "Work out: 95 - 50",
+      "answer": 45,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 242,
+      "question": "Work out: 24 - 11",
+      "answer": 13,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 243,
+      "question": "Find: 3 \u00d7 5",
+      "answer": 15,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 244,
+      "question": "Calculate: 16 + 19",
+      "answer": 35,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 245,
+      "question": "Calculate: 12 + 15",
+      "answer": 27,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 246,
+      "question": "Work out: 70 - 50",
+      "answer": 20,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 247,
+      "question": "Work out: 81 - 13",
+      "answer": 68,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 248,
+      "question": "Find: 12 \u00d7 2",
+      "answer": 24,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 249,
+      "question": "Find: 7 \u00d7 10",
+      "answer": 70,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 250,
+      "question": "Calculate: 5 + 19",
+      "answer": 24,
+      "sectionId": 5,
+      "sectionTitle": "Calculator Paper - Section C"
+    },
+    {
+      "id": 251,
+      "question": "Work out: 76 - 44",
+      "answer": 32,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 252,
+      "question": "Calculate: 19 + 13",
+      "answer": 32,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 253,
+      "question": "Find: 6 \u00d7 9",
+      "answer": 54,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 254,
+      "question": "Work out: 47 - 3",
+      "answer": 44,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 255,
+      "question": "Calculate: 18 + 14",
+      "answer": 32,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 256,
+      "question": "Calculate: 2 + 17",
+      "answer": 19,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 257,
+      "question": "Find: 7 \u00d7 8",
+      "answer": 56,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 258,
+      "question": "Work out: 84 - 26",
+      "answer": 58,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 259,
+      "question": "Find: 11 \u00d7 4",
+      "answer": 44,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 260,
+      "question": "Find: 5 \u00d7 9",
+      "answer": 45,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 261,
+      "question": "Work out: 35 - 5",
+      "answer": 30,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 262,
+      "question": "Find: 2 \u00d7 9",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 263,
+      "question": "Work out: 96 - 37",
+      "answer": 59,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 264,
+      "question": "Find: 10 \u00d7 10",
+      "answer": 100,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 265,
+      "question": "Find: 6 \u00d7 6",
+      "answer": 36,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 266,
+      "question": "Calculate: 13 + 9",
+      "answer": 22,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 267,
+      "question": "Work out: 31 - 33",
+      "answer": -2,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 268,
+      "question": "Calculate: 3 + 7",
+      "answer": 10,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 269,
+      "question": "Work out: 22 - 48",
+      "answer": -26,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 270,
+      "question": "Find: 10 \u00d7 11",
+      "answer": 110,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 271,
+      "question": "Work out: 18 - 48",
+      "answer": -30,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 272,
+      "question": "Work out: 92 - 11",
+      "answer": 81,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 273,
+      "question": "Work out: 41 - 29",
+      "answer": 12,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 274,
+      "question": "Calculate: 17 + 1",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 275,
+      "question": "Calculate: 7 + 6",
+      "answer": 13,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 276,
+      "question": "Work out: 88 - 29",
+      "answer": 59,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 277,
+      "question": "Calculate: 15 + 3",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 278,
+      "question": "Work out: 82 - 43",
+      "answer": 39,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 279,
+      "question": "Find: 12 \u00d7 9",
+      "answer": 108,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 280,
+      "question": "Work out: 30 - 27",
+      "answer": 3,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 281,
+      "question": "Find: 5 \u00d7 9",
+      "answer": 45,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 282,
+      "question": "Find: 11 \u00d7 4",
+      "answer": 44,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 283,
+      "question": "Find: 3 \u00d7 6",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 284,
+      "question": "Calculate: 18 + 5",
+      "answer": 23,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 285,
+      "question": "Find: 12 \u00d7 6",
+      "answer": 72,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 286,
+      "question": "Calculate: 16 + 8",
+      "answer": 24,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 287,
+      "question": "Work out: 42 - 30",
+      "answer": 12,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 288,
+      "question": "Work out: 44 - 19",
+      "answer": 25,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 289,
+      "question": "Work out: 90 - 12",
+      "answer": 78,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 290,
+      "question": "Calculate: 14 + 4",
+      "answer": 18,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 291,
+      "question": "Work out: 62 - 6",
+      "answer": 56,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 292,
+      "question": "Find: 5 \u00d7 2",
+      "answer": 10,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 293,
+      "question": "Work out: 41 - 7",
+      "answer": 34,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 294,
+      "question": "Find: 9 \u00d7 6",
+      "answer": 54,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 295,
+      "question": "Calculate: 8 + 2",
+      "answer": 10,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 296,
+      "question": "Find: 5 \u00d7 11",
+      "answer": 55,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 297,
+      "question": "Calculate: 13 + 18",
+      "answer": 31,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 298,
+      "question": "Find: 5 \u00d7 6",
+      "answer": 30,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 299,
+      "question": "Calculate: 14 + 15",
+      "answer": 29,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    },
+    {
+      "id": 300,
+      "question": "Calculate: 11 + 18",
+      "answer": 29,
+      "sectionId": 6,
+      "sectionTitle": "Review Questions"
+    }
+  ]
+}

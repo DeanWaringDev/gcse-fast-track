@@ -1,0 +1,1250 @@
+{
+  "lessonId": 45,
+  "lessonNumber": "045",
+  "lessonTitle": "Solving Equations - Practice",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 32 - 48"
+        },
+        {
+          "id": 2,
+          "question": "Find: 7 \u00d7 9"
+        },
+        {
+          "id": 3,
+          "question": "Find: 6 \u00d7 10"
+        },
+        {
+          "id": 4,
+          "question": "Find: 3 \u00d7 6"
+        },
+        {
+          "id": 5,
+          "question": "Work out: 73 - 37"
+        },
+        {
+          "id": 6,
+          "question": "Calculate: 12 + 20"
+        },
+        {
+          "id": 7,
+          "question": "Calculate: 11 + 2"
+        },
+        {
+          "id": 8,
+          "question": "Work out: 68 - 25"
+        },
+        {
+          "id": 9,
+          "question": "Calculate: 19 + 14"
+        },
+        {
+          "id": 10,
+          "question": "Calculate: 12 + 18"
+        },
+        {
+          "id": 11,
+          "question": "Find: 8 \u00d7 3"
+        },
+        {
+          "id": 12,
+          "question": "Find: 4 \u00d7 7"
+        },
+        {
+          "id": 13,
+          "question": "Find: 2 \u00d7 12"
+        },
+        {
+          "id": 14,
+          "question": "Find: 10 \u00d7 5"
+        },
+        {
+          "id": 15,
+          "question": "Find: 4 \u00d7 2"
+        },
+        {
+          "id": 16,
+          "question": "Work out: 16 - 35"
+        },
+        {
+          "id": 17,
+          "question": "Find: 7 \u00d7 3"
+        },
+        {
+          "id": 18,
+          "question": "Find: 10 \u00d7 3"
+        },
+        {
+          "id": 19,
+          "question": "Find: 12 \u00d7 9"
+        },
+        {
+          "id": 20,
+          "question": "Work out: 32 - 15"
+        },
+        {
+          "id": 21,
+          "question": "Find: 12 \u00d7 4"
+        },
+        {
+          "id": 22,
+          "question": "Calculate: 13 + 3"
+        },
+        {
+          "id": 23,
+          "question": "Find: 7 \u00d7 10"
+        },
+        {
+          "id": 24,
+          "question": "Work out: 35 - 35"
+        },
+        {
+          "id": 25,
+          "question": "Calculate: 17 + 11"
+        },
+        {
+          "id": 26,
+          "question": "Work out: 22 - 16"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 56 - 11"
+        },
+        {
+          "id": 28,
+          "question": "Work out: 92 - 21"
+        },
+        {
+          "id": 29,
+          "question": "Calculate: 15 + 3"
+        },
+        {
+          "id": 30,
+          "question": "Work out: 29 - 41"
+        },
+        {
+          "id": 31,
+          "question": "Calculate: 8 + 16"
+        },
+        {
+          "id": 32,
+          "question": "Find: 4 \u00d7 12"
+        },
+        {
+          "id": 33,
+          "question": "Calculate: 4 + 19"
+        },
+        {
+          "id": 34,
+          "question": "Calculate: 13 + 5"
+        },
+        {
+          "id": 35,
+          "question": "Calculate: 15 + 5"
+        },
+        {
+          "id": 36,
+          "question": "Work out: 17 - 47"
+        },
+        {
+          "id": 37,
+          "question": "Work out: 65 - 6"
+        },
+        {
+          "id": 38,
+          "question": "Work out: 62 - 48"
+        },
+        {
+          "id": 39,
+          "question": "Find: 6 \u00d7 7"
+        },
+        {
+          "id": 40,
+          "question": "Work out: 26 - 18"
+        },
+        {
+          "id": 41,
+          "question": "Find: 6 \u00d7 11"
+        },
+        {
+          "id": 42,
+          "question": "Find: 7 \u00d7 3"
+        },
+        {
+          "id": 43,
+          "question": "Calculate: 9 + 18"
+        },
+        {
+          "id": 44,
+          "question": "Find: 7 \u00d7 7"
+        },
+        {
+          "id": 45,
+          "question": "Find: 8 \u00d7 11"
+        },
+        {
+          "id": 46,
+          "question": "Find: 4 \u00d7 4"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 34 - 40"
+        },
+        {
+          "id": 48,
+          "question": "Work out: 47 - 15"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 6 + 13"
+        },
+        {
+          "id": 50,
+          "question": "Find: 12 \u00d7 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (8 + 7) \u00d7 2"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (2 + 7) \u00d7 6"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 25 + 13 - 5"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (10 + 4) \u00d7 7"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (7 + 7) \u00d7 6"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (8 + 3) \u00d7 8"
+        },
+        {
+          "id": 57,
+          "question": "Calculate: (8 + 6) \u00d7 4"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 20 + 46 - 19"
+        },
+        {
+          "id": 59,
+          "question": "Solve: 47 + 29 - 30"
+        },
+        {
+          "id": 60,
+          "question": "Calculate: (5 + 7) \u00d7 2"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 6 + 24 - 18"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (8 + 6) \u00d7 3"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (6 + 3) \u00d7 5"
+        },
+        {
+          "id": 64,
+          "question": "Calculate: (8 + 4) \u00d7 7"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (6 + 2) \u00d7 5"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 47 + 13 - 25"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 42 + 6 - 2"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (1 + 4) \u00d7 3"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 15 + 11 - 16"
+        },
+        {
+          "id": 70,
+          "question": "Calculate: (9 + 5) \u00d7 5"
+        },
+        {
+          "id": 71,
+          "question": "Solve: 25 + 21 - 30"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (10 + 1) \u00d7 2"
+        },
+        {
+          "id": 73,
+          "question": "Solve: 7 + 29 - 19"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 42 + 39 - 13"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 21 + 18 - 8"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 9 + 34 - 10"
+        },
+        {
+          "id": 77,
+          "question": "Calculate: (5 + 7) \u00d7 2"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (5 + 7) \u00d7 2"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (6 + 9) \u00d7 7"
+        },
+        {
+          "id": 80,
+          "question": "Solve: 18 + 45 - 2"
+        },
+        {
+          "id": 81,
+          "question": "Calculate: (6 + 7) \u00d7 8"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 18 + 38 - 16"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (6 + 5) \u00d7 6"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (3 + 3) \u00d7 8"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (4 + 7) \u00d7 5"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 17 + 31 - 28"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 33 + 49 - 9"
+        },
+        {
+          "id": 88,
+          "question": "Calculate: (9 + 3) \u00d7 7"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 38 + 46 - 28"
+        },
+        {
+          "id": 90,
+          "question": "Calculate: (1 + 1) \u00d7 6"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 27 + 47 - 2"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 15 + 27 - 26"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (6 + 6) \u00d7 4"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (6 + 1) \u00d7 3"
+        },
+        {
+          "id": 95,
+          "question": "Calculate: (5 + 3) \u00d7 7"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (8 + 2) \u00d7 3"
+        },
+        {
+          "id": 97,
+          "question": "Calculate: (3 + 2) \u00d7 8"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (6 + 8) \u00d7 7"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (10 + 3) \u00d7 2"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 8 + 9 - 17"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 38 + 34 - 28"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (3 + 10) \u00d7 8"
+        },
+        {
+          "id": 103,
+          "question": "Solve: 31 + 33 - 5"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 17 + 19 - 6"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (9 + 3) \u00d7 5"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 45 + 24 - 21"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 39 + 35 - 25"
+        },
+        {
+          "id": 108,
+          "question": "Calculate: (6 + 6) \u00d7 2"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 42 + 36 - 28"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 10 + 24 - 23"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (4 + 2) \u00d7 6"
+        },
+        {
+          "id": 112,
+          "question": "Solve: 40 + 28 - 4"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 37 + 34 - 8"
+        },
+        {
+          "id": 114,
+          "question": "Solve: 14 + 40 - 21"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 28 + 5 - 28"
+        },
+        {
+          "id": 116,
+          "question": "Calculate: (2 + 7) \u00d7 2"
+        },
+        {
+          "id": 117,
+          "question": "Solve: 25 + 48 - 29"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 38 + 12 - 5"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 38 + 20 - 22"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (6 + 4) \u00d7 2"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 22 + 25 - 24"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 33 + 7 - 18"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 38 + 15 - 19"
+        },
+        {
+          "id": 124,
+          "question": "Calculate: (5 + 5) \u00d7 2"
+        },
+        {
+          "id": 125,
+          "question": "Solve: 42 + 38 - 25"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 7 + 39 - 28"
+        },
+        {
+          "id": 127,
+          "question": "Calculate: (6 + 1) \u00d7 3"
+        },
+        {
+          "id": 128,
+          "question": "Solve: 7 + 40 - 7"
+        },
+        {
+          "id": 129,
+          "question": "Calculate: (3 + 5) \u00d7 6"
+        },
+        {
+          "id": 130,
+          "question": "Solve: 25 + 12 - 20"
+        },
+        {
+          "id": 131,
+          "question": "Calculate: (10 + 3) \u00d7 2"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (10 + 7) \u00d7 7"
+        },
+        {
+          "id": 133,
+          "question": "Solve: 22 + 40 - 4"
+        },
+        {
+          "id": 134,
+          "question": "Solve: 22 + 22 - 30"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (8 + 7) \u00d7 2"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 8 + 6 - 11"
+        },
+        {
+          "id": 137,
+          "question": "Calculate: (1 + 3) \u00d7 6"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 13 + 41 - 17"
+        },
+        {
+          "id": 139,
+          "question": "Calculate: (4 + 1) \u00d7 6"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (3 + 5) \u00d7 3"
+        },
+        {
+          "id": 141,
+          "question": "Solve: 33 + 15 - 15"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (8 + 8) \u00d7 2"
+        },
+        {
+          "id": 143,
+          "question": "Solve: 27 + 7 - 10"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 35 + 30 - 17"
+        },
+        {
+          "id": 145,
+          "question": "Calculate: (9 + 8) \u00d7 5"
+        },
+        {
+          "id": 146,
+          "question": "Solve: 12 + 46 - 6"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (8 + 1) \u00d7 3"
+        },
+        {
+          "id": 148,
+          "question": "Calculate: (2 + 7) \u00d7 2"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (4 + 10) \u00d7 6"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 17 + 47 - 21"
+        },
+        {
+          "id": 151,
+          "question": "Solve: 26 + 26 - 7"
+        },
+        {
+          "id": 152,
+          "question": "Calculate: (3 + 9) \u00d7 8"
+        },
+        {
+          "id": 153,
+          "question": "Calculate: (1 + 8) \u00d7 2"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (2 + 1) \u00d7 2"
+        },
+        {
+          "id": 155,
+          "question": "Calculate: (9 + 3) \u00d7 6"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (1 + 5) \u00d7 4"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (7 + 1) \u00d7 5"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (7 + 6) \u00d7 3"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (8 + 6) \u00d7 4"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (9 + 2) \u00d7 5"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Calculate: (2 + 9) \u00d7 4"
+        },
+        {
+          "id": 162,
+          "question": "Solve: 36 + 9 - 5"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (10 + 7) \u00d7 8"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (10 + 4) \u00d7 7"
+        },
+        {
+          "id": 165,
+          "question": "Solve: 38 + 46 - 11"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 49 + 43 - 18"
+        },
+        {
+          "id": 167,
+          "question": "Solve: 47 + 44 - 26"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 28 + 44 - 26"
+        },
+        {
+          "id": 169,
+          "question": "Calculate: (10 + 10) \u00d7 2"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 32 + 22 - 23"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (6 + 1) \u00d7 7"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (5 + 8) \u00d7 2"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (9 + 6) \u00d7 6"
+        },
+        {
+          "id": 174,
+          "question": "Calculate: (10 + 8) \u00d7 4"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (5 + 8) \u00d7 6"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 28 + 12 - 11"
+        },
+        {
+          "id": 177,
+          "question": "Solve: 34 + 7 - 30"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (3 + 1) \u00d7 3"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (2 + 6) \u00d7 7"
+        },
+        {
+          "id": 180,
+          "question": "Solve: 46 + 5 - 1"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: (2 + 1) \u00d7 3"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 19 + 25 - 30"
+        },
+        {
+          "id": 183,
+          "question": "Solve: 36 + 32 - 29"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 22 + 16 - 4"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: (1 + 6) \u00d7 6"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: (1 + 1) \u00d7 3"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (7 + 4) \u00d7 8"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 20 + 26 - 23"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 22 + 10 - 29"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (5 + 7) \u00d7 8"
+        },
+        {
+          "id": 191,
+          "question": "Calculate: (10 + 9) \u00d7 7"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (5 + 5) \u00d7 5"
+        },
+        {
+          "id": 193,
+          "question": "Solve: 25 + 21 - 23"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (5 + 8) \u00d7 3"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 50 + 33 - 25"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 46 + 39 - 29"
+        },
+        {
+          "id": 197,
+          "question": "Calculate: (9 + 4) \u00d7 2"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 31 + 29 - 11"
+        },
+        {
+          "id": 199,
+          "question": "Solve: 5 + 10 - 1"
+        },
+        {
+          "id": 200,
+          "question": "Calculate: (4 + 8) \u00d7 7"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 16 + 9 - 17"
+        },
+        {
+          "id": 202,
+          "question": "Calculate: (4 + 1) \u00d7 2"
+        },
+        {
+          "id": 203,
+          "question": "Solve: 13 + 11 - 24"
+        },
+        {
+          "id": 204,
+          "question": "Calculate: (3 + 6) \u00d7 3"
+        },
+        {
+          "id": 205,
+          "question": "Calculate: (1 + 1) \u00d7 2"
+        },
+        {
+          "id": 206,
+          "question": "Solve: 44 + 6 - 10"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (7 + 4) \u00d7 5"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 45 + 33 - 16"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 47 + 6 - 20"
+        },
+        {
+          "id": 210,
+          "question": "Calculate: (3 + 1) \u00d7 4"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 213,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 217,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 218,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 219,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 223,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 228,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 233,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 237,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 241,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 242,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 245,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 246,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about solving equations - practice"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving solving equations - practice"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about solving equations - practice"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 252,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 254,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 255,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 263,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 264,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 265,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 266,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 271,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 274,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 276,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 278,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 280,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 284,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 287,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 297,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this solving equations - practice question"
+        },
+        {
+          "id": 300,
+          "question": "Exam question: Apply solving equations - practice to solve this problem"
+        }
+      ]
+    }
+  ]
+}

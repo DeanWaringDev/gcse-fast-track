@@ -1,0 +1,1250 @@
+{
+  "lessonId": 76,
+  "lessonNumber": "076",
+  "lessonTitle": "Grouped Data - Basics",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 100 - 44"
+        },
+        {
+          "id": 2,
+          "question": "Work out: 89 - 23"
+        },
+        {
+          "id": 3,
+          "question": "Work out: 29 - 19"
+        },
+        {
+          "id": 4,
+          "question": "Calculate: 15 + 6"
+        },
+        {
+          "id": 5,
+          "question": "Work out: 12 - 27"
+        },
+        {
+          "id": 6,
+          "question": "Calculate: 3 + 13"
+        },
+        {
+          "id": 7,
+          "question": "Find: 12 \u00d7 2"
+        },
+        {
+          "id": 8,
+          "question": "Find: 10 \u00d7 9"
+        },
+        {
+          "id": 9,
+          "question": "Work out: 92 - 2"
+        },
+        {
+          "id": 10,
+          "question": "Calculate: 4 + 18"
+        },
+        {
+          "id": 11,
+          "question": "Find: 7 \u00d7 10"
+        },
+        {
+          "id": 12,
+          "question": "Work out: 39 - 10"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 3 + 20"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 2 + 19"
+        },
+        {
+          "id": 15,
+          "question": "Calculate: 3 + 15"
+        },
+        {
+          "id": 16,
+          "question": "Calculate: 19 + 6"
+        },
+        {
+          "id": 17,
+          "question": "Calculate: 7 + 2"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 71 - 44"
+        },
+        {
+          "id": 19,
+          "question": "Calculate: 5 + 12"
+        },
+        {
+          "id": 20,
+          "question": "Calculate: 11 + 18"
+        },
+        {
+          "id": 21,
+          "question": "Calculate: 14 + 3"
+        },
+        {
+          "id": 22,
+          "question": "Find: 4 \u00d7 6"
+        },
+        {
+          "id": 23,
+          "question": "Work out: 68 - 36"
+        },
+        {
+          "id": 24,
+          "question": "Work out: 95 - 10"
+        },
+        {
+          "id": 25,
+          "question": "Work out: 100 - 18"
+        },
+        {
+          "id": 26,
+          "question": "Calculate: 2 + 11"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 90 - 2"
+        },
+        {
+          "id": 28,
+          "question": "Calculate: 5 + 20"
+        },
+        {
+          "id": 29,
+          "question": "Work out: 42 - 12"
+        },
+        {
+          "id": 30,
+          "question": "Find: 11 \u00d7 12"
+        },
+        {
+          "id": 31,
+          "question": "Find: 11 \u00d7 3"
+        },
+        {
+          "id": 32,
+          "question": "Calculate: 18 + 4"
+        },
+        {
+          "id": 33,
+          "question": "Calculate: 5 + 8"
+        },
+        {
+          "id": 34,
+          "question": "Work out: 56 - 30"
+        },
+        {
+          "id": 35,
+          "question": "Find: 2 \u00d7 6"
+        },
+        {
+          "id": 36,
+          "question": "Find: 9 \u00d7 5"
+        },
+        {
+          "id": 37,
+          "question": "Work out: 13 - 17"
+        },
+        {
+          "id": 38,
+          "question": "Calculate: 19 + 9"
+        },
+        {
+          "id": 39,
+          "question": "Work out: 93 - 33"
+        },
+        {
+          "id": 40,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 41,
+          "question": "Work out: 82 - 6"
+        },
+        {
+          "id": 42,
+          "question": "Calculate: 12 + 19"
+        },
+        {
+          "id": 43,
+          "question": "Work out: 37 - 5"
+        },
+        {
+          "id": 44,
+          "question": "Find: 11 \u00d7 11"
+        },
+        {
+          "id": 45,
+          "question": "Work out: 89 - 44"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 53 - 35"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 55 - 4"
+        },
+        {
+          "id": 48,
+          "question": "Find: 9 \u00d7 2"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 6 + 1"
+        },
+        {
+          "id": 50,
+          "question": "Work out: 14 - 43"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (6 + 7) \u00d7 6"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (4 + 7) \u00d7 7"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 23 + 30 - 26"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (6 + 10) \u00d7 6"
+        },
+        {
+          "id": 55,
+          "question": "Solve: 6 + 48 - 28"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (3 + 1) \u00d7 4"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 42 + 28 - 22"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 50 + 43 - 20"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (7 + 4) \u00d7 8"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 18 + 37 - 2"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 18 + 26 - 29"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (2 + 2) \u00d7 7"
+        },
+        {
+          "id": 63,
+          "question": "Calculate: (6 + 4) \u00d7 4"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 47 + 50 - 12"
+        },
+        {
+          "id": 65,
+          "question": "Solve: 17 + 45 - 10"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 17 + 18 - 19"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 9 + 27 - 22"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (5 + 3) \u00d7 7"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 25 + 40 - 3"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 33 + 17 - 20"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (2 + 10) \u00d7 4"
+        },
+        {
+          "id": 72,
+          "question": "Calculate: (5 + 2) \u00d7 4"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (1 + 1) \u00d7 4"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 33 + 6 - 16"
+        },
+        {
+          "id": 75,
+          "question": "Calculate: (9 + 6) \u00d7 6"
+        },
+        {
+          "id": 76,
+          "question": "Calculate: (3 + 3) \u00d7 5"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 24 + 40 - 14"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: (6 + 6) \u00d7 2"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (10 + 9) \u00d7 2"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (2 + 10) \u00d7 8"
+        },
+        {
+          "id": 81,
+          "question": "Calculate: (6 + 9) \u00d7 4"
+        },
+        {
+          "id": 82,
+          "question": "Calculate: (4 + 9) \u00d7 2"
+        },
+        {
+          "id": 83,
+          "question": "Solve: 45 + 40 - 14"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (8 + 7) \u00d7 5"
+        },
+        {
+          "id": 85,
+          "question": "Solve: 11 + 12 - 1"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 30 + 42 - 21"
+        },
+        {
+          "id": 87,
+          "question": "Calculate: (3 + 9) \u00d7 6"
+        },
+        {
+          "id": 88,
+          "question": "Solve: 32 + 11 - 27"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 45 + 20 - 25"
+        },
+        {
+          "id": 90,
+          "question": "Solve: 13 + 31 - 20"
+        },
+        {
+          "id": 91,
+          "question": "Calculate: (6 + 5) \u00d7 3"
+        },
+        {
+          "id": 92,
+          "question": "Calculate: (1 + 6) \u00d7 4"
+        },
+        {
+          "id": 93,
+          "question": "Solve: 42 + 13 - 16"
+        },
+        {
+          "id": 94,
+          "question": "Solve: 24 + 44 - 5"
+        },
+        {
+          "id": 95,
+          "question": "Calculate: (5 + 3) \u00d7 3"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (1 + 8) \u00d7 3"
+        },
+        {
+          "id": 97,
+          "question": "Calculate: (2 + 10) \u00d7 8"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (6 + 4) \u00d7 2"
+        },
+        {
+          "id": 99,
+          "question": "Solve: 30 + 28 - 19"
+        },
+        {
+          "id": 100,
+          "question": "Calculate: (4 + 8) \u00d7 2"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Calculate: (2 + 5) \u00d7 3"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (4 + 2) \u00d7 8"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (2 + 4) \u00d7 6"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 7 + 22 - 5"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (5 + 10) \u00d7 3"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 31 + 27 - 22"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 35 + 13 - 22"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 20 + 24 - 11"
+        },
+        {
+          "id": 109,
+          "question": "Calculate: (1 + 3) \u00d7 3"
+        },
+        {
+          "id": 110,
+          "question": "Calculate: (9 + 4) \u00d7 2"
+        },
+        {
+          "id": 111,
+          "question": "Solve: 25 + 22 - 16"
+        },
+        {
+          "id": 112,
+          "question": "Solve: 17 + 16 - 18"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 27 + 48 - 22"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (5 + 2) \u00d7 2"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: (5 + 4) \u00d7 5"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 19 + 26 - 21"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (8 + 3) \u00d7 6"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: (7 + 7) \u00d7 6"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 37 + 12 - 10"
+        },
+        {
+          "id": 120,
+          "question": "Solve: 10 + 42 - 29"
+        },
+        {
+          "id": 121,
+          "question": "Calculate: (1 + 1) \u00d7 3"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 45 + 23 - 20"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 11 + 21 - 4"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 26 + 46 - 10"
+        },
+        {
+          "id": 125,
+          "question": "Solve: 9 + 9 - 26"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 42 + 27 - 22"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 12 + 26 - 8"
+        },
+        {
+          "id": 128,
+          "question": "Solve: 9 + 12 - 30"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 14 + 39 - 26"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (4 + 1) \u00d7 3"
+        },
+        {
+          "id": 131,
+          "question": "Calculate: (1 + 1) \u00d7 4"
+        },
+        {
+          "id": 132,
+          "question": "Solve: 49 + 49 - 11"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (1 + 1) \u00d7 5"
+        },
+        {
+          "id": 134,
+          "question": "Calculate: (7 + 8) \u00d7 3"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (1 + 1) \u00d7 2"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 30 + 21 - 20"
+        },
+        {
+          "id": 137,
+          "question": "Solve: 48 + 32 - 22"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 50 + 9 - 27"
+        },
+        {
+          "id": 139,
+          "question": "Calculate: (5 + 10) \u00d7 6"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (9 + 10) \u00d7 4"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (3 + 6) \u00d7 7"
+        },
+        {
+          "id": 142,
+          "question": "Solve: 6 + 40 - 8"
+        },
+        {
+          "id": 143,
+          "question": "Solve: 19 + 10 - 13"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 46 + 39 - 23"
+        },
+        {
+          "id": 145,
+          "question": "Solve: 12 + 19 - 3"
+        },
+        {
+          "id": 146,
+          "question": "Solve: 11 + 31 - 5"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (5 + 6) \u00d7 8"
+        },
+        {
+          "id": 148,
+          "question": "Solve: 37 + 41 - 30"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (9 + 6) \u00d7 8"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 15 + 42 - 29"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (3 + 6) \u00d7 5"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 11 + 23 - 24"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 47 + 9 - 3"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (3 + 1) \u00d7 4"
+        },
+        {
+          "id": 155,
+          "question": "Calculate: (4 + 6) \u00d7 4"
+        },
+        {
+          "id": 156,
+          "question": "Calculate: (7 + 5) \u00d7 5"
+        },
+        {
+          "id": 157,
+          "question": "Solve: 31 + 22 - 13"
+        },
+        {
+          "id": 158,
+          "question": "Solve: 29 + 44 - 18"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (5 + 5) \u00d7 4"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (3 + 9) \u00d7 8"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Solve: 18 + 31 - 10"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (4 + 2) \u00d7 6"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (10 + 10) \u00d7 8"
+        },
+        {
+          "id": 164,
+          "question": "Solve: 22 + 30 - 8"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (10 + 3) \u00d7 5"
+        },
+        {
+          "id": 166,
+          "question": "Solve: 23 + 8 - 7"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (9 + 6) \u00d7 3"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 37 + 32 - 1"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 27 + 26 - 17"
+        },
+        {
+          "id": 170,
+          "question": "Calculate: (4 + 1) \u00d7 4"
+        },
+        {
+          "id": 171,
+          "question": "Solve: 49 + 34 - 24"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (8 + 2) \u00d7 5"
+        },
+        {
+          "id": 173,
+          "question": "Solve: 41 + 18 - 1"
+        },
+        {
+          "id": 174,
+          "question": "Solve: 24 + 21 - 27"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (1 + 3) \u00d7 5"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 19 + 39 - 26"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (7 + 8) \u00d7 4"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (8 + 9) \u00d7 6"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (2 + 6) \u00d7 6"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (2 + 6) \u00d7 4"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: (2 + 9) \u00d7 6"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 13 + 47 - 5"
+        },
+        {
+          "id": 183,
+          "question": "Calculate: (2 + 10) \u00d7 7"
+        },
+        {
+          "id": 184,
+          "question": "Calculate: (10 + 2) \u00d7 2"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: (2 + 2) \u00d7 5"
+        },
+        {
+          "id": 186,
+          "question": "Solve: 26 + 23 - 9"
+        },
+        {
+          "id": 187,
+          "question": "Solve: 32 + 34 - 29"
+        },
+        {
+          "id": 188,
+          "question": "Calculate: (4 + 7) \u00d7 4"
+        },
+        {
+          "id": 189,
+          "question": "Calculate: (5 + 5) \u00d7 5"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (2 + 4) \u00d7 5"
+        },
+        {
+          "id": 191,
+          "question": "Solve: 10 + 39 - 4"
+        },
+        {
+          "id": 192,
+          "question": "Solve: 23 + 16 - 17"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (8 + 7) \u00d7 6"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (9 + 7) \u00d7 2"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 10 + 10 - 14"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 19 + 26 - 28"
+        },
+        {
+          "id": 197,
+          "question": "Calculate: (9 + 10) \u00d7 5"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 21 + 5 - 24"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (5 + 10) \u00d7 6"
+        },
+        {
+          "id": 200,
+          "question": "Calculate: (3 + 4) \u00d7 6"
+        },
+        {
+          "id": 201,
+          "question": "Calculate: (9 + 8) \u00d7 7"
+        },
+        {
+          "id": 202,
+          "question": "Solve: 30 + 25 - 28"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (9 + 4) \u00d7 6"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 10 + 10 - 2"
+        },
+        {
+          "id": 205,
+          "question": "Calculate: (6 + 9) \u00d7 2"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (10 + 3) \u00d7 6"
+        },
+        {
+          "id": 207,
+          "question": "Solve: 42 + 29 - 30"
+        },
+        {
+          "id": 208,
+          "question": "Calculate: (5 + 8) \u00d7 3"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 40 + 18 - 20"
+        },
+        {
+          "id": 210,
+          "question": "Calculate: (5 + 2) \u00d7 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 215,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 216,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 217,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 218,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 220,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 225,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 228,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 229,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 232,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 233,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 234,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 239,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 240,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 242,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 244,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 246,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 247,
+          "question": "Multi-step question about grouped data - basics"
+        },
+        {
+          "id": 248,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving grouped data - basics"
+        },
+        {
+          "id": 250,
+          "question": "Multi-step question about grouped data - basics"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 252,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 253,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 257,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 258,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 264,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 265,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 269,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 270,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 274,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 278,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 279,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 280,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 286,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 287,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 290,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 291,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 293,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 294,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 295,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply grouped data - basics to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this grouped data - basics question"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this grouped data - basics question"
+        }
+      ]
+    }
+  ]
+}

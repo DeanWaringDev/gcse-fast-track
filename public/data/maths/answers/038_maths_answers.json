@@ -1,0 +1,2109 @@
+{
+  "lessonId": 38,
+  "lessonNumber": "038",
+  "lessonTitle": "Simplifying Expressions - Multiple Variables",
+  "totalQuestions": 300,
+  "note": "Full working and explanations provided for each answer.",
+  "answers": [
+    {
+      "id": 1,
+      "question": "Find: 10 \u00d7 5",
+      "answer": 50,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 2,
+      "question": "Work out: 50 - 10",
+      "answer": 40,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 3,
+      "question": "Work out: 49 - 21",
+      "answer": 28,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 4,
+      "question": "Calculate: 2 + 8",
+      "answer": 10,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 5,
+      "question": "Work out: 49 - 24",
+      "answer": 25,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 6,
+      "question": "Work out: 91 - 35",
+      "answer": 56,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 7,
+      "question": "Work out: 69 - 50",
+      "answer": 19,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 8,
+      "question": "Calculate: 15 + 5",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 9,
+      "question": "Work out: 14 - 23",
+      "answer": -9,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 10,
+      "question": "Work out: 35 - 29",
+      "answer": 6,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 11,
+      "question": "Find: 3 \u00d7 5",
+      "answer": 15,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 12,
+      "question": "Calculate: 19 + 10",
+      "answer": 29,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 13,
+      "question": "Calculate: 15 + 3",
+      "answer": 18,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 14,
+      "question": "Calculate: 12 + 18",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 15,
+      "question": "Work out: 13 - 33",
+      "answer": -20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 16,
+      "question": "Calculate: 20 + 2",
+      "answer": 22,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 17,
+      "question": "Calculate: 2 + 14",
+      "answer": 16,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 18,
+      "question": "Work out: 96 - 28",
+      "answer": 68,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 19,
+      "question": "Find: 10 \u00d7 2",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 20,
+      "question": "Work out: 75 - 49",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 21,
+      "question": "Calculate: 18 + 18",
+      "answer": 36,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 22,
+      "question": "Work out: 54 - 17",
+      "answer": 37,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 23,
+      "question": "Work out: 52 - 42",
+      "answer": 10,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 24,
+      "question": "Calculate: 1 + 8",
+      "answer": 9,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 25,
+      "question": "Work out: 71 - 30",
+      "answer": 41,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 26,
+      "question": "Work out: 50 - 3",
+      "answer": 47,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 27,
+      "question": "Find: 11 \u00d7 3",
+      "answer": 33,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 28,
+      "question": "Work out: 10 - 26",
+      "answer": -16,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 29,
+      "question": "Work out: 81 - 28",
+      "answer": 53,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 30,
+      "question": "Calculate: 14 + 7",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 31,
+      "question": "Calculate: 1 + 20",
+      "answer": 21,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 32,
+      "question": "Find: 9 \u00d7 7",
+      "answer": 63,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 33,
+      "question": "Calculate: 2 + 1",
+      "answer": 3,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 34,
+      "question": "Calculate: 19 + 12",
+      "answer": 31,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 35,
+      "question": "Find: 5 \u00d7 3",
+      "answer": 15,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 36,
+      "question": "Work out: 67 - 20",
+      "answer": 47,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 37,
+      "question": "Find: 5 \u00d7 6",
+      "answer": 30,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 38,
+      "question": "Calculate: 14 + 6",
+      "answer": 20,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 39,
+      "question": "Find: 10 \u00d7 6",
+      "answer": 60,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 40,
+      "question": "Work out: 92 - 20",
+      "answer": 72,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 41,
+      "question": "Work out: 93 - 30",
+      "answer": 63,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 42,
+      "question": "Find: 10 \u00d7 8",
+      "answer": 80,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 43,
+      "question": "Find: 7 \u00d7 6",
+      "answer": 42,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 44,
+      "question": "Calculate: 10 + 16",
+      "answer": 26,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 45,
+      "question": "Calculate: 8 + 3",
+      "answer": 11,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 46,
+      "question": "Work out: 42 - 33",
+      "answer": 9,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 47,
+      "question": "Find: 6 \u00d7 10",
+      "answer": 60,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 48,
+      "question": "Calculate: 3 + 3",
+      "answer": 6,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 49,
+      "question": "Find: 9 \u00d7 10",
+      "answer": 90,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 50,
+      "question": "Work out: 14 - 5",
+      "answer": 9,
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started"
+    },
+    {
+      "id": 51,
+      "question": "Calculate: (2 + 1) \u00d7 4",
+      "answer": 12,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 52,
+      "question": "Calculate: (10 + 1) \u00d7 8",
+      "answer": 88,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 53,
+      "question": "Solve: 26 + 10 - 18",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 54,
+      "question": "Solve: 21 + 37 - 24",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 55,
+      "question": "Calculate: (2 + 10) \u00d7 2",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 56,
+      "question": "Solve: 46 + 27 - 2",
+      "answer": 71,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 57,
+      "question": "Solve: 35 + 26 - 3",
+      "answer": 58,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 58,
+      "question": "Solve: 39 + 43 - 15",
+      "answer": 67,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 59,
+      "question": "Calculate: (2 + 2) \u00d7 2",
+      "answer": 8,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 60,
+      "question": "Solve: 26 + 22 - 28",
+      "answer": 20,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 61,
+      "question": "Calculate: (1 + 8) \u00d7 3",
+      "answer": 27,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 62,
+      "question": "Calculate: (5 + 6) \u00d7 4",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 63,
+      "question": "Calculate: (4 + 9) \u00d7 6",
+      "answer": 78,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 64,
+      "question": "Calculate: (5 + 3) \u00d7 6",
+      "answer": 48,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 65,
+      "question": "Calculate: (4 + 8) \u00d7 6",
+      "answer": 72,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 66,
+      "question": "Solve: 12 + 29 - 7",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 67,
+      "question": "Solve: 36 + 29 - 13",
+      "answer": 52,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 68,
+      "question": "Calculate: (1 + 8) \u00d7 6",
+      "answer": 54,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 69,
+      "question": "Solve: 37 + 30 - 20",
+      "answer": 47,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 70,
+      "question": "Solve: 32 + 42 - 30",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 71,
+      "question": "Calculate: (3 + 9) \u00d7 3",
+      "answer": 36,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 72,
+      "question": "Solve: 47 + 24 - 16",
+      "answer": 55,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 73,
+      "question": "Calculate: (7 + 9) \u00d7 3",
+      "answer": 48,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 74,
+      "question": "Calculate: (7 + 8) \u00d7 2",
+      "answer": 30,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 75,
+      "question": "Calculate: (4 + 10) \u00d7 4",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 76,
+      "question": "Solve: 38 + 32 - 14",
+      "answer": 56,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 77,
+      "question": "Calculate: (10 + 10) \u00d7 8",
+      "answer": 160,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 78,
+      "question": "Solve: 26 + 34 - 22",
+      "answer": 38,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 79,
+      "question": "Solve: 8 + 20 - 4",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 80,
+      "question": "Calculate: (2 + 6) \u00d7 3",
+      "answer": 24,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 81,
+      "question": "Solve: 15 + 23 - 20",
+      "answer": 18,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 82,
+      "question": "Solve: 34 + 16 - 7",
+      "answer": 43,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 83,
+      "question": "Calculate: (4 + 9) \u00d7 6",
+      "answer": 78,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 84,
+      "question": "Calculate: (8 + 8) \u00d7 5",
+      "answer": 80,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 85,
+      "question": "Solve: 50 + 42 - 29",
+      "answer": 63,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 86,
+      "question": "Calculate: (6 + 7) \u00d7 5",
+      "answer": 65,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 87,
+      "question": "Solve: 13 + 23 - 9",
+      "answer": 27,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 88,
+      "question": "Calculate: (8 + 6) \u00d7 5",
+      "answer": 70,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 89,
+      "question": "Calculate: (2 + 9) \u00d7 4",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 90,
+      "question": "Solve: 25 + 49 - 14",
+      "answer": 60,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 91,
+      "question": "Solve: 33 + 5 - 23",
+      "answer": 15,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 92,
+      "question": "Solve: 27 + 41 - 4",
+      "answer": 64,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 93,
+      "question": "Calculate: (10 + 10) \u00d7 7",
+      "answer": 140,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 94,
+      "question": "Solve: 46 + 24 - 15",
+      "answer": 55,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 95,
+      "question": "Solve: 40 + 44 - 9",
+      "answer": 75,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 96,
+      "question": "Solve: 32 + 34 - 22",
+      "answer": 44,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 97,
+      "question": "Solve: 8 + 50 - 24",
+      "answer": 34,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 98,
+      "question": "Solve: 35 + 5 - 17",
+      "answer": 23,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 99,
+      "question": "Calculate: (7 + 3) \u00d7 5",
+      "answer": 50,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 100,
+      "question": "Calculate: (1 + 2) \u00d7 7",
+      "answer": 21,
+      "sectionId": 2,
+      "sectionTitle": "Building Skills"
+    },
+    {
+      "id": 101,
+      "question": "Solve: 20 + 8 - 19",
+      "answer": 9,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 102,
+      "question": "Calculate: (4 + 6) \u00d7 3",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 103,
+      "question": "Solve: 22 + 27 - 24",
+      "answer": 25,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 104,
+      "question": "Solve: 26 + 24 - 11",
+      "answer": 39,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 105,
+      "question": "Solve: 27 + 11 - 7",
+      "answer": 31,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 106,
+      "question": "Calculate: (6 + 4) \u00d7 8",
+      "answer": 80,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 107,
+      "question": "Solve: 12 + 28 - 5",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 108,
+      "question": "Solve: 35 + 25 - 18",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 109,
+      "question": "Calculate: (1 + 7) \u00d7 8",
+      "answer": 64,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 110,
+      "question": "Solve: 5 + 48 - 29",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 111,
+      "question": "Solve: 9 + 12 - 16",
+      "answer": 5,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 112,
+      "question": "Calculate: (8 + 6) \u00d7 8",
+      "answer": 112,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 113,
+      "question": "Solve: 27 + 26 - 30",
+      "answer": 23,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 114,
+      "question": "Calculate: (5 + 9) \u00d7 8",
+      "answer": 112,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 115,
+      "question": "Calculate: (8 + 4) \u00d7 5",
+      "answer": 60,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 116,
+      "question": "Solve: 33 + 44 - 28",
+      "answer": 49,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 117,
+      "question": "Calculate: (1 + 2) \u00d7 2",
+      "answer": 6,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 118,
+      "question": "Calculate: (3 + 1) \u00d7 6",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 119,
+      "question": "Solve: 32 + 8 - 22",
+      "answer": 18,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 120,
+      "question": "Calculate: (8 + 8) \u00d7 5",
+      "answer": 80,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 121,
+      "question": "Solve: 11 + 32 - 23",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 122,
+      "question": "Calculate: (1 + 9) \u00d7 2",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 123,
+      "question": "Solve: 13 + 24 - 8",
+      "answer": 29,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 124,
+      "question": "Solve: 24 + 27 - 27",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 125,
+      "question": "Calculate: (2 + 2) \u00d7 6",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 126,
+      "question": "Solve: 28 + 13 - 6",
+      "answer": 35,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 127,
+      "question": "Calculate: (5 + 4) \u00d7 7",
+      "answer": 63,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 128,
+      "question": "Calculate: (3 + 5) \u00d7 8",
+      "answer": 64,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 129,
+      "question": "Solve: 23 + 25 - 25",
+      "answer": 23,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 130,
+      "question": "Calculate: (5 + 2) \u00d7 6",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 131,
+      "question": "Solve: 42 + 25 - 3",
+      "answer": 64,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 132,
+      "question": "Calculate: (7 + 10) \u00d7 2",
+      "answer": 34,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 133,
+      "question": "Calculate: (5 + 1) \u00d7 2",
+      "answer": 12,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 134,
+      "question": "Solve: 9 + 11 - 29",
+      "answer": -9,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 135,
+      "question": "Solve: 17 + 14 - 26",
+      "answer": 5,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 136,
+      "question": "Solve: 24 + 50 - 25",
+      "answer": 49,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 137,
+      "question": "Calculate: (9 + 2) \u00d7 2",
+      "answer": 22,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 138,
+      "question": "Calculate: (3 + 10) \u00d7 6",
+      "answer": 78,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 139,
+      "question": "Solve: 35 + 35 - 12",
+      "answer": 58,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 140,
+      "question": "Calculate: (9 + 3) \u00d7 3",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 141,
+      "question": "Calculate: (6 + 4) \u00d7 3",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 142,
+      "question": "Calculate: (7 + 4) \u00d7 7",
+      "answer": 77,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 143,
+      "question": "Calculate: (5 + 4) \u00d7 6",
+      "answer": 54,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 144,
+      "question": "Solve: 6 + 27 - 5",
+      "answer": 28,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 145,
+      "question": "Calculate: (6 + 3) \u00d7 8",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 146,
+      "question": "Calculate: (5 + 8) \u00d7 4",
+      "answer": 52,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 147,
+      "question": "Calculate: (2 + 8) \u00d7 3",
+      "answer": 30,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 148,
+      "question": "Calculate: (7 + 1) \u00d7 3",
+      "answer": 24,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 149,
+      "question": "Calculate: (5 + 2) \u00d7 7",
+      "answer": 49,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 150,
+      "question": "Calculate: (7 + 5) \u00d7 6",
+      "answer": 72,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 151,
+      "question": "Calculate: (6 + 4) \u00d7 2",
+      "answer": 20,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 152,
+      "question": "Calculate: (5 + 9) \u00d7 3",
+      "answer": 42,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 153,
+      "question": "Solve: 41 + 41 - 22",
+      "answer": 60,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 154,
+      "question": "Calculate: (2 + 9) \u00d7 8",
+      "answer": 88,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 155,
+      "question": "Solve: 45 + 13 - 20",
+      "answer": 38,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 156,
+      "question": "Calculate: (2 + 5) \u00d7 3",
+      "answer": 21,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 157,
+      "question": "Calculate: (10 + 9) \u00d7 8",
+      "answer": 152,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 158,
+      "question": "Calculate: (3 + 7) \u00d7 7",
+      "answer": 70,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 159,
+      "question": "Calculate: (6 + 3) \u00d7 4",
+      "answer": 36,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 160,
+      "question": "Calculate: (1 + 9) \u00d7 7",
+      "answer": 70,
+      "sectionId": 3,
+      "sectionTitle": "Core Practice"
+    },
+    {
+      "id": 161,
+      "question": "Calculate: (8 + 1) \u00d7 2",
+      "answer": 18,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 162,
+      "question": "Solve: 39 + 27 - 3",
+      "answer": 63,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 163,
+      "question": "Solve: 49 + 19 - 14",
+      "answer": 54,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 164,
+      "question": "Calculate: (8 + 8) \u00d7 6",
+      "answer": 96,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 165,
+      "question": "Calculate: (4 + 7) \u00d7 8",
+      "answer": 88,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 166,
+      "question": "Solve: 42 + 24 - 19",
+      "answer": 47,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 167,
+      "question": "Calculate: (1 + 1) \u00d7 4",
+      "answer": 8,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 168,
+      "question": "Solve: 28 + 15 - 24",
+      "answer": 19,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 169,
+      "question": "Calculate: (3 + 4) \u00d7 8",
+      "answer": 56,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 170,
+      "question": "Solve: 35 + 27 - 19",
+      "answer": 43,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 171,
+      "question": "Solve: 8 + 24 - 17",
+      "answer": 15,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 172,
+      "question": "Solve: 41 + 21 - 3",
+      "answer": 59,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 173,
+      "question": "Calculate: (6 + 7) \u00d7 7",
+      "answer": 91,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 174,
+      "question": "Calculate: (1 + 4) \u00d7 8",
+      "answer": 40,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 175,
+      "question": "Calculate: (6 + 7) \u00d7 8",
+      "answer": 104,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 176,
+      "question": "Calculate: (9 + 4) \u00d7 5",
+      "answer": 65,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 177,
+      "question": "Calculate: (6 + 10) \u00d7 4",
+      "answer": 64,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 178,
+      "question": "Solve: 34 + 20 - 1",
+      "answer": 53,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 179,
+      "question": "Calculate: (2 + 2) \u00d7 3",
+      "answer": 12,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 180,
+      "question": "Calculate: (3 + 4) \u00d7 3",
+      "answer": 21,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 181,
+      "question": "Solve: 44 + 8 - 19",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 182,
+      "question": "Calculate: (2 + 1) \u00d7 5",
+      "answer": 15,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 183,
+      "question": "Solve: 48 + 27 - 10",
+      "answer": 65,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 184,
+      "question": "Solve: 8 + 13 - 16",
+      "answer": 5,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 185,
+      "question": "Solve: 33 + 12 - 2",
+      "answer": 43,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 186,
+      "question": "Calculate: (2 + 2) \u00d7 4",
+      "answer": 16,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 187,
+      "question": "Calculate: (7 + 2) \u00d7 3",
+      "answer": 27,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 188,
+      "question": "Calculate: (1 + 4) \u00d7 2",
+      "answer": 10,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 189,
+      "question": "Solve: 28 + 28 - 17",
+      "answer": 39,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 190,
+      "question": "Calculate: (2 + 6) \u00d7 8",
+      "answer": 64,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 191,
+      "question": "Calculate: (1 + 2) \u00d7 7",
+      "answer": 21,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 192,
+      "question": "Calculate: (9 + 1) \u00d7 2",
+      "answer": 20,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 193,
+      "question": "Calculate: (5 + 5) \u00d7 3",
+      "answer": 30,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 194,
+      "question": "Solve: 7 + 43 - 17",
+      "answer": 33,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 195,
+      "question": "Solve: 21 + 47 - 7",
+      "answer": 61,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 196,
+      "question": "Calculate: (1 + 1) \u00d7 7",
+      "answer": 14,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 197,
+      "question": "Solve: 50 + 31 - 21",
+      "answer": 60,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 198,
+      "question": "Calculate: (6 + 3) \u00d7 5",
+      "answer": 45,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 199,
+      "question": "Calculate: (2 + 4) \u00d7 4",
+      "answer": 24,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 200,
+      "question": "Solve: 29 + 24 - 2",
+      "answer": 51,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 201,
+      "question": "Solve: 48 + 9 - 9",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 202,
+      "question": "Calculate: (9 + 9) \u00d7 4",
+      "answer": 72,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 203,
+      "question": "Solve: 47 + 18 - 16",
+      "answer": 49,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 204,
+      "question": "Solve: 29 + 10 - 26",
+      "answer": 13,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 205,
+      "question": "Solve: 26 + 5 - 6",
+      "answer": 25,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 206,
+      "question": "Solve: 33 + 23 - 10",
+      "answer": 46,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 207,
+      "question": "Solve: 16 + 46 - 4",
+      "answer": 58,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 208,
+      "question": "Calculate: (5 + 4) \u00d7 8",
+      "answer": 72,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 209,
+      "question": "Solve: 36 + 37 - 18",
+      "answer": 55,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 210,
+      "question": "Calculate: (2 + 6) \u00d7 6",
+      "answer": 48,
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence"
+    },
+    {
+      "id": 211,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 212,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 213,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 214,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 215,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 216,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 217,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 218,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 219,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 220,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 221,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 222,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 223,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 224,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 225,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 226,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 227,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 228,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 229,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 230,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 231,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 232,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 233,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 234,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 235,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 236,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 237,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 238,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 239,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 240,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 241,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 242,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 243,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 244,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 245,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 246,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 247,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 248,
+      "question": "A complex problem involving simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 249,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 250,
+      "question": "Multi-step question about simplifying expressions - multiple variables",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions"
+    },
+    {
+      "id": 251,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 252,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 253,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 254,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 255,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 256,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 257,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 258,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 259,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 260,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 261,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 262,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 263,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 264,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 265,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 266,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 267,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 268,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 269,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 270,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 271,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 272,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 273,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 274,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 275,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 276,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 277,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 278,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 279,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 280,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 281,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 282,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 283,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 284,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 285,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 286,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 287,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 288,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 289,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 290,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 291,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 292,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 293,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 294,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 295,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 296,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 297,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 298,
+      "question": "Exam question: Apply simplifying expressions - multiple variables to solve this problem",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 299,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    },
+    {
+      "id": 300,
+      "question": "Show your working for this simplifying expressions - multiple variables question",
+      "answer": "See worked solution in lesson notes",
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions"
+    }
+  ]
+}

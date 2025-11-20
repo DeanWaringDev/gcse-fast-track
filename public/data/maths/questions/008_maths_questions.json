@@ -1,0 +1,1718 @@
+{
+  "lessonId": 8,
+  "lessonNumber": "008",
+  "lessonTitle": "Ratio - Sharing Amounts",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Ratio Sharing",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Share \u00a320 in ratio 1:1. How much does each person get?",
+          "answer": "\u00a310 each"
+        },
+        {
+          "id": 2,
+          "question": "Share 10 sweets in ratio 1:1. How many does each get?",
+          "answer": "5 each"
+        },
+        {
+          "id": 3,
+          "question": "Ratio 2:3 means person 1 gets ___ parts",
+          "answer": "2 parts"
+        },
+        {
+          "id": 4,
+          "question": "Ratio 2:3 has how many parts total?",
+          "answer": "5 parts"
+        },
+        {
+          "id": 5,
+          "question": "In ratio 1:4, who gets more?",
+          "answer": "Second person"
+        },
+        {
+          "id": 6,
+          "question": "Share \u00a330 in ratio 1:2. Total parts?",
+          "answer": "3 parts"
+        },
+        {
+          "id": 7,
+          "question": "If ratio is 3:7, total parts =",
+          "answer": "10 parts"
+        },
+        {
+          "id": 8,
+          "question": "Does ratio 2:3 mean \u00a32 and \u00a33?",
+          "answer": "No, it means parts"
+        },
+        {
+          "id": 9,
+          "question": "Share \u00a350 equally. What ratio?",
+          "answer": "1:1"
+        },
+        {
+          "id": 10,
+          "question": "Ratio 1:1:1 means how many parts?",
+          "answer": "3 parts"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Two-Way Sharing - Set 1",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 12,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 13,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 14,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 15,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 16,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 17,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 18,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 19,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 20,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Two-Way Sharing - Set 2",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 22,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 23,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 24,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 25,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 26,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 27,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 28,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 29,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 30,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Two-Way Sharing - Set 3",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 31,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 32,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 33,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 34,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 35,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 36,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 37,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 38,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 39,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 40,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Two-Way Sharing - Set 4",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 42,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 43,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 44,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 45,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 46,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 47,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 48,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 49,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 50,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Two-Way Sharing - Set 5",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 52,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 53,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 54,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 55,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 56,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 57,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 58,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 59,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 60,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Two-Way Sharing - Set 6",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 62,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 63,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 64,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 65,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 66,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 67,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 68,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 69,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 70,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Two-Way Sharing - Set 7",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 72,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 73,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 74,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 75,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 76,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 77,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 78,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 79,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 80,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Two-Way Sharing - Set 8",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 81,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 82,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 83,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 84,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 85,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 86,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 87,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 88,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 89,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 90,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Two-Way Sharing - Set 9",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Share \u00a320 in ratio 1:3",
+          "answer": "\u00a35 and \u00a315"
+        },
+        {
+          "id": 92,
+          "question": "Share \u00a330 in ratio 2:3",
+          "answer": "\u00a312 and \u00a318"
+        },
+        {
+          "id": 93,
+          "question": "Share \u00a340 in ratio 3:5",
+          "answer": "\u00a315 and \u00a325"
+        },
+        {
+          "id": 94,
+          "question": "Share \u00a350 in ratio 1:4",
+          "answer": "\u00a310 and \u00a340"
+        },
+        {
+          "id": 95,
+          "question": "Share \u00a360 in ratio 1:2",
+          "answer": "\u00a320 and \u00a340"
+        },
+        {
+          "id": 96,
+          "question": "Share \u00a380 in ratio 3:7",
+          "answer": "\u00a324 and \u00a356"
+        },
+        {
+          "id": 97,
+          "question": "Share \u00a3100 in ratio 2:3",
+          "answer": "\u00a340 and \u00a360"
+        },
+        {
+          "id": 98,
+          "question": "Share \u00a345 in ratio 4:5",
+          "answer": "\u00a320 and \u00a325"
+        },
+        {
+          "id": 99,
+          "question": "Share \u00a336 in ratio 1:5",
+          "answer": "\u00a36 and \u00a330"
+        },
+        {
+          "id": 100,
+          "question": "Share \u00a370 in ratio 2:5",
+          "answer": "\u00a320 and \u00a350"
+        }
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Three-Way Sharing - Set 1",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 102,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 103,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 104,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 105,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 106,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 107,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 108,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 109,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 110,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        }
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Three-Way Sharing - Set 2",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 111,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 112,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 113,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 114,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 115,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 116,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 117,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 118,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 119,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 120,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        }
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Three-Way Sharing - Set 3",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 121,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 122,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 123,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 124,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 125,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 126,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 127,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 128,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 129,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 130,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        }
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Three-Way Sharing - Set 4",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 131,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 132,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 133,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 134,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 135,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 136,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 137,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 138,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 139,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 140,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        }
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Three-Way Sharing - Set 5",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 141,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 142,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 143,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 144,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 145,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        },
+        {
+          "id": 146,
+          "question": "Share \u00a3100 in ratio 1:1:3",
+          "answer": "\u00a320, \u00a320, \u00a360"
+        },
+        {
+          "id": 147,
+          "question": "Share \u00a3150 in ratio 2:3:5",
+          "answer": "\u00a330, \u00a345, \u00a375"
+        },
+        {
+          "id": 148,
+          "question": "Share \u00a360 in ratio 1:2:3",
+          "answer": "\u00a310, \u00a320, \u00a330"
+        },
+        {
+          "id": 149,
+          "question": "Share \u00a390 in ratio 2:3:4",
+          "answer": "\u00a320, \u00a330, \u00a340"
+        },
+        {
+          "id": 150,
+          "question": "Share \u00a3120 in ratio 1:2:5",
+          "answer": "\u00a315, \u00a330, \u00a375"
+        }
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Working Backwards - Set 1",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 151,
+          "question": "Ratio 2:3, larger share is \u00a315. Find total.",
+          "answer": "\u00a325"
+        },
+        {
+          "id": 152,
+          "question": "Ratio 2:3, larger share is \u00a318. Find total.",
+          "answer": "\u00a330"
+        },
+        {
+          "id": 153,
+          "question": "Ratio 2:3, larger share is \u00a321. Find total.",
+          "answer": "\u00a335"
+        },
+        {
+          "id": 154,
+          "question": "Ratio 2:3, larger share is \u00a324. Find total.",
+          "answer": "\u00a340"
+        },
+        {
+          "id": 155,
+          "question": "Ratio 2:3, larger share is \u00a327. Find total.",
+          "answer": "\u00a345"
+        },
+        {
+          "id": 156,
+          "question": "Ratio 2:3, larger share is \u00a330. Find total.",
+          "answer": "\u00a350"
+        },
+        {
+          "id": 157,
+          "question": "Ratio 2:3, larger share is \u00a333. Find total.",
+          "answer": "\u00a355"
+        },
+        {
+          "id": 158,
+          "question": "Ratio 2:3, larger share is \u00a336. Find total.",
+          "answer": "\u00a360"
+        },
+        {
+          "id": 159,
+          "question": "Ratio 2:3, larger share is \u00a339. Find total.",
+          "answer": "\u00a365"
+        },
+        {
+          "id": 160,
+          "question": "Ratio 2:3, larger share is \u00a342. Find total.",
+          "answer": "\u00a370"
+        }
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Working Backwards - Set 2",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Ratio 2:3, larger share is \u00a315. Find total.",
+          "answer": "\u00a325"
+        },
+        {
+          "id": 162,
+          "question": "Ratio 2:3, larger share is \u00a318. Find total.",
+          "answer": "\u00a330"
+        },
+        {
+          "id": 163,
+          "question": "Ratio 2:3, larger share is \u00a321. Find total.",
+          "answer": "\u00a335"
+        },
+        {
+          "id": 164,
+          "question": "Ratio 2:3, larger share is \u00a324. Find total.",
+          "answer": "\u00a340"
+        },
+        {
+          "id": 165,
+          "question": "Ratio 2:3, larger share is \u00a327. Find total.",
+          "answer": "\u00a345"
+        },
+        {
+          "id": 166,
+          "question": "Ratio 2:3, larger share is \u00a330. Find total.",
+          "answer": "\u00a350"
+        },
+        {
+          "id": 167,
+          "question": "Ratio 2:3, larger share is \u00a333. Find total.",
+          "answer": "\u00a355"
+        },
+        {
+          "id": 168,
+          "question": "Ratio 2:3, larger share is \u00a336. Find total.",
+          "answer": "\u00a360"
+        },
+        {
+          "id": 169,
+          "question": "Ratio 2:3, larger share is \u00a339. Find total.",
+          "answer": "\u00a365"
+        },
+        {
+          "id": 170,
+          "question": "Ratio 2:3, larger share is \u00a342. Find total.",
+          "answer": "\u00a370"
+        }
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Working Backwards - Set 3",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 171,
+          "question": "Ratio 2:3, larger share is \u00a315. Find total.",
+          "answer": "\u00a325"
+        },
+        {
+          "id": 172,
+          "question": "Ratio 2:3, larger share is \u00a318. Find total.",
+          "answer": "\u00a330"
+        },
+        {
+          "id": 173,
+          "question": "Ratio 2:3, larger share is \u00a321. Find total.",
+          "answer": "\u00a335"
+        },
+        {
+          "id": 174,
+          "question": "Ratio 2:3, larger share is \u00a324. Find total.",
+          "answer": "\u00a340"
+        },
+        {
+          "id": 175,
+          "question": "Ratio 2:3, larger share is \u00a327. Find total.",
+          "answer": "\u00a345"
+        },
+        {
+          "id": 176,
+          "question": "Ratio 2:3, larger share is \u00a330. Find total.",
+          "answer": "\u00a350"
+        },
+        {
+          "id": 177,
+          "question": "Ratio 2:3, larger share is \u00a333. Find total.",
+          "answer": "\u00a355"
+        },
+        {
+          "id": 178,
+          "question": "Ratio 2:3, larger share is \u00a336. Find total.",
+          "answer": "\u00a360"
+        },
+        {
+          "id": 179,
+          "question": "Ratio 2:3, larger share is \u00a339. Find total.",
+          "answer": "\u00a365"
+        },
+        {
+          "id": 180,
+          "question": "Ratio 2:3, larger share is \u00a342. Find total.",
+          "answer": "\u00a370"
+        }
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Working Backwards - Set 4",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 181,
+          "question": "Ratio 2:3, larger share is \u00a315. Find total.",
+          "answer": "\u00a325"
+        },
+        {
+          "id": 182,
+          "question": "Ratio 2:3, larger share is \u00a318. Find total.",
+          "answer": "\u00a330"
+        },
+        {
+          "id": 183,
+          "question": "Ratio 2:3, larger share is \u00a321. Find total.",
+          "answer": "\u00a335"
+        },
+        {
+          "id": 184,
+          "question": "Ratio 2:3, larger share is \u00a324. Find total.",
+          "answer": "\u00a340"
+        },
+        {
+          "id": 185,
+          "question": "Ratio 2:3, larger share is \u00a327. Find total.",
+          "answer": "\u00a345"
+        },
+        {
+          "id": 186,
+          "question": "Ratio 2:3, larger share is \u00a330. Find total.",
+          "answer": "\u00a350"
+        },
+        {
+          "id": 187,
+          "question": "Ratio 2:3, larger share is \u00a333. Find total.",
+          "answer": "\u00a355"
+        },
+        {
+          "id": 188,
+          "question": "Ratio 2:3, larger share is \u00a336. Find total.",
+          "answer": "\u00a360"
+        },
+        {
+          "id": 189,
+          "question": "Ratio 2:3, larger share is \u00a339. Find total.",
+          "answer": "\u00a365"
+        },
+        {
+          "id": 190,
+          "question": "Ratio 2:3, larger share is \u00a342. Find total.",
+          "answer": "\u00a370"
+        }
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Working Backwards - Set 5",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 191,
+          "question": "Ratio 2:3, larger share is \u00a315. Find total.",
+          "answer": "\u00a325"
+        },
+        {
+          "id": 192,
+          "question": "Ratio 2:3, larger share is \u00a318. Find total.",
+          "answer": "\u00a330"
+        },
+        {
+          "id": 193,
+          "question": "Ratio 2:3, larger share is \u00a321. Find total.",
+          "answer": "\u00a335"
+        },
+        {
+          "id": 194,
+          "question": "Ratio 2:3, larger share is \u00a324. Find total.",
+          "answer": "\u00a340"
+        },
+        {
+          "id": 195,
+          "question": "Ratio 2:3, larger share is \u00a327. Find total.",
+          "answer": "\u00a345"
+        },
+        {
+          "id": 196,
+          "question": "Ratio 2:3, larger share is \u00a330. Find total.",
+          "answer": "\u00a350"
+        },
+        {
+          "id": 197,
+          "question": "Ratio 2:3, larger share is \u00a333. Find total.",
+          "answer": "\u00a355"
+        },
+        {
+          "id": 198,
+          "question": "Ratio 2:3, larger share is \u00a336. Find total.",
+          "answer": "\u00a360"
+        },
+        {
+          "id": 199,
+          "question": "Ratio 2:3, larger share is \u00a339. Find total.",
+          "answer": "\u00a365"
+        },
+        {
+          "id": 200,
+          "question": "Ratio 2:3, larger share is \u00a342. Find total.",
+          "answer": "\u00a370"
+        }
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Word Problems - Set 1",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 201,
+          "question": "Two partners share \u00a3100 profit in ratio 3:2. How much each?",
+          "answer": "\u00a360 and \u00a340"
+        },
+        {
+          "id": 202,
+          "question": "Two partners share \u00a3120 profit in ratio 3:2. How much each?",
+          "answer": "\u00a372 and \u00a348"
+        },
+        {
+          "id": 203,
+          "question": "Two partners share \u00a3140 profit in ratio 3:2. How much each?",
+          "answer": "\u00a384 and \u00a356"
+        },
+        {
+          "id": 204,
+          "question": "Two partners share \u00a3160 profit in ratio 3:2. How much each?",
+          "answer": "\u00a396 and \u00a364"
+        },
+        {
+          "id": 205,
+          "question": "Two partners share \u00a3180 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3108 and \u00a372"
+        },
+        {
+          "id": 206,
+          "question": "Two partners share \u00a3200 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3120 and \u00a380"
+        },
+        {
+          "id": 207,
+          "question": "Two partners share \u00a3220 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3132 and \u00a388"
+        },
+        {
+          "id": 208,
+          "question": "Two partners share \u00a3240 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3144 and \u00a396"
+        },
+        {
+          "id": 209,
+          "question": "Two partners share \u00a3260 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3156 and \u00a3104"
+        },
+        {
+          "id": 210,
+          "question": "Two partners share \u00a3280 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3168 and \u00a3112"
+        }
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Word Problems - Set 2",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Two partners share \u00a3100 profit in ratio 3:2. How much each?",
+          "answer": "\u00a360 and \u00a340"
+        },
+        {
+          "id": 212,
+          "question": "Two partners share \u00a3120 profit in ratio 3:2. How much each?",
+          "answer": "\u00a372 and \u00a348"
+        },
+        {
+          "id": 213,
+          "question": "Two partners share \u00a3140 profit in ratio 3:2. How much each?",
+          "answer": "\u00a384 and \u00a356"
+        },
+        {
+          "id": 214,
+          "question": "Two partners share \u00a3160 profit in ratio 3:2. How much each?",
+          "answer": "\u00a396 and \u00a364"
+        },
+        {
+          "id": 215,
+          "question": "Two partners share \u00a3180 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3108 and \u00a372"
+        },
+        {
+          "id": 216,
+          "question": "Two partners share \u00a3200 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3120 and \u00a380"
+        },
+        {
+          "id": 217,
+          "question": "Two partners share \u00a3220 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3132 and \u00a388"
+        },
+        {
+          "id": 218,
+          "question": "Two partners share \u00a3240 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3144 and \u00a396"
+        },
+        {
+          "id": 219,
+          "question": "Two partners share \u00a3260 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3156 and \u00a3104"
+        },
+        {
+          "id": 220,
+          "question": "Two partners share \u00a3280 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3168 and \u00a3112"
+        }
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Word Problems - Set 3",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 221,
+          "question": "Two partners share \u00a3100 profit in ratio 3:2. How much each?",
+          "answer": "\u00a360 and \u00a340"
+        },
+        {
+          "id": 222,
+          "question": "Two partners share \u00a3120 profit in ratio 3:2. How much each?",
+          "answer": "\u00a372 and \u00a348"
+        },
+        {
+          "id": 223,
+          "question": "Two partners share \u00a3140 profit in ratio 3:2. How much each?",
+          "answer": "\u00a384 and \u00a356"
+        },
+        {
+          "id": 224,
+          "question": "Two partners share \u00a3160 profit in ratio 3:2. How much each?",
+          "answer": "\u00a396 and \u00a364"
+        },
+        {
+          "id": 225,
+          "question": "Two partners share \u00a3180 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3108 and \u00a372"
+        },
+        {
+          "id": 226,
+          "question": "Two partners share \u00a3200 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3120 and \u00a380"
+        },
+        {
+          "id": 227,
+          "question": "Two partners share \u00a3220 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3132 and \u00a388"
+        },
+        {
+          "id": 228,
+          "question": "Two partners share \u00a3240 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3144 and \u00a396"
+        },
+        {
+          "id": 229,
+          "question": "Two partners share \u00a3260 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3156 and \u00a3104"
+        },
+        {
+          "id": 230,
+          "question": "Two partners share \u00a3280 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3168 and \u00a3112"
+        }
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Word Problems - Set 4",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 231,
+          "question": "Two partners share \u00a3100 profit in ratio 3:2. How much each?",
+          "answer": "\u00a360 and \u00a340"
+        },
+        {
+          "id": 232,
+          "question": "Two partners share \u00a3120 profit in ratio 3:2. How much each?",
+          "answer": "\u00a372 and \u00a348"
+        },
+        {
+          "id": 233,
+          "question": "Two partners share \u00a3140 profit in ratio 3:2. How much each?",
+          "answer": "\u00a384 and \u00a356"
+        },
+        {
+          "id": 234,
+          "question": "Two partners share \u00a3160 profit in ratio 3:2. How much each?",
+          "answer": "\u00a396 and \u00a364"
+        },
+        {
+          "id": 235,
+          "question": "Two partners share \u00a3180 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3108 and \u00a372"
+        },
+        {
+          "id": 236,
+          "question": "Two partners share \u00a3200 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3120 and \u00a380"
+        },
+        {
+          "id": 237,
+          "question": "Two partners share \u00a3220 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3132 and \u00a388"
+        },
+        {
+          "id": 238,
+          "question": "Two partners share \u00a3240 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3144 and \u00a396"
+        },
+        {
+          "id": 239,
+          "question": "Two partners share \u00a3260 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3156 and \u00a3104"
+        },
+        {
+          "id": 240,
+          "question": "Two partners share \u00a3280 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3168 and \u00a3112"
+        }
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Word Problems - Set 5",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 241,
+          "question": "Two partners share \u00a3100 profit in ratio 3:2. How much each?",
+          "answer": "\u00a360 and \u00a340"
+        },
+        {
+          "id": 242,
+          "question": "Two partners share \u00a3120 profit in ratio 3:2. How much each?",
+          "answer": "\u00a372 and \u00a348"
+        },
+        {
+          "id": 243,
+          "question": "Two partners share \u00a3140 profit in ratio 3:2. How much each?",
+          "answer": "\u00a384 and \u00a356"
+        },
+        {
+          "id": 244,
+          "question": "Two partners share \u00a3160 profit in ratio 3:2. How much each?",
+          "answer": "\u00a396 and \u00a364"
+        },
+        {
+          "id": 245,
+          "question": "Two partners share \u00a3180 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3108 and \u00a372"
+        },
+        {
+          "id": 246,
+          "question": "Two partners share \u00a3200 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3120 and \u00a380"
+        },
+        {
+          "id": 247,
+          "question": "Two partners share \u00a3220 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3132 and \u00a388"
+        },
+        {
+          "id": 248,
+          "question": "Two partners share \u00a3240 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3144 and \u00a396"
+        },
+        {
+          "id": 249,
+          "question": "Two partners share \u00a3260 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3156 and \u00a3104"
+        },
+        {
+          "id": 250,
+          "question": "Two partners share \u00a3280 profit in ratio 3:2. How much each?",
+          "answer": "\u00a3168 and \u00a3112"
+        }
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Mixed Review - Set 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Share 40 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 252,
+          "question": "Share 50 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 253,
+          "question": "Share 60 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 254,
+          "question": "Share 70 items in ratio 1:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 255,
+          "question": "Share 80 items in ratio 2:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 256,
+          "question": "Share 90 items in ratio 3:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 257,
+          "question": "Share 100 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 258,
+          "question": "Share 110 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 259,
+          "question": "Share 120 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 260,
+          "question": "Share 130 items in ratio 1:3",
+          "answer": "Check calculation"
+        }
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Mixed Review - Set 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 261,
+          "question": "Share 40 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 262,
+          "question": "Share 50 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 263,
+          "question": "Share 60 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 264,
+          "question": "Share 70 items in ratio 1:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 265,
+          "question": "Share 80 items in ratio 2:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 266,
+          "question": "Share 90 items in ratio 3:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 267,
+          "question": "Share 100 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 268,
+          "question": "Share 110 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 269,
+          "question": "Share 120 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 270,
+          "question": "Share 130 items in ratio 1:3",
+          "answer": "Check calculation"
+        }
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Mixed Review - Set 3",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 271,
+          "question": "Share 40 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 272,
+          "question": "Share 50 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 273,
+          "question": "Share 60 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 274,
+          "question": "Share 70 items in ratio 1:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 275,
+          "question": "Share 80 items in ratio 2:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 276,
+          "question": "Share 90 items in ratio 3:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 277,
+          "question": "Share 100 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 278,
+          "question": "Share 110 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 279,
+          "question": "Share 120 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 280,
+          "question": "Share 130 items in ratio 1:3",
+          "answer": "Check calculation"
+        }
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Mixed Review - Set 4",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 281,
+          "question": "Share 40 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 282,
+          "question": "Share 50 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 283,
+          "question": "Share 60 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 284,
+          "question": "Share 70 items in ratio 1:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 285,
+          "question": "Share 80 items in ratio 2:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 286,
+          "question": "Share 90 items in ratio 3:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 287,
+          "question": "Share 100 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 288,
+          "question": "Share 110 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 289,
+          "question": "Share 120 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 290,
+          "question": "Share 130 items in ratio 1:3",
+          "answer": "Check calculation"
+        }
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Mixed Review - Set 5",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 291,
+          "question": "Share 40 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 292,
+          "question": "Share 50 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 293,
+          "question": "Share 60 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 294,
+          "question": "Share 70 items in ratio 1:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 295,
+          "question": "Share 80 items in ratio 2:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 296,
+          "question": "Share 90 items in ratio 3:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 297,
+          "question": "Share 100 items in ratio 1:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 298,
+          "question": "Share 110 items in ratio 2:3",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 299,
+          "question": "Share 120 items in ratio 3:2",
+          "answer": "Check calculation"
+        },
+        {
+          "id": 300,
+          "question": "Share 130 items in ratio 1:3",
+          "answer": "Check calculation"
+        }
+      ]
+    }
+  ]
+}

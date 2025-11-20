@@ -1,0 +1,1718 @@
+{
+  "lessonId": 10,
+  "lessonNumber": "010",
+  "lessonTitle": "Simplifying Expressions - Like Terms",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Understanding Like Terms",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Are 3x and 5x like terms?",
+          "answer": "Yes"
+        },
+        {
+          "id": 2,
+          "question": "Are 3x and 5y like terms?",
+          "answer": "No"
+        },
+        {
+          "id": 3,
+          "question": "Are 2a\u00b2 and 3a\u00b2 like terms?",
+          "answer": "Yes"
+        },
+        {
+          "id": 4,
+          "question": "Are 5 and 7 like terms?",
+          "answer": "Yes"
+        },
+        {
+          "id": 5,
+          "question": "Are x and x\u00b2 like terms?",
+          "answer": "No"
+        },
+        {
+          "id": 6,
+          "question": "Can you add 2x and 3x?",
+          "answer": "Yes"
+        },
+        {
+          "id": 7,
+          "question": "Can you add 2x and 3y?",
+          "answer": "No"
+        },
+        {
+          "id": 8,
+          "question": "What does x mean?",
+          "answer": "1x"
+        },
+        {
+          "id": 9,
+          "question": "Simplify: x + x",
+          "answer": "2x"
+        },
+        {
+          "id": 10,
+          "question": "Simplify: 2x + 3x",
+          "answer": "5x"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Simplifying - Set 1",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Simplify: 2x + 3x",
+          "answer": "5x"
+        },
+        {
+          "id": 12,
+          "question": "Simplify: 3x + 4x",
+          "answer": "7x"
+        },
+        {
+          "id": 13,
+          "question": "Simplify: 4x + 5x",
+          "answer": "9x"
+        },
+        {
+          "id": 14,
+          "question": "Simplify: 5x + 6x",
+          "answer": "11x"
+        },
+        {
+          "id": 15,
+          "question": "Simplify: 6x + 7x",
+          "answer": "13x"
+        },
+        {
+          "id": 16,
+          "question": "Simplify: 7x + 8x",
+          "answer": "15x"
+        },
+        {
+          "id": 17,
+          "question": "Simplify: 8x + 9x",
+          "answer": "17x"
+        },
+        {
+          "id": 18,
+          "question": "Simplify: 9x + 10x",
+          "answer": "19x"
+        },
+        {
+          "id": 19,
+          "question": "Simplify: 10x + 11x",
+          "answer": "21x"
+        },
+        {
+          "id": 20,
+          "question": "Simplify: 11x + 12x",
+          "answer": "23x"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Simplifying - Set 2",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Simplify: 2x + 3x",
+          "answer": "5x"
+        },
+        {
+          "id": 22,
+          "question": "Simplify: 3x + 4x",
+          "answer": "7x"
+        },
+        {
+          "id": 23,
+          "question": "Simplify: 4x + 5x",
+          "answer": "9x"
+        },
+        {
+          "id": 24,
+          "question": "Simplify: 5x + 6x",
+          "answer": "11x"
+        },
+        {
+          "id": 25,
+          "question": "Simplify: 6x + 7x",
+          "answer": "13x"
+        },
+        {
+          "id": 26,
+          "question": "Simplify: 7x + 8x",
+          "answer": "15x"
+        },
+        {
+          "id": 27,
+          "question": "Simplify: 8x + 9x",
+          "answer": "17x"
+        },
+        {
+          "id": 28,
+          "question": "Simplify: 9x + 10x",
+          "answer": "19x"
+        },
+        {
+          "id": 29,
+          "question": "Simplify: 10x + 11x",
+          "answer": "21x"
+        },
+        {
+          "id": 30,
+          "question": "Simplify: 11x + 12x",
+          "answer": "23x"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Simplifying - Set 3",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 31,
+          "question": "Simplify: 2x + 3x",
+          "answer": "5x"
+        },
+        {
+          "id": 32,
+          "question": "Simplify: 3x + 4x",
+          "answer": "7x"
+        },
+        {
+          "id": 33,
+          "question": "Simplify: 4x + 5x",
+          "answer": "9x"
+        },
+        {
+          "id": 34,
+          "question": "Simplify: 5x + 6x",
+          "answer": "11x"
+        },
+        {
+          "id": 35,
+          "question": "Simplify: 6x + 7x",
+          "answer": "13x"
+        },
+        {
+          "id": 36,
+          "question": "Simplify: 7x + 8x",
+          "answer": "15x"
+        },
+        {
+          "id": 37,
+          "question": "Simplify: 8x + 9x",
+          "answer": "17x"
+        },
+        {
+          "id": 38,
+          "question": "Simplify: 9x + 10x",
+          "answer": "19x"
+        },
+        {
+          "id": 39,
+          "question": "Simplify: 10x + 11x",
+          "answer": "21x"
+        },
+        {
+          "id": 40,
+          "question": "Simplify: 11x + 12x",
+          "answer": "23x"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Simplifying - Set 4",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Simplify: 2x + 3x",
+          "answer": "5x"
+        },
+        {
+          "id": 42,
+          "question": "Simplify: 3x + 4x",
+          "answer": "7x"
+        },
+        {
+          "id": 43,
+          "question": "Simplify: 4x + 5x",
+          "answer": "9x"
+        },
+        {
+          "id": 44,
+          "question": "Simplify: 5x + 6x",
+          "answer": "11x"
+        },
+        {
+          "id": 45,
+          "question": "Simplify: 6x + 7x",
+          "answer": "13x"
+        },
+        {
+          "id": 46,
+          "question": "Simplify: 7x + 8x",
+          "answer": "15x"
+        },
+        {
+          "id": 47,
+          "question": "Simplify: 8x + 9x",
+          "answer": "17x"
+        },
+        {
+          "id": 48,
+          "question": "Simplify: 9x + 10x",
+          "answer": "19x"
+        },
+        {
+          "id": 49,
+          "question": "Simplify: 10x + 11x",
+          "answer": "21x"
+        },
+        {
+          "id": 50,
+          "question": "Simplify: 11x + 12x",
+          "answer": "23x"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Simplifying - Set 5",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Simplify: 10a - 4a",
+          "answer": "6a"
+        },
+        {
+          "id": 52,
+          "question": "Simplify: 11a - 5a",
+          "answer": "6a"
+        },
+        {
+          "id": 53,
+          "question": "Simplify: 12a - 6a",
+          "answer": "6a"
+        },
+        {
+          "id": 54,
+          "question": "Simplify: 13a - 7a",
+          "answer": "6a"
+        },
+        {
+          "id": 55,
+          "question": "Simplify: 14a - 8a",
+          "answer": "6a"
+        },
+        {
+          "id": 56,
+          "question": "Simplify: 15a - 9a",
+          "answer": "6a"
+        },
+        {
+          "id": 57,
+          "question": "Simplify: 16a - 10a",
+          "answer": "6a"
+        },
+        {
+          "id": 58,
+          "question": "Simplify: 17a - 11a",
+          "answer": "6a"
+        },
+        {
+          "id": 59,
+          "question": "Simplify: 18a - 12a",
+          "answer": "6a"
+        },
+        {
+          "id": 60,
+          "question": "Simplify: 19a - 13a",
+          "answer": "6a"
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionTitle": "Simplifying - Set 6",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "Simplify: 10a - 4a",
+          "answer": "6a"
+        },
+        {
+          "id": 62,
+          "question": "Simplify: 11a - 5a",
+          "answer": "6a"
+        },
+        {
+          "id": 63,
+          "question": "Simplify: 12a - 6a",
+          "answer": "6a"
+        },
+        {
+          "id": 64,
+          "question": "Simplify: 13a - 7a",
+          "answer": "6a"
+        },
+        {
+          "id": 65,
+          "question": "Simplify: 14a - 8a",
+          "answer": "6a"
+        },
+        {
+          "id": 66,
+          "question": "Simplify: 15a - 9a",
+          "answer": "6a"
+        },
+        {
+          "id": 67,
+          "question": "Simplify: 16a - 10a",
+          "answer": "6a"
+        },
+        {
+          "id": 68,
+          "question": "Simplify: 17a - 11a",
+          "answer": "6a"
+        },
+        {
+          "id": 69,
+          "question": "Simplify: 18a - 12a",
+          "answer": "6a"
+        },
+        {
+          "id": 70,
+          "question": "Simplify: 19a - 13a",
+          "answer": "6a"
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionTitle": "Simplifying - Set 7",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Simplify: 10a - 4a",
+          "answer": "6a"
+        },
+        {
+          "id": 72,
+          "question": "Simplify: 11a - 5a",
+          "answer": "6a"
+        },
+        {
+          "id": 73,
+          "question": "Simplify: 12a - 6a",
+          "answer": "6a"
+        },
+        {
+          "id": 74,
+          "question": "Simplify: 13a - 7a",
+          "answer": "6a"
+        },
+        {
+          "id": 75,
+          "question": "Simplify: 14a - 8a",
+          "answer": "6a"
+        },
+        {
+          "id": 76,
+          "question": "Simplify: 15a - 9a",
+          "answer": "6a"
+        },
+        {
+          "id": 77,
+          "question": "Simplify: 16a - 10a",
+          "answer": "6a"
+        },
+        {
+          "id": 78,
+          "question": "Simplify: 17a - 11a",
+          "answer": "6a"
+        },
+        {
+          "id": 79,
+          "question": "Simplify: 18a - 12a",
+          "answer": "6a"
+        },
+        {
+          "id": 80,
+          "question": "Simplify: 19a - 13a",
+          "answer": "6a"
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionTitle": "Simplifying - Set 8",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 81,
+          "question": "Simplify: 10a - 4a",
+          "answer": "6a"
+        },
+        {
+          "id": 82,
+          "question": "Simplify: 11a - 5a",
+          "answer": "6a"
+        },
+        {
+          "id": 83,
+          "question": "Simplify: 12a - 6a",
+          "answer": "6a"
+        },
+        {
+          "id": 84,
+          "question": "Simplify: 13a - 7a",
+          "answer": "6a"
+        },
+        {
+          "id": 85,
+          "question": "Simplify: 14a - 8a",
+          "answer": "6a"
+        },
+        {
+          "id": 86,
+          "question": "Simplify: 15a - 9a",
+          "answer": "6a"
+        },
+        {
+          "id": 87,
+          "question": "Simplify: 16a - 10a",
+          "answer": "6a"
+        },
+        {
+          "id": 88,
+          "question": "Simplify: 17a - 11a",
+          "answer": "6a"
+        },
+        {
+          "id": 89,
+          "question": "Simplify: 18a - 12a",
+          "answer": "6a"
+        },
+        {
+          "id": 90,
+          "question": "Simplify: 19a - 13a",
+          "answer": "6a"
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionTitle": "Simplifying - Set 9",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 92,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 93,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 94,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 95,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 96,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 97,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 98,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 99,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 100,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionTitle": "Simplifying - Set 10",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 102,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 103,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 104,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 105,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 106,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 107,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 108,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 109,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 110,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionTitle": "Simplifying - Set 11",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 111,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 112,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 113,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 114,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 115,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 116,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 117,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 118,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 119,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 120,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionTitle": "Simplifying - Set 12",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 121,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 122,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 123,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 124,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 125,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 126,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 127,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 128,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 129,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 130,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionTitle": "Simplifying - Set 13",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 131,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 132,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 133,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 134,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 135,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 136,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 137,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 138,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 139,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 140,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 15,
+      "sectionTitle": "Simplifying - Set 14",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 141,
+          "question": "Simplify: 2x + 3y + 1x",
+          "answer": "3x + 3y"
+        },
+        {
+          "id": 142,
+          "question": "Simplify: 3x + 4y + 2x",
+          "answer": "5x + 4y"
+        },
+        {
+          "id": 143,
+          "question": "Simplify: 4x + 5y + 3x",
+          "answer": "7x + 5y"
+        },
+        {
+          "id": 144,
+          "question": "Simplify: 5x + 6y + 4x",
+          "answer": "9x + 6y"
+        },
+        {
+          "id": 145,
+          "question": "Simplify: 6x + 7y + 5x",
+          "answer": "11x + 7y"
+        },
+        {
+          "id": 146,
+          "question": "Simplify: 7x + 8y + 6x",
+          "answer": "13x + 8y"
+        },
+        {
+          "id": 147,
+          "question": "Simplify: 8x + 9y + 7x",
+          "answer": "15x + 9y"
+        },
+        {
+          "id": 148,
+          "question": "Simplify: 9x + 10y + 8x",
+          "answer": "17x + 10y"
+        },
+        {
+          "id": 149,
+          "question": "Simplify: 10x + 11y + 9x",
+          "answer": "19x + 11y"
+        },
+        {
+          "id": 150,
+          "question": "Simplify: 11x + 12y + 10x",
+          "answer": "21x + 12y"
+        }
+      ]
+    },
+    {
+      "sectionId": 16,
+      "sectionTitle": "Complex Simplifying - Set 1",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 151,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 152,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 153,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 154,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 155,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 156,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 157,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 158,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 159,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 160,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 17,
+      "sectionTitle": "Complex Simplifying - Set 2",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 162,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 163,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 164,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 165,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 166,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 167,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 168,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 169,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 170,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 18,
+      "sectionTitle": "Complex Simplifying - Set 3",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 171,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 172,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 173,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 174,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 175,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 176,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 177,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 178,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 179,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 180,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 19,
+      "sectionTitle": "Complex Simplifying - Set 4",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 181,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 182,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 183,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 184,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 185,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 186,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 187,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 188,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 189,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 190,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 20,
+      "sectionTitle": "Complex Simplifying - Set 5",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 191,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 192,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 193,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 194,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 195,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 196,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 197,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 198,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 199,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 200,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 21,
+      "sectionTitle": "Complex Simplifying - Set 6",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 201,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 202,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 203,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 204,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 205,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 206,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 207,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 208,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 209,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 210,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 22,
+      "sectionTitle": "Complex Simplifying - Set 7",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 212,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 213,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 214,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 215,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 216,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 217,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 218,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 219,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 220,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 23,
+      "sectionTitle": "Complex Simplifying - Set 8",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 221,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 222,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 223,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 224,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 225,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 226,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 227,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 228,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 229,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 230,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 24,
+      "sectionTitle": "Complex Simplifying - Set 9",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 231,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 232,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 233,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 234,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 235,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 236,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 237,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 238,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 239,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 240,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 25,
+      "sectionTitle": "Complex Simplifying - Set 10",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 241,
+          "question": "Simplify: 3a + 2b + 1a - 1b",
+          "answer": "4a + 1b"
+        },
+        {
+          "id": 242,
+          "question": "Simplify: 4a + 3b + 2a - 2b",
+          "answer": "6a + 2b"
+        },
+        {
+          "id": 243,
+          "question": "Simplify: 5a + 4b + 3a - 3b",
+          "answer": "8a + 3b"
+        },
+        {
+          "id": 244,
+          "question": "Simplify: 6a + 5b + 4a - 4b",
+          "answer": "10a + 4b"
+        },
+        {
+          "id": 245,
+          "question": "Simplify: 7a + 6b + 5a - 5b",
+          "answer": "12a + 5b"
+        },
+        {
+          "id": 246,
+          "question": "Simplify: 8a + 7b + 6a - 6b",
+          "answer": "14a + 6b"
+        },
+        {
+          "id": 247,
+          "question": "Simplify: 9a + 8b + 7a - 7b",
+          "answer": "16a + 7b"
+        },
+        {
+          "id": 248,
+          "question": "Simplify: 10a + 9b + 8a - 8b",
+          "answer": "18a + 8b"
+        },
+        {
+          "id": 249,
+          "question": "Simplify: 11a + 10b + 9a - 9b",
+          "answer": "20a + 9b"
+        },
+        {
+          "id": 250,
+          "question": "Simplify: 12a + 11b + 10a - 10b",
+          "answer": "22a + 10b"
+        }
+      ]
+    },
+    {
+      "sectionId": 26,
+      "sectionTitle": "Mixed Review - Set 1",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Simplify: 2x + 3y + 5 + 1x - 2y + 3",
+          "answer": "3x + y + 8"
+        },
+        {
+          "id": 252,
+          "question": "Simplify: 3x + 3y + 6 + 1x - 2y + 3",
+          "answer": "4x + y + 9"
+        },
+        {
+          "id": 253,
+          "question": "Simplify: 4x + 3y + 7 + 1x - 2y + 3",
+          "answer": "5x + y + 10"
+        },
+        {
+          "id": 254,
+          "question": "Simplify: 5x + 3y + 8 + 1x - 2y + 3",
+          "answer": "6x + y + 11"
+        },
+        {
+          "id": 255,
+          "question": "Simplify: 6x + 3y + 9 + 1x - 2y + 3",
+          "answer": "7x + y + 12"
+        },
+        {
+          "id": 256,
+          "question": "Simplify: 7x + 3y + 10 + 1x - 2y + 3",
+          "answer": "8x + y + 13"
+        },
+        {
+          "id": 257,
+          "question": "Simplify: 8x + 3y + 11 + 1x - 2y + 3",
+          "answer": "9x + y + 14"
+        },
+        {
+          "id": 258,
+          "question": "Simplify: 9x + 3y + 12 + 1x - 2y + 3",
+          "answer": "10x + y + 15"
+        },
+        {
+          "id": 259,
+          "question": "Simplify: 10x + 3y + 13 + 1x - 2y + 3",
+          "answer": "11x + y + 16"
+        },
+        {
+          "id": 260,
+          "question": "Simplify: 11x + 3y + 14 + 1x - 2y + 3",
+          "answer": "12x + y + 17"
+        }
+      ]
+    },
+    {
+      "sectionId": 27,
+      "sectionTitle": "Mixed Review - Set 2",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 261,
+          "question": "Simplify: 2x + 3y + 5 + 1x - 2y + 3",
+          "answer": "3x + y + 8"
+        },
+        {
+          "id": 262,
+          "question": "Simplify: 3x + 3y + 6 + 1x - 2y + 3",
+          "answer": "4x + y + 9"
+        },
+        {
+          "id": 263,
+          "question": "Simplify: 4x + 3y + 7 + 1x - 2y + 3",
+          "answer": "5x + y + 10"
+        },
+        {
+          "id": 264,
+          "question": "Simplify: 5x + 3y + 8 + 1x - 2y + 3",
+          "answer": "6x + y + 11"
+        },
+        {
+          "id": 265,
+          "question": "Simplify: 6x + 3y + 9 + 1x - 2y + 3",
+          "answer": "7x + y + 12"
+        },
+        {
+          "id": 266,
+          "question": "Simplify: 7x + 3y + 10 + 1x - 2y + 3",
+          "answer": "8x + y + 13"
+        },
+        {
+          "id": 267,
+          "question": "Simplify: 8x + 3y + 11 + 1x - 2y + 3",
+          "answer": "9x + y + 14"
+        },
+        {
+          "id": 268,
+          "question": "Simplify: 9x + 3y + 12 + 1x - 2y + 3",
+          "answer": "10x + y + 15"
+        },
+        {
+          "id": 269,
+          "question": "Simplify: 10x + 3y + 13 + 1x - 2y + 3",
+          "answer": "11x + y + 16"
+        },
+        {
+          "id": 270,
+          "question": "Simplify: 11x + 3y + 14 + 1x - 2y + 3",
+          "answer": "12x + y + 17"
+        }
+      ]
+    },
+    {
+      "sectionId": 28,
+      "sectionTitle": "Mixed Review - Set 3",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 271,
+          "question": "Simplify: 2x + 3y + 5 + 1x - 2y + 3",
+          "answer": "3x + y + 8"
+        },
+        {
+          "id": 272,
+          "question": "Simplify: 3x + 3y + 6 + 1x - 2y + 3",
+          "answer": "4x + y + 9"
+        },
+        {
+          "id": 273,
+          "question": "Simplify: 4x + 3y + 7 + 1x - 2y + 3",
+          "answer": "5x + y + 10"
+        },
+        {
+          "id": 274,
+          "question": "Simplify: 5x + 3y + 8 + 1x - 2y + 3",
+          "answer": "6x + y + 11"
+        },
+        {
+          "id": 275,
+          "question": "Simplify: 6x + 3y + 9 + 1x - 2y + 3",
+          "answer": "7x + y + 12"
+        },
+        {
+          "id": 276,
+          "question": "Simplify: 7x + 3y + 10 + 1x - 2y + 3",
+          "answer": "8x + y + 13"
+        },
+        {
+          "id": 277,
+          "question": "Simplify: 8x + 3y + 11 + 1x - 2y + 3",
+          "answer": "9x + y + 14"
+        },
+        {
+          "id": 278,
+          "question": "Simplify: 9x + 3y + 12 + 1x - 2y + 3",
+          "answer": "10x + y + 15"
+        },
+        {
+          "id": 279,
+          "question": "Simplify: 10x + 3y + 13 + 1x - 2y + 3",
+          "answer": "11x + y + 16"
+        },
+        {
+          "id": 280,
+          "question": "Simplify: 11x + 3y + 14 + 1x - 2y + 3",
+          "answer": "12x + y + 17"
+        }
+      ]
+    },
+    {
+      "sectionId": 29,
+      "sectionTitle": "Mixed Review - Set 4",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 281,
+          "question": "Simplify: 2x + 3y + 5 + 1x - 2y + 3",
+          "answer": "3x + y + 8"
+        },
+        {
+          "id": 282,
+          "question": "Simplify: 3x + 3y + 6 + 1x - 2y + 3",
+          "answer": "4x + y + 9"
+        },
+        {
+          "id": 283,
+          "question": "Simplify: 4x + 3y + 7 + 1x - 2y + 3",
+          "answer": "5x + y + 10"
+        },
+        {
+          "id": 284,
+          "question": "Simplify: 5x + 3y + 8 + 1x - 2y + 3",
+          "answer": "6x + y + 11"
+        },
+        {
+          "id": 285,
+          "question": "Simplify: 6x + 3y + 9 + 1x - 2y + 3",
+          "answer": "7x + y + 12"
+        },
+        {
+          "id": 286,
+          "question": "Simplify: 7x + 3y + 10 + 1x - 2y + 3",
+          "answer": "8x + y + 13"
+        },
+        {
+          "id": 287,
+          "question": "Simplify: 8x + 3y + 11 + 1x - 2y + 3",
+          "answer": "9x + y + 14"
+        },
+        {
+          "id": 288,
+          "question": "Simplify: 9x + 3y + 12 + 1x - 2y + 3",
+          "answer": "10x + y + 15"
+        },
+        {
+          "id": 289,
+          "question": "Simplify: 10x + 3y + 13 + 1x - 2y + 3",
+          "answer": "11x + y + 16"
+        },
+        {
+          "id": 290,
+          "question": "Simplify: 11x + 3y + 14 + 1x - 2y + 3",
+          "answer": "12x + y + 17"
+        }
+      ]
+    },
+    {
+      "sectionId": 30,
+      "sectionTitle": "Mixed Review - Set 5",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 291,
+          "question": "Simplify: 2x + 3y + 5 + 1x - 2y + 3",
+          "answer": "3x + y + 8"
+        },
+        {
+          "id": 292,
+          "question": "Simplify: 3x + 3y + 6 + 1x - 2y + 3",
+          "answer": "4x + y + 9"
+        },
+        {
+          "id": 293,
+          "question": "Simplify: 4x + 3y + 7 + 1x - 2y + 3",
+          "answer": "5x + y + 10"
+        },
+        {
+          "id": 294,
+          "question": "Simplify: 5x + 3y + 8 + 1x - 2y + 3",
+          "answer": "6x + y + 11"
+        },
+        {
+          "id": 295,
+          "question": "Simplify: 6x + 3y + 9 + 1x - 2y + 3",
+          "answer": "7x + y + 12"
+        },
+        {
+          "id": 296,
+          "question": "Simplify: 7x + 3y + 10 + 1x - 2y + 3",
+          "answer": "8x + y + 13"
+        },
+        {
+          "id": 297,
+          "question": "Simplify: 8x + 3y + 11 + 1x - 2y + 3",
+          "answer": "9x + y + 14"
+        },
+        {
+          "id": 298,
+          "question": "Simplify: 9x + 3y + 12 + 1x - 2y + 3",
+          "answer": "10x + y + 15"
+        },
+        {
+          "id": 299,
+          "question": "Simplify: 10x + 3y + 13 + 1x - 2y + 3",
+          "answer": "11x + y + 16"
+        },
+        {
+          "id": 300,
+          "question": "Simplify: 11x + 3y + 14 + 1x - 2y + 3",
+          "answer": "12x + y + 17"
+        }
+      ]
+    }
+  ]
+}

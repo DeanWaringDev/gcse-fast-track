@@ -1,0 +1,1243 @@
+{
+  "lessonId": 49,
+  "lessonNumber": "049",
+  "lessonTitle": "Mixed Algebra Practice 1",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Mixed Topics",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 51 - 49"
+        },
+        {
+          "id": 2,
+          "question": "Calculate: 12 + 9"
+        },
+        {
+          "id": 3,
+          "question": "Find: 3 \u00d7 2"
+        },
+        {
+          "id": 4,
+          "question": "Work out: 98 - 28"
+        },
+        {
+          "id": 5,
+          "question": "Calculate: 11 + 13"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 100 - 5"
+        },
+        {
+          "id": 7,
+          "question": "Calculate: 15 + 11"
+        },
+        {
+          "id": 8,
+          "question": "Work out: 91 - 23"
+        },
+        {
+          "id": 9,
+          "question": "Find: 12 \u00d7 3"
+        },
+        {
+          "id": 10,
+          "question": "Find: 2 \u00d7 5"
+        },
+        {
+          "id": 11,
+          "question": "Work out: 84 - 31"
+        },
+        {
+          "id": 12,
+          "question": "Find: 8 \u00d7 11"
+        },
+        {
+          "id": 13,
+          "question": "Work out: 30 - 43"
+        },
+        {
+          "id": 14,
+          "question": "Find: 4 \u00d7 9"
+        },
+        {
+          "id": 15,
+          "question": "Find: 3 \u00d7 6"
+        },
+        {
+          "id": 16,
+          "question": "Calculate: 3 + 10"
+        },
+        {
+          "id": 17,
+          "question": "Calculate: 18 + 4"
+        },
+        {
+          "id": 18,
+          "question": "Work out: 64 - 11"
+        },
+        {
+          "id": 19,
+          "question": "Work out: 75 - 8"
+        },
+        {
+          "id": 20,
+          "question": "Find: 6 \u00d7 5"
+        },
+        {
+          "id": 21,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 22,
+          "question": "Calculate: 9 + 8"
+        },
+        {
+          "id": 23,
+          "question": "Work out: 37 - 27"
+        },
+        {
+          "id": 24,
+          "question": "Calculate: 5 + 20"
+        },
+        {
+          "id": 25,
+          "question": "Work out: 31 - 20"
+        },
+        {
+          "id": 26,
+          "question": "Work out: 76 - 50"
+        },
+        {
+          "id": 27,
+          "question": "Work out: 57 - 36"
+        },
+        {
+          "id": 28,
+          "question": "Find: 11 \u00d7 9"
+        },
+        {
+          "id": 29,
+          "question": "Calculate: 12 + 2"
+        },
+        {
+          "id": 30,
+          "question": "Find: 12 \u00d7 7"
+        },
+        {
+          "id": 31,
+          "question": "Calculate: 19 + 13"
+        },
+        {
+          "id": 32,
+          "question": "Work out: 99 - 26"
+        },
+        {
+          "id": 33,
+          "question": "Work out: 79 - 43"
+        },
+        {
+          "id": 34,
+          "question": "Find: 11 \u00d7 6"
+        },
+        {
+          "id": 35,
+          "question": "Calculate: 17 + 2"
+        },
+        {
+          "id": 36,
+          "question": "Find: 5 \u00d7 12"
+        },
+        {
+          "id": 37,
+          "question": "Calculate: 9 + 5"
+        },
+        {
+          "id": 38,
+          "question": "Find: 12 \u00d7 8"
+        },
+        {
+          "id": 39,
+          "question": "Calculate: 15 + 7"
+        },
+        {
+          "id": 40,
+          "question": "Find: 5 \u00d7 8"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Core Practice - Multiple Topics",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Calculate: 18 + 15"
+        },
+        {
+          "id": 42,
+          "question": "Find: 12 \u00d7 7"
+        },
+        {
+          "id": 43,
+          "question": "Find: 10 \u00d7 11"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 75 - 6"
+        },
+        {
+          "id": 45,
+          "question": "Find: 8 \u00d7 5"
+        },
+        {
+          "id": 46,
+          "question": "Find: 2 \u00d7 7"
+        },
+        {
+          "id": 47,
+          "question": "Calculate: 10 + 13"
+        },
+        {
+          "id": 48,
+          "question": "Find: 10 \u00d7 3"
+        },
+        {
+          "id": 49,
+          "question": "Work out: 21 - 46"
+        },
+        {
+          "id": 50,
+          "question": "Find: 2 \u00d7 4"
+        },
+        {
+          "id": 51,
+          "question": "Find: 10 \u00d7 9"
+        },
+        {
+          "id": 52,
+          "question": "Find: 4 \u00d7 12"
+        },
+        {
+          "id": 53,
+          "question": "Find: 3 \u00d7 5"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: 19 + 13"
+        },
+        {
+          "id": 55,
+          "question": "Work out: 57 - 13"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: 16 + 1"
+        },
+        {
+          "id": 57,
+          "question": "Calculate: 2 + 11"
+        },
+        {
+          "id": 58,
+          "question": "Find: 6 \u00d7 5"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: 5 + 6"
+        },
+        {
+          "id": 60,
+          "question": "Work out: 27 - 45"
+        },
+        {
+          "id": 61,
+          "question": "Work out: 79 - 50"
+        },
+        {
+          "id": 62,
+          "question": "Find: 7 \u00d7 7"
+        },
+        {
+          "id": 63,
+          "question": "Work out: 12 - 42"
+        },
+        {
+          "id": 64,
+          "question": "Work out: 75 - 10"
+        },
+        {
+          "id": 65,
+          "question": "Work out: 39 - 37"
+        },
+        {
+          "id": 66,
+          "question": "Find: 3 \u00d7 10"
+        },
+        {
+          "id": 67,
+          "question": "Work out: 76 - 20"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: 1 + 6"
+        },
+        {
+          "id": 69,
+          "question": "Work out: 71 - 1"
+        },
+        {
+          "id": 70,
+          "question": "Work out: 68 - 7"
+        },
+        {
+          "id": 71,
+          "question": "Work out: 36 - 42"
+        },
+        {
+          "id": 72,
+          "question": "Find: 7 \u00d7 8"
+        },
+        {
+          "id": 73,
+          "question": "Work out: 12 - 41"
+        },
+        {
+          "id": 74,
+          "question": "Find: 3 \u00d7 4"
+        },
+        {
+          "id": 75,
+          "question": "Find: 11 \u00d7 6"
+        },
+        {
+          "id": 76,
+          "question": "Work out: 98 - 9"
+        },
+        {
+          "id": 77,
+          "question": "Find: 9 \u00d7 9"
+        },
+        {
+          "id": 78,
+          "question": "Calculate: 13 + 8"
+        },
+        {
+          "id": 79,
+          "question": "Work out: 65 - 26"
+        },
+        {
+          "id": 80,
+          "question": "Work out: 65 - 12"
+        },
+        {
+          "id": 81,
+          "question": "Find: 8 \u00d7 2"
+        },
+        {
+          "id": 82,
+          "question": "Find: 10 \u00d7 8"
+        },
+        {
+          "id": 83,
+          "question": "Find: 7 \u00d7 4"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: 1 + 7"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: 7 + 19"
+        },
+        {
+          "id": 86,
+          "question": "Work out: 44 - 14"
+        },
+        {
+          "id": 87,
+          "question": "Find: 7 \u00d7 5"
+        },
+        {
+          "id": 88,
+          "question": "Work out: 49 - 41"
+        },
+        {
+          "id": 89,
+          "question": "Find: 10 \u00d7 12"
+        },
+        {
+          "id": 90,
+          "question": "Find: 2 \u00d7 10"
+        },
+        {
+          "id": 91,
+          "question": "Work out: 70 - 3"
+        },
+        {
+          "id": 92,
+          "question": "Calculate: 7 + 18"
+        },
+        {
+          "id": 93,
+          "question": "Find: 4 \u00d7 7"
+        },
+        {
+          "id": 94,
+          "question": "Find: 6 \u00d7 8"
+        },
+        {
+          "id": 95,
+          "question": "Work out: 31 - 14"
+        },
+        {
+          "id": 96,
+          "question": "Find: 4 \u00d7 8"
+        },
+        {
+          "id": 97,
+          "question": "Work out: 25 - 25"
+        },
+        {
+          "id": 98,
+          "question": "Find: 10 \u00d7 12"
+        },
+        {
+          "id": 99,
+          "question": "Work out: 20 - 18"
+        },
+        {
+          "id": 100,
+          "question": "Work out: 77 - 10"
+        },
+        {
+          "id": 101,
+          "question": "Find: 6 \u00d7 4"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: 17 + 7"
+        },
+        {
+          "id": 103,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 104,
+          "question": "Find: 9 \u00d7 9"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: 4 + 20"
+        },
+        {
+          "id": 106,
+          "question": "Find: 5 \u00d7 10"
+        },
+        {
+          "id": 107,
+          "question": "Calculate: 9 + 7"
+        },
+        {
+          "id": 108,
+          "question": "Calculate: 4 + 12"
+        },
+        {
+          "id": 109,
+          "question": "Find: 8 \u00d7 3"
+        },
+        {
+          "id": 110,
+          "question": "Find: 11 \u00d7 11"
+        },
+        {
+          "id": 111,
+          "question": "Work out: 99 - 32"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: 15 + 16"
+        },
+        {
+          "id": 113,
+          "question": "Find: 9 \u00d7 11"
+        },
+        {
+          "id": 114,
+          "question": "Find: 4 \u00d7 9"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: 5 + 5"
+        },
+        {
+          "id": 116,
+          "question": "Work out: 91 - 37"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: 14 + 18"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: 19 + 8"
+        },
+        {
+          "id": 119,
+          "question": "Work out: 89 - 29"
+        },
+        {
+          "id": 120,
+          "question": "Find: 2 \u00d7 11"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Challenging Mixed Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 121,
+          "question": "Find: 11 \u00d7 2"
+        },
+        {
+          "id": 122,
+          "question": "Work out: 34 - 33"
+        },
+        {
+          "id": 123,
+          "question": "Find: 2 \u00d7 3"
+        },
+        {
+          "id": 124,
+          "question": "Find: 10 \u00d7 12"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: 17 + 4"
+        },
+        {
+          "id": 126,
+          "question": "Calculate: 11 + 8"
+        },
+        {
+          "id": 127,
+          "question": "Find: 3 \u00d7 10"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: 17 + 15"
+        },
+        {
+          "id": 129,
+          "question": "Find: 5 \u00d7 2"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: 19 + 10"
+        },
+        {
+          "id": 131,
+          "question": "Work out: 81 - 7"
+        },
+        {
+          "id": 132,
+          "question": "Find: 4 \u00d7 9"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: 8 + 13"
+        },
+        {
+          "id": 134,
+          "question": "Calculate: 12 + 17"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: 19 + 9"
+        },
+        {
+          "id": 136,
+          "question": "Find: 2 \u00d7 3"
+        },
+        {
+          "id": 137,
+          "question": "Find: 11 \u00d7 4"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: 2 + 15"
+        },
+        {
+          "id": 139,
+          "question": "Calculate: 19 + 19"
+        },
+        {
+          "id": 140,
+          "question": "Work out: 63 - 48"
+        },
+        {
+          "id": 141,
+          "question": "Work out: 48 - 14"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: 7 + 18"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: 14 + 7"
+        },
+        {
+          "id": 144,
+          "question": "Find: 4 \u00d7 7"
+        },
+        {
+          "id": 145,
+          "question": "Work out: 82 - 33"
+        },
+        {
+          "id": 146,
+          "question": "Work out: 36 - 35"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: 14 + 6"
+        },
+        {
+          "id": 148,
+          "question": "Find: 2 \u00d7 5"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: 2 + 2"
+        },
+        {
+          "id": 150,
+          "question": "Calculate: 19 + 20"
+        },
+        {
+          "id": 151,
+          "question": "Find: 8 \u00d7 10"
+        },
+        {
+          "id": 152,
+          "question": "Find: 2 \u00d7 2"
+        },
+        {
+          "id": 153,
+          "question": "Work out: 40 - 35"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: 11 + 5"
+        },
+        {
+          "id": 155,
+          "question": "Work out: 81 - 22"
+        },
+        {
+          "id": 156,
+          "question": "Find: 9 \u00d7 4"
+        },
+        {
+          "id": 157,
+          "question": "Find: 5 \u00d7 2"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: 7 + 17"
+        },
+        {
+          "id": 159,
+          "question": "Find: 12 \u00d7 4"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: 17 + 12"
+        },
+        {
+          "id": 161,
+          "question": "Find: 7 \u00d7 12"
+        },
+        {
+          "id": 162,
+          "question": "Work out: 15 - 27"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: 9 + 16"
+        },
+        {
+          "id": 164,
+          "question": "Work out: 40 - 47"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: 7 + 11"
+        },
+        {
+          "id": 166,
+          "question": "Find: 12 \u00d7 9"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: 4 + 3"
+        },
+        {
+          "id": 168,
+          "question": "Find: 10 \u00d7 9"
+        },
+        {
+          "id": 169,
+          "question": "Find: 10 \u00d7 7"
+        },
+        {
+          "id": 170,
+          "question": "Work out: 68 - 2"
+        },
+        {
+          "id": 171,
+          "question": "Work out: 33 - 32"
+        },
+        {
+          "id": 172,
+          "question": "Work out: 85 - 40"
+        },
+        {
+          "id": 173,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 174,
+          "question": "Find: 8 \u00d7 3"
+        },
+        {
+          "id": 175,
+          "question": "Find: 8 \u00d7 7"
+        },
+        {
+          "id": 176,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 177,
+          "question": "Work out: 44 - 40"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: 3 + 1"
+        },
+        {
+          "id": 179,
+          "question": "Work out: 26 - 8"
+        },
+        {
+          "id": 180,
+          "question": "Find: 8 \u00d7 8"
+        },
+        {
+          "id": 181,
+          "question": "Calculate: 4 + 3"
+        },
+        {
+          "id": 182,
+          "question": "Work out: 30 - 32"
+        },
+        {
+          "id": 183,
+          "question": "Find: 11 \u00d7 9"
+        },
+        {
+          "id": 184,
+          "question": "Calculate: 1 + 4"
+        },
+        {
+          "id": 185,
+          "question": "Calculate: 10 + 9"
+        },
+        {
+          "id": 186,
+          "question": "Calculate: 1 + 14"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: 20 + 5"
+        },
+        {
+          "id": 188,
+          "question": "Find: 10 \u00d7 2"
+        },
+        {
+          "id": 189,
+          "question": "Work out: 42 - 22"
+        },
+        {
+          "id": 190,
+          "question": "Work out: 33 - 33"
+        },
+        {
+          "id": 191,
+          "question": "Find: 3 \u00d7 7"
+        },
+        {
+          "id": 192,
+          "question": "Work out: 36 - 20"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: 1 + 3"
+        },
+        {
+          "id": 194,
+          "question": "Find: 3 \u00d7 9"
+        },
+        {
+          "id": 195,
+          "question": "Find: 6 \u00d7 10"
+        },
+        {
+          "id": 196,
+          "question": "Calculate: 14 + 17"
+        },
+        {
+          "id": 197,
+          "question": "Work out: 67 - 17"
+        },
+        {
+          "id": 198,
+          "question": "Find: 9 \u00d7 2"
+        },
+        {
+          "id": 199,
+          "question": "Find: 11 \u00d7 3"
+        },
+        {
+          "id": 200,
+          "question": "Find: 7 \u00d7 11"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Exam-Style Mixed Practice",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 201,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 202,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 203,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 204,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 205,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 206,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 207,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 208,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 209,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 210,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 211,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 212,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 213,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 214,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 215,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 216,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 217,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 218,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 219,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 220,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 221,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 222,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 223,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 224,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 225,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 226,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 227,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 228,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 229,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 230,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 231,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 232,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 233,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 234,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 235,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 236,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 237,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 238,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 239,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 240,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 241,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 242,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 243,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 244,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 245,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 246,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 247,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 248,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 249,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 250,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 251,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 254,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 255,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 256,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply mixed algebra practice 1 to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Show your working for this mixed algebra practice 1 question"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Final Review",
+      "difficulty": "Mixed",
+      "questions": [
+        {
+          "id": 261,
+          "question": "Work out: 51 - 4"
+        },
+        {
+          "id": 262,
+          "question": "Find: 6 \u00d7 7"
+        },
+        {
+          "id": 263,
+          "question": "Work out: 44 - 17"
+        },
+        {
+          "id": 264,
+          "question": "Work out: 25 - 43"
+        },
+        {
+          "id": 265,
+          "question": "Work out: 74 - 17"
+        },
+        {
+          "id": 266,
+          "question": "Calculate: 5 + 14"
+        },
+        {
+          "id": 267,
+          "question": "Find: 7 \u00d7 12"
+        },
+        {
+          "id": 268,
+          "question": "Calculate: 2 + 8"
+        },
+        {
+          "id": 269,
+          "question": "Find: 6 \u00d7 3"
+        },
+        {
+          "id": 270,
+          "question": "Work out: 12 - 35"
+        },
+        {
+          "id": 271,
+          "question": "Find: 8 \u00d7 9"
+        },
+        {
+          "id": 272,
+          "question": "Calculate: 13 + 17"
+        },
+        {
+          "id": 273,
+          "question": "Work out: 18 - 23"
+        },
+        {
+          "id": 274,
+          "question": "Work out: 83 - 27"
+        },
+        {
+          "id": 275,
+          "question": "Work out: 40 - 46"
+        },
+        {
+          "id": 276,
+          "question": "Find: 11 \u00d7 9"
+        },
+        {
+          "id": 277,
+          "question": "Find: 12 \u00d7 5"
+        },
+        {
+          "id": 278,
+          "question": "Calculate: 12 + 5"
+        },
+        {
+          "id": 279,
+          "question": "Find: 7 \u00d7 7"
+        },
+        {
+          "id": 280,
+          "question": "Work out: 66 - 45"
+        },
+        {
+          "id": 281,
+          "question": "Find: 3 \u00d7 4"
+        },
+        {
+          "id": 282,
+          "question": "Work out: 58 - 7"
+        },
+        {
+          "id": 283,
+          "question": "Find: 7 \u00d7 5"
+        },
+        {
+          "id": 284,
+          "question": "Calculate: 10 + 13"
+        },
+        {
+          "id": 285,
+          "question": "Find: 4 \u00d7 3"
+        },
+        {
+          "id": 286,
+          "question": "Find: 9 \u00d7 11"
+        },
+        {
+          "id": 287,
+          "question": "Calculate: 7 + 16"
+        },
+        {
+          "id": 288,
+          "question": "Work out: 12 - 24"
+        },
+        {
+          "id": 289,
+          "question": "Work out: 38 - 36"
+        },
+        {
+          "id": 290,
+          "question": "Find: 6 \u00d7 5"
+        },
+        {
+          "id": 291,
+          "question": "Work out: 48 - 49"
+        },
+        {
+          "id": 292,
+          "question": "Find: 2 \u00d7 8"
+        },
+        {
+          "id": 293,
+          "question": "Work out: 20 - 28"
+        },
+        {
+          "id": 294,
+          "question": "Calculate: 3 + 1"
+        },
+        {
+          "id": 295,
+          "question": "Work out: 38 - 9"
+        },
+        {
+          "id": 296,
+          "question": "Work out: 13 - 27"
+        },
+        {
+          "id": 297,
+          "question": "Find: 2 \u00d7 3"
+        },
+        {
+          "id": 298,
+          "question": "Calculate: 17 + 20"
+        },
+        {
+          "id": 299,
+          "question": "Work out: 100 - 21"
+        },
+        {
+          "id": 300,
+          "question": "Calculate: 2 + 8"
+        }
+      ]
+    }
+  ]
+}

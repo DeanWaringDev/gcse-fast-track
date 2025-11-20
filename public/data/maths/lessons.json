@@ -144,7 +144,12 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["ratio", "simplifying", "common factors"],
-      "contentReady": false
+      "files": {
+        "instructions": "007_maths_lesson.md",
+        "questions": "007_maths_questions.json",
+        "worksheet": "007_maths.pdf",
+        "answers": "007_maths_answers.json"
+      }
     },
     {
       "id": 8,
@@ -159,7 +164,13 @@
       "confidenceTarget": 7,
       "prerequisites": [7],
       "topicsCovered": ["ratio", "sharing", "proportion"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "008_maths_lesson.md",
+        "questions": "008_maths_questions.json",
+        "worksheet": "008_maths.pdf",
+        "answers": "008_maths_answers.json"
+      }
     },
     {
       "id": 9,
@@ -174,12 +185,12 @@
       "confidenceTarget": 8,
       "prerequisites": [1],
       "topicsCovered": ["variables", "expressions", "terms", "coefficients"],
-      "contentReady": false,
+      "contentReady": true,
       "files": {
-        "instructions": "009_Algebra_Basics.json",
-        "questions": "009_Algebra_Basics.json",
-        "worksheet": "009_Algebra_Basics.pdf",
-        "answers": "009_Algebra_Basics.pdf"
+        "instructions": "009_maths_lesson.md",
+        "questions": "009_maths_questions.json",
+        "worksheet": "009_maths.pdf",
+        "answers": "009_maths_answers.json"
       }
     },
     {
@@ -195,12 +206,12 @@
       "confidenceTarget": 8,
       "prerequisites": [9],
       "topicsCovered": ["like terms", "simplifying", "collecting terms"],
-      "contentReady": false,
+      "contentReady": true,
       "files": {
-        "instructions": "010_Like_Terms.json",
-        "questions": "010_Like_Terms.json",
-        "worksheet": "010_Like_Terms.pdf",
-        "answers": "010_Like_Terms.pdf"
+        "instructions": "010_maths_lesson.md",
+        "questions": "010_maths_questions.json",
+        "worksheet": "010_maths.pdf",
+        "answers": "010_maths_answers.json"
       }
     },
     {
@@ -216,7 +227,13 @@
       "confidenceTarget": 7,
       "prerequisites": [9],
       "topicsCovered": ["substitution", "evaluating expressions", "variables"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "011_maths_lesson.md",
+        "questions": "011_maths_questions.json",
+        "worksheet": "011_maths.pdf",
+        "answers": "011_maths_answers.json"
+      }
     },
     {
       "id": 12,
@@ -231,7 +248,13 @@
       "confidenceTarget": 7,
       "prerequisites": [10],
       "topicsCovered": ["expanding brackets", "distributive property", "multiplication"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "012_maths_lesson.md",
+        "questions": "012_maths_questions.json",
+        "worksheet": "012_maths.pdf",
+        "answers": "012_maths_answers.json"
+      }
     },
     {
       "id": 13,
@@ -246,7 +269,13 @@
       "confidenceTarget": 7,
       "prerequisites": [9],
       "topicsCovered": ["equations", "solving", "inverse operations"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "013_maths_lesson.md",
+        "questions": "013_maths_questions.json",
+        "worksheet": "013_maths.pdf",
+        "answers": "013_maths_answers.json"
+      }
     },
     {
       "id": 14,
@@ -261,7 +290,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["sequences", "terms", "patterns", "common difference"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "014_maths_lesson.md",
+        "questions": "014_maths_questions.json",
+        "worksheet": "014_maths.pdf",
+        "answers": "014_maths_answers.json"
+      }
     },
     {
       "id": 15,
@@ -276,7 +311,13 @@
       "confidenceTarget": 7,
       "prerequisites": [2],
       "topicsCovered": ["coordinates", "x-axis", "y-axis", "plotting points"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "015_maths_lesson.md",
+        "questions": "015_maths_questions.json",
+        "worksheet": "015_maths.pdf",
+        "answers": "015_maths_answers.json"
+      }
     },
     {
       "id": 16,
@@ -291,7 +332,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["angles", "degrees", "right angle", "straight line", "angles at a point"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "016_maths_lesson.md",
+        "questions": "016_maths_questions.json",
+        "worksheet": "016_maths.pdf",
+        "answers": "016_maths_answers.json"
+      }
     },
     {
       "id": 17,
@@ -306,7 +353,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["perimeter", "measurement", "units"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "017_maths_lesson.md",
+        "questions": "017_maths_questions.json",
+        "worksheet": "017_maths.pdf",
+        "answers": "017_maths_answers.json"
+      }
     },
     {
       "id": 18,
@@ -321,12 +374,12 @@
       "confidenceTarget": 8,
       "prerequisites": [1],
       "topicsCovered": ["area", "rectangles", "length", "width", "square units"],
-      "contentReady": false,
+      "contentReady": true,
       "files": {
-        "instructions": "018_Area_Rectangles.json",
-        "questions": "018_Area_Rectangles.json",
-        "worksheet": "018_Area_Rectangles.pdf",
-        "answers": "018_Area_Rectangles.pdf"
+        "instructions": "018_maths_lesson.md",
+        "questions": "018_maths_questions.json",
+        "worksheet": "018_maths.pdf",
+        "answers": "018_maths_answers.json"
       }
     },
     {
@@ -342,12 +395,12 @@
       "confidenceTarget": 8,
       "prerequisites": [18],
       "topicsCovered": ["area", "triangles", "base", "height", "formula"],
-      "contentReady": false,
+      "contentReady": true,
       "files": {
-        "instructions": "019_Area_Triangles.json",
-        "questions": "019_Area_Triangles.json",
-        "worksheet": "019_Area_Triangles.pdf",
-        "answers": "019_Area_Triangles.pdf"
+        "instructions": "019_maths_lesson.md",
+        "questions": "019_maths_questions.json",
+        "worksheet": "019_maths.pdf",
+        "answers": "019_maths_answers.json"
       }
     },
     {
@@ -363,7 +416,13 @@
       "confidenceTarget": 7,
       "prerequisites": [4, 17],
       "topicsCovered": ["circles", "circumference", "pi", "diameter", "radius"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "020_maths_lesson.md",
+        "questions": "020_maths_questions.json",
+        "worksheet": "020_maths.pdf",
+        "answers": "020_maths_answers.json"
+      }
     },
     {
       "id": 21,
@@ -378,7 +437,13 @@
       "confidenceTarget": 7,
       "prerequisites": [18],
       "topicsCovered": ["volume", "cuboids", "length", "width", "height", "cubic units"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "021_maths_lesson.md",
+        "questions": "021_maths_questions.json",
+        "worksheet": "021_maths.pdf",
+        "answers": "021_maths_answers.json"
+      }
     },
     {
       "id": 22,
@@ -393,7 +458,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1, 4],
       "topicsCovered": ["mean", "median", "mode", "averages", "data"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "022_maths_lesson.md",
+        "questions": "022_maths_questions.json",
+        "worksheet": "022_maths.pdf",
+        "answers": "022_maths_answers.json"
+      }
     },
     {
       "id": 23,
@@ -408,7 +479,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["range", "spread", "data"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "023_maths_lesson.md",
+        "questions": "023_maths_questions.json",
+        "worksheet": "023_maths.pdf",
+        "answers": "023_maths_answers.json"
+      }
     },
     {
       "id": 24,
@@ -423,7 +500,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["bar charts", "frequency", "reading data", "drawing charts"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "024_maths_lesson.md",
+        "questions": "024_maths_questions.json",
+        "worksheet": "024_maths.pdf",
+        "answers": "024_maths_answers.json"
+      }
     },
     {
       "id": 25,
@@ -438,7 +521,13 @@
       "confidenceTarget": 7,
       "prerequisites": [3, 5],
       "topicsCovered": ["probability", "chance", "likelihood", "fractions", "decimals"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "025_maths_lesson.md",
+        "questions": "025_maths_questions.json",
+        "worksheet": "025_maths.pdf",
+        "answers": "025_maths_answers.json"
+      }
     },
     {
       "id": 26,
@@ -453,7 +542,13 @@
       "confidenceTarget": 7,
       "prerequisites": [3],
       "topicsCovered": ["fractions", "multiplication", "division", "reciprocals"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "026_maths_lesson.md",
+        "questions": "026_maths_questions.json",
+        "worksheet": "026_maths.pdf",
+        "answers": "026_maths_answers.json"
+      }
     },
     {
       "id": 27,
@@ -468,7 +563,13 @@
       "confidenceTarget": 7,
       "prerequisites": [3, 4],
       "topicsCovered": ["fractions", "decimals", "conversion", "equivalence"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "027_maths_lesson.md",
+        "questions": "027_maths_questions.json",
+        "worksheet": "027_maths.pdf",
+        "answers": "027_maths_answers.json"
+      }
     },
     {
       "id": 28,
@@ -483,7 +584,13 @@
       "confidenceTarget": 6,
       "prerequisites": [6],
       "topicsCovered": ["reverse percentages", "original amount", "percentage decrease"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "028_maths_lesson.md",
+        "questions": "028_maths_questions.json",
+        "worksheet": "028_maths.pdf",
+        "answers": "028_maths_answers.json"
+      }
     },
     {
       "id": 29,
@@ -498,7 +605,13 @@
       "confidenceTarget": 6,
       "prerequisites": [4],
       "topicsCovered": ["standard form", "powers of 10", "scientific notation"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "029_maths_lesson.md",
+        "questions": "029_maths_questions.json",
+        "worksheet": "029_maths.pdf",
+        "answers": "029_maths_answers.json"
+      }
     },
     {
       "id": 30,
@@ -513,7 +626,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["powers", "indices", "square roots", "cube roots"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "030_maths_lesson.md",
+        "questions": "030_maths_questions.json",
+        "worksheet": "030_maths.pdf",
+        "answers": "030_maths_answers.json"
+      }
     },
     {
       "id": 31,
@@ -528,7 +647,13 @@
       "confidenceTarget": 6,
       "prerequisites": [30],
       "topicsCovered": ["surds", "simplifying", "square roots", "factors"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "031_maths_lesson.md",
+        "questions": "031_maths_questions.json",
+        "worksheet": "031_maths.pdf",
+        "answers": "031_maths_answers.json"
+      }
     },
     {
       "id": 32,
@@ -543,7 +668,13 @@
       "confidenceTarget": 6,
       "prerequisites": [31],
       "topicsCovered": ["surds", "addition", "multiplication", "rationalising"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "032_maths_lesson.md",
+        "questions": "032_maths_questions.json",
+        "worksheet": "032_maths.pdf",
+        "answers": "032_maths_answers.json"
+      }
     },
     {
       "id": 33,
@@ -558,7 +689,13 @@
       "confidenceTarget": 7,
       "prerequisites": [8],
       "topicsCovered": ["ratio", "best buy", "unit price", "comparison"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "033_maths_lesson.md",
+        "questions": "033_maths_questions.json",
+        "worksheet": "033_maths.pdf",
+        "answers": "033_maths_answers.json"
+      }
     },
     {
       "id": 34,
@@ -573,7 +710,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1, 2, 3, 4, 5, 6, 7, 8],
       "topicsCovered": ["mixed practice", "number skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "034_maths_lesson.md",
+        "questions": "034_maths_questions.json",
+        "worksheet": "034_maths.pdf",
+        "answers": "034_maths_answers.json"
+      }
     },
     {
       "id": 35,
@@ -588,7 +731,13 @@
       "confidenceTarget": 7,
       "prerequisites": [34],
       "topicsCovered": ["mixed practice", "number skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "035_maths_lesson.md",
+        "questions": "035_maths_questions.json",
+        "worksheet": "035_maths.pdf",
+        "answers": "035_maths_answers.json"
+      }
     },
     {
       "id": 36,
@@ -603,7 +752,13 @@
       "confidenceTarget": 7,
       "prerequisites": [35],
       "topicsCovered": ["mixed practice", "number skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "036_maths_lesson.md",
+        "questions": "036_maths_questions.json",
+        "worksheet": "036_maths.pdf",
+        "answers": "036_maths_answers.json"
+      }
     },
     {
       "id": 37,
@@ -618,7 +773,13 @@
       "confidenceTarget": 7,
       "prerequisites": [9, 10],
       "topicsCovered": ["algebraic notation", "powers", "coefficients"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "037_maths_lesson.md",
+        "questions": "037_maths_questions.json",
+        "worksheet": "037_maths.pdf",
+        "answers": "037_maths_answers.json"
+      }
     },
     {
       "id": 38,
@@ -633,7 +794,13 @@
       "confidenceTarget": 7,
       "prerequisites": [10],
       "topicsCovered": ["multiple variables", "simplifying", "like terms"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "038_maths_lesson.md",
+        "questions": "038_maths_questions.json",
+        "worksheet": "038_maths.pdf",
+        "answers": "038_maths_answers.json"
+      }
     },
     {
       "id": 39,
@@ -648,7 +815,13 @@
       "confidenceTarget": 7,
       "prerequisites": [12],
       "topicsCovered": ["expanding brackets", "practice"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "039_maths_lesson.md",
+        "questions": "039_maths_questions.json",
+        "worksheet": "039_maths.pdf",
+        "answers": "039_maths_answers.json"
+      }
     },
     {
       "id": 40,
@@ -663,7 +836,13 @@
       "confidenceTarget": 6,
       "prerequisites": [12],
       "topicsCovered": ["double brackets", "FOIL", "quadratic expressions"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "040_maths_lesson.md",
+        "questions": "040_maths_questions.json",
+        "worksheet": "040_maths.pdf",
+        "answers": "040_maths_answers.json"
+      }
     },
     {
       "id": 41,
@@ -678,7 +857,13 @@
       "confidenceTarget": 6,
       "prerequisites": [40],
       "topicsCovered": ["double brackets", "practice"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "041_maths_lesson.md",
+        "questions": "041_maths_questions.json",
+        "worksheet": "041_maths.pdf",
+        "answers": "041_maths_answers.json"
+      }
     },
     {
       "id": 42,
@@ -693,7 +878,13 @@
       "confidenceTarget": 6,
       "prerequisites": [12],
       "topicsCovered": ["factorising", "common factors", "reverse expanding"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "042_maths_lesson.md",
+        "questions": "042_maths_questions.json",
+        "worksheet": "042_maths.pdf",
+        "answers": "042_maths_answers.json"
+      }
     },
     {
       "id": 43,
@@ -708,7 +899,13 @@
       "confidenceTarget": 6,
       "prerequisites": [42],
       "topicsCovered": ["factorising", "practice"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "043_maths_lesson.md",
+        "questions": "043_maths_questions.json",
+        "worksheet": "043_maths.pdf",
+        "answers": "043_maths_answers.json"
+      }
     },
     {
       "id": 44,
@@ -723,7 +920,13 @@
       "confidenceTarget": 7,
       "prerequisites": [13],
       "topicsCovered": ["equations", "multi-step", "inverse operations"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "044_maths_lesson.md",
+        "questions": "044_maths_questions.json",
+        "worksheet": "044_maths.pdf",
+        "answers": "044_maths_answers.json"
+      }
     },
     {
       "id": 45,
@@ -738,7 +941,13 @@
       "confidenceTarget": 7,
       "prerequisites": [44],
       "topicsCovered": ["equations", "practice"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "045_maths_lesson.md",
+        "questions": "045_maths_questions.json",
+        "worksheet": "045_maths.pdf",
+        "answers": "045_maths_answers.json"
+      }
     },
     {
       "id": 46,
@@ -753,7 +962,13 @@
       "confidenceTarget": 6,
       "prerequisites": [13],
       "topicsCovered": ["inequalities", "greater than", "less than", "solving"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "046_maths_lesson.md",
+        "questions": "046_maths_questions.json",
+        "worksheet": "046_maths.pdf",
+        "answers": "046_maths_answers.json"
+      }
     },
     {
       "id": 47,
@@ -768,7 +983,13 @@
       "confidenceTarget": 6,
       "prerequisites": [14],
       "topicsCovered": ["sequences", "nth term", "linear sequences"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "047_maths_lesson.md",
+        "questions": "047_maths_questions.json",
+        "worksheet": "047_maths.pdf",
+        "answers": "047_maths_answers.json"
+      }
     },
     {
       "id": 48,
@@ -783,7 +1004,13 @@
       "confidenceTarget": 6,
       "prerequisites": [15],
       "topicsCovered": ["graphs", "y = mx + c", "gradient", "y-intercept"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "048_maths_lesson.md",
+        "questions": "048_maths_questions.json",
+        "worksheet": "048_maths.pdf",
+        "answers": "048_maths_answers.json"
+      }
     },
     {
       "id": 49,
@@ -798,7 +1025,13 @@
       "confidenceTarget": 7,
       "prerequisites": [9, 10, 11, 12, 13, 14, 15],
       "topicsCovered": ["mixed practice", "algebra skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "049_maths_lesson.md",
+        "questions": "049_maths_questions.json",
+        "worksheet": "049_maths.pdf",
+        "answers": "049_maths_answers.json"
+      }
     },
     {
       "id": 50,
@@ -813,7 +1046,13 @@
       "confidenceTarget": 7,
       "prerequisites": [49],
       "topicsCovered": ["mixed practice", "algebra skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "050_maths_lesson.md",
+        "questions": "050_maths_questions.json",
+        "worksheet": "050_maths.pdf",
+        "answers": "050_maths_answers.json"
+      }
     },
     {
       "id": 51,
@@ -828,7 +1067,13 @@
       "confidenceTarget": 7,
       "prerequisites": [50],
       "topicsCovered": ["mixed practice", "algebra skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "051_maths_lesson.md",
+        "questions": "051_maths_questions.json",
+        "worksheet": "051_maths.pdf",
+        "answers": "051_maths_answers.json"
+      }
     },
     {
       "id": 52,
@@ -843,7 +1088,13 @@
       "confidenceTarget": 6,
       "prerequisites": [51],
       "topicsCovered": ["mixed practice", "algebra skills", "higher tier"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "052_maths_lesson.md",
+        "questions": "052_maths_questions.json",
+        "worksheet": "052_maths.pdf",
+        "answers": "052_maths_answers.json"
+      }
     },
     {
       "id": 53,
@@ -858,7 +1109,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16],
       "topicsCovered": ["parallel lines", "alternate angles", "corresponding angles", "co-interior angles"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "053_maths_lesson.md",
+        "questions": "053_maths_questions.json",
+        "worksheet": "053_maths.pdf",
+        "answers": "053_maths_answers.json"
+      }
     },
     {
       "id": 54,
@@ -873,7 +1130,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16],
       "topicsCovered": ["polygons", "interior angles", "exterior angles", "angle sum"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "054_maths_lesson.md",
+        "questions": "054_maths_questions.json",
+        "worksheet": "054_maths.pdf",
+        "answers": "054_maths_answers.json"
+      }
     },
     {
       "id": 55,
@@ -888,7 +1151,13 @@
       "confidenceTarget": 7,
       "prerequisites": [20],
       "topicsCovered": ["circles", "area", "pi", "radius"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "055_maths_lesson.md",
+        "questions": "055_maths_questions.json",
+        "worksheet": "055_maths.pdf",
+        "answers": "055_maths_answers.json"
+      }
     },
     {
       "id": 56,
@@ -903,7 +1172,13 @@
       "confidenceTarget": 7,
       "prerequisites": [18, 19],
       "topicsCovered": ["compound shapes", "area", "splitting shapes"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "056_maths_lesson.md",
+        "questions": "056_maths_questions.json",
+        "worksheet": "056_maths.pdf",
+        "answers": "056_maths_answers.json"
+      }
     },
     {
       "id": 57,
@@ -918,7 +1193,13 @@
       "confidenceTarget": 7,
       "prerequisites": [56],
       "topicsCovered": ["compound shapes", "area", "complex shapes"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "057_maths_lesson.md",
+        "questions": "057_maths_questions.json",
+        "worksheet": "057_maths.pdf",
+        "answers": "057_maths_answers.json"
+      }
     },
     {
       "id": 58,
@@ -933,7 +1214,13 @@
       "confidenceTarget": 6,
       "prerequisites": [21],
       "topicsCovered": ["prisms", "volume", "cross-section", "length"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "058_maths_lesson.md",
+        "questions": "058_maths_questions.json",
+        "worksheet": "058_maths.pdf",
+        "answers": "058_maths_answers.json"
+      }
     },
     {
       "id": 59,
@@ -948,7 +1235,13 @@
       "confidenceTarget": 6,
       "prerequisites": [21],
       "topicsCovered": ["surface area", "nets", "3D shapes"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "059_maths_lesson.md",
+        "questions": "059_maths_questions.json",
+        "worksheet": "059_maths.pdf",
+        "answers": "059_maths_answers.json"
+      }
     },
     {
       "id": 60,
@@ -963,7 +1256,13 @@
       "confidenceTarget": 7,
       "prerequisites": [19, 30],
       "topicsCovered": ["Pythagoras", "right-angled triangles", "hypotenuse"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "060_maths_lesson.md",
+        "questions": "060_maths_questions.json",
+        "worksheet": "060_maths.pdf",
+        "answers": "060_maths_answers.json"
+      }
     },
     {
       "id": 61,
@@ -978,7 +1277,13 @@
       "confidenceTarget": 7,
       "prerequisites": [60],
       "topicsCovered": ["Pythagoras", "problem solving", "real-world applications"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "061_maths_lesson.md",
+        "questions": "061_maths_questions.json",
+        "worksheet": "061_maths.pdf",
+        "answers": "061_maths_answers.json"
+      }
     },
     {
       "id": 62,
@@ -993,7 +1298,13 @@
       "confidenceTarget": 6,
       "prerequisites": [60],
       "topicsCovered": ["trigonometry", "sine", "cosine", "tangent", "SOH CAH TOA"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "062_maths_lesson.md",
+        "questions": "062_maths_questions.json",
+        "worksheet": "062_maths.pdf",
+        "answers": "062_maths_answers.json"
+      }
     },
     {
       "id": 63,
@@ -1008,7 +1319,13 @@
       "confidenceTarget": 6,
       "prerequisites": [62],
       "topicsCovered": ["trigonometry", "finding sides", "calculations"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "063_maths_lesson.md",
+        "questions": "063_maths_questions.json",
+        "worksheet": "063_maths.pdf",
+        "answers": "063_maths_answers.json"
+      }
     },
     {
       "id": 64,
@@ -1023,7 +1340,13 @@
       "confidenceTarget": 6,
       "prerequisites": [63],
       "topicsCovered": ["trigonometry", "finding angles", "inverse functions"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "064_maths_lesson.md",
+        "questions": "064_maths_questions.json",
+        "worksheet": "064_maths.pdf",
+        "answers": "064_maths_answers.json"
+      }
     },
     {
       "id": 65,
@@ -1038,7 +1361,13 @@
       "confidenceTarget": 7,
       "prerequisites": [15],
       "topicsCovered": ["transformations", "translation", "reflection", "coordinates"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "065_maths_lesson.md",
+        "questions": "065_maths_questions.json",
+        "worksheet": "065_maths.pdf",
+        "answers": "065_maths_answers.json"
+      }
     },
     {
       "id": 66,
@@ -1053,7 +1382,13 @@
       "confidenceTarget": 7,
       "prerequisites": [65],
       "topicsCovered": ["transformations", "rotation", "enlargement", "scale factor"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "066_maths_lesson.md",
+        "questions": "066_maths_questions.json",
+        "worksheet": "066_maths.pdf",
+        "answers": "066_maths_answers.json"
+      }
     },
     {
       "id": 67,
@@ -1068,7 +1403,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16],
       "topicsCovered": ["constructions", "compass", "ruler", "bisectors", "perpendicular"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "067_maths_lesson.md",
+        "questions": "067_maths_questions.json",
+        "worksheet": "067_maths.pdf",
+        "answers": "067_maths_answers.json"
+      }
     },
     {
       "id": 68,
@@ -1083,7 +1424,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16],
       "topicsCovered": ["bearings", "three-figure bearings", "compass directions"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "068_maths_lesson.md",
+        "questions": "068_maths_questions.json",
+        "worksheet": "068_maths.pdf",
+        "answers": "068_maths_answers.json"
+      }
     },
     {
       "id": 69,
@@ -1098,7 +1445,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16, 17, 18, 19, 20, 21],
       "topicsCovered": ["mixed practice", "shape skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "069_maths_lesson.md",
+        "questions": "069_maths_questions.json",
+        "worksheet": "069_maths.pdf",
+        "answers": "069_maths_answers.json"
+      }
     },
     {
       "id": 70,
@@ -1113,7 +1466,13 @@
       "confidenceTarget": 7,
       "prerequisites": [69],
       "topicsCovered": ["mixed practice", "shape skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "070_maths_lesson.md",
+        "questions": "070_maths_questions.json",
+        "worksheet": "070_maths.pdf",
+        "answers": "070_maths_answers.json"
+      }
     },
     {
       "id": 71,
@@ -1128,7 +1487,13 @@
       "confidenceTarget": 7,
       "prerequisites": [70],
       "topicsCovered": ["mixed practice", "shape skills"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "071_maths_lesson.md",
+        "questions": "071_maths_questions.json",
+        "worksheet": "071_maths.pdf",
+        "answers": "071_maths_answers.json"
+      }
     },
     {
       "id": 72,
@@ -1143,7 +1508,13 @@
       "confidenceTarget": 6,
       "prerequisites": [71],
       "topicsCovered": ["mixed practice", "shape skills", "higher tier"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "072_maths_lesson.md",
+        "questions": "072_maths_questions.json",
+        "worksheet": "072_maths.pdf",
+        "answers": "072_maths_answers.json"
+      }
     },
     {
       "id": 73,
@@ -1158,7 +1529,13 @@
       "confidenceTarget": 7,
       "prerequisites": [16, 24],
       "topicsCovered": ["pie charts", "angles", "sectors", "drawing charts"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "073_maths_lesson.md",
+        "questions": "073_maths_questions.json",
+        "worksheet": "073_maths.pdf",
+        "answers": "073_maths_answers.json"
+      }
     },
     {
       "id": 74,
@@ -1173,7 +1550,13 @@
       "confidenceTarget": 6,
       "prerequisites": [15],
       "topicsCovered": ["scatter graphs", "correlation", "line of best fit"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "074_maths_lesson.md",
+        "questions": "074_maths_questions.json",
+        "worksheet": "074_maths.pdf",
+        "answers": "074_maths_answers.json"
+      }
     },
     {
       "id": 75,
@@ -1188,7 +1571,13 @@
       "confidenceTarget": 7,
       "prerequisites": [22],
       "topicsCovered": ["frequency tables", "data collection", "tallies"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "075_maths_lesson.md",
+        "questions": "075_maths_questions.json",
+        "worksheet": "075_maths.pdf",
+        "answers": "075_maths_answers.json"
+      }
     },
     {
       "id": 76,
@@ -1203,7 +1592,13 @@
       "confidenceTarget": 6,
       "prerequisites": [22, 75],
       "topicsCovered": ["grouped data", "class intervals", "modal class", "estimated mean"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "076_maths_lesson.md",
+        "questions": "076_maths_questions.json",
+        "worksheet": "076_maths.pdf",
+        "answers": "076_maths_answers.json"
+      }
     },
     {
       "id": 77,
@@ -1218,7 +1613,13 @@
       "confidenceTarget": 6,
       "prerequisites": [76],
       "topicsCovered": ["grouped data", "problem solving", "interpreting data"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "077_maths_lesson.md",
+        "questions": "077_maths_questions.json",
+        "worksheet": "077_maths.pdf",
+        "answers": "077_maths_answers.json"
+      }
     },
     {
       "id": 78,
@@ -1233,7 +1634,13 @@
       "confidenceTarget": 7,
       "prerequisites": [25],
       "topicsCovered": ["probability scale", "0 to 1", "impossible to certain"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "078_maths_lesson.md",
+        "questions": "078_maths_questions.json",
+        "worksheet": "078_maths.pdf",
+        "answers": "078_maths_answers.json"
+      }
     },
     {
       "id": 79,
@@ -1248,7 +1655,13 @@
       "confidenceTarget": 7,
       "prerequisites": [25],
       "topicsCovered": ["expected outcomes", "probability", "trials"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "079_maths_lesson.md",
+        "questions": "079_maths_questions.json",
+        "worksheet": "079_maths.pdf",
+        "answers": "079_maths_answers.json"
+      }
     },
     {
       "id": 80,
@@ -1263,7 +1676,13 @@
       "confidenceTarget": 6,
       "prerequisites": [25],
       "topicsCovered": ["combined events", "independent events", "multiplication rule"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "080_maths_lesson.md",
+        "questions": "080_maths_questions.json",
+        "worksheet": "080_maths.pdf",
+        "answers": "080_maths_answers.json"
+      }
     },
     {
       "id": 81,
@@ -1278,7 +1697,13 @@
       "confidenceTarget": 6,
       "prerequisites": [80],
       "topicsCovered": ["tree diagrams", "probability", "multiple events"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "081_maths_lesson.md",
+        "questions": "081_maths_questions.json",
+        "worksheet": "081_maths.pdf",
+        "answers": "081_maths_answers.json"
+      }
     },
     {
       "id": 82,
@@ -1293,7 +1718,13 @@
       "confidenceTarget": 7,
       "prerequisites": [22, 23, 24, 25],
       "topicsCovered": ["mixed practice", "data handling", "probability"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "082_maths_lesson.md",
+        "questions": "082_maths_questions.json",
+        "worksheet": "082_maths.pdf",
+        "answers": "082_maths_answers.json"
+      }
     },
     {
       "id": 83,
@@ -1308,7 +1739,13 @@
       "confidenceTarget": 6,
       "prerequisites": [1, 9, 18],
       "topicsCovered": ["problem solving", "multi-step", "reasoning"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "083_maths_lesson.md",
+        "questions": "083_maths_questions.json",
+        "worksheet": "083_maths.pdf",
+        "answers": "083_maths_answers.json"
+      }
     },
     {
       "id": 84,
@@ -1323,7 +1760,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["units", "conversions", "metric", "imperial"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "084_maths_lesson.md",
+        "questions": "084_maths_questions.json",
+        "worksheet": "084_maths.pdf",
+        "answers": "084_maths_answers.json"
+      }
     },
     {
       "id": 85,
@@ -1338,7 +1781,13 @@
       "confidenceTarget": 7,
       "prerequisites": [1],
       "topicsCovered": ["time", "duration", "24-hour clock", "timetables"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "085_maths_lesson.md",
+        "questions": "085_maths_questions.json",
+        "worksheet": "085_maths.pdf",
+        "answers": "085_maths_answers.json"
+      }
     },
     {
       "id": 86,
@@ -1353,7 +1802,13 @@
       "confidenceTarget": 7,
       "prerequisites": [4, 5],
       "topicsCovered": ["money", "budgeting", "best buy", "wages"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "086_maths_lesson.md",
+        "questions": "086_maths_questions.json",
+        "worksheet": "086_maths.pdf",
+        "answers": "086_maths_answers.json"
+      }
     },
     {
       "id": 87,
@@ -1368,7 +1823,13 @@
       "confidenceTarget": 7,
       "prerequisites": [36, 52],
       "topicsCovered": ["mixed practice", "number", "algebra"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "087_maths_lesson.md",
+        "questions": "087_maths_questions.json",
+        "worksheet": "087_maths.pdf",
+        "answers": "087_maths_answers.json"
+      }
     },
     {
       "id": 88,
@@ -1383,7 +1844,13 @@
       "confidenceTarget": 7,
       "prerequisites": [72, 82],
       "topicsCovered": ["mixed practice", "shape", "data"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "088_maths_lesson.md",
+        "questions": "088_maths_questions.json",
+        "worksheet": "088_maths.pdf",
+        "answers": "088_maths_answers.json"
+      }
     },
     {
       "id": 89,
@@ -1398,7 +1865,13 @@
       "confidenceTarget": 7,
       "prerequisites": [87, 88],
       "topicsCovered": ["mixed practice", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "089_maths_lesson.md",
+        "questions": "089_maths_questions.json",
+        "worksheet": "089_maths.pdf",
+        "answers": "089_maths_answers.json"
+      }
     },
     {
       "id": 90,
@@ -1413,7 +1886,13 @@
       "confidenceTarget": 7,
       "prerequisites": [89],
       "topicsCovered": ["mixed practice", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "090_maths_lesson.md",
+        "questions": "090_maths_questions.json",
+        "worksheet": "090_maths.pdf",
+        "answers": "090_maths_answers.json"
+      }
     },
     {
       "id": 91,
@@ -1428,7 +1907,13 @@
       "confidenceTarget": 7,
       "prerequisites": [90],
       "topicsCovered": ["mixed practice", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "091_maths_lesson.md",
+        "questions": "091_maths_questions.json",
+        "worksheet": "091_maths.pdf",
+        "answers": "091_maths_answers.json"
+      }
     },
     {
       "id": 92,
@@ -1443,7 +1928,13 @@
       "confidenceTarget": 8,
       "prerequisites": [36, 52],
       "topicsCovered": ["speed practice", "quick recall", "fluency"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "092_maths_lesson.md",
+        "questions": "092_maths_questions.json",
+        "worksheet": "092_maths.pdf",
+        "answers": "092_maths_answers.json"
+      }
     },
     {
       "id": 93,
@@ -1458,7 +1949,13 @@
       "confidenceTarget": 8,
       "prerequisites": [92],
       "topicsCovered": ["speed practice", "quick recall", "fluency"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "093_maths_lesson.md",
+        "questions": "093_maths_questions.json",
+        "worksheet": "093_maths.pdf",
+        "answers": "093_maths_answers.json"
+      }
     },
     {
       "id": 94,
@@ -1473,7 +1970,13 @@
       "confidenceTarget": 8,
       "prerequisites": [93],
       "topicsCovered": ["speed practice", "quick recall", "fluency"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "094_maths_lesson.md",
+        "questions": "094_maths_questions.json",
+        "worksheet": "094_maths.pdf",
+        "answers": "094_maths_answers.json"
+      }
     },
     {
       "id": 95,
@@ -1488,7 +1991,13 @@
       "confidenceTarget": 7,
       "prerequisites": [91],
       "topicsCovered": ["exam practice", "foundation tier", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "095_maths_lesson.md",
+        "questions": "095_maths_questions.json",
+        "worksheet": "095_maths.pdf",
+        "answers": "095_maths_answers.json"
+      }
     },
     {
       "id": 96,
@@ -1503,7 +2012,13 @@
       "confidenceTarget": 7,
       "prerequisites": [95],
       "topicsCovered": ["exam practice", "foundation tier", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "096_maths_lesson.md",
+        "questions": "096_maths_questions.json",
+        "worksheet": "096_maths.pdf",
+        "answers": "096_maths_answers.json"
+      }
     },
     {
       "id": 97,
@@ -1518,7 +2033,13 @@
       "confidenceTarget": 7,
       "prerequisites": [96],
       "topicsCovered": ["exam practice", "foundation tier", "all topics"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "097_maths_lesson.md",
+        "questions": "097_maths_questions.json",
+        "worksheet": "097_maths.pdf",
+        "answers": "097_maths_answers.json"
+      }
     },
     {
       "id": 98,
@@ -1533,7 +2054,13 @@
       "confidenceTarget": 6,
       "prerequisites": [97],
       "topicsCovered": ["exam practice", "higher tier", "stretch challenge"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "098_maths_lesson.md",
+        "questions": "098_maths_questions.json",
+        "worksheet": "098_maths.pdf",
+        "answers": "098_maths_answers.json"
+      }
     },
     {
       "id": 99,
@@ -1548,7 +2075,13 @@
       "confidenceTarget": 6,
       "prerequisites": [98],
       "topicsCovered": ["exam practice", "higher tier", "stretch challenge"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "099_maths_lesson.md",
+        "questions": "099_maths_questions.json",
+        "worksheet": "099_maths.pdf",
+        "answers": "099_maths_answers.json"
+      }
     },
     {
       "id": 100,
@@ -1563,7 +2096,13 @@
       "confidenceTarget": 8,
       "prerequisites": [99],
       "topicsCovered": ["final check", "exam readiness", "confidence building"],
-      "contentReady": false
+      "contentReady": true,
+      "files": {
+        "instructions": "100_maths_lesson.md",
+        "questions": "100_maths_questions.json",
+        "worksheet": "100_maths.pdf",
+        "answers": "100_maths_answers.json"
+      }
     }
   ]
 }

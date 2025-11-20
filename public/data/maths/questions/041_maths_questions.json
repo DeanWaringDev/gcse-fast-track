@@ -1,0 +1,1250 @@
+{
+  "lessonId": 41,
+  "lessonNumber": "041",
+  "lessonTitle": "Expanding Double Brackets - Practice",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Find: 9 \u00d7 10"
+        },
+        {
+          "id": 2,
+          "question": "Find: 9 \u00d7 6"
+        },
+        {
+          "id": 3,
+          "question": "Find: 4 \u00d7 4"
+        },
+        {
+          "id": 4,
+          "question": "Find: 10 \u00d7 11"
+        },
+        {
+          "id": 5,
+          "question": "Find: 2 \u00d7 9"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 54 - 28"
+        },
+        {
+          "id": 7,
+          "question": "Find: 12 \u00d7 12"
+        },
+        {
+          "id": 8,
+          "question": "Calculate: 4 + 1"
+        },
+        {
+          "id": 9,
+          "question": "Calculate: 13 + 4"
+        },
+        {
+          "id": 10,
+          "question": "Find: 2 \u00d7 7"
+        },
+        {
+          "id": 11,
+          "question": "Find: 2 \u00d7 9"
+        },
+        {
+          "id": 12,
+          "question": "Find: 7 \u00d7 7"
+        },
+        {
+          "id": 13,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 14,
+          "question": "Find: 7 \u00d7 8"
+        },
+        {
+          "id": 15,
+          "question": "Calculate: 8 + 8"
+        },
+        {
+          "id": 16,
+          "question": "Work out: 17 - 31"
+        },
+        {
+          "id": 17,
+          "question": "Find: 5 \u00d7 6"
+        },
+        {
+          "id": 18,
+          "question": "Find: 2 \u00d7 2"
+        },
+        {
+          "id": 19,
+          "question": "Find: 5 \u00d7 8"
+        },
+        {
+          "id": 20,
+          "question": "Calculate: 14 + 10"
+        },
+        {
+          "id": 21,
+          "question": "Work out: 99 - 14"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 32 - 36"
+        },
+        {
+          "id": 23,
+          "question": "Find: 4 \u00d7 2"
+        },
+        {
+          "id": 24,
+          "question": "Work out: 50 - 30"
+        },
+        {
+          "id": 25,
+          "question": "Calculate: 5 + 10"
+        },
+        {
+          "id": 26,
+          "question": "Work out: 53 - 34"
+        },
+        {
+          "id": 27,
+          "question": "Find: 7 \u00d7 8"
+        },
+        {
+          "id": 28,
+          "question": "Find: 2 \u00d7 12"
+        },
+        {
+          "id": 29,
+          "question": "Calculate: 2 + 16"
+        },
+        {
+          "id": 30,
+          "question": "Find: 5 \u00d7 3"
+        },
+        {
+          "id": 31,
+          "question": "Work out: 53 - 46"
+        },
+        {
+          "id": 32,
+          "question": "Find: 6 \u00d7 3"
+        },
+        {
+          "id": 33,
+          "question": "Calculate: 13 + 5"
+        },
+        {
+          "id": 34,
+          "question": "Work out: 96 - 47"
+        },
+        {
+          "id": 35,
+          "question": "Find: 11 \u00d7 5"
+        },
+        {
+          "id": 36,
+          "question": "Work out: 33 - 41"
+        },
+        {
+          "id": 37,
+          "question": "Find: 8 \u00d7 12"
+        },
+        {
+          "id": 38,
+          "question": "Find: 2 \u00d7 9"
+        },
+        {
+          "id": 39,
+          "question": "Work out: 79 - 4"
+        },
+        {
+          "id": 40,
+          "question": "Work out: 69 - 5"
+        },
+        {
+          "id": 41,
+          "question": "Work out: 71 - 14"
+        },
+        {
+          "id": 42,
+          "question": "Work out: 59 - 43"
+        },
+        {
+          "id": 43,
+          "question": "Find: 5 \u00d7 5"
+        },
+        {
+          "id": 44,
+          "question": "Work out: 61 - 35"
+        },
+        {
+          "id": 45,
+          "question": "Work out: 18 - 2"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 17 - 38"
+        },
+        {
+          "id": 47,
+          "question": "Find: 7 \u00d7 5"
+        },
+        {
+          "id": 48,
+          "question": "Work out: 66 - 37"
+        },
+        {
+          "id": 49,
+          "question": "Find: 10 \u00d7 10"
+        },
+        {
+          "id": 50,
+          "question": "Find: 11 \u00d7 7"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Solve: 27 + 32 - 23"
+        },
+        {
+          "id": 52,
+          "question": "Solve: 48 + 43 - 21"
+        },
+        {
+          "id": 53,
+          "question": "Calculate: (6 + 8) \u00d7 4"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (6 + 6) \u00d7 7"
+        },
+        {
+          "id": 55,
+          "question": "Solve: 7 + 23 - 28"
+        },
+        {
+          "id": 56,
+          "question": "Calculate: (2 + 6) \u00d7 8"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 12 + 10 - 22"
+        },
+        {
+          "id": 58,
+          "question": "Calculate: (4 + 5) \u00d7 8"
+        },
+        {
+          "id": 59,
+          "question": "Calculate: (5 + 2) \u00d7 5"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 35 + 29 - 4"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 9 + 35 - 14"
+        },
+        {
+          "id": 62,
+          "question": "Solve: 46 + 32 - 21"
+        },
+        {
+          "id": 63,
+          "question": "Solve: 13 + 6 - 27"
+        },
+        {
+          "id": 64,
+          "question": "Solve: 27 + 40 - 22"
+        },
+        {
+          "id": 65,
+          "question": "Solve: 49 + 29 - 9"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 20 + 13 - 14"
+        },
+        {
+          "id": 67,
+          "question": "Solve: 34 + 46 - 10"
+        },
+        {
+          "id": 68,
+          "question": "Solve: 6 + 49 - 7"
+        },
+        {
+          "id": 69,
+          "question": "Solve: 25 + 42 - 14"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 32 + 31 - 24"
+        },
+        {
+          "id": 71,
+          "question": "Solve: 36 + 7 - 11"
+        },
+        {
+          "id": 72,
+          "question": "Solve: 32 + 45 - 1"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (1 + 8) \u00d7 4"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 28 + 10 - 3"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 43 + 12 - 13"
+        },
+        {
+          "id": 76,
+          "question": "Solve: 35 + 49 - 30"
+        },
+        {
+          "id": 77,
+          "question": "Calculate: (4 + 2) \u00d7 3"
+        },
+        {
+          "id": 78,
+          "question": "Solve: 11 + 6 - 6"
+        },
+        {
+          "id": 79,
+          "question": "Calculate: (5 + 1) \u00d7 6"
+        },
+        {
+          "id": 80,
+          "question": "Solve: 32 + 14 - 13"
+        },
+        {
+          "id": 81,
+          "question": "Solve: 41 + 42 - 11"
+        },
+        {
+          "id": 82,
+          "question": "Solve: 49 + 18 - 18"
+        },
+        {
+          "id": 83,
+          "question": "Calculate: (6 + 10) \u00d7 4"
+        },
+        {
+          "id": 84,
+          "question": "Solve: 5 + 25 - 11"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (10 + 9) \u00d7 6"
+        },
+        {
+          "id": 86,
+          "question": "Calculate: (8 + 7) \u00d7 5"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 26 + 48 - 18"
+        },
+        {
+          "id": 88,
+          "question": "Solve: 22 + 13 - 9"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 6 + 8 - 27"
+        },
+        {
+          "id": 90,
+          "question": "Calculate: (10 + 6) \u00d7 7"
+        },
+        {
+          "id": 91,
+          "question": "Solve: 31 + 32 - 2"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 20 + 35 - 14"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (1 + 1) \u00d7 6"
+        },
+        {
+          "id": 94,
+          "question": "Calculate: (2 + 1) \u00d7 7"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 37 + 33 - 21"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (9 + 8) \u00d7 6"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 45 + 35 - 11"
+        },
+        {
+          "id": 98,
+          "question": "Calculate: (1 + 8) \u00d7 6"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (2 + 10) \u00d7 4"
+        },
+        {
+          "id": 100,
+          "question": "Solve: 47 + 11 - 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Solve: 6 + 15 - 18"
+        },
+        {
+          "id": 102,
+          "question": "Calculate: (6 + 3) \u00d7 3"
+        },
+        {
+          "id": 103,
+          "question": "Calculate: (8 + 2) \u00d7 8"
+        },
+        {
+          "id": 104,
+          "question": "Solve: 38 + 33 - 18"
+        },
+        {
+          "id": 105,
+          "question": "Calculate: (10 + 7) \u00d7 7"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 12 + 17 - 23"
+        },
+        {
+          "id": 107,
+          "question": "Solve: 32 + 20 - 25"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 33 + 24 - 8"
+        },
+        {
+          "id": 109,
+          "question": "Calculate: (3 + 1) \u00d7 8"
+        },
+        {
+          "id": 110,
+          "question": "Calculate: (9 + 7) \u00d7 5"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (1 + 3) \u00d7 7"
+        },
+        {
+          "id": 112,
+          "question": "Solve: 36 + 12 - 1"
+        },
+        {
+          "id": 113,
+          "question": "Calculate: (2 + 9) \u00d7 6"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (3 + 2) \u00d7 8"
+        },
+        {
+          "id": 115,
+          "question": "Calculate: (1 + 5) \u00d7 2"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 22 + 29 - 8"
+        },
+        {
+          "id": 117,
+          "question": "Solve: 39 + 37 - 10"
+        },
+        {
+          "id": 118,
+          "question": "Solve: 7 + 40 - 29"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 13 + 17 - 27"
+        },
+        {
+          "id": 120,
+          "question": "Solve: 48 + 31 - 12"
+        },
+        {
+          "id": 121,
+          "question": "Solve: 12 + 48 - 16"
+        },
+        {
+          "id": 122,
+          "question": "Solve: 20 + 39 - 21"
+        },
+        {
+          "id": 123,
+          "question": "Calculate: (8 + 3) \u00d7 2"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 7 + 37 - 27"
+        },
+        {
+          "id": 125,
+          "question": "Solve: 27 + 34 - 12"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 44 + 7 - 20"
+        },
+        {
+          "id": 127,
+          "question": "Solve: 47 + 25 - 20"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (3 + 5) \u00d7 5"
+        },
+        {
+          "id": 129,
+          "question": "Calculate: (1 + 1) \u00d7 8"
+        },
+        {
+          "id": 130,
+          "question": "Solve: 31 + 40 - 15"
+        },
+        {
+          "id": 131,
+          "question": "Calculate: (5 + 3) \u00d7 8"
+        },
+        {
+          "id": 132,
+          "question": "Solve: 11 + 12 - 8"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (2 + 7) \u00d7 6"
+        },
+        {
+          "id": 134,
+          "question": "Calculate: (5 + 6) \u00d7 2"
+        },
+        {
+          "id": 135,
+          "question": "Solve: 21 + 36 - 23"
+        },
+        {
+          "id": 136,
+          "question": "Calculate: (9 + 4) \u00d7 6"
+        },
+        {
+          "id": 137,
+          "question": "Solve: 5 + 37 - 25"
+        },
+        {
+          "id": 138,
+          "question": "Solve: 21 + 48 - 9"
+        },
+        {
+          "id": 139,
+          "question": "Solve: 11 + 6 - 25"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (6 + 3) \u00d7 6"
+        },
+        {
+          "id": 141,
+          "question": "Solve: 7 + 47 - 5"
+        },
+        {
+          "id": 142,
+          "question": "Calculate: (8 + 6) \u00d7 3"
+        },
+        {
+          "id": 143,
+          "question": "Solve: 28 + 24 - 29"
+        },
+        {
+          "id": 144,
+          "question": "Solve: 31 + 17 - 20"
+        },
+        {
+          "id": 145,
+          "question": "Solve: 47 + 7 - 6"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (1 + 9) \u00d7 3"
+        },
+        {
+          "id": 147,
+          "question": "Solve: 18 + 39 - 2"
+        },
+        {
+          "id": 148,
+          "question": "Solve: 17 + 12 - 7"
+        },
+        {
+          "id": 149,
+          "question": "Solve: 46 + 8 - 24"
+        },
+        {
+          "id": 150,
+          "question": "Calculate: (4 + 2) \u00d7 5"
+        },
+        {
+          "id": 151,
+          "question": "Solve: 33 + 11 - 23"
+        },
+        {
+          "id": 152,
+          "question": "Calculate: (2 + 3) \u00d7 3"
+        },
+        {
+          "id": 153,
+          "question": "Calculate: (5 + 1) \u00d7 6"
+        },
+        {
+          "id": 154,
+          "question": "Calculate: (2 + 3) \u00d7 4"
+        },
+        {
+          "id": 155,
+          "question": "Calculate: (3 + 2) \u00d7 5"
+        },
+        {
+          "id": 156,
+          "question": "Solve: 20 + 26 - 11"
+        },
+        {
+          "id": 157,
+          "question": "Calculate: (1 + 5) \u00d7 3"
+        },
+        {
+          "id": 158,
+          "question": "Calculate: (7 + 8) \u00d7 4"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (10 + 9) \u00d7 7"
+        },
+        {
+          "id": 160,
+          "question": "Calculate: (1 + 9) \u00d7 6"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Solve: 25 + 12 - 4"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (6 + 4) \u00d7 2"
+        },
+        {
+          "id": 163,
+          "question": "Calculate: (9 + 7) \u00d7 6"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (3 + 10) \u00d7 5"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (7 + 4) \u00d7 2"
+        },
+        {
+          "id": 166,
+          "question": "Calculate: (9 + 5) \u00d7 7"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (4 + 5) \u00d7 7"
+        },
+        {
+          "id": 168,
+          "question": "Calculate: (4 + 7) \u00d7 5"
+        },
+        {
+          "id": 169,
+          "question": "Calculate: (7 + 9) \u00d7 3"
+        },
+        {
+          "id": 170,
+          "question": "Calculate: (5 + 2) \u00d7 2"
+        },
+        {
+          "id": 171,
+          "question": "Solve: 23 + 33 - 14"
+        },
+        {
+          "id": 172,
+          "question": "Calculate: (10 + 6) \u00d7 4"
+        },
+        {
+          "id": 173,
+          "question": "Calculate: (6 + 3) \u00d7 8"
+        },
+        {
+          "id": 174,
+          "question": "Solve: 38 + 17 - 17"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (2 + 3) \u00d7 5"
+        },
+        {
+          "id": 176,
+          "question": "Calculate: (4 + 8) \u00d7 7"
+        },
+        {
+          "id": 177,
+          "question": "Calculate: (4 + 7) \u00d7 6"
+        },
+        {
+          "id": 178,
+          "question": "Solve: 38 + 27 - 24"
+        },
+        {
+          "id": 179,
+          "question": "Calculate: (3 + 2) \u00d7 5"
+        },
+        {
+          "id": 180,
+          "question": "Solve: 7 + 40 - 21"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 32 + 17 - 1"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 37 + 39 - 1"
+        },
+        {
+          "id": 183,
+          "question": "Calculate: (8 + 2) \u00d7 2"
+        },
+        {
+          "id": 184,
+          "question": "Solve: 5 + 19 - 6"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 50 + 8 - 5"
+        },
+        {
+          "id": 186,
+          "question": "Solve: 16 + 17 - 12"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (10 + 6) \u00d7 2"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 25 + 6 - 23"
+        },
+        {
+          "id": 189,
+          "question": "Solve: 9 + 36 - 18"
+        },
+        {
+          "id": 190,
+          "question": "Solve: 45 + 8 - 5"
+        },
+        {
+          "id": 191,
+          "question": "Solve: 44 + 41 - 9"
+        },
+        {
+          "id": 192,
+          "question": "Calculate: (2 + 3) \u00d7 5"
+        },
+        {
+          "id": 193,
+          "question": "Solve: 19 + 49 - 21"
+        },
+        {
+          "id": 194,
+          "question": "Calculate: (4 + 4) \u00d7 3"
+        },
+        {
+          "id": 195,
+          "question": "Solve: 30 + 42 - 20"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 25 + 12 - 1"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 5 + 42 - 22"
+        },
+        {
+          "id": 198,
+          "question": "Calculate: (9 + 10) \u00d7 8"
+        },
+        {
+          "id": 199,
+          "question": "Solve: 18 + 27 - 10"
+        },
+        {
+          "id": 200,
+          "question": "Calculate: (8 + 7) \u00d7 8"
+        },
+        {
+          "id": 201,
+          "question": "Solve: 15 + 38 - 25"
+        },
+        {
+          "id": 202,
+          "question": "Calculate: (10 + 5) \u00d7 8"
+        },
+        {
+          "id": 203,
+          "question": "Solve: 21 + 18 - 2"
+        },
+        {
+          "id": 204,
+          "question": "Calculate: (5 + 1) \u00d7 8"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 5 + 17 - 18"
+        },
+        {
+          "id": 206,
+          "question": "Calculate: (2 + 6) \u00d7 8"
+        },
+        {
+          "id": 207,
+          "question": "Calculate: (1 + 10) \u00d7 6"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 37 + 43 - 13"
+        },
+        {
+          "id": 209,
+          "question": "Solve: 42 + 6 - 5"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 19 + 11 - 3"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 213,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 215,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 216,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 218,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 220,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 221,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 222,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 223,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 224,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 225,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 227,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 228,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 229,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 230,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 231,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 232,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 235,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 237,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 238,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 241,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 244,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 245,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 247,
+          "question": "A complex problem involving expanding double brackets - practice"
+        },
+        {
+          "id": 248,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 249,
+          "question": "Multi-step question about expanding double brackets - practice"
+        },
+        {
+          "id": 250,
+          "question": "A complex problem involving expanding double brackets - practice"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 252,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 253,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 254,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 255,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 258,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 259,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 262,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 264,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 265,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 267,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 270,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 271,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 272,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 273,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 274,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 276,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 277,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 278,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 280,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 286,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 287,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 288,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 290,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 291,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 292,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 293,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 294,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 295,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 297,
+          "question": "Exam question: Apply expanding double brackets - practice to solve this problem"
+        },
+        {
+          "id": 298,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this expanding double brackets - practice question"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this expanding double brackets - practice question"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1250 @@
+{
+  "lessonId": 47,
+  "lessonNumber": "047",
+  "lessonTitle": "Sequences - Finding nth Term",
+  "totalQuestions": 300,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Warm Up - Getting Started",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Work out: 29 - 35"
+        },
+        {
+          "id": 2,
+          "question": "Work out: 40 - 28"
+        },
+        {
+          "id": 3,
+          "question": "Calculate: 5 + 19"
+        },
+        {
+          "id": 4,
+          "question": "Calculate: 19 + 17"
+        },
+        {
+          "id": 5,
+          "question": "Find: 3 \u00d7 5"
+        },
+        {
+          "id": 6,
+          "question": "Work out: 84 - 11"
+        },
+        {
+          "id": 7,
+          "question": "Calculate: 7 + 2"
+        },
+        {
+          "id": 8,
+          "question": "Calculate: 6 + 6"
+        },
+        {
+          "id": 9,
+          "question": "Calculate: 1 + 14"
+        },
+        {
+          "id": 10,
+          "question": "Find: 6 \u00d7 4"
+        },
+        {
+          "id": 11,
+          "question": "Find: 3 \u00d7 7"
+        },
+        {
+          "id": 12,
+          "question": "Work out: 82 - 40"
+        },
+        {
+          "id": 13,
+          "question": "Calculate: 1 + 18"
+        },
+        {
+          "id": 14,
+          "question": "Calculate: 10 + 14"
+        },
+        {
+          "id": 15,
+          "question": "Work out: 72 - 16"
+        },
+        {
+          "id": 16,
+          "question": "Find: 8 \u00d7 6"
+        },
+        {
+          "id": 17,
+          "question": "Work out: 20 - 46"
+        },
+        {
+          "id": 18,
+          "question": "Find: 5 \u00d7 6"
+        },
+        {
+          "id": 19,
+          "question": "Calculate: 13 + 11"
+        },
+        {
+          "id": 20,
+          "question": "Calculate: 8 + 7"
+        },
+        {
+          "id": 21,
+          "question": "Work out: 40 - 47"
+        },
+        {
+          "id": 22,
+          "question": "Work out: 29 - 48"
+        },
+        {
+          "id": 23,
+          "question": "Calculate: 17 + 19"
+        },
+        {
+          "id": 24,
+          "question": "Find: 7 \u00d7 5"
+        },
+        {
+          "id": 25,
+          "question": "Find: 10 \u00d7 3"
+        },
+        {
+          "id": 26,
+          "question": "Calculate: 13 + 7"
+        },
+        {
+          "id": 27,
+          "question": "Find: 7 \u00d7 6"
+        },
+        {
+          "id": 28,
+          "question": "Calculate: 16 + 12"
+        },
+        {
+          "id": 29,
+          "question": "Work out: 89 - 2"
+        },
+        {
+          "id": 30,
+          "question": "Work out: 50 - 34"
+        },
+        {
+          "id": 31,
+          "question": "Work out: 31 - 24"
+        },
+        {
+          "id": 32,
+          "question": "Calculate: 12 + 8"
+        },
+        {
+          "id": 33,
+          "question": "Find: 5 \u00d7 5"
+        },
+        {
+          "id": 34,
+          "question": "Calculate: 8 + 3"
+        },
+        {
+          "id": 35,
+          "question": "Calculate: 10 + 14"
+        },
+        {
+          "id": 36,
+          "question": "Work out: 50 - 35"
+        },
+        {
+          "id": 37,
+          "question": "Find: 12 \u00d7 4"
+        },
+        {
+          "id": 38,
+          "question": "Calculate: 5 + 13"
+        },
+        {
+          "id": 39,
+          "question": "Find: 4 \u00d7 3"
+        },
+        {
+          "id": 40,
+          "question": "Find: 6 \u00d7 2"
+        },
+        {
+          "id": 41,
+          "question": "Find: 10 \u00d7 12"
+        },
+        {
+          "id": 42,
+          "question": "Calculate: 16 + 16"
+        },
+        {
+          "id": 43,
+          "question": "Find: 4 \u00d7 8"
+        },
+        {
+          "id": 44,
+          "question": "Find: 3 \u00d7 3"
+        },
+        {
+          "id": 45,
+          "question": "Calculate: 16 + 19"
+        },
+        {
+          "id": 46,
+          "question": "Work out: 54 - 22"
+        },
+        {
+          "id": 47,
+          "question": "Work out: 56 - 48"
+        },
+        {
+          "id": 48,
+          "question": "Calculate: 11 + 8"
+        },
+        {
+          "id": 49,
+          "question": "Calculate: 17 + 1"
+        },
+        {
+          "id": 50,
+          "question": "Calculate: 5 + 14"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "Building Skills",
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Calculate: (4 + 3) \u00d7 3"
+        },
+        {
+          "id": 52,
+          "question": "Calculate: (10 + 4) \u00d7 7"
+        },
+        {
+          "id": 53,
+          "question": "Solve: 9 + 10 - 15"
+        },
+        {
+          "id": 54,
+          "question": "Calculate: (6 + 2) \u00d7 3"
+        },
+        {
+          "id": 55,
+          "question": "Calculate: (10 + 3) \u00d7 3"
+        },
+        {
+          "id": 56,
+          "question": "Solve: 23 + 22 - 14"
+        },
+        {
+          "id": 57,
+          "question": "Solve: 16 + 29 - 5"
+        },
+        {
+          "id": 58,
+          "question": "Solve: 41 + 11 - 1"
+        },
+        {
+          "id": 59,
+          "question": "Solve: 50 + 30 - 28"
+        },
+        {
+          "id": 60,
+          "question": "Solve: 37 + 7 - 14"
+        },
+        {
+          "id": 61,
+          "question": "Solve: 11 + 16 - 20"
+        },
+        {
+          "id": 62,
+          "question": "Calculate: (7 + 1) \u00d7 7"
+        },
+        {
+          "id": 63,
+          "question": "Solve: 21 + 28 - 15"
+        },
+        {
+          "id": 64,
+          "question": "Calculate: (9 + 1) \u00d7 8"
+        },
+        {
+          "id": 65,
+          "question": "Calculate: (4 + 9) \u00d7 3"
+        },
+        {
+          "id": 66,
+          "question": "Solve: 46 + 35 - 21"
+        },
+        {
+          "id": 67,
+          "question": "Calculate: (10 + 5) \u00d7 8"
+        },
+        {
+          "id": 68,
+          "question": "Calculate: (4 + 10) \u00d7 8"
+        },
+        {
+          "id": 69,
+          "question": "Calculate: (8 + 5) \u00d7 7"
+        },
+        {
+          "id": 70,
+          "question": "Solve: 32 + 7 - 23"
+        },
+        {
+          "id": 71,
+          "question": "Calculate: (6 + 8) \u00d7 3"
+        },
+        {
+          "id": 72,
+          "question": "Solve: 22 + 24 - 8"
+        },
+        {
+          "id": 73,
+          "question": "Calculate: (7 + 10) \u00d7 6"
+        },
+        {
+          "id": 74,
+          "question": "Solve: 14 + 20 - 22"
+        },
+        {
+          "id": 75,
+          "question": "Solve: 45 + 39 - 2"
+        },
+        {
+          "id": 76,
+          "question": "Calculate: (4 + 4) \u00d7 5"
+        },
+        {
+          "id": 77,
+          "question": "Solve: 40 + 13 - 11"
+        },
+        {
+          "id": 78,
+          "question": "Solve: 7 + 35 - 30"
+        },
+        {
+          "id": 79,
+          "question": "Solve: 23 + 45 - 29"
+        },
+        {
+          "id": 80,
+          "question": "Calculate: (1 + 2) \u00d7 6"
+        },
+        {
+          "id": 81,
+          "question": "Calculate: (7 + 1) \u00d7 8"
+        },
+        {
+          "id": 82,
+          "question": "Calculate: (5 + 3) \u00d7 7"
+        },
+        {
+          "id": 83,
+          "question": "Solve: 49 + 18 - 11"
+        },
+        {
+          "id": 84,
+          "question": "Calculate: (10 + 5) \u00d7 7"
+        },
+        {
+          "id": 85,
+          "question": "Calculate: (7 + 2) \u00d7 4"
+        },
+        {
+          "id": 86,
+          "question": "Solve: 9 + 36 - 3"
+        },
+        {
+          "id": 87,
+          "question": "Solve: 13 + 12 - 29"
+        },
+        {
+          "id": 88,
+          "question": "Solve: 40 + 15 - 12"
+        },
+        {
+          "id": 89,
+          "question": "Solve: 12 + 30 - 5"
+        },
+        {
+          "id": 90,
+          "question": "Calculate: (10 + 6) \u00d7 4"
+        },
+        {
+          "id": 91,
+          "question": "Calculate: (10 + 10) \u00d7 2"
+        },
+        {
+          "id": 92,
+          "question": "Solve: 10 + 27 - 9"
+        },
+        {
+          "id": 93,
+          "question": "Calculate: (10 + 3) \u00d7 2"
+        },
+        {
+          "id": 94,
+          "question": "Solve: 31 + 31 - 10"
+        },
+        {
+          "id": 95,
+          "question": "Solve: 44 + 47 - 19"
+        },
+        {
+          "id": 96,
+          "question": "Calculate: (4 + 4) \u00d7 6"
+        },
+        {
+          "id": 97,
+          "question": "Solve: 49 + 41 - 27"
+        },
+        {
+          "id": 98,
+          "question": "Solve: 9 + 5 - 7"
+        },
+        {
+          "id": 99,
+          "question": "Calculate: (3 + 6) \u00d7 7"
+        },
+        {
+          "id": 100,
+          "question": "Calculate: (5 + 1) \u00d7 8"
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionTitle": "Core Practice",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Calculate: (10 + 3) \u00d7 4"
+        },
+        {
+          "id": 102,
+          "question": "Solve: 48 + 43 - 28"
+        },
+        {
+          "id": 103,
+          "question": "Solve: 26 + 28 - 29"
+        },
+        {
+          "id": 104,
+          "question": "Calculate: (8 + 8) \u00d7 6"
+        },
+        {
+          "id": 105,
+          "question": "Solve: 50 + 25 - 6"
+        },
+        {
+          "id": 106,
+          "question": "Solve: 47 + 39 - 4"
+        },
+        {
+          "id": 107,
+          "question": "Calculate: (7 + 9) \u00d7 4"
+        },
+        {
+          "id": 108,
+          "question": "Solve: 5 + 17 - 3"
+        },
+        {
+          "id": 109,
+          "question": "Solve: 13 + 45 - 19"
+        },
+        {
+          "id": 110,
+          "question": "Solve: 38 + 6 - 3"
+        },
+        {
+          "id": 111,
+          "question": "Calculate: (8 + 10) \u00d7 5"
+        },
+        {
+          "id": 112,
+          "question": "Calculate: (7 + 4) \u00d7 2"
+        },
+        {
+          "id": 113,
+          "question": "Solve: 41 + 23 - 8"
+        },
+        {
+          "id": 114,
+          "question": "Calculate: (10 + 7) \u00d7 5"
+        },
+        {
+          "id": 115,
+          "question": "Solve: 12 + 32 - 15"
+        },
+        {
+          "id": 116,
+          "question": "Solve: 6 + 9 - 10"
+        },
+        {
+          "id": 117,
+          "question": "Calculate: (4 + 4) \u00d7 8"
+        },
+        {
+          "id": 118,
+          "question": "Calculate: (10 + 3) \u00d7 8"
+        },
+        {
+          "id": 119,
+          "question": "Solve: 30 + 40 - 3"
+        },
+        {
+          "id": 120,
+          "question": "Calculate: (2 + 10) \u00d7 8"
+        },
+        {
+          "id": 121,
+          "question": "Calculate: (8 + 4) \u00d7 7"
+        },
+        {
+          "id": 122,
+          "question": "Calculate: (6 + 9) \u00d7 5"
+        },
+        {
+          "id": 123,
+          "question": "Solve: 7 + 23 - 1"
+        },
+        {
+          "id": 124,
+          "question": "Solve: 41 + 14 - 13"
+        },
+        {
+          "id": 125,
+          "question": "Calculate: (5 + 7) \u00d7 7"
+        },
+        {
+          "id": 126,
+          "question": "Solve: 27 + 16 - 11"
+        },
+        {
+          "id": 127,
+          "question": "Calculate: (2 + 7) \u00d7 2"
+        },
+        {
+          "id": 128,
+          "question": "Calculate: (3 + 2) \u00d7 6"
+        },
+        {
+          "id": 129,
+          "question": "Solve: 44 + 25 - 16"
+        },
+        {
+          "id": 130,
+          "question": "Calculate: (4 + 8) \u00d7 3"
+        },
+        {
+          "id": 131,
+          "question": "Solve: 28 + 6 - 28"
+        },
+        {
+          "id": 132,
+          "question": "Calculate: (8 + 6) \u00d7 5"
+        },
+        {
+          "id": 133,
+          "question": "Calculate: (6 + 8) \u00d7 4"
+        },
+        {
+          "id": 134,
+          "question": "Calculate: (6 + 8) \u00d7 3"
+        },
+        {
+          "id": 135,
+          "question": "Calculate: (8 + 9) \u00d7 6"
+        },
+        {
+          "id": 136,
+          "question": "Solve: 10 + 44 - 14"
+        },
+        {
+          "id": 137,
+          "question": "Solve: 48 + 43 - 6"
+        },
+        {
+          "id": 138,
+          "question": "Calculate: (9 + 10) \u00d7 7"
+        },
+        {
+          "id": 139,
+          "question": "Calculate: (9 + 4) \u00d7 3"
+        },
+        {
+          "id": 140,
+          "question": "Calculate: (4 + 8) \u00d7 6"
+        },
+        {
+          "id": 141,
+          "question": "Calculate: (8 + 6) \u00d7 2"
+        },
+        {
+          "id": 142,
+          "question": "Solve: 44 + 32 - 16"
+        },
+        {
+          "id": 143,
+          "question": "Calculate: (8 + 8) \u00d7 7"
+        },
+        {
+          "id": 144,
+          "question": "Calculate: (9 + 8) \u00d7 2"
+        },
+        {
+          "id": 145,
+          "question": "Solve: 18 + 39 - 22"
+        },
+        {
+          "id": 146,
+          "question": "Calculate: (9 + 7) \u00d7 8"
+        },
+        {
+          "id": 147,
+          "question": "Calculate: (5 + 6) \u00d7 6"
+        },
+        {
+          "id": 148,
+          "question": "Solve: 13 + 42 - 8"
+        },
+        {
+          "id": 149,
+          "question": "Calculate: (3 + 6) \u00d7 8"
+        },
+        {
+          "id": 150,
+          "question": "Solve: 32 + 20 - 22"
+        },
+        {
+          "id": 151,
+          "question": "Calculate: (7 + 9) \u00d7 3"
+        },
+        {
+          "id": 152,
+          "question": "Solve: 18 + 13 - 19"
+        },
+        {
+          "id": 153,
+          "question": "Solve: 23 + 26 - 2"
+        },
+        {
+          "id": 154,
+          "question": "Solve: 16 + 47 - 25"
+        },
+        {
+          "id": 155,
+          "question": "Calculate: (7 + 1) \u00d7 3"
+        },
+        {
+          "id": 156,
+          "question": "Solve: 42 + 7 - 30"
+        },
+        {
+          "id": 157,
+          "question": "Solve: 22 + 42 - 30"
+        },
+        {
+          "id": 158,
+          "question": "Solve: 10 + 25 - 28"
+        },
+        {
+          "id": 159,
+          "question": "Calculate: (10 + 6) \u00d7 4"
+        },
+        {
+          "id": 160,
+          "question": "Solve: 23 + 48 - 10"
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionTitle": "Developing Confidence",
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 161,
+          "question": "Solve: 38 + 13 - 20"
+        },
+        {
+          "id": 162,
+          "question": "Calculate: (1 + 4) \u00d7 3"
+        },
+        {
+          "id": 163,
+          "question": "Solve: 8 + 29 - 15"
+        },
+        {
+          "id": 164,
+          "question": "Calculate: (1 + 6) \u00d7 3"
+        },
+        {
+          "id": 165,
+          "question": "Calculate: (1 + 7) \u00d7 7"
+        },
+        {
+          "id": 166,
+          "question": "Calculate: (5 + 7) \u00d7 3"
+        },
+        {
+          "id": 167,
+          "question": "Calculate: (2 + 6) \u00d7 6"
+        },
+        {
+          "id": 168,
+          "question": "Solve: 28 + 39 - 4"
+        },
+        {
+          "id": 169,
+          "question": "Solve: 5 + 37 - 12"
+        },
+        {
+          "id": 170,
+          "question": "Solve: 5 + 14 - 21"
+        },
+        {
+          "id": 171,
+          "question": "Calculate: (10 + 7) \u00d7 6"
+        },
+        {
+          "id": 172,
+          "question": "Solve: 6 + 38 - 14"
+        },
+        {
+          "id": 173,
+          "question": "Solve: 24 + 33 - 21"
+        },
+        {
+          "id": 174,
+          "question": "Solve: 31 + 35 - 4"
+        },
+        {
+          "id": 175,
+          "question": "Calculate: (1 + 1) \u00d7 8"
+        },
+        {
+          "id": 176,
+          "question": "Solve: 14 + 41 - 1"
+        },
+        {
+          "id": 177,
+          "question": "Solve: 5 + 17 - 8"
+        },
+        {
+          "id": 178,
+          "question": "Calculate: (4 + 3) \u00d7 5"
+        },
+        {
+          "id": 179,
+          "question": "Solve: 26 + 22 - 9"
+        },
+        {
+          "id": 180,
+          "question": "Calculate: (8 + 7) \u00d7 2"
+        },
+        {
+          "id": 181,
+          "question": "Solve: 7 + 8 - 24"
+        },
+        {
+          "id": 182,
+          "question": "Solve: 33 + 5 - 18"
+        },
+        {
+          "id": 183,
+          "question": "Calculate: (7 + 8) \u00d7 8"
+        },
+        {
+          "id": 184,
+          "question": "Calculate: (10 + 6) \u00d7 5"
+        },
+        {
+          "id": 185,
+          "question": "Solve: 8 + 48 - 26"
+        },
+        {
+          "id": 186,
+          "question": "Solve: 39 + 32 - 8"
+        },
+        {
+          "id": 187,
+          "question": "Calculate: (7 + 4) \u00d7 3"
+        },
+        {
+          "id": 188,
+          "question": "Solve: 26 + 5 - 21"
+        },
+        {
+          "id": 189,
+          "question": "Calculate: (4 + 8) \u00d7 8"
+        },
+        {
+          "id": 190,
+          "question": "Calculate: (7 + 1) \u00d7 6"
+        },
+        {
+          "id": 191,
+          "question": "Solve: 17 + 28 - 4"
+        },
+        {
+          "id": 192,
+          "question": "Solve: 26 + 21 - 6"
+        },
+        {
+          "id": 193,
+          "question": "Calculate: (3 + 9) \u00d7 5"
+        },
+        {
+          "id": 194,
+          "question": "Solve: 10 + 16 - 2"
+        },
+        {
+          "id": 195,
+          "question": "Calculate: (8 + 8) \u00d7 3"
+        },
+        {
+          "id": 196,
+          "question": "Solve: 39 + 8 - 4"
+        },
+        {
+          "id": 197,
+          "question": "Solve: 49 + 41 - 14"
+        },
+        {
+          "id": 198,
+          "question": "Solve: 13 + 24 - 14"
+        },
+        {
+          "id": 199,
+          "question": "Calculate: (9 + 7) \u00d7 5"
+        },
+        {
+          "id": 200,
+          "question": "Solve: 34 + 28 - 7"
+        },
+        {
+          "id": 201,
+          "question": "Calculate: (5 + 2) \u00d7 2"
+        },
+        {
+          "id": 202,
+          "question": "Calculate: (2 + 10) \u00d7 7"
+        },
+        {
+          "id": 203,
+          "question": "Calculate: (7 + 1) \u00d7 2"
+        },
+        {
+          "id": 204,
+          "question": "Solve: 26 + 26 - 29"
+        },
+        {
+          "id": 205,
+          "question": "Solve: 17 + 41 - 25"
+        },
+        {
+          "id": 206,
+          "question": "Solve: 5 + 33 - 15"
+        },
+        {
+          "id": 207,
+          "question": "Solve: 46 + 17 - 17"
+        },
+        {
+          "id": 208,
+          "question": "Solve: 38 + 6 - 18"
+        },
+        {
+          "id": 209,
+          "question": "Calculate: (10 + 10) \u00d7 2"
+        },
+        {
+          "id": 210,
+          "question": "Solve: 27 + 49 - 14"
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionTitle": "Challenge Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 211,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 212,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 213,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 214,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 215,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 216,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 217,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 218,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 219,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 220,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 221,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 222,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 223,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 224,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 225,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 226,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 227,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 228,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 229,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 230,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 231,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 232,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 233,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 234,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 235,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 236,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 237,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 238,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 239,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 240,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 241,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 242,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 243,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 244,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 245,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 246,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 247,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 248,
+          "question": "Multi-step question about sequences - finding nth term"
+        },
+        {
+          "id": 249,
+          "question": "A complex problem involving sequences - finding nth term"
+        },
+        {
+          "id": 250,
+          "question": "A complex problem involving sequences - finding nth term"
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionTitle": "Exam-Style Questions",
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 251,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 252,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 253,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 254,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 255,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 256,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 257,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 258,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 259,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 260,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 261,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 262,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 263,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 264,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 265,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 266,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 267,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 268,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 269,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 270,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 271,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 272,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 273,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 274,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 275,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 276,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 277,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 278,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 279,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 280,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 281,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 282,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 283,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 284,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 285,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 286,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 287,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 288,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 289,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 290,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 291,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 292,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 293,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 294,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 295,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 296,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 297,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 298,
+          "question": "Exam question: Apply sequences - finding nth term to solve this problem"
+        },
+        {
+          "id": 299,
+          "question": "Show your working for this sequences - finding nth term question"
+        },
+        {
+          "id": 300,
+          "question": "Show your working for this sequences - finding nth term question"
+        }
+      ]
+    }
+  ]
+}
